@@ -1,0 +1,54 @@
+{
+  "id": "c578a7e4c03e13ca",
+  "name": "wnja-animal-human",
+  "wordnet": "/home/bond/git/wnja/wnja-2.0.xml",
+  "lexicon": "wnja:2.0",
+  "reference_wordnet": null,
+  "reference_lexicon": null,
+  "extend": false,
+  "source_ili": "i35563",
+  "target_ili": "i35562",
+  "source_roots": [
+    {
+      "id": "wnja-00015388-n",
+      "ili": "i35563",
+      "pos": "n",
+      "lemmas": [
+        "生き物",
+        "生体",
+        "生物",
+        "4つ脚",
+        "4つ足",
+        "アニマル",
+        "動物",
+        "四つ脚",
+        "四つ足",
+        "毛の荒物",
+        "獣",
+        "獣畜",
+        "珍獣",
+        "生類",
+        "鳥獣"
+      ],
+      "definition": "自発的な運動に特徴付けられる、生命を持つ有機体"
+    }
+  ],
+  "target_roots": [
+    {
+      "id": "wnja-00007846-n",
+      "ili": "i35562",
+      "pos": "n",
+      "lemmas": [
+        "-人",
+        "-員",
+        "-者",
+        "人",
+        "人間",
+        "個人",
+        "-方"
+      ],
+      "definition": "一人の人間"
+    }
+  ],
+  "items": []
+}

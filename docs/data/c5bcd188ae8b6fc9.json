@@ -1,0 +1,3450 @@
+{
+  "id": "c5bcd188ae8b6fc9",
+  "name": "wnja-animal-human",
+  "wordnet": "/home/bond/git/wnja/wnja-2.0.xml",
+  "lexicon": "kenet:1.0",
+  "reference_wordnet": null,
+  "reference_lexicon": null,
+  "extend": false,
+  "source_ili": "i35563",
+  "target_ili": "i35562",
+  "source_roots": [
+    {
+      "id": "kenet-TUR10_0336100-n",
+      "ili": "i35563",
+      "pos": "n",
+      "lemmas": [
+        "hayvan"
+      ],
+      "definition": "Duygu ve hareket yeteneği olan, içgüdüleriyle hareket eden canlı yaratık"
+    }
+  ],
+  "target_roots": [
+    {
+      "id": "kenet-TUR10_0106620-n",
+      "ili": "i35562",
+      "pos": "n",
+      "lemmas": [
+        "birey",
+        "fert"
+      ],
+      "definition": "İnsan topluluklarını oluşturan, insanların benzer yanlarını kendinde taşımakla birlikte, kendine özgü ayırıcı özellikleri de bulunan tek can"
+    },
+    {
+      "id": "kenet-TUR10_0106630-n",
+      "ili": "i35562",
+      "pos": "n",
+      "lemmas": [
+        "birey",
+        "fert"
+      ],
+      "definition": "Toplumları oluşturan ve düşünsel, duygusal, iradeyle ilgili nitelikleri toplum içinde belirlenen insanların her biri"
+    },
+    {
+      "id": "kenet-TUR10_0269060-n",
+      "ili": "i35562",
+      "pos": "n",
+      "lemmas": [
+        "birey",
+        "fert",
+        "efrat"
+      ],
+      "definition": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık"
+    },
+    {
+      "id": "kenet-TUR10_0721010-n",
+      "ili": "i35562",
+      "pos": "n",
+      "lemmas": [
+        "şahıs",
+        "eşhas"
+      ],
+      "definition": "Kimse; kişi; zat"
+    },
+    {
+      "id": "kenet-TUR10_0721020-n",
+      "ili": "i35562",
+      "pos": "n",
+      "lemmas": [
+        "şahıs",
+        "nüfus"
+      ],
+      "definition": "Kadın veya erkeğe verilen genel ad"
+    }
+  ],
+  "items": [
+    {
+      "lemma": "ana",
+      "all_senses": [
+        {
+          "id": "kenet-ana-n-1-TUR10_0033960-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0033960-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ana"
+            ],
+            "definition": "Yaşlı kadınlara saygılı bir seslenme sözü"
+          }
+        },
+        {
+          "id": "kenet-ana-n-2-TUR10_0033970-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0033970-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "velinimet",
+              "ana"
+            ],
+            "definition": "Birine, etkisi yaşadıkça sürecek bir iyilik ve bağışta bulunan kimse"
+          }
+        },
+        {
+          "id": "kenet-ana-n-3-TUR10_0033980-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0033980-n",
+            "ili": "i107159",
+            "pos": "n",
+            "lemmas": [
+              "ana"
+            ],
+            "definition": "Alacağın veya borcun, faizin dışında olan bölümü"
+          }
+        },
+        {
+          "id": "kenet-ana-n-4-TUR10_0034000-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0034000-n",
+            "ili": "i51710",
+            "pos": "n",
+            "lemmas": [
+              "ana"
+            ],
+            "definition": "Çizgilerden herhangi birini anlatan kelimeye sıfat olarak geldiğinde o çizginin, belirli bir kural altında hareket ederek bir yüzey oluşturmaya yaradığını anlatır"
+          }
+        },
+        {
+          "id": "kenet-ana-n-5-TUR10_0038510-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0038510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "ana"
+            ],
+            "definition": "Yavrusu olan dişi hayvan"
+          }
+        },
+        {
+          "id": "kenet-ana-n-6-TUR10_0813510-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0813510-n",
+            "ili": "i91462",
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "valide",
+              "ana",
+              "aba",
+              "nene",
+              "mader",
+              "kocakarı"
+            ],
+            "definition": "Çocuğunu dünyaya getiren kadın"
+          }
+        },
+        {
+          "id": "kenet-ana-n-TUR10_0033950-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n",
+          "synset": {
+            "id": "kenet-TUR10_0033950-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ana"
+            ],
+            "definition": "Dinî bakımdan aziz tanınan bazı kadınlara verilen saygı unvanı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-ana-n-5-TUR10_0038510-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0038510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "ana"
+            ],
+            "definition": "Yavrusu olan dişi hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-ana-n-2-TUR10_0033970-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0033970-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "velinimet",
+              "ana"
+            ],
+            "definition": "Birine, etkisi yaşadıkça sürecek bir iyilik ve bağışta bulunan kimse"
+          }
+        },
+        {
+          "id": "kenet-ana-n-6-TUR10_0813510-n",
+          "lemma": "ana",
+          "word_id": "kenet-ana-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0813510-n",
+            "ili": "i91462",
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "valide",
+              "ana",
+              "aba",
+              "nene",
+              "mader",
+              "kocakarı"
+            ],
+            "definition": "Çocuğunu dünyaya getiren kadın"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "anne",
+      "all_senses": [
+        {
+          "id": "kenet-anne-n-1-TUR10_0813510-n",
+          "lemma": "anne",
+          "word_id": "kenet-anne-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0813510-n",
+            "ili": "i91462",
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "valide",
+              "ana",
+              "aba",
+              "nene",
+              "mader",
+              "kocakarı"
+            ],
+            "definition": "Çocuğunu dünyaya getiren kadın"
+          }
+        },
+        {
+          "id": "kenet-anne-n-TUR10_0038510-n",
+          "lemma": "anne",
+          "word_id": "kenet-anne-n",
+          "synset": {
+            "id": "kenet-TUR10_0038510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "ana"
+            ],
+            "definition": "Yavrusu olan dişi hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-anne-n-TUR10_0038510-n",
+          "lemma": "anne",
+          "word_id": "kenet-anne-n",
+          "synset": {
+            "id": "kenet-TUR10_0038510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "ana"
+            ],
+            "definition": "Yavrusu olan dişi hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-anne-n-1-TUR10_0813510-n",
+          "lemma": "anne",
+          "word_id": "kenet-anne-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0813510-n",
+            "ili": "i91462",
+            "pos": "n",
+            "lemmas": [
+              "anne",
+              "valide",
+              "ana",
+              "aba",
+              "nene",
+              "mader",
+              "kocakarı"
+            ],
+            "definition": "Çocuğunu dünyaya getiren kadın"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "aslan",
+      "all_senses": [
+        {
+          "id": "kenet-aslan-n-1-TUR10_0050600-n",
+          "lemma": "aslan",
+          "word_id": "kenet-aslan-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0050600-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "aslan"
+            ],
+            "definition": "Gürbüz, cesur ve yiğit adam"
+          }
+        },
+        {
+          "id": "kenet-aslan-n-TUR10_0047090-n",
+          "lemma": "aslan",
+          "word_id": "kenet-aslan-n",
+          "synset": {
+            "id": "kenet-TUR10_0047090-n",
+            "ili": "i46642",
+            "pos": "n",
+            "lemmas": [
+              "aslan",
+              "arslan"
+            ],
+            "definition": "Kedigillerden, erkekleri yeleli, yırtıcı, Afrika'da ve Asya'da yaşayan, uzunluğu 160 cm, kuyruğu 70 cm ve ucu püsküllü, çok koyu sarı renkli güçlü bir memeli türü"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-aslan-n-TUR10_0047090-n",
+          "lemma": "aslan",
+          "word_id": "kenet-aslan-n",
+          "synset": {
+            "id": "kenet-TUR10_0047090-n",
+            "ili": "i46642",
+            "pos": "n",
+            "lemmas": [
+              "aslan",
+              "arslan"
+            ],
+            "definition": "Kedigillerden, erkekleri yeleli, yırtıcı, Afrika'da ve Asya'da yaşayan, uzunluğu 160 cm, kuyruğu 70 cm ve ucu püsküllü, çok koyu sarı renkli güçlü bir memeli türü"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-aslan-n-1-TUR10_0050600-n",
+          "lemma": "aslan",
+          "word_id": "kenet-aslan-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0050600-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "aslan"
+            ],
+            "definition": "Gürbüz, cesur ve yiğit adam"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "av",
+      "all_senses": [
+        {
+          "id": "kenet-av-n-1-TUR10_0057460-n",
+          "lemma": "av",
+          "word_id": "kenet-av-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0057460-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "av"
+            ],
+            "definition": "Bir hayvanın bir başka hayvanı yemek için yakalaması"
+          }
+        },
+        {
+          "id": "kenet-av-n-2-TUR10_0057470-n",
+          "lemma": "av",
+          "word_id": "kenet-av-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0057470-n",
+            "ili": "i46781",
+            "pos": "n",
+            "lemmas": [
+              "av"
+            ],
+            "definition": "Bu yollarla yakalanan hayvan"
+          }
+        },
+        {
+          "id": "kenet-av-n-3-TUR10_0057480-n",
+          "lemma": "av",
+          "word_id": "kenet-av-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0057480-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "av"
+            ],
+            "definition": "Tuzağa düşürülen, kendisinden yararlanılan kimse"
+          }
+        },
+        {
+          "id": "kenet-av-n-TUR10_0057450-n",
+          "lemma": "av",
+          "word_id": "kenet-av-n",
+          "synset": {
+            "id": "kenet-TUR10_0057450-n",
+            "ili": "i38694",
+            "pos": "n",
+            "lemmas": [
+              "av",
+              "şikâr",
+              "şikar"
+            ],
+            "definition": "Karada, denizde, gölde veya akarsularda evcil olmayan hayvanları vurma veya yakalama işi"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-av-n-2-TUR10_0057470-n",
+          "lemma": "av",
+          "word_id": "kenet-av-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0057470-n",
+            "ili": "i46781",
+            "pos": "n",
+            "lemmas": [
+              "av"
+            ],
+            "definition": "Bu yollarla yakalanan hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-av-n-3-TUR10_0057480-n",
+          "lemma": "av",
+          "word_id": "kenet-av-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0057480-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "av"
+            ],
+            "definition": "Tuzağa düşürülen, kendisinden yararlanılan kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "aygır",
+      "all_senses": [
+        {
+          "id": "kenet-aygır-n-TUR10_0061040-n",
+          "lemma": "aygır",
+          "word_id": "kenet-aygır-n",
+          "synset": {
+            "id": "kenet-TUR10_0061040-n",
+            "ili": "i48069",
+            "pos": "n",
+            "lemmas": [
+              "aygır"
+            ],
+            "definition": "Damızlık erkek at"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-aygır-n-TUR10_0061040-n",
+          "lemma": "aygır",
+          "word_id": "kenet-aygır-n",
+          "synset": {
+            "id": "kenet-TUR10_0061040-n",
+            "ili": "i48069",
+            "pos": "n",
+            "lemmas": [
+              "aygır"
+            ],
+            "definition": "Damızlık erkek at"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-aygır-n-TUR10_0061040-n",
+          "lemma": "aygır",
+          "word_id": "kenet-aygır-n",
+          "synset": {
+            "id": "kenet-TUR10_0061040-n",
+            "ili": "i48069",
+            "pos": "n",
+            "lemmas": [
+              "aygır"
+            ],
+            "definition": "Damızlık erkek at"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "canavar",
+      "all_senses": [
+        {
+          "id": "kenet-canavar-n-1-TUR10_0131550-n",
+          "lemma": "canavar",
+          "word_id": "kenet-canavar-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0131550-n",
+            "ili": "i43092",
+            "pos": "n",
+            "lemmas": [
+              "köpek balığı",
+              "köpekbalığı",
+              "canavar"
+            ],
+            "definition": "Köpek balıklarından, gövdesi mekik biçiminde, burun kısmı sivri, solungaç yarıkları boynun iki yanında bulunan, kıkırdaklı, yırtıcı balıkların genel adı"
+          }
+        },
+        {
+          "id": "kenet-canavar-n-2-TUR10_0131560-n",
+          "lemma": "canavar",
+          "word_id": "kenet-canavar-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0131560-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "canavar"
+            ],
+            "definition": "Haşarı, yaramaz çocuk"
+          }
+        },
+        {
+          "id": "kenet-canavar-n-3-TUR10_0823150-n",
+          "lemma": "canavar",
+          "word_id": "kenet-canavar-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0823150-n",
+            "ili": "i46780",
+            "pos": "n",
+            "lemmas": [
+              "yabani hayvan",
+              "vahşi hayvan",
+              "yırtıcı hayvan",
+              "canavar"
+            ],
+            "definition": "Ehlîleştirilmemiş hayvan"
+          }
+        },
+        {
+          "id": "kenet-canavar-n-TUR10_0131540-n",
+          "lemma": "canavar",
+          "word_id": "kenet-canavar-n",
+          "synset": {
+            "id": "kenet-TUR10_0131540-n",
+            "ili": "i86500",
+            "pos": "n",
+            "lemmas": [
+              "canavar"
+            ],
+            "definition": "Masallarda sözü geçen yabani, yırtıcı hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-canavar-n-3-TUR10_0823150-n",
+          "lemma": "canavar",
+          "word_id": "kenet-canavar-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0823150-n",
+            "ili": "i46780",
+            "pos": "n",
+            "lemmas": [
+              "yabani hayvan",
+              "vahşi hayvan",
+              "yırtıcı hayvan",
+              "canavar"
+            ],
+            "definition": "Ehlîleştirilmemiş hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-canavar-n-2-TUR10_0131560-n",
+          "lemma": "canavar",
+          "word_id": "kenet-canavar-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0131560-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "canavar"
+            ],
+            "definition": "Haşarı, yaramaz çocuk"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "cırboğa",
+      "all_senses": [
+        {
+          "id": "kenet-cırboğa-n-1-TUR10_0138550-n",
+          "lemma": "cırboğa",
+          "word_id": "kenet-cırboğa-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0138550-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "cırboğa"
+            ],
+            "definition": "Cılız, zayıf, çelimsiz çocuk"
+          }
+        },
+        {
+          "id": "kenet-cırboğa-n-TUR10_0138540-n",
+          "lemma": "cırboğa",
+          "word_id": "kenet-cırboğa-n",
+          "synset": {
+            "id": "kenet-TUR10_0138540-n",
+            "ili": "i47921",
+            "pos": "n",
+            "lemmas": [
+              "cırboğa"
+            ],
+            "definition": "Bir tür çöl sıçanı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-cırboğa-n-TUR10_0138540-n",
+          "lemma": "cırboğa",
+          "word_id": "kenet-cırboğa-n",
+          "synset": {
+            "id": "kenet-TUR10_0138540-n",
+            "ili": "i47921",
+            "pos": "n",
+            "lemmas": [
+              "cırboğa"
+            ],
+            "definition": "Bir tür çöl sıçanı"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-cırboğa-n-1-TUR10_0138550-n",
+          "lemma": "cırboğa",
+          "word_id": "kenet-cırboğa-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0138550-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "cırboğa"
+            ],
+            "definition": "Cılız, zayıf, çelimsiz çocuk"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "dağ ayısı",
+      "all_senses": [
+        {
+          "id": "kenet-dağ_0020_ayısı-n-1-TUR10_0177620-n",
+          "lemma": "dağ ayısı",
+          "word_id": "kenet-dağ_0020_ayısı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0177620-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dağ ayısı"
+            ],
+            "definition": "Şehir yaşayışına alışmamış çok kaba kimse"
+          }
+        },
+        {
+          "id": "kenet-dağ_0020_ayısı-n-TUR10_0177610-n",
+          "lemma": "dağ ayısı",
+          "word_id": "kenet-dağ_0020_ayısı-n",
+          "synset": {
+            "id": "kenet-TUR10_0177610-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dağ ayısı"
+            ],
+            "definition": "Dağlarda yaşayan yabani ve tehlikeli ayı cinsi"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-dağ_0020_ayısı-n-TUR10_0177610-n",
+          "lemma": "dağ ayısı",
+          "word_id": "kenet-dağ_0020_ayısı-n",
+          "synset": {
+            "id": "kenet-TUR10_0177610-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dağ ayısı"
+            ],
+            "definition": "Dağlarda yaşayan yabani ve tehlikeli ayı cinsi"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-dağ_0020_ayısı-n-1-TUR10_0177620-n",
+          "lemma": "dağ ayısı",
+          "word_id": "kenet-dağ_0020_ayısı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0177620-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dağ ayısı"
+            ],
+            "definition": "Şehir yaşayışına alışmamış çok kaba kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "domuz",
+      "all_senses": [
+        {
+          "id": "kenet-domuz-n-1-TUR10_0217860-n",
+          "lemma": "domuz",
+          "word_id": "kenet-domuz-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0217860-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "domuz"
+            ],
+            "definition": "Hain, aksi, ters, inatçı kimse"
+          }
+        },
+        {
+          "id": "kenet-domuz-n-TUR10_0111030-n",
+          "lemma": "domuz",
+          "word_id": "kenet-domuz-n",
+          "synset": {
+            "id": "kenet-TUR10_0111030-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "domuz",
+              "hınzır",
+              "bocuk",
+              "Sus",
+              "Sus cinsi"
+            ],
+            "definition": "Çift parmaklılardan, eti ve yağı için beslenen evcil hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-domuz-n-TUR10_0111030-n",
+          "lemma": "domuz",
+          "word_id": "kenet-domuz-n",
+          "synset": {
+            "id": "kenet-TUR10_0111030-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "domuz",
+              "hınzır",
+              "bocuk",
+              "Sus",
+              "Sus cinsi"
+            ],
+            "definition": "Çift parmaklılardan, eti ve yağı için beslenen evcil hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-domuz-n-1-TUR10_0217860-n",
+          "lemma": "domuz",
+          "word_id": "kenet-domuz-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0217860-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "domuz"
+            ],
+            "definition": "Hain, aksi, ters, inatçı kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "dost",
+      "all_senses": [
+        {
+          "id": "kenet-dost-n-1-TUR10_0219220-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0219220-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dost"
+            ],
+            "definition": "Sahibine sevgi gösteren hayvan"
+          }
+        },
+        {
+          "id": "kenet-dost-n-2-TUR10_0219230-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0219230-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dost"
+            ],
+            "definition": "Bir şeye düşkün olan, aşırı ilgi duyan kimse"
+          }
+        },
+        {
+          "id": "kenet-dost-n-3-TUR10_0869910-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0869910-n",
+            "ili": "i91405",
+            "pos": "n",
+            "lemmas": [
+              "metres",
+              "dost",
+              "gacı",
+              "kapatma",
+              "mantinota",
+              "gaco",
+              "zamazingo",
+              "zamkinos"
+            ],
+            "definition": "Evli olunduğu halde evlilik dışı ilişki kurulan, genellikle kadın, kimse"
+          }
+        },
+        {
+          "id": "kenet-dost-n-TUR10_0219200-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n",
+          "synset": {
+            "id": "kenet-TUR10_0219200-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dost",
+              "yar",
+              "yâr",
+              "gönüldaş"
+            ],
+            "definition": "Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen kimse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-dost-n-1-TUR10_0219220-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0219220-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dost"
+            ],
+            "definition": "Sahibine sevgi gösteren hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-dost-n-3-TUR10_0869910-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0869910-n",
+            "ili": "i91405",
+            "pos": "n",
+            "lemmas": [
+              "metres",
+              "dost",
+              "gacı",
+              "kapatma",
+              "mantinota",
+              "gaco",
+              "zamazingo",
+              "zamkinos"
+            ],
+            "definition": "Evli olunduğu halde evlilik dışı ilişki kurulan, genellikle kadın, kimse"
+          }
+        },
+        {
+          "id": "kenet-dost-n-TUR10_0219200-n",
+          "lemma": "dost",
+          "word_id": "kenet-dost-n",
+          "synset": {
+            "id": "kenet-TUR10_0219200-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "dost",
+              "yar",
+              "yâr",
+              "gönüldaş"
+            ],
+            "definition": "Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "ekti",
+      "all_senses": [
+        {
+          "id": "kenet-ekti-n-1-TUR10_0240680-n",
+          "lemma": "ekti",
+          "word_id": "kenet-ekti-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0240680-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ekti"
+            ],
+            "definition": "Anası ölüp başka bir koyuna alıştırılan veya elle beslenen kuzu"
+          }
+        },
+        {
+          "id": "kenet-ekti-n-TUR10_0240670-n",
+          "lemma": "ekti",
+          "word_id": "kenet-ekti-n",
+          "synset": {
+            "id": "kenet-TUR10_0240670-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ekti"
+            ],
+            "definition": "Anası ve babası olmayan veya atılmış, bırakılmış çocuk"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-ekti-n-1-TUR10_0240680-n",
+          "lemma": "ekti",
+          "word_id": "kenet-ekti-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0240680-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ekti"
+            ],
+            "definition": "Anası ölüp başka bir koyuna alıştırılan veya elle beslenen kuzu"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-ekti-n-TUR10_0240670-n",
+          "lemma": "ekti",
+          "word_id": "kenet-ekti-n",
+          "synset": {
+            "id": "kenet-TUR10_0240670-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ekti"
+            ],
+            "definition": "Anası ve babası olmayan veya atılmış, bırakılmış çocuk"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "emlik",
+      "all_senses": [
+        {
+          "id": "kenet-emlik-n-1-TUR10_0245930-n",
+          "lemma": "emlik",
+          "word_id": "kenet-emlik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0245930-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "emlik"
+            ],
+            "definition": "Zamanından daha geç doğan kuzu veya oğlak"
+          }
+        },
+        {
+          "id": "kenet-emlik-n-TUR10_0245920-n",
+          "lemma": "emlik",
+          "word_id": "kenet-emlik-n",
+          "synset": {
+            "id": "kenet-TUR10_0245920-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "emlik"
+            ],
+            "definition": "Emme döneminde olan çocuk"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-emlik-n-1-TUR10_0245930-n",
+          "lemma": "emlik",
+          "word_id": "kenet-emlik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0245930-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "emlik"
+            ],
+            "definition": "Zamanından daha geç doğan kuzu veya oğlak"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-emlik-n-TUR10_0245920-n",
+          "lemma": "emlik",
+          "word_id": "kenet-emlik-n",
+          "synset": {
+            "id": "kenet-TUR10_0245920-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "emlik"
+            ],
+            "definition": "Emme döneminde olan çocuk"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "enik",
+      "all_senses": [
+        {
+          "id": "kenet-enik-n-1-TUR10_0248050-n",
+          "lemma": "enik",
+          "word_id": "kenet-enik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0248050-n",
+            "ili": "i88965",
+            "pos": "n",
+            "lemmas": [
+              "çocuk",
+              "enik",
+              "zürriyet",
+              "uşak"
+            ],
+            "definition": "Bebeklik ile erginlik arasındaki gelişme döneminde bulunan oğlan veya kız"
+          }
+        },
+        {
+          "id": "kenet-enik-n-TUR10_0248040-n",
+          "lemma": "enik",
+          "word_id": "kenet-enik-n",
+          "synset": {
+            "id": "kenet-TUR10_0248040-n",
+            "ili": "i42296",
+            "pos": "n",
+            "lemmas": [
+              "enik"
+            ],
+            "definition": "Kedi, köpek vb. çok memeli hayvanların yavrusu"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-enik-n-TUR10_0248040-n",
+          "lemma": "enik",
+          "word_id": "kenet-enik-n",
+          "synset": {
+            "id": "kenet-TUR10_0248040-n",
+            "ili": "i42296",
+            "pos": "n",
+            "lemmas": [
+              "enik"
+            ],
+            "definition": "Kedi, köpek vb. çok memeli hayvanların yavrusu"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-enik-n-1-TUR10_0248050-n",
+          "lemma": "enik",
+          "word_id": "kenet-enik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0248050-n",
+            "ili": "i88965",
+            "pos": "n",
+            "lemmas": [
+              "çocuk",
+              "enik",
+              "zürriyet",
+              "uşak"
+            ],
+            "definition": "Bebeklik ile erginlik arasındaki gelişme döneminde bulunan oğlan veya kız"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "erkek at",
+      "all_senses": [
+        {
+          "id": "kenet-erkek_0020_at-n-TUR10_1207720-n",
+          "lemma": "erkek at",
+          "word_id": "kenet-erkek_0020_at-n",
+          "synset": {
+            "id": "kenet-TUR10_1207720-n",
+            "ili": "i48067",
+            "pos": "n",
+            "lemmas": [
+              "erkek at"
+            ],
+            "definition": "Atgillerden tek tırnaklı bir hayvan olan atın eril özellikte olanı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-erkek_0020_at-n-TUR10_1207720-n",
+          "lemma": "erkek at",
+          "word_id": "kenet-erkek_0020_at-n",
+          "synset": {
+            "id": "kenet-TUR10_1207720-n",
+            "ili": "i48067",
+            "pos": "n",
+            "lemmas": [
+              "erkek at"
+            ],
+            "definition": "Atgillerden tek tırnaklı bir hayvan olan atın eril özellikte olanı"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-erkek_0020_at-n-TUR10_1207720-n",
+          "lemma": "erkek at",
+          "word_id": "kenet-erkek_0020_at-n",
+          "synset": {
+            "id": "kenet-TUR10_1207720-n",
+            "ili": "i48067",
+            "pos": "n",
+            "lemmas": [
+              "erkek at"
+            ],
+            "definition": "Atgillerden tek tırnaklı bir hayvan olan atın eril özellikte olanı"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "eş",
+      "all_senses": [
+        {
+          "id": "kenet-eş-n-1-TUR10_0254970-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0254970-n",
+            "ili": "i93233",
+            "pos": "n",
+            "lemmas": [
+              "eş",
+              "hayat arkadaşı"
+            ],
+            "definition": "Karı kocadan her biri, hayat arkadaşı, refik, refika"
+          }
+        },
+        {
+          "id": "kenet-eş-n-2-TUR10_0254980-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0254980-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "eş"
+            ],
+            "definition": "Birlikte yaşayan dişi ve erkek hayvandan her biri"
+          }
+        },
+        {
+          "id": "kenet-eş-n-3-TUR10_0255000-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0255000-n",
+            "ili": "i93233",
+            "pos": "n",
+            "lemmas": [
+              "kuma",
+              "eş",
+              "ortak"
+            ],
+            "definition": "Aynı erkekle evli olan kadınların birbirine göre adı"
+          }
+        },
+        {
+          "id": "kenet-eş-n-4-TUR10_0255010-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0255010-n",
+            "ili": "i89126",
+            "pos": "n",
+            "lemmas": [
+              "arkadaş",
+              "eş"
+            ],
+            "definition": "Bir ortamda birlikte bulunanlardan her biri"
+          }
+        },
+        {
+          "id": "kenet-eş-n-5-TUR10_0605170-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0605170-n",
+            "ili": "i68036",
+            "pos": "n",
+            "lemmas": [
+              "eş",
+              "örnek",
+              "misil",
+              "menent"
+            ],
+            "definition": "Birbirinin aynı olan veya birbirine çok benzeyen iki şeyden her biri"
+          }
+        },
+        {
+          "id": "kenet-eş-n-6-TUR10_0616790-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0616790-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "partner",
+              "eş"
+            ],
+            "definition": "İkişer kişilik gruplarla oynanan oyunlarda, ortak oynayan iki kişiden her birinin öbürüne göre durumu"
+          }
+        },
+        {
+          "id": "kenet-eş-n-TUR10_0220910-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n",
+          "synset": {
+            "id": "kenet-TUR10_0220910-n",
+            "ili": "i65937",
+            "pos": "n",
+            "lemmas": [
+              "plasenta",
+              "döl eşi",
+              "döleşi",
+              "meşime",
+              "eten",
+              "etene",
+              "eş",
+              "son"
+            ],
+            "definition": "Memelilerde ana ile dölüt arasında kan alıp verme işini sağlayan organ"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-eş-n-2-TUR10_0254980-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0254980-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "eş"
+            ],
+            "definition": "Birlikte yaşayan dişi ve erkek hayvandan her biri"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-eş-n-1-TUR10_0254970-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0254970-n",
+            "ili": "i93233",
+            "pos": "n",
+            "lemmas": [
+              "eş",
+              "hayat arkadaşı"
+            ],
+            "definition": "Karı kocadan her biri, hayat arkadaşı, refik, refika"
+          }
+        },
+        {
+          "id": "kenet-eş-n-3-TUR10_0255000-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0255000-n",
+            "ili": "i93233",
+            "pos": "n",
+            "lemmas": [
+              "kuma",
+              "eş",
+              "ortak"
+            ],
+            "definition": "Aynı erkekle evli olan kadınların birbirine göre adı"
+          }
+        },
+        {
+          "id": "kenet-eş-n-4-TUR10_0255010-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0255010-n",
+            "ili": "i89126",
+            "pos": "n",
+            "lemmas": [
+              "arkadaş",
+              "eş"
+            ],
+            "definition": "Bir ortamda birlikte bulunanlardan her biri"
+          }
+        },
+        {
+          "id": "kenet-eş-n-6-TUR10_0616790-n",
+          "lemma": "eş",
+          "word_id": "kenet-eş-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0616790-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "partner",
+              "eş"
+            ],
+            "definition": "İkişer kişilik gruplarla oynanan oyunlarda, ortak oynayan iki kişiden her birinin öbürüne göre durumu"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "eşek",
+      "all_senses": [
+        {
+          "id": "kenet-eşek-n-1-TUR10_0255310-n",
+          "lemma": "eşek",
+          "word_id": "kenet-eşek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0255310-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "eşek"
+            ],
+            "definition": "Odun kesmek için kullanılan üç veya dört ayaklı sehpa"
+          }
+        },
+        {
+          "id": "kenet-eşek-n-2-TUR10_0255320-n",
+          "lemma": "eşek",
+          "word_id": "kenet-eşek-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0255320-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "eşek"
+            ],
+            "definition": "Duvar örme, sıva yapma vb. işlerde kullanılan dört ayaklı sehpa"
+          }
+        },
+        {
+          "id": "kenet-eşek-n-3-TUR10_0805630-n",
+          "lemma": "eşek",
+          "word_id": "kenet-eşek-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0805630-n",
+            "ili": "i48162",
+            "pos": "n",
+            "lemmas": [
+              "eşek",
+              "merkep",
+              "karakaçan",
+              "uzun kulaklı"
+            ],
+            "definition": "Atgillerden, uzun kulaklı binek ve hizmet hayvanı"
+          }
+        },
+        {
+          "id": "kenet-eşek-n-TUR10_0255300-n",
+          "lemma": "eşek",
+          "word_id": "kenet-eşek-n",
+          "synset": {
+            "id": "kenet-TUR10_0255300-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "eşek"
+            ],
+            "definition": "Kaba, yeteneksiz, inatçı kimse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-eşek-n-3-TUR10_0805630-n",
+          "lemma": "eşek",
+          "word_id": "kenet-eşek-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0805630-n",
+            "ili": "i48162",
+            "pos": "n",
+            "lemmas": [
+              "eşek",
+              "merkep",
+              "karakaçan",
+              "uzun kulaklı"
+            ],
+            "definition": "Atgillerden, uzun kulaklı binek ve hizmet hayvanı"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-eşek-n-TUR10_0255300-n",
+          "lemma": "eşek",
+          "word_id": "kenet-eşek-n",
+          "synset": {
+            "id": "kenet-TUR10_0255300-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "eşek"
+            ],
+            "definition": "Kaba, yeteneksiz, inatçı kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "gece kuşu",
+      "all_senses": [
+        {
+          "id": "kenet-gece_0020_kuşu-n-1-TUR10_0286480-n",
+          "lemma": "gece kuşu",
+          "word_id": "kenet-gece_0020_kuşu-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0286480-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece kuşu"
+            ],
+            "definition": "Gece uyuyamayan kimse"
+          }
+        },
+        {
+          "id": "kenet-gece_0020_kuşu-n-2-TUR10_0286490-n",
+          "lemma": "gece kuşu",
+          "word_id": "kenet-gece_0020_kuşu-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0286490-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece kuşu"
+            ],
+            "definition": "Geceleri para karşılığı erkeklerle ilişki kuran kadın"
+          }
+        },
+        {
+          "id": "kenet-gece_0020_kuşu-n-3-TUR10_0815820-n",
+          "lemma": "gece kuşu",
+          "word_id": "kenet-gece_0020_kuşu-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0815820-n",
+            "ili": "i46702",
+            "pos": "n",
+            "lemmas": [
+              "yarasa",
+              "gece kuşu",
+              "vatvat"
+            ],
+            "definition": "Yarasalardan, ön ayakları perdeli kanat biçiminde gelişmiş, vücudu yumuşak sık kıllarla kaplı, iskeletleri hafif yapılı, uçabilen memeli hayvan"
+          }
+        },
+        {
+          "id": "kenet-gece_0020_kuşu-n-TUR10_0286470-n",
+          "lemma": "gece kuşu",
+          "word_id": "kenet-gece_0020_kuşu-n",
+          "synset": {
+            "id": "kenet-TUR10_0286470-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece kuşu"
+            ],
+            "definition": "Gece gezmesini seven kimse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-gece_0020_kuşu-n-3-TUR10_0815820-n",
+          "lemma": "gece kuşu",
+          "word_id": "kenet-gece_0020_kuşu-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0815820-n",
+            "ili": "i46702",
+            "pos": "n",
+            "lemmas": [
+              "yarasa",
+              "gece kuşu",
+              "vatvat"
+            ],
+            "definition": "Yarasalardan, ön ayakları perdeli kanat biçiminde gelişmiş, vücudu yumuşak sık kıllarla kaplı, iskeletleri hafif yapılı, uçabilen memeli hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-gece_0020_kuşu-n-2-TUR10_0286490-n",
+          "lemma": "gece kuşu",
+          "word_id": "kenet-gece_0020_kuşu-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0286490-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece kuşu"
+            ],
+            "definition": "Geceleri para karşılığı erkeklerle ilişki kuran kadın"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "geyik",
+      "all_senses": [
+        {
+          "id": "kenet-geyik-n-1-TUR10_0295610-n",
+          "lemma": "geyik",
+          "word_id": "kenet-geyik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0295610-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "geyik"
+            ],
+            "definition": "Karısının veya bir kadın yakınının ihanetine uğramış erkek"
+          }
+        },
+        {
+          "id": "kenet-geyik-n-TUR10_0295600-n",
+          "lemma": "geyik",
+          "word_id": "kenet-geyik-n",
+          "synset": {
+            "id": "kenet-TUR10_0295600-n",
+            "ili": "i48406",
+            "pos": "n",
+            "lemmas": [
+              "geyik"
+            ],
+            "definition": "Geyikgillerden, erkeklerinin başında uzun ve çatallı boynuzları olan memeli hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-geyik-n-TUR10_0295600-n",
+          "lemma": "geyik",
+          "word_id": "kenet-geyik-n",
+          "synset": {
+            "id": "kenet-TUR10_0295600-n",
+            "ili": "i48406",
+            "pos": "n",
+            "lemmas": [
+              "geyik"
+            ],
+            "definition": "Geyikgillerden, erkeklerinin başında uzun ve çatallı boynuzları olan memeli hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-geyik-n-1-TUR10_0295610-n",
+          "lemma": "geyik",
+          "word_id": "kenet-geyik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0295610-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "geyik"
+            ],
+            "definition": "Karısının veya bir kadın yakınının ihanetine uğramış erkek"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "goril",
+      "all_senses": [
+        {
+          "id": "kenet-goril-n-1-TUR10_0300660-n",
+          "lemma": "goril",
+          "word_id": "kenet-goril-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0300660-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "goril"
+            ],
+            "definition": "Koruyucu"
+          }
+        },
+        {
+          "id": "kenet-goril-n-TUR10_0300650-n",
+          "lemma": "goril",
+          "word_id": "kenet-goril-n",
+          "synset": {
+            "id": "kenet-TUR10_0300650-n",
+            "ili": "i48702",
+            "pos": "n",
+            "lemmas": [
+              "goril"
+            ],
+            "definition": "Afrika'nın Ekvator bölgesinde ormanlarda yaşayan, iri ve en güçlü bir maymun türü"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-goril-n-TUR10_0300650-n",
+          "lemma": "goril",
+          "word_id": "kenet-goril-n",
+          "synset": {
+            "id": "kenet-TUR10_0300650-n",
+            "ili": "i48702",
+            "pos": "n",
+            "lemmas": [
+              "goril"
+            ],
+            "definition": "Afrika'nın Ekvator bölgesinde ormanlarda yaşayan, iri ve en güçlü bir maymun türü"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-goril-n-1-TUR10_0300660-n",
+          "lemma": "goril",
+          "word_id": "kenet-goril-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0300660-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "goril"
+            ],
+            "definition": "Koruyucu"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "inek",
+      "all_senses": [
+        {
+          "id": "kenet-inek-n-1-TUR10_0374380-n",
+          "lemma": "inek",
+          "word_id": "kenet-inek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0374380-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "inek"
+            ],
+            "definition": "Çok çalışan öğrenci"
+          }
+        },
+        {
+          "id": "kenet-inek-n-2-TUR10_0374390-n",
+          "lemma": "inek",
+          "word_id": "kenet-inek-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0374390-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "inek",
+              "ibne"
+            ],
+            "definition": "Kızgınlıkla söylenen bir söz"
+          }
+        },
+        {
+          "id": "kenet-inek-n-TUR10_0374370-n",
+          "lemma": "inek",
+          "word_id": "kenet-inek-n",
+          "synset": {
+            "id": "kenet-TUR10_0374370-n",
+            "ili": "i45233",
+            "pos": "n",
+            "lemmas": [
+              "inek"
+            ],
+            "definition": "Dişi sığır"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-inek-n-TUR10_0374370-n",
+          "lemma": "inek",
+          "word_id": "kenet-inek-n",
+          "synset": {
+            "id": "kenet-TUR10_0374370-n",
+            "ili": "i45233",
+            "pos": "n",
+            "lemmas": [
+              "inek"
+            ],
+            "definition": "Dişi sığır"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-inek-n-1-TUR10_0374380-n",
+          "lemma": "inek",
+          "word_id": "kenet-inek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0374380-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "inek"
+            ],
+            "definition": "Çok çalışan öğrenci"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "it",
+      "all_senses": [
+        {
+          "id": "kenet-it-n-1-TUR10_0386930-n",
+          "lemma": "it",
+          "word_id": "kenet-it-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0386930-n",
+            "ili": "i88330",
+            "pos": "n",
+            "lemmas": [
+              "it"
+            ],
+            "definition": "Değersiz, terbiyesiz kimse"
+          }
+        },
+        {
+          "id": "kenet-it-n-TUR10_0386920-n",
+          "lemma": "it",
+          "word_id": "kenet-it-n",
+          "synset": {
+            "id": "kenet-TUR10_0386920-n",
+            "ili": "i46360",
+            "pos": "n",
+            "lemmas": [
+              "köpek",
+              "it",
+              "kapik",
+              "kelb"
+            ],
+            "definition": "Köpekgillerden, boy ve biçim bakımından pek çok cinsleri olan, çok iyi koku alan, sadık; bekçilik, avcılık gibi işler için beslenen memeli hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-it-n-TUR10_0386920-n",
+          "lemma": "it",
+          "word_id": "kenet-it-n",
+          "synset": {
+            "id": "kenet-TUR10_0386920-n",
+            "ili": "i46360",
+            "pos": "n",
+            "lemmas": [
+              "köpek",
+              "it",
+              "kapik",
+              "kelb"
+            ],
+            "definition": "Köpekgillerden, boy ve biçim bakımından pek çok cinsleri olan, çok iyi koku alan, sadık; bekçilik, avcılık gibi işler için beslenen memeli hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-it-n-1-TUR10_0386930-n",
+          "lemma": "it",
+          "word_id": "kenet-it-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0386930-n",
+            "ili": "i88330",
+            "pos": "n",
+            "lemmas": [
+              "it"
+            ],
+            "definition": "Değersiz, terbiyesiz kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "karabaş",
+      "all_senses": [
+        {
+          "id": "kenet-karabaş-n-1-TUR10_0415350-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0415350-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karabaş"
+            ],
+            "definition": "Evlenmemiş, evlenmek istemeyen erkek"
+          }
+        },
+        {
+          "id": "kenet-karabaş-n-2-TUR10_0415360-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0415360-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karabaş"
+            ],
+            "definition": "Ballıbabagillerden, çiçekleri mavi veya menekşe renginde başakçıklar durumunda olan güzel kokulu bir bitki"
+          }
+        },
+        {
+          "id": "kenet-karabaş-n-3-TUR10_0415370-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0415370-n",
+            "ili": "i46486",
+            "pos": "n",
+            "lemmas": [
+              "çoban köpeği",
+              "karabaş",
+              "çomar"
+            ],
+            "definition": "Sürüyü koruyan iri cins köpek"
+          }
+        },
+        {
+          "id": "kenet-karabaş-n-4-TUR10_0415380-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0415380-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karabaş"
+            ],
+            "definition": "Kışa dayanıklı sert buğday"
+          }
+        },
+        {
+          "id": "kenet-karabaş-n-5-TUR10_0641490-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0641490-n",
+            "ili": "i90096",
+            "pos": "n",
+            "lemmas": [
+              "keşiş",
+              "rahip",
+              "karabaş"
+            ],
+            "definition": "Hristiyanlarda, genellikle manastırda yaşayan, hiç evlenmemiş din adamı"
+          }
+        },
+        {
+          "id": "kenet-karabaş-n-TUR10_0415340-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n",
+          "synset": {
+            "id": "kenet-TUR10_0415340-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karabaş"
+            ],
+            "definition": "Bir hücreli özel bir asalağın, hindinin karaciğerine yerleşerek yaptığı, büyük ölçüde ölümlere yol açan kümes hastalığı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-karabaş-n-3-TUR10_0415370-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0415370-n",
+            "ili": "i46486",
+            "pos": "n",
+            "lemmas": [
+              "çoban köpeği",
+              "karabaş",
+              "çomar"
+            ],
+            "definition": "Sürüyü koruyan iri cins köpek"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-karabaş-n-1-TUR10_0415350-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0415350-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karabaş"
+            ],
+            "definition": "Evlenmemiş, evlenmek istemeyen erkek"
+          }
+        },
+        {
+          "id": "kenet-karabaş-n-5-TUR10_0641490-n",
+          "lemma": "karabaş",
+          "word_id": "kenet-karabaş-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0641490-n",
+            "ili": "i90096",
+            "pos": "n",
+            "lemmas": [
+              "keşiş",
+              "rahip",
+              "karabaş"
+            ],
+            "definition": "Hristiyanlarda, genellikle manastırda yaşayan, hiç evlenmemiş din adamı"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "karakulak",
+      "all_senses": [
+        {
+          "id": "kenet-karakulak-n-1-TUR10_0416730-n",
+          "lemma": "karakulak",
+          "word_id": "kenet-karakulak-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0416730-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karakulak"
+            ],
+            "definition": "Kedigillerden, çakala benzer vahşi bir hayvan"
+          }
+        },
+        {
+          "id": "kenet-karakulak-n-TUR10_0318930-n",
+          "lemma": "karakulak",
+          "word_id": "kenet-karakulak-n",
+          "synset": {
+            "id": "kenet-TUR10_0318930-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "haberci",
+              "karakulak"
+            ],
+            "definition": "Osmanlı İmparatorluğu'nda emir çavuşu"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-karakulak-n-1-TUR10_0416730-n",
+          "lemma": "karakulak",
+          "word_id": "kenet-karakulak-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0416730-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karakulak"
+            ],
+            "definition": "Kedigillerden, çakala benzer vahşi bir hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-karakulak-n-TUR10_0318930-n",
+          "lemma": "karakulak",
+          "word_id": "kenet-karakulak-n",
+          "synset": {
+            "id": "kenet-TUR10_0318930-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "haberci",
+              "karakulak"
+            ],
+            "definition": "Osmanlı İmparatorluğu'nda emir çavuşu"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "keklik",
+      "all_senses": [
+        {
+          "id": "kenet-keklik-n-1-TUR10_0438490-n",
+          "lemma": "keklik",
+          "word_id": "kenet-keklik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0438490-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "keklik"
+            ],
+            "definition": "Alımlı, güzel kadın"
+          }
+        },
+        {
+          "id": "kenet-keklik-n-TUR10_0438480-n",
+          "lemma": "keklik",
+          "word_id": "kenet-keklik-n",
+          "synset": {
+            "id": "kenet-TUR10_0438480-n",
+            "ili": "i44828",
+            "pos": "n",
+            "lemmas": [
+              "keklik"
+            ],
+            "definition": "Sülüngillerden, güvercin büyüklüğünde, eti için avlanan, tüyü boz, ayakları ve gagası kırmızı renkte bir kuş"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-keklik-n-TUR10_0438480-n",
+          "lemma": "keklik",
+          "word_id": "kenet-keklik-n",
+          "synset": {
+            "id": "kenet-TUR10_0438480-n",
+            "ili": "i44828",
+            "pos": "n",
+            "lemmas": [
+              "keklik"
+            ],
+            "definition": "Sülüngillerden, güvercin büyüklüğünde, eti için avlanan, tüyü boz, ayakları ve gagası kırmızı renkte bir kuş"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-keklik-n-1-TUR10_0438490-n",
+          "lemma": "keklik",
+          "word_id": "kenet-keklik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0438490-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "keklik"
+            ],
+            "definition": "Alımlı, güzel kadın"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "kobay",
+      "all_senses": [
+        {
+          "id": "kenet-kobay-n-1-TUR10_0465440-n",
+          "lemma": "kobay",
+          "word_id": "kenet-kobay-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0465440-n",
+            "ili": "i93398",
+            "pos": "n",
+            "lemmas": [
+              "kobay"
+            ],
+            "definition": "Deney konusu"
+          }
+        },
+        {
+          "id": "kenet-kobay-n-TUR10_0345380-n",
+          "lemma": "kobay",
+          "word_id": "kenet-kobay-n",
+          "synset": {
+            "id": "kenet-TUR10_0345380-n",
+            "ili": "i47996",
+            "pos": "n",
+            "lemmas": [
+              "kobay",
+              "Hint domuzu",
+              "hintdomuzu"
+            ],
+            "definition": "Kobaygillerden, bilimsel araştırmalarda kullanılan bir deney hayvanı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-kobay-n-TUR10_0345380-n",
+          "lemma": "kobay",
+          "word_id": "kenet-kobay-n",
+          "synset": {
+            "id": "kenet-TUR10_0345380-n",
+            "ili": "i47996",
+            "pos": "n",
+            "lemmas": [
+              "kobay",
+              "Hint domuzu",
+              "hintdomuzu"
+            ],
+            "definition": "Kobaygillerden, bilimsel araştırmalarda kullanılan bir deney hayvanı"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-kobay-n-1-TUR10_0465440-n",
+          "lemma": "kobay",
+          "word_id": "kenet-kobay-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0465440-n",
+            "ili": "i93398",
+            "pos": "n",
+            "lemmas": [
+              "kobay"
+            ],
+            "definition": "Deney konusu"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "kurbanlık koyun",
+      "all_senses": [
+        {
+          "id": "kenet-kurbanlık_0020_koyun-n-1-TUR10_0492200-n",
+          "lemma": "kurbanlık koyun",
+          "word_id": "kenet-kurbanlık_0020_koyun-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0492200-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurbanlık koyun"
+            ],
+            "definition": "Başına geleceklerden habersiz olan kimse"
+          }
+        },
+        {
+          "id": "kenet-kurbanlık_0020_koyun-n-TUR10_0492190-n",
+          "lemma": "kurbanlık koyun",
+          "word_id": "kenet-kurbanlık_0020_koyun-n",
+          "synset": {
+            "id": "kenet-TUR10_0492190-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurbanlık koyun"
+            ],
+            "definition": "Kurban olmaya elverişli koyun"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-kurbanlık_0020_koyun-n-TUR10_0492190-n",
+          "lemma": "kurbanlık koyun",
+          "word_id": "kenet-kurbanlık_0020_koyun-n",
+          "synset": {
+            "id": "kenet-TUR10_0492190-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurbanlık koyun"
+            ],
+            "definition": "Kurban olmaya elverişli koyun"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-kurbanlık_0020_koyun-n-1-TUR10_0492200-n",
+          "lemma": "kurbanlık koyun",
+          "word_id": "kenet-kurbanlık_0020_koyun-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0492200-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurbanlık koyun"
+            ],
+            "definition": "Başına geleceklerden habersiz olan kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "kurt",
+      "all_senses": [
+        {
+          "id": "kenet-Kürt-n-TUR10_0503550-n",
+          "lemma": "kurt",
+          "word_id": "kenet-Kürt-n",
+          "synset": {
+            "id": "kenet-TUR10_0503550-n",
+            "ili": "i87760",
+            "pos": "n",
+            "lemmas": [
+              "Kürt"
+            ],
+            "definition": "Ön Asya'da yaşayan bir topluluk ve bu topluluktan olan kimse"
+          }
+        },
+        {
+          "id": "kenet-kurt-n-1-TUR10_0493510-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0493510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Bir yeri, bir şeyi iyi bilen"
+          }
+        },
+        {
+          "id": "kenet-kurt-n-2-TUR10_0493530-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0493530-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Güney gök kürede, Akrep ile boğa arasında bulunan takımyıldız"
+          }
+        },
+        {
+          "id": "kenet-kurt-n-3-TUR10_0493540-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0493540-n",
+            "ili": "i45441",
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Yumuşak vücutlu, uzun gövdeli, omurgasız, bacaksız, ayaksız veya çok ilkel ayaklı küçük hayvan"
+          }
+        },
+        {
+          "id": "kenet-kurt-n-4-TUR10_0493550-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0493550-n",
+            "ili": "i47698",
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Bazı böceklere veya bazı böcek kurtçuklarına verilen ad"
+          }
+        },
+        {
+          "id": "kenet-kurt-n-TUR10_0493500-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n",
+          "synset": {
+            "id": "kenet-TUR10_0493500-n",
+            "ili": "i46549",
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-kurt-n-4-TUR10_0493550-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0493550-n",
+            "ili": "i47698",
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Bazı böceklere veya bazı böcek kurtçuklarına verilen ad"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-kurt-n-1-TUR10_0493510-n",
+          "lemma": "kurt",
+          "word_id": "kenet-kurt-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0493510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "kurt"
+            ],
+            "definition": "Bir yeri, bir şeyi iyi bilen"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "köstebek",
+      "all_senses": [
+        {
+          "id": "kenet-köstebek-n-1-TUR10_0483870-n",
+          "lemma": "köstebek",
+          "word_id": "kenet-köstebek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0483870-n",
+            "ili": "i89262",
+            "pos": "n",
+            "lemmas": [
+              "köstebek"
+            ],
+            "definition": "Bir iş yerinden, kurumdan özellikle gizli servisten bilgi sızdıran kimse"
+          }
+        },
+        {
+          "id": "kenet-köstebek-n-TUR10_0483250-n",
+          "lemma": "köstebek",
+          "word_id": "kenet-köstebek-n",
+          "synset": {
+            "id": "kenet-TUR10_0483250-n",
+            "ili": "i45244",
+            "pos": "n",
+            "lemmas": [
+              "köstebek",
+              "kör sıçan",
+              "sokur",
+              "yer sıçanı",
+              "yersıçanı"
+            ],
+            "definition": "Köstebekgillerden, toprak altında oyduğu yuvalarda yaşayan, gözleri hemen hiç görmeyen, derisinden kürk yapılan küçük bir hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-köstebek-n-TUR10_0483250-n",
+          "lemma": "köstebek",
+          "word_id": "kenet-köstebek-n",
+          "synset": {
+            "id": "kenet-TUR10_0483250-n",
+            "ili": "i45244",
+            "pos": "n",
+            "lemmas": [
+              "köstebek",
+              "kör sıçan",
+              "sokur",
+              "yer sıçanı",
+              "yersıçanı"
+            ],
+            "definition": "Köstebekgillerden, toprak altında oyduğu yuvalarda yaşayan, gözleri hemen hiç görmeyen, derisinden kürk yapılan küçük bir hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-köstebek-n-1-TUR10_0483870-n",
+          "lemma": "köstebek",
+          "word_id": "kenet-köstebek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0483870-n",
+            "ili": "i89262",
+            "pos": "n",
+            "lemmas": [
+              "köstebek"
+            ],
+            "definition": "Bir iş yerinden, kurumdan özellikle gizli servisten bilgi sızdıran kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "lama",
+      "all_senses": [
+        {
+          "id": "kenet-lama-n-1-TUR10_0506610-n",
+          "lemma": "lama",
+          "word_id": "kenet-lama-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0506610-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "lama"
+            ],
+            "definition": "Tibetlilerde ve Moğollarda Buda rahibi"
+          }
+        },
+        {
+          "id": "kenet-lama-n-TUR10_0506600-n",
+          "lemma": "lama",
+          "word_id": "kenet-lama-n",
+          "synset": {
+            "id": "kenet-TUR10_0506600-n",
+            "ili": "i48454",
+            "pos": "n",
+            "lemmas": [
+              "lama"
+            ],
+            "definition": "Geviş getirenlerden, Güney Amerika'nın dağlık bölgelerinde yaşayan, yük hayvanı olarak kullanılan, karadan aka kadar türlü renklerde olabilen, tüyleri uzun, boyu yüksek ve boynu uzun hayvan Lama"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-lama-n-TUR10_0506600-n",
+          "lemma": "lama",
+          "word_id": "kenet-lama-n",
+          "synset": {
+            "id": "kenet-TUR10_0506600-n",
+            "ili": "i48454",
+            "pos": "n",
+            "lemmas": [
+              "lama"
+            ],
+            "definition": "Geviş getirenlerden, Güney Amerika'nın dağlık bölgelerinde yaşayan, yük hayvanı olarak kullanılan, karadan aka kadar türlü renklerde olabilen, tüyleri uzun, boyu yüksek ve boynu uzun hayvan Lama"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-lama-n-1-TUR10_0506610-n",
+          "lemma": "lama",
+          "word_id": "kenet-lama-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0506610-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "lama"
+            ],
+            "definition": "Tibetlilerde ve Moğollarda Buda rahibi"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "mal",
+      "all_senses": [
+        {
+          "id": "kenet-mal-n-1-TUR10_0263000-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0263000-n",
+            "ili": "i88094",
+            "pos": "n",
+            "lemmas": [
+              "fahişe",
+              "hayat kadını",
+              "sürtük",
+              "orospu",
+              "kötü kadın",
+              "orta malı",
+              "paçoz",
+              "kahpe",
+              "mal"
+            ],
+            "definition": "Para karşılığında erkeklerin cinsel zevklerine hizmet eden ve bu işi meslek edinen kadın"
+          }
+        },
+        {
+          "id": "kenet-mal-n-2-TUR10_0521510-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0521510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "mal",
+              "mâl"
+            ],
+            "definition": "Büyükbaş hayvan"
+          }
+        },
+        {
+          "id": "kenet-mal-n-3-TUR10_0521520-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0521520-n",
+            "ili": "i52206",
+            "pos": "n",
+            "lemmas": [
+              "mal",
+              "meta",
+              "emtia"
+            ],
+            "definition": "Alınıp satılabilen her türlü ticaret eşyası, tüccar malı"
+          }
+        },
+        {
+          "id": "kenet-mal-n-4-TUR10_0521530-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0521530-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "mal"
+            ],
+            "definition": "Bayağı, aşağılık, kötü kimse"
+          }
+        },
+        {
+          "id": "kenet-mal-n-TUR10_0254500-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n",
+          "synset": {
+            "id": "kenet-TUR10_0254500-n",
+            "ili": "i51442",
+            "pos": "n",
+            "lemmas": [
+              "esrar",
+              "esrâr",
+              "ot",
+              "marihuana",
+              "mal",
+              "duman",
+              "keyif",
+              "sarıkız",
+              "fino"
+            ],
+            "definition": "Hint kenevirinden çıkarılan ve kullanılacak miktara göre uyarıcı, sarhoş edici veya uyuşturucu etkileri olan bir madde"
+          }
+        },
+        {
+          "id": "kenet-mâl-n-TUR10_0521510-n",
+          "lemma": "mal",
+          "word_id": "kenet-mâl-n",
+          "synset": {
+            "id": "kenet-TUR10_0521510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "mal",
+              "mâl"
+            ],
+            "definition": "Büyükbaş hayvan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-mal-n-2-TUR10_0521510-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0521510-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "mal",
+              "mâl"
+            ],
+            "definition": "Büyükbaş hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-mal-n-1-TUR10_0263000-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0263000-n",
+            "ili": "i88094",
+            "pos": "n",
+            "lemmas": [
+              "fahişe",
+              "hayat kadını",
+              "sürtük",
+              "orospu",
+              "kötü kadın",
+              "orta malı",
+              "paçoz",
+              "kahpe",
+              "mal"
+            ],
+            "definition": "Para karşılığında erkeklerin cinsel zevklerine hizmet eden ve bu işi meslek edinen kadın"
+          }
+        },
+        {
+          "id": "kenet-mal-n-4-TUR10_0521530-n",
+          "lemma": "mal",
+          "word_id": "kenet-mal-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0521530-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "mal"
+            ],
+            "definition": "Bayağı, aşağılık, kötü kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "marsıvan",
+      "all_senses": [
+        {
+          "id": "kenet-marsıvan-n-1-TUR10_0526850-n",
+          "lemma": "marsıvan",
+          "word_id": "kenet-marsıvan-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0526850-n",
+            "ili": "i48166",
+            "pos": "n",
+            "lemmas": [
+              "marsıvan eşeği",
+              "marsıvan ayısı",
+              "marsıvan"
+            ],
+            "definition": "Gayet iyi cins eşek"
+          }
+        },
+        {
+          "id": "kenet-marsıvan-n-TUR10_0526820-n",
+          "lemma": "marsıvan",
+          "word_id": "kenet-marsıvan-n",
+          "synset": {
+            "id": "kenet-TUR10_0526820-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "marsıvan"
+            ],
+            "definition": "Sınırdaki koruma görevlisi"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-marsıvan-n-1-TUR10_0526850-n",
+          "lemma": "marsıvan",
+          "word_id": "kenet-marsıvan-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0526850-n",
+            "ili": "i48166",
+            "pos": "n",
+            "lemmas": [
+              "marsıvan eşeği",
+              "marsıvan ayısı",
+              "marsıvan"
+            ],
+            "definition": "Gayet iyi cins eşek"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-marsıvan-n-TUR10_0526820-n",
+          "lemma": "marsıvan",
+          "word_id": "kenet-marsıvan-n",
+          "synset": {
+            "id": "kenet-TUR10_0526820-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "marsıvan"
+            ],
+            "definition": "Sınırdaki koruma görevlisi"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "süt kuzusu",
+      "all_senses": [
+        {
+          "id": "kenet-süt_0020_kuzusu-n-1-TUR10_0719460-n",
+          "lemma": "süt kuzusu",
+          "word_id": "kenet-süt_0020_kuzusu-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0719460-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "süt kuzusu"
+            ],
+            "definition": "Çok küçük çocuk; bebek; yavru"
+          }
+        },
+        {
+          "id": "kenet-süt_0020_kuzusu-n-2-TUR10_0719470-n",
+          "lemma": "süt kuzusu",
+          "word_id": "kenet-süt_0020_kuzusu-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0719470-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "süt kuzusu"
+            ],
+            "definition": "Çok nazlı büyütülmüş kimse"
+          }
+        },
+        {
+          "id": "kenet-süt_0020_kuzusu-n-TUR10_0719450-n",
+          "lemma": "süt kuzusu",
+          "word_id": "kenet-süt_0020_kuzusu-n",
+          "synset": {
+            "id": "kenet-TUR10_0719450-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "süt kuzusu"
+            ],
+            "definition": "Doğumdan ikinci ayın sonuna kadar olan ve ana sütü emen erkek veya dişi kuzu"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-süt_0020_kuzusu-n-TUR10_0719450-n",
+          "lemma": "süt kuzusu",
+          "word_id": "kenet-süt_0020_kuzusu-n",
+          "synset": {
+            "id": "kenet-TUR10_0719450-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "süt kuzusu"
+            ],
+            "definition": "Doğumdan ikinci ayın sonuna kadar olan ve ana sütü emen erkek veya dişi kuzu"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-süt_0020_kuzusu-n-1-TUR10_0719460-n",
+          "lemma": "süt kuzusu",
+          "word_id": "kenet-süt_0020_kuzusu-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0719460-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "süt kuzusu"
+            ],
+            "definition": "Çok küçük çocuk; bebek; yavru"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "sütçü",
+      "all_senses": [
+        {
+          "id": "kenet-sütçü-n-1-TUR10_0719350-n",
+          "lemma": "sütçü",
+          "word_id": "kenet-sütçü-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0719350-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "sütçü"
+            ],
+            "definition": "Bol süt veren hayvan"
+          }
+        },
+        {
+          "id": "kenet-sütçü-n-TUR10_0719340-n",
+          "lemma": "sütçü",
+          "word_id": "kenet-sütçü-n",
+          "synset": {
+            "id": "kenet-TUR10_0719340-n",
+            "ili": "i89372",
+            "pos": "n",
+            "lemmas": [
+              "sütçü"
+            ],
+            "definition": "Süt satan kimse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-sütçü-n-1-TUR10_0719350-n",
+          "lemma": "sütçü",
+          "word_id": "kenet-sütçü-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0719350-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "sütçü"
+            ],
+            "definition": "Bol süt veren hayvan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-sütçü-n-TUR10_0719340-n",
+          "lemma": "sütçü",
+          "word_id": "kenet-sütçü-n",
+          "synset": {
+            "id": "kenet-TUR10_0719340-n",
+            "ili": "i89372",
+            "pos": "n",
+            "lemmas": [
+              "sütçü"
+            ],
+            "definition": "Süt satan kimse"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "tavşan",
+      "all_senses": [
+        {
+          "id": "kenet-tavşan-n-1-TUR10_0752870-n",
+          "lemma": "tavşan",
+          "word_id": "kenet-tavşan-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0752870-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tavşan"
+            ],
+            "definition": "Atletizm yarışlarında rekor kırılabilmesi için tempoyu yüksek tutup belirli bir mesafeyi diğer atletlerin önünde koşan atlet"
+          }
+        },
+        {
+          "id": "kenet-tavşan-n-2-TUR10_0752880-n",
+          "lemma": "tavşan",
+          "word_id": "kenet-tavşan-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0752880-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tavşan"
+            ],
+            "definition": "Değerli ağaçlar üzerine ince oymalar işleyen sanatçı; tahta oymacısı"
+          }
+        },
+        {
+          "id": "kenet-tavşan-n-TUR10_0752860-n",
+          "lemma": "tavşan",
+          "word_id": "kenet-tavşan-n",
+          "synset": {
+            "id": "kenet-TUR10_0752860-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "tavşan"
+            ],
+            "definition": "Tavşangillerden, eti yenen, hızlı koşan, postundan yararlanılan bir memeli türü"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-tavşan-n-TUR10_0752860-n",
+          "lemma": "tavşan",
+          "word_id": "kenet-tavşan-n",
+          "synset": {
+            "id": "kenet-TUR10_0752860-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "tavşan"
+            ],
+            "definition": "Tavşangillerden, eti yenen, hızlı koşan, postundan yararlanılan bir memeli türü"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-tavşan-n-1-TUR10_0752870-n",
+          "lemma": "tavşan",
+          "word_id": "kenet-tavşan-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0752870-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tavşan"
+            ],
+            "definition": "Atletizm yarışlarında rekor kırılabilmesi için tempoyu yüksek tutup belirli bir mesafeyi diğer atletlerin önünde koşan atlet"
+          }
+        },
+        {
+          "id": "kenet-tavşan-n-2-TUR10_0752880-n",
+          "lemma": "tavşan",
+          "word_id": "kenet-tavşan-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0752880-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tavşan"
+            ],
+            "definition": "Değerli ağaçlar üzerine ince oymalar işleyen sanatçı; tahta oymacısı"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "tosun",
+      "all_senses": [
+        {
+          "id": "kenet-tosun-n-1-TUR10_0784080-n",
+          "lemma": "tosun",
+          "word_id": "kenet-tosun-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0784080-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tosun"
+            ],
+            "definition": "Sağlıklı, tıknaz delikanlı"
+          }
+        },
+        {
+          "id": "kenet-tosun-n-TUR10_0438690-n",
+          "lemma": "tosun",
+          "word_id": "kenet-tosun-n",
+          "synset": {
+            "id": "kenet-TUR10_0438690-n",
+            "ili": "i45232",
+            "pos": "n",
+            "lemmas": [
+              "boğa",
+              "tosun",
+              "kele"
+            ],
+            "definition": "Damızlık erkek sığır"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-tosun-n-TUR10_0438690-n",
+          "lemma": "tosun",
+          "word_id": "kenet-tosun-n",
+          "synset": {
+            "id": "kenet-TUR10_0438690-n",
+            "ili": "i45232",
+            "pos": "n",
+            "lemmas": [
+              "boğa",
+              "tosun",
+              "kele"
+            ],
+            "definition": "Damızlık erkek sığır"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-tosun-n-1-TUR10_0784080-n",
+          "lemma": "tosun",
+          "word_id": "kenet-tosun-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0784080-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tosun"
+            ],
+            "definition": "Sağlıklı, tıknaz delikanlı"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "tüy sıklet",
+      "all_senses": [
+        {
+          "id": "kenet-tüy_0020_sıklet-n-1-TUR10_0794980-n",
+          "lemma": "tüy sıklet",
+          "word_id": "kenet-tüy_0020_sıklet-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0794980-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tüy sıklet",
+              "tüysıklet"
+            ],
+            "definition": "En az kilo ile yarışa sokulan at"
+          }
+        },
+        {
+          "id": "kenet-tüy_0020_sıklet-n-TUR10_0794790-n",
+          "lemma": "tüy sıklet",
+          "word_id": "kenet-tüy_0020_sıklet-n",
+          "synset": {
+            "id": "kenet-TUR10_0794790-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tüy sıklet",
+              "tüy ağırlık",
+              "tüyağırlık"
+            ],
+            "definition": "57 kiloda dövüşen boksör"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-tüy_0020_sıklet-n-1-TUR10_0794980-n",
+          "lemma": "tüy sıklet",
+          "word_id": "kenet-tüy_0020_sıklet-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0794980-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tüy sıklet",
+              "tüysıklet"
+            ],
+            "definition": "En az kilo ile yarışa sokulan at"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-tüy_0020_sıklet-n-TUR10_0794790-n",
+          "lemma": "tüy sıklet",
+          "word_id": "kenet-tüy_0020_sıklet-n",
+          "synset": {
+            "id": "kenet-TUR10_0794790-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "tüy sıklet",
+              "tüy ağırlık",
+              "tüyağırlık"
+            ],
+            "definition": "57 kiloda dövüşen boksör"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "yavru",
+      "all_senses": [
+        {
+          "id": "kenet-yavru-n-1-TUR10_0318180-n",
+          "lemma": "yavru",
+          "word_id": "kenet-yavru-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0318180-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "güzel",
+              "yavru"
+            ],
+            "definition": "Güzel (genç) kadın"
+          }
+        },
+        {
+          "id": "kenet-yavru-n-2-TUR10_0842040-n",
+          "lemma": "yavru",
+          "word_id": "kenet-yavru-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0842040-n",
+            "ili": "i42292",
+            "pos": "n",
+            "lemmas": [
+              "yavru"
+            ],
+            "definition": "Yeni doğmuş hayvan veya insan"
+          }
+        },
+        {
+          "id": "kenet-yavru-n-3-TUR10_0842060-n",
+          "lemma": "yavru",
+          "word_id": "kenet-yavru-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0842060-n",
+            "ili": "i42301",
+            "pos": "n",
+            "lemmas": [
+              "yavru"
+            ],
+            "definition": "Bir şeyin küçüğü"
+          }
+        },
+        {
+          "id": "kenet-yavru-n-TUR10_0220860-n",
+          "lemma": "yavru",
+          "word_id": "kenet-yavru-n",
+          "synset": {
+            "id": "kenet-TUR10_0220860-n",
+            "ili": "i88965",
+            "pos": "n",
+            "lemmas": [
+              "çocuk",
+              "evlat",
+              "yavru",
+              "döl",
+              "bala"
+            ],
+            "definition": "Bir kimsenin oğlu veya kızı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-yavru-n-2-TUR10_0842040-n",
+          "lemma": "yavru",
+          "word_id": "kenet-yavru-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0842040-n",
+            "ili": "i42292",
+            "pos": "n",
+            "lemmas": [
+              "yavru"
+            ],
+            "definition": "Yeni doğmuş hayvan veya insan"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-yavru-n-TUR10_0220860-n",
+          "lemma": "yavru",
+          "word_id": "kenet-yavru-n",
+          "synset": {
+            "id": "kenet-TUR10_0220860-n",
+            "ili": "i88965",
+            "pos": "n",
+            "lemmas": [
+              "çocuk",
+              "evlat",
+              "yavru",
+              "döl",
+              "bala"
+            ],
+            "definition": "Bir kimsenin oğlu veya kızı"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    },
+    {
+      "lemma": "yeğen",
+      "all_senses": [
+        {
+          "id": "kenet-yeğen-n-1-TUR10_0846190-n",
+          "lemma": "yeğen",
+          "word_id": "kenet-yeğen-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0846190-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "yeğen"
+            ],
+            "definition": "Tüylü dişi deve ile tek hörgüçlü erkek devenin geriye melezlenmesiyle elde edilen bir deve türü"
+          }
+        },
+        {
+          "id": "kenet-yeğen-n-TUR10_0846180-n",
+          "lemma": "yeğen",
+          "word_id": "kenet-yeğen-n",
+          "synset": {
+            "id": "kenet-TUR10_0846180-n",
+            "ili": "i91586",
+            "pos": "n",
+            "lemmas": [
+              "yeğen"
+            ],
+            "definition": "Birine göre, kardeş, amca, hala, dayı veya teyzenin çocuğu"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-yeğen-n-1-TUR10_0846190-n",
+          "lemma": "yeğen",
+          "word_id": "kenet-yeğen-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0846190-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "yeğen"
+            ],
+            "definition": "Tüylü dişi deve ile tek hörgüçlü erkek devenin geriye melezlenmesiyle elde edilen bir deve türü"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-yeğen-n-TUR10_0846180-n",
+          "lemma": "yeğen",
+          "word_id": "kenet-yeğen-n",
+          "synset": {
+            "id": "kenet-TUR10_0846180-n",
+            "ili": "i91586",
+            "pos": "n",
+            "lemmas": [
+              "yeğen"
+            ],
+            "definition": "Birine göre, kardeş, amca, hala, dayı veya teyzenin çocuğu"
+          }
+        }
+      ],
+      "links": {},
+      "comment": "",
+      "status": "open"
+    }
+  ]
+}

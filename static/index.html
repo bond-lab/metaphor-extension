@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Metaphor Extension Annotation</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <nav class="topbar">
+    <div class="brand">Metaphor Extension</div>
+    <form id="search-form" class="search-form">
+      <label>
+        Session
+        <input id="name" name="name" value="animal-human" placeholder="session name">
+      </label>
+      <label>
+        Wordnet
+        <input id="wordnet" name="wordnet" value="omw-en:1.4" placeholder="omw-en:1.4, URL, or file:///...">
+      </label>
+      <label>
+        Lexicon
+        <input id="lexicon" name="lexicon" placeholder="optional, e.g. oewn:2024">
+      </label>
+      <label>
+        Reference
+        <input id="reference-wordnet" name="reference_wordnet" placeholder="optional hierarchy wordnet">
+      </label>
+      <label>
+        Ref lexicon
+        <input id="reference-lexicon" name="reference_lexicon" placeholder="optional">
+      </label>
+      <label>
+        Display
+        <input id="display-wordnet" name="display_wordnet" placeholder="optional, e.g. omw-en:1.4">
+      </label>
+      <label>
+        Disp. lexicon
+        <input id="display-lexicon" name="display_lexicon" placeholder="optional">
+      </label>
+      <label>
+        Source ILI
+        <input id="source-ili" name="source_ili" value="i35563">
+      </label>
+      <label>
+        Target ILI
+        <input id="target-ili" name="target_ili" value="i35562">
+      </label>
+      <label class="check">
+        <input id="extend" name="extend" type="checkbox">
+        Extend
+      </label>
+      <button type="submit">Find</button>
+    </form>
+  </nav>
+
+  <main>
+    <aside class="queue">
+      <div class="saved-sessions">
+        <label>
+          Stored sessions
+          <select id="sessions"></select>
+        </label>
+        <button id="load-session" type="button">Load</button>
+      </div>
+      <div class="queue-header">
+        <strong id="queue-title">No session</strong>
+        <span id="queue-count"></span>
+      </div>
+      <div id="queue-list" class="queue-list"></div>
+    </aside>
+
+    <section class="workspace">
+      <div id="message" class="message">Enter two ILIs and a Wordnet, then run Find.</div>
+      <div id="annotation" class="annotation hidden">
+        <header class="item-header">
+          <div>
+            <div class="eyebrow">Current word</div>
+            <h1 id="lemma-title"></h1>
+          </div>
+          <div class="progress" id="progress"></div>
+        </header>
+
+        <div class="columns">
+          <section>
+            <div class="senses-header">
+              <h2 id="source-title">All senses</h2>
+              <label class="check translation-toggle hidden" id="translation-toggle-label">
+                <input type="checkbox" id="show-translations">
+                <span id="translation-toggle-text">Show translations</span>
+              </label>
+            </div>
+            <div id="source-senses" class="sense-list"></div>
+          </section>
+          <section class="graph-panel">
+            <h2>Graph</h2>
+            <svg id="graph" viewBox="0 0 680 420" role="img" aria-label="Current word sense graph"></svg>
+          </section>
+        </div>
+
+        <div class="link-editor">
+          <div id="selection-state">Select two senses, choose direction, then choose a link type.</div>
+          <label class="direction">
+            Direction
+            <select id="direction">
+              <option value="forward">first -> second</option>
+              <option value="reverse">second -> first</option>
+            </select>
+          </label>
+          <div class="link-buttons" role="group" aria-label="Link type">
+            <button data-link-type="metaphor">metaphor</button>
+            <button data-link-type="metonymy">metonymy</button>
+            <button data-link-type="hypernym">hypernym</button>
+            <button data-link-type="other">other</button>
+            <button data-link-type="none">none</button>
+          </div>
+        </div>
+
+        <section class="links-panel">
+          <h2>Links</h2>
+          <div id="links-list" class="links-list"></div>
+        </section>
+
+        <label class="comment">
+          Comment
+          <textarea id="comment" rows="4"></textarea>
+        </label>
+
+        <footer class="actions">
+          <button id="prev">Previous</button>
+          <button id="ignore">Ignore</button>
+          <button id="incomplete">Incomplete</button>
+          <button id="finished">Finished</button>
+          <button id="next">Next</button>
+        </footer>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="/session_app.js"></script>
+</body>
+</html>
