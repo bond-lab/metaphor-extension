@@ -1,15 +1,14 @@
 # Annotation Task Instructions
 
-Thank you for helping with this annotation project. Your job is to label semantic links between Turkish word senses that span two conceptual domains: **animals** and **humans/people**. The tool shows you words that appear in both domains and asks you to record how the two senses are related.
+Thank you for helping with this project. Your first job is to label semantic links between Turkish word senses that span two conceptual domains: **animals** and **humans/people**. The tool shows you words that appear in both domains and asks you to record how the two senses are related.
 
 ---
 
 ## What you will need
 
 - A modern web browser (Chrome, Firefox, or Safari)
-- The session file: **`kenet-animal-human-4a6d881bfc4af405.json`** (attached / provided separately)
-- The annotation guidelines: **`GUIDELINES.md`** (in the same folder, or at the link below)
-
+- The session file: **`kenet-animal-human-4a6d881bfc4af405.json`** (attached)
+- The annotation guidelines are linked from the annotation tool
 ---
 
 ## Loading the session
@@ -58,8 +57,8 @@ For each word in the queue:
 
 5. **Add a comment** if you are uncertain, if the case is unusual, or if you used "other".
 
-6. **Mark the status** when done with a word:
-   - **Finished** → confident, all links recorded
+6. **Mark the status** when done with a word (use ← / → to navigate):
+   - **Done** → confident, all links recorded
    - **Incomplete** → come back to this one
    - **Ignore** → no meaningful link (e.g. a coincidental shared word form)
 

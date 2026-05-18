@@ -134,11 +134,11 @@ When the boundary is genuinely unclear, prefer **metaphor** and note the difficu
 
 ## Item Status
 
-After annotating a word, set its status in the footer:
+After annotating a word, set its status in the footer (← and → navigate the queue):
 
 | Button | Status shown | Meaning |
 |--------|-------------|---------|
-| **Finished** | `DONE` | All meaningful links recorded; confident. |
+| **Done** | `DONE` | All meaningful links recorded; confident. |
 | **Incomplete** | `PART` | Started but not finished; return later. |
 | **Ignore** | `IGNORE` | No annotatable cross-domain link exists. |
 | *(none set)* | `--` | Not yet reviewed. |
