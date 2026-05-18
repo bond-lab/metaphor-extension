@@ -548,6 +548,14 @@ a.sense-ili:hover {
   stroke-width: 1.8;
 }
 
+.graph-node {
+  cursor: grab;
+}
+
+.graph-node:active {
+  cursor: grabbing;
+}
+
 .graph-node .graph-box {
   fill: white;
   stroke: #4d5663;

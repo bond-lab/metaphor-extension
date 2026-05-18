@@ -1,5 +1,7 @@
 const TRANSLATIONS_KEY = "metaphor-extension:show-translations";
 
+let graphAnimation = null;
+
 const state = {
   session: null,
   index: 0,
@@ -211,137 +213,167 @@ function renderSenses(container, senses, links) {
 }
 
 function renderGraph(item) {
+  if (graphAnimation !== null) {
+    cancelAnimationFrame(graphAnimation);
+    graphAnimation = null;
+  }
+
   const width = 680;
   const height = 420;
+  const margin = 58;
   const senses = allSenses(item);
-  const nodes = senses.map((sense, index) => ({
-    id: sense.id,
-    role: senseRole(sense),
-    sense,
-    x: width * (0.22 + (index % 3) * 0.28),
-    y: ((Math.floor(index / 3) + 1) * height) / (Math.ceil(senses.length / 3) + 1),
-  }));
-  const byId = new Map(nodes.map((node) => [node.id, node]));
-  const links = Object.values(item.links || {}).map((link) => ({
-    ...link,
-    sourceNode: byId.get(link.source),
-    targetNode: byId.get(link.target),
-  })).filter((link) => link.sourceNode && link.targetNode);
-  const existingRelations = (item.existing_relations || []).map((relation) => ({
-    ...relation,
-    sourceNode: byId.get(relation.source),
-    targetNode: byId.get(relation.target),
-  })).filter((relation) => relation.sourceNode && relation.targetNode);
+  if (!senses.length) { els.graph.innerHTML = ""; return; }
 
-  runForceLayout(nodes, [...links, ...existingRelations], width, height);
-  els.graph.innerHTML = `<defs>${["metaphor", "metonymy", "hypernym", "other"].map((type) => `
-    <marker id="arrow-${type}" viewBox="0 -5 10 10" refX="28" refY="0" markerWidth="7" markerHeight="7" orient="auto">
+  const nodes = senses.map((sense, index) => {
+    const angle = (2 * Math.PI * index) / senses.length - Math.PI / 2;
+    const r = Math.min(width, height) * 0.28;
+    return {
+      id: sense.id,
+      role: senseRole(sense),
+      sense,
+      x: width / 2 + r * Math.cos(angle),
+      y: height / 2 + r * Math.sin(angle),
+      vx: 0,
+      vy: 0,
+      pinned: false,
+    };
+  });
+  const byId = new Map(nodes.map((n) => [n.id, n]));
+
+  const linkEdges = Object.values(item.links || {})
+    .map((l) => ({ ...l, sourceNode: byId.get(l.source), targetNode: byId.get(l.target) }))
+    .filter((l) => l.sourceNode && l.targetNode);
+  const existingEdges = (item.existing_relations || [])
+    .map((r) => ({ ...r, sourceNode: byId.get(r.source), targetNode: byId.get(r.target) }))
+    .filter((r) => r.sourceNode && r.targetNode);
+  const allEdges = [...linkEdges, ...existingEdges];
+
+  els.graph.innerHTML = `<defs>
+    <filter id="node-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2.5" flood-opacity="0.15"/>
+    </filter>
+    ${["metaphor", "metonymy", "hypernym", "other"].map((type) => `
+    <marker id="arrow-${type}" viewBox="0 -5 10 10" refX="30" refY="0" markerWidth="7" markerHeight="7" orient="auto">
       <path d="M0,-5L10,0L0,5" fill="${linkColor(type)}"></path>
-    </marker>
-  `).join("")}
-    <marker id="arrow-existing" viewBox="0 -5 10 10" refX="28" refY="0" markerWidth="7" markerHeight="7" orient="auto">
+    </marker>`).join("")}
+    <marker id="arrow-existing" viewBox="0 -5 10 10" refX="30" refY="0" markerWidth="7" markerHeight="7" orient="auto">
       <path d="M0,-5L10,0L0,5" fill="#7a828e"></path>
     </marker>
   </defs>`;
 
-  for (const relation of existingRelations) {
-    els.graph.append(svgEl("line", {
-      class: "graph-link existing",
-      x1: relation.sourceNode.x,
-      y1: relation.sourceNode.y,
-      x2: relation.targetNode.x,
-      y2: relation.targetNode.y,
-      stroke: "#7a828e",
-      "marker-end": "url(#arrow-existing)",
-    }));
-    const label = svgEl("text", {
-      x: (relation.sourceNode.x + relation.targetNode.x) / 2,
-      y: (relation.sourceNode.y + relation.targetNode.y) / 2 + 12,
-      fill: "#626a75",
-      class: "graph-label existing",
-    });
-    label.textContent = relation.type;
-    els.graph.append(label);
-  }
+  const edgeEls = [
+    ...existingEdges.map((r) => {
+      const line = svgEl("line", { class: "graph-link existing", stroke: "#7a828e", "marker-end": "url(#arrow-existing)" });
+      const lbl = svgEl("text", { class: "graph-label existing", fill: "#626a75" });
+      lbl.textContent = r.type;
+      els.graph.append(line, lbl);
+      return { line, lbl, edge: r };
+    }),
+    ...linkEdges.map((l) => {
+      const line = svgEl("line", { class: "graph-link", stroke: linkColor(l.type), "marker-end": `url(#arrow-${l.type})` });
+      const lbl = svgEl("text", { class: "graph-label", fill: linkColor(l.type) });
+      lbl.textContent = l.type;
+      els.graph.append(line, lbl);
+      return { line, lbl, edge: l };
+    }),
+  ];
 
-  for (const link of links) {
-    els.graph.append(svgEl("line", {
-      class: "graph-link",
-      x1: link.sourceNode.x,
-      y1: link.sourceNode.y,
-      x2: link.targetNode.x,
-      y2: link.targetNode.y,
-      stroke: linkColor(link.type),
-      "marker-end": `url(#arrow-${link.type})`,
-    }));
-    const label = svgEl("text", {
-      x: (link.sourceNode.x + link.targetNode.x) / 2,
-      y: (link.sourceNode.y + link.targetNode.y) / 2 - 8,
-      fill: linkColor(link.type),
-      class: "graph-label",
-    });
-    label.textContent = link.type;
-    els.graph.append(label);
-  }
-
-  for (const node of nodes) {
+  const nodeEls = nodes.map((node) => {
     const selected = selectedClass(node.sense.id) ? " selected" : "";
-    const group = svgEl("g", {
-      class: `graph-node ${node.role}${selected}`,
-      transform: `translate(${node.x}, ${node.y})`,
+    const g = svgEl("g", { class: `graph-node ${node.role}${selected}` });
+    g.append(svgEl("rect", { class: "graph-box", x: -52, y: -18, width: 104, height: 36, rx: 6, filter: "url(#node-shadow)" }));
+    const lbl = svgEl("text", { class: "graph-label", y: 5 });
+    lbl.textContent = `${senseNumber(node.sense)} - ${shortLabel(node.sense)}`;
+    g.append(lbl);
+    g.addEventListener("click", () => { selectSense(node.sense); render(); });
+    g.addEventListener("mousedown", (e) => {
+      e.stopPropagation();
+      node.pinned = true;
+      node.vx = node.vy = 0;
+      const svgRect = els.graph.getBoundingClientRect();
+      const sx = width / svgRect.width;
+      const sy = height / svgRect.height;
+      const onMove = (ev) => {
+        node.x = clamp((ev.clientX - svgRect.left) * sx, margin, width - margin);
+        node.y = clamp((ev.clientY - svgRect.top) * sy, margin, height - margin);
+        if (!graphAnimation) graphAnimation = requestAnimationFrame(tick);
+      };
+      const onUp = () => {
+        node.pinned = false;
+        window.removeEventListener("mousemove", onMove);
+        window.removeEventListener("mouseup", onUp);
+      };
+      window.addEventListener("mousemove", onMove);
+      window.addEventListener("mouseup", onUp);
     });
-    group.append(svgEl("rect", { class: "graph-box", x: -48, y: -17, width: 96, height: 34, rx: 5 }));
-    const label = svgEl("text", { class: "graph-label", y: 4 });
-    label.textContent = `${senseNumber(node.sense)} - ${shortLabel(node.sense)}`;
-    group.append(label);
-    group.addEventListener("click", () => {
-      selectSense(node.sense);
-      render();
-    });
-    els.graph.append(group);
+    els.graph.append(g);
+    return { g, node };
+  });
+
+  function updatePositions() {
+    for (const { line, lbl, edge } of edgeEls) {
+      const s = edge.sourceNode;
+      const t = edge.targetNode;
+      line.setAttribute("x1", s.x); line.setAttribute("y1", s.y);
+      line.setAttribute("x2", t.x); line.setAttribute("y2", t.y);
+      lbl.setAttribute("x", (s.x + t.x) / 2);
+      lbl.setAttribute("y", (s.y + t.y) / 2 - 8);
+    }
+    for (const { g, node } of nodeEls) {
+      g.setAttribute("transform", `translate(${node.x},${node.y})`);
+    }
   }
+
+  function tick() {
+    graphAnimation = null;
+    for (let i = 0; i < 4; i++) physicsStep(nodes, allEdges, width, height, margin);
+    updatePositions();
+    const energy = nodes.reduce((s, n) => s + n.vx * n.vx + n.vy * n.vy, 0);
+    if (energy > 0.08) graphAnimation = requestAnimationFrame(tick);
+  }
+
+  updatePositions();
+  graphAnimation = requestAnimationFrame(tick);
 }
 
-function runForceLayout(nodes, links, width, height) {
-  for (const node of nodes) {
-    node.vx = 0;
-    node.vy = 0;
+function physicsStep(nodes, edges, width, height, margin) {
+  for (let i = 0; i < nodes.length; i++) {
+    for (let j = i + 1; j < nodes.length; j++) {
+      const a = nodes[i];
+      const b = nodes[j];
+      if (a.pinned && b.pinned) continue;
+      const dx = a.x - b.x || 0.01;
+      const dy = a.y - b.y || 0.01;
+      const dist2 = Math.max(dx * dx + dy * dy, 100);
+      const f = 2200 / dist2;
+      if (!a.pinned) { a.vx += dx * f; a.vy += dy * f; }
+      if (!b.pinned) { b.vx -= dx * f; b.vy -= dy * f; }
+    }
   }
-  for (let step = 0; step < 140; step++) {
-    for (let i = 0; i < nodes.length; i++) {
-      for (let j = i + 1; j < nodes.length; j++) {
-        const a = nodes[i];
-        const b = nodes[j];
-        const dx = a.x - b.x || 0.01;
-        const dy = a.y - b.y || 0.01;
-        const dist2 = Math.max(dx * dx + dy * dy, 100);
-        const force = 700 / dist2;
-        a.vx += dx * force;
-        a.vy += dy * force;
-        b.vx -= dx * force;
-        b.vy -= dy * force;
-      }
-    }
-    for (const link of links) {
-      const dx = link.targetNode.x - link.sourceNode.x;
-      const dy = link.targetNode.y - link.sourceNode.y;
-      const dist = Math.max(Math.hypot(dx, dy), 1);
-      const force = (dist - 230) * 0.01;
-      const fx = (dx / dist) * force;
-      const fy = (dy / dist) * force;
-      link.sourceNode.vx += fx;
-      link.sourceNode.vy += fy;
-      link.targetNode.vx -= fx;
-      link.targetNode.vy -= fy;
-    }
-    for (const node of nodes) {
-      const anchorX = node.role === "source" ? width * 0.22 : node.role === "target" ? width * 0.78 : width * 0.5;
-      node.vx += (anchorX - node.x) * 0.015;
-      node.x = clamp(node.x + node.vx, 40, width - 40);
-      node.y = clamp(node.y + node.vy, 40, height - 40);
-      node.vx *= 0.72;
-      node.vy *= 0.72;
-    }
+  for (const { sourceNode: s, targetNode: t } of edges) {
+    const dx = t.x - s.x;
+    const dy = t.y - s.y;
+    const dist = Math.max(Math.hypot(dx, dy), 1);
+    const f = (dist - 160) * 0.04;
+    const fx = (dx / dist) * f;
+    const fy = (dy / dist) * f;
+    if (!s.pinned) { s.vx += fx; s.vy += fy; }
+    if (!t.pinned) { t.vx -= fx; t.vy -= fy; }
+  }
+  const cx = width / 2;
+  const cy = height / 2;
+  for (const node of nodes) {
+    if (node.pinned) continue;
+    node.vx += (cx - node.x) * 0.004;
+    node.vy += (cy - node.y) * 0.004;
+    if (node.x < margin) node.vx += (margin - node.x) * 0.3;
+    else if (node.x > width - margin) node.vx -= (node.x - (width - margin)) * 0.3;
+    if (node.y < margin) node.vy += (margin - node.y) * 0.3;
+    else if (node.y > height - margin) node.vy -= (node.y - (height - margin)) * 0.3;
+    node.vx *= 0.82;
+    node.vy *= 0.82;
+    node.x = clamp(node.x + node.vx, margin, width - margin);
+    node.y = clamp(node.y + node.vy, margin, height - margin);
   }
 }
 
