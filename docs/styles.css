@@ -430,6 +430,10 @@ a.sense-ili:hover {
   padding: 0 10px 10px;
 }
 
+.sense-annotation.hidden {
+  display: none;
+}
+
 .bad-sense-toggle {
   display: flex;
   align-items: center;
