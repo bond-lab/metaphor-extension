@@ -4,37 +4,10 @@ Thank you for helping with this project. Your first job is to label semantic lin
 
 ---
 
-## What you will need
-
-- A modern web browser (Chrome, Firefox, or Safari)
-- The session file: **`kenet-animal-human-4a6d881bfc4af405.json`** (attached)
-- The annotation guidelines are linked from the annotation tool
----
-
-## Loading the session
-
-1. Open the annotation tool in your browser. *(Your supervisor will give you the URL, or you can open `docs/index.html` locally — see below.)*
+1. You can annotate using the annotation tool here: https://bond-lab.github.io/metaphor-extension/
 2. Click **Open session** in the top bar.
-3. Select the file `kenet-animal-human-4a6d881bfc4af405.json`.
-4. The queue on the left will fill with 38 Turkish words to annotate.
-
-**Opening locally (if no URL is provided):**
-```
-python3 -m http.server 8000 --directory docs
-```
-Then open <http://127.0.0.1:8000> in your browser.
-
----
-
-## Enabling English translations
-
-The senses are in Turkish. To see English glosses alongside them:
-
-1. Once a session is loaded, look for the **"Show omw-en:1.4"** toggle next to the "All senses" heading.
-2. Check the box to turn translations on.
-3. Each sense card will now show an italic English line below the Turkish definition.
-
-Not every sense will have an English translation (some Turkish synsets do not have ILI links in the English WordNet), but most will.
+3. Load the file I sent you (e.g.  **`kenet-animal-human-4a6d881bfc4af405.json`** (attached))
+4. The queue on the left will fill with words to annotate (there should be 38).
 
 ---
 
@@ -74,7 +47,7 @@ Your annotations are saved automatically in the browser's local storage as you w
 
 1. Click **Save session** in the top bar.
 2. Your browser will download a file named `kenet-animal-human.json` (or similar).
-3. Send this file to your supervisor when you have finished.
+3. Send this file to your me when you have finished.
 
 **To resume later:**
 
@@ -84,8 +57,20 @@ Your annotations are saved automatically in the browser's local storage as you w
 
 ---
 
+## Enabling English translations
+
+The senses are in Turkish. To see English glosses alongside them:
+
+1. Once a session is loaded, look for the **"Show omw-en:1.4"** toggle next to the "All senses" heading.
+2. Check the box to turn translations on.
+3. Each sense card will now show an italic English line below the Turkish definition.
+
+Not every sense will have an English translation (some Turkish synsets do not have ILI links in the English WordNet).
+
+---
+
 ## Questions and problems
 
-- If a sense card looks wrong (bad ILI, wrong definition), tick the **bad-sense** checkbox on that card and add a note. Do not skip the word entirely.
+- If a sense looks wrong (bad ILI, wrong definition), tick the **bad-sense** checkbox on that card and add a note. Do not skip the word entirely.
 - If you are unsure about a link type, record your best guess and add a comment explaining the difficulty.
-- For anything else, contact your supervisor.
+- For anything else, contact your me.
