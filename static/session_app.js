@@ -194,24 +194,28 @@ function renderSenses(container, senses, links) {
     const linkedType = linkedClass(sense.id, links);
     const annotation = senseAnnotation(sense);
     card.className = `sense ${selectedClass(sense.id)} ${linkedType} ${annotation.bad_sense ? "bad-sense" : ""}`;
+    const hasAnnotation = annotation.bad_sense || annotation.comment;
     card.innerHTML = `
       <div class="sense-main" role="button" tabindex="0">
         <div class="sense-topline">
           <span class="sense-number">${index + 1}</span>
           <strong>${escapeHtml(sense.synset.lemmas.join(", "))}</strong>
-          ${senseIliLink(sense)}
+          <span class="sense-topline-right">
+            ${senseIliLink(sense)}
+            <button class="annotate-toggle${hasAnnotation ? " has-annotation" : ""}" title="Note" aria-label="Toggle sense note">✎</button>
+          </span>
         </div>
         <div class="meta">${escapeHtml(sense.id)} · ${escapeHtml(sense.synset.pos || "")}</div>
         <div class="def">${escapeHtml(sense.synset.definition || "")}</div>
         ${state.showTranslations && sense.display_synset ? `<div class="def def-reference">${escapeHtml(sense.display_synset.lemmas.join(", "))} — ${escapeHtml(sense.display_synset.definition)}</div>` : ""}
         ${senseBadges(sense)}
       </div>
-      <div class="sense-annotation">
+      <div class="sense-annotation${hasAnnotation ? "" : " hidden"}">
         <label class="bad-sense-toggle">
           <input type="checkbox" data-sense-bad="${escapeHtml(sense.id)}" ${annotation.bad_sense ? "checked" : ""}>
-          bad-sense
+          bad
         </label>
-        <textarea data-sense-comment="${escapeHtml(sense.id)}" rows="2" placeholder="sense comment">${escapeHtml(annotation.comment)}</textarea>
+        <textarea data-sense-comment="${escapeHtml(sense.id)}" rows="2" placeholder="note">${escapeHtml(annotation.comment)}</textarea>
       </div>
     `;
     card.querySelector(".sense-main").addEventListener("click", () => {
@@ -224,6 +228,13 @@ function renderSenses(container, senses, links) {
       selectSense(sense);
       render();
     });
+    const annotateBtn = card.querySelector(".annotate-toggle");
+    annotateBtn.addEventListener("click", (event) => {
+      event.stopPropagation();
+      card.querySelector(".sense-annotation").classList.toggle("hidden");
+      annotateBtn.classList.toggle("active");
+    });
+    annotateBtn.addEventListener("keydown", (event) => event.stopPropagation());
     card.querySelector("[data-sense-bad]").addEventListener("change", (event) => {
       saveSenseAnnotation(sense, { bad_sense: event.target.checked });
     });
@@ -576,12 +587,9 @@ function senseRole(sense) {
 }
 
 function senseBadges(sense) {
-  const role = senseRole(sense);
   const badges = [];
-  if (role === "source" || role === "both") badges.push('<span class="badge source">SOURCE ILI</span>');
-  if (role === "target" || role === "both") badges.push('<span class="badge target">TARGET ILI</span>');
   if (sense.projected) badges.push('<span class="badge projected">EXTENDED</span>');
-  if (senseAnnotation(sense).bad_sense) badges.push('<span class="badge bad">BAD-SENSE</span>');
+  if (senseAnnotation(sense).bad_sense) badges.push('<span class="badge bad">BAD</span>');
   return badges.length ? `<div class="badges">${badges.join("")}</div>` : "";
 }
 

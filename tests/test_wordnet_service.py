@@ -130,7 +130,7 @@ def test_enrich_senses_with_display_adds_display_synset():
             "all_senses": [
                 {
                     "id": "omw-en-person-00007846-n",
-                    "synset": {"id": "omw-en-00007846-n", "ili": "i4167", "pos": "n"},
+                    "synset": {"id": "omw-en-00007846-n", "ili": "i35562", "pos": "n"},
                 },
                 {
                     "id": "no-ili-sense",
