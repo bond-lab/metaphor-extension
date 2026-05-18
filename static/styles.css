@@ -37,6 +37,19 @@ body {
   font-size: 18px;
 }
 
+.guidelines-link {
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.guidelines-link:hover {
+  color: var(--active);
+  text-decoration: underline;
+}
+
 .search-form {
   display: grid;
   grid-template-columns: 150px minmax(190px, 1.3fr) minmax(130px, 0.8fr) minmax(190px, 1.3fr) minmax(130px, 0.8fr) minmax(150px, 1fr) minmax(120px, 0.7fr) 100px 100px 72px auto;
