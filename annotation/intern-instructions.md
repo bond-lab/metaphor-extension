@@ -73,4 +73,4 @@ Not every sense will have an English translation (some Turkish synsets do not ha
 
 - If a sense looks wrong (bad ILI, wrong definition), tick the **bad-sense** checkbox on that card and add a note. Do not skip the word entirely.
 - If you are unsure about a link type, record your best guess and add a comment explaining the difficulty.
-- For anything else, contact your me.
+- For anything else, contact me.
