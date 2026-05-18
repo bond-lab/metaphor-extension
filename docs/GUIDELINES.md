@@ -185,6 +185,56 @@ Is there a semantic link between the two senses?
 
 ---
 
+---
+
+## Special Cases
+
+This section covers recurring edge cases. It is adapted from §2.3.2 and §3 of the ChainNet guidelines.
+
+### The threshold for metaphoricity
+
+When it is unclear whether two senses are sufficiently different to count as a metaphor, **err on the side of labelling it as a metaphor** and use a comment to note the subtlety. This applies even when the difference seems small. For example, *flesh* as animal tissue and *flesh* as the soft interior of a fruit are technically distinct senses even though they share most features — the changed feature (part of an animal vs. part of a fruit) is enough to make the link metaphorical.
+
+### Generalisations
+
+Sometimes one sense is a loose generalisation of another: it covers the literal cases and also cases that are clearly metaphorical. Treat such a sense as a **metaphor** of the more specific one, not as an association. For example, if one sense means *the mother of your parent* and another means *any old woman*, the second is a metaphorical extension of the first.
+
+### Abstractions
+
+A sense that describes a property of an object is often a metaphorical extension of the sense describing the object itself. Colour names are the classic case: *ivory* (the material) → *ivory* (the off-white colour) is a metaphor because the colour sense can be predicated of things that are not made of ivory (e.g. "her ivory skin"). The test is whether the abstract sense can describe things that lack the defining features of the concrete sense.
+
+Note: if the abstract property sense is the *core* sense (the one you think of first), then the object sense is a **metonymy**, not a metaphor. Direction matters here.
+
+### International and regional equivalents
+
+When a word has two senses that refer to different regional or cultural versions of the same thing (e.g. a British and an American unit of measurement, or two regional species referred to by the same name), treat these as **metaphorically** related: they are similar in structure but differ in a specific measurable or definitional way. The more internationally unmarked or historically prior sense is A; the regional variant is B.
+
+### Choosing which sense a metaphor connects to
+
+When multiple senses are candidates for the source of a metaphor, connect to the one whose **semantic type** best matches. An event-like sense should connect to another event-like sense; an object should connect to an object. For example, if a word has both an action sense and a result-state sense, a metaphorical extension that describes an event should link to the action sense rather than the result-state sense.
+
+### Chained links
+
+Occasionally sense A is linked to sense B, and B is itself a metaphor or metonymy of sense C. In ChainNet this is handled with "conduit" labels; this tool does not support that structure. Instead:
+
+- Record the most direct link you can find between each pair of senses.
+- If a chain seems important, note it in the item comment (e.g. "sense 2 is a metonymy of sense 1, and sense 3 is a metaphor of sense 2, not directly of sense 1").
+
+### Senses that conflate literal and metaphorical meanings
+
+WordNet definitions sometimes bundle a literal and a metaphorical reading into a single sense (e.g. *birth*: "the time when something begins", covering both the birth of a child and the birth of an era). You cannot split senses in this tool. Instead:
+
+- Annotate the link as **metaphor** if the dominant reading in the cross-domain context is metaphorical.
+- Add a sense comment noting that the definition conflates literal and metaphorical readings.
+
+### Missing senses (gaps in the WordNet)
+
+If the semantic link you want to record is clear but the sense needed to express it is absent from the WordNet, and there is an EXTENDED sense (projected from the reference WordNet) that fills this gap, annotate using the EXTENDED sense and note in a sense comment that it is not a verified entry.
+
+If no suitable sense exists at all, mark the item as **Incomplete** and explain in the item comment what link you believe exists and what sense is missing.
+
+---
+
 ## Reference
 
 These guidelines are based on and adapted from:
