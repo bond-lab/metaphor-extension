@@ -67,7 +67,7 @@ A **metonymy** link connects two senses that are related through real-world asso
 **Common patterns:**
 
 - **Part for whole:** *hand* (body part) → *hand* (worker, labourer) — a person named by a relevant body part.
-- **Animal for behaviour/product:** *leech* (parasitic worm) → *leech* (person who exploits others) — this looks like a metaphor, but the connection is one of association by behaviour rather than structural resemblance. When in doubt, see "Distinguishing metaphor and metonymy" below.
+- **Animal for product:** *mink* (small furry mammal) → *mink* (a fur coat or garment made from its pelt); similarly *fox* (animal) → *fox* (the fur) — the product is named for the animal it comes from, with no structural resemblance between the two senses.
 - **Place for institution:** *crown* (ornamental headgear) → *crown* (the monarchy) — the object stands for the institution.
 
 **Direction:** The more literal or physically grounded sense is usually A; the associated sense is B.
