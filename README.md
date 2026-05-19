@@ -19,7 +19,11 @@ uv run pytest
 
 ## Static GitHub Pages Mode
 
-The `docs/` directory contains a browser-only version of the editor for GitHub Pages or any static file server. It cannot compute Wordnet sessions in the browser, so sessions must be precomputed first:
+The `docs/` directory contains a browser-only version of the editor for GitHub Pages or any static file server. It cannot compute Wordnet sessions in the browser, so sessions must be precomputed first.
+
+### Two-hierarchy intersection
+
+Finds lemmas shared across two ILI-rooted hyponym subtrees:
 
 ```bash
 uv run python scripts/build_static.py \
@@ -30,9 +34,24 @@ uv run python scripts/build_static.py \
   --target-ili i35562
 ```
 
-That writes:
+### Polysemy mode
 
-- `docs/data/<session-name>-<session-id>.json`, for example `docs/data/kenet-animal-human-83ad26cae394c8cc.json`
+Finds lemmas in the hyponym subtree of a single ILI that are polysemous in the full wordnet. `source_senses` are the domain-anchored senses; `target_senses` are all noun senses in the wordnet so annotators can classify the relationship between each domain sense and every extended sense:
+
+```bash
+uv run python scripts/build_polysemy.py \
+  --name color-en \
+  --wordnet omw-en:1.4 \
+  --ili i63025
+
+uv run python scripts/build_polysemy.py \
+  --name color-tr \
+  --wordnet https://raw.githubusercontent.com/StarlangSoftware/TurkishWordNet/master/kenet.xml \
+  --ili i63025 \
+  --display-wordnet omw-en:1.4
+```
+
+Both scripts write to `docs/data/<session-name>-<session-id>.json`.
 
 You can test it locally with:
 

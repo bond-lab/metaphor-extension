@@ -18,9 +18,13 @@ uv run pytest
 # Run a single test
 uv run pytest tests/test_store.py::test_save_session_merges_annotations
 
-# Build static GitHub Pages data (--display-wordnet optional, e.g. omw-en:1.4)
+# Build static GitHub Pages data — two-hierarchy intersection (--display-wordnet optional)
 uv run python scripts/build_static.py --name <name> --wordnet <url-or-id> \
   --source-ili <ili> --target-ili <ili> [--display-wordnet <url-or-id>]
+
+# Build polysemy annotation data — single ILI root, polysemous words in full wordnet
+uv run python scripts/build_polysemy.py --name <name> --wordnet <url-or-id> \
+  --ili <ili> [--display-wordnet <url-or-id>]
 
 # Serve static docs locally
 python3 -m http.server 8000 --directory docs
@@ -32,12 +36,21 @@ Use `uv` (not conda) — the project ships with `pyproject.toml` and `.venv`.
 
 ### Core pipeline (`metaphor_extension/wordnet_service.py`)
 
-`build_candidate_session()` is the heart of the application:
+Two session-building functions share `load_wordnet()`, `_hyponym_closure()`, and helpers:
+
+**`build_candidate_session()`** — two-hierarchy intersection mode:
 1. Loads target WordNet via `load_wordnet()`, which accepts a URL, `file://` path, project id, or lexicon id — downloading and caching via `wn` as needed
 2. Computes BFS hyponym closures under source and target ILI roots (nouns only, skipping instance synsets)
 3. Intersects the two sets of lemmas to produce the annotation queue
 4. Optionally uses a separate reference WordNet for hierarchy (so the ILI tree comes from e.g. `omw-en:1.4` while displayed lemmas come from the target language)
 5. Optionally projects additional reference senses onto target lemmas (`extend=True`) — these appear as `projected: true` in the payload and are marked `EXTENDED` in the UI
+
+**`build_polysemy_session()`** — single-ILI polysemy mode:
+1. Takes a single root ILI and collects all lemmas in its hyponym closure (including the root itself)
+2. For each lemma, fetches all its noun senses in the full wordnet
+3. Keeps only lemmas with 2+ total senses (polysemous in the full wordnet, not just the subtree)
+4. `source_senses` = senses anchored in the subtree; `target_senses` = all senses in the wordnet
+5. Annotators classify the relationship (metaphor, metonymy, etc.) between the domain sense and each extended sense
 
 Session identity is a 16-char SHA-256 hash of all parameters; re-submitting with the same parameters returns the same session id and merges existing annotations.
 
@@ -62,9 +75,9 @@ Created via `create_app(test_config=None)` factory. REST API:
 
 `<lemma>` uses `<path:>` routing to allow slashes in lemma forms.
 
-### Static mode (`scripts/build_static.py`, `docs/`)
+### Static mode (`scripts/build_static.py`, `scripts/build_polysemy.py`, `docs/`)
 
-`build_static.py` calls `build_candidate_session()` and writes the result to `docs/data/<name>-<id>.json`. The `docs/` static app reads these JSON files and stores annotations in `localStorage` instead of calling a Flask server.
+`build_static.py` calls `build_candidate_session()` and writes the result to `docs/data/<name>-<id>.json`. `build_polysemy.py` calls `build_polysemy_session()` and writes to the same directory. The `docs/` static app reads these JSON files and stores annotations in `localStorage` instead of calling a Flask server.
 
 ### Frontend (`static/`)
 

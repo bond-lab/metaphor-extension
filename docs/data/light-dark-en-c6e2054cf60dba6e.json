@@ -1,0 +1,3757 @@
+{
+  "id": "c6e2054cf60dba6e",
+  "name": "light-dark-en",
+  "wordnet": "omw-en:1.4",
+  "lexicon": "omw-en:1.4",
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "root_ili": "i110419",
+  "source_ili": "i110419",
+  "target_ili": "i110419",
+  "source_roots": [
+    {
+      "id": "omw-en-13983147-n",
+      "ili": "i110419",
+      "pos": "n",
+      "lemmas": [
+        "illumination"
+      ],
+      "definition": "the degree of visibility of your environment"
+    }
+  ],
+  "target_roots": [
+    {
+      "id": "omw-en-13983147-n",
+      "ili": "i110419",
+      "pos": "n",
+      "lemmas": [
+        "illumination"
+      ],
+      "definition": "the degree of visibility of your environment"
+    }
+  ],
+  "items": [
+    {
+      "lemma": "black",
+      "all_senses": [
+        {
+          "id": "omw-en-Black-09636339-n",
+          "lemma": "black",
+          "word_id": "omw-en-Black-n",
+          "synset": {
+            "id": "omw-en-09636339-n",
+            "ili": "i87262",
+            "pos": "n",
+            "lemmas": [
+              "Black",
+              "Black person",
+              "blackamoor",
+              "Negro",
+              "Negroid"
+            ],
+            "definition": "a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+          }
+        },
+        {
+          "id": "omw-en-black-02846141-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-02846141-n",
+            "ili": "i50811",
+            "pos": "n",
+            "lemmas": [
+              "black"
+            ],
+            "definition": "black clothing (worn as a sign of mourning)"
+          }
+        },
+        {
+          "id": "omw-en-black-02846260-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-02846260-n",
+            "ili": "i50812",
+            "pos": "n",
+            "lemmas": [
+              "black"
+            ],
+            "definition": "(board games) the darker pieces"
+          }
+        },
+        {
+          "id": "omw-en-black-04960277-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-04960277-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "black",
+              "blackness",
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "omw-en-black-13983807-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-13983807-n",
+            "ili": "i110423",
+            "pos": "n",
+            "lemmas": [
+              "total darkness",
+              "lightlessness",
+              "blackness",
+              "pitch blackness",
+              "black"
+            ],
+            "definition": "total absence of light"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-black-13983807-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-13983807-n",
+            "ili": "i110423",
+            "pos": "n",
+            "lemmas": [
+              "total darkness",
+              "lightlessness",
+              "blackness",
+              "pitch blackness",
+              "black"
+            ],
+            "definition": "total absence of light"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-Black-09636339-n",
+          "lemma": "black",
+          "word_id": "omw-en-Black-n",
+          "synset": {
+            "id": "omw-en-09636339-n",
+            "ili": "i87262",
+            "pos": "n",
+            "lemmas": [
+              "Black",
+              "Black person",
+              "blackamoor",
+              "Negro",
+              "Negroid"
+            ],
+            "definition": "a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+          }
+        },
+        {
+          "id": "omw-en-black-02846141-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-02846141-n",
+            "ili": "i50811",
+            "pos": "n",
+            "lemmas": [
+              "black"
+            ],
+            "definition": "black clothing (worn as a sign of mourning)"
+          }
+        },
+        {
+          "id": "omw-en-black-02846260-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-02846260-n",
+            "ili": "i50812",
+            "pos": "n",
+            "lemmas": [
+              "black"
+            ],
+            "definition": "(board games) the darker pieces"
+          }
+        },
+        {
+          "id": "omw-en-black-04960277-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-04960277-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "black",
+              "blackness",
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "omw-en-black-13983807-n",
+          "lemma": "black",
+          "word_id": "omw-en-black-n",
+          "synset": {
+            "id": "omw-en-13983807-n",
+            "ili": "i110423",
+            "pos": "n",
+            "lemmas": [
+              "total darkness",
+              "lightlessness",
+              "blackness",
+              "pitch blackness",
+              "black"
+            ],
+            "definition": "total absence of light"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "blackness",
+      "all_senses": [
+        {
+          "id": "omw-en-blackness-04960277-n",
+          "lemma": "blackness",
+          "word_id": "omw-en-blackness-n",
+          "synset": {
+            "id": "omw-en-04960277-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "black",
+              "blackness",
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "omw-en-blackness-13983807-n",
+          "lemma": "blackness",
+          "word_id": "omw-en-blackness-n",
+          "synset": {
+            "id": "omw-en-13983807-n",
+            "ili": "i110423",
+            "pos": "n",
+            "lemmas": [
+              "total darkness",
+              "lightlessness",
+              "blackness",
+              "pitch blackness",
+              "black"
+            ],
+            "definition": "total absence of light"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-blackness-13983807-n",
+          "lemma": "blackness",
+          "word_id": "omw-en-blackness-n",
+          "synset": {
+            "id": "omw-en-13983807-n",
+            "ili": "i110423",
+            "pos": "n",
+            "lemmas": [
+              "total darkness",
+              "lightlessness",
+              "blackness",
+              "pitch blackness",
+              "black"
+            ],
+            "definition": "total absence of light"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-blackness-04960277-n",
+          "lemma": "blackness",
+          "word_id": "omw-en-blackness-n",
+          "synset": {
+            "id": "omw-en-04960277-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "black",
+              "blackness",
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "omw-en-blackness-13983807-n",
+          "lemma": "blackness",
+          "word_id": "omw-en-blackness-n",
+          "synset": {
+            "id": "omw-en-13983807-n",
+            "ili": "i110423",
+            "pos": "n",
+            "lemmas": [
+              "total darkness",
+              "lightlessness",
+              "blackness",
+              "pitch blackness",
+              "black"
+            ],
+            "definition": "total absence of light"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "blackout",
+      "all_senses": [
+        {
+          "id": "omw-en-blackout-05672391-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-05672391-n",
+            "ili": "i66727",
+            "pos": "n",
+            "lemmas": [
+              "amnesia",
+              "memory loss",
+              "blackout"
+            ],
+            "definition": "partial or total loss of memory"
+          }
+        },
+        {
+          "id": "omw-en-blackout-05679800-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-05679800-n",
+            "ili": "i66763",
+            "pos": "n",
+            "lemmas": [
+              "blackout"
+            ],
+            "definition": "a momentary loss of consciousness"
+          }
+        },
+        {
+          "id": "omw-en-blackout-07422506-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-07422506-n",
+            "ili": "i75718",
+            "pos": "n",
+            "lemmas": [
+              "blackout"
+            ],
+            "definition": "the failure of electric power for a general region"
+          }
+        },
+        {
+          "id": "omw-en-blackout-13984082-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-13984082-n",
+            "ili": "i110424",
+            "pos": "n",
+            "lemmas": [
+              "blackout",
+              "brownout",
+              "dimout"
+            ],
+            "definition": "darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft)"
+          }
+        },
+        {
+          "id": "omw-en-blackout-15271619-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-15271619-n",
+            "ili": "i117498",
+            "pos": "n",
+            "lemmas": [
+              "blackout"
+            ],
+            "definition": "a suspension of radio or tv broadcasting"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-blackout-13984082-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-13984082-n",
+            "ili": "i110424",
+            "pos": "n",
+            "lemmas": [
+              "blackout",
+              "brownout",
+              "dimout"
+            ],
+            "definition": "darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-blackout-05672391-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-05672391-n",
+            "ili": "i66727",
+            "pos": "n",
+            "lemmas": [
+              "amnesia",
+              "memory loss",
+              "blackout"
+            ],
+            "definition": "partial or total loss of memory"
+          }
+        },
+        {
+          "id": "omw-en-blackout-05679800-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-05679800-n",
+            "ili": "i66763",
+            "pos": "n",
+            "lemmas": [
+              "blackout"
+            ],
+            "definition": "a momentary loss of consciousness"
+          }
+        },
+        {
+          "id": "omw-en-blackout-07422506-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-07422506-n",
+            "ili": "i75718",
+            "pos": "n",
+            "lemmas": [
+              "blackout"
+            ],
+            "definition": "the failure of electric power for a general region"
+          }
+        },
+        {
+          "id": "omw-en-blackout-13984082-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-13984082-n",
+            "ili": "i110424",
+            "pos": "n",
+            "lemmas": [
+              "blackout",
+              "brownout",
+              "dimout"
+            ],
+            "definition": "darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft)"
+          }
+        },
+        {
+          "id": "omw-en-blackout-15271619-n",
+          "lemma": "blackout",
+          "word_id": "omw-en-blackout-n",
+          "synset": {
+            "id": "omw-en-15271619-n",
+            "ili": "i117498",
+            "pos": "n",
+            "lemmas": [
+              "blackout"
+            ],
+            "definition": "a suspension of radio or tv broadcasting"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cloudiness",
+      "all_senses": [
+        {
+          "id": "omw-en-cloudiness-04703698-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-04703698-n",
+            "ili": "i61775",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "murkiness",
+              "muddiness"
+            ],
+            "definition": "the quality of being cloudy"
+          }
+        },
+        {
+          "id": "omw-en-cloudiness-13984468-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-13984468-n",
+            "ili": "i110426",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "overcast"
+            ],
+            "definition": "gloomy semidarkness caused by cloud cover"
+          }
+        },
+        {
+          "id": "omw-en-cloudiness-14524198-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-14524198-n",
+            "ili": "i113329",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "cloud cover",
+              "overcast"
+            ],
+            "definition": "the state of the sky when it is covered by clouds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-cloudiness-13984468-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-13984468-n",
+            "ili": "i110426",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "overcast"
+            ],
+            "definition": "gloomy semidarkness caused by cloud cover"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-cloudiness-04703698-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-04703698-n",
+            "ili": "i61775",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "murkiness",
+              "muddiness"
+            ],
+            "definition": "the quality of being cloudy"
+          }
+        },
+        {
+          "id": "omw-en-cloudiness-13984468-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-13984468-n",
+            "ili": "i110426",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "overcast"
+            ],
+            "definition": "gloomy semidarkness caused by cloud cover"
+          }
+        },
+        {
+          "id": "omw-en-cloudiness-14524198-n",
+          "lemma": "cloudiness",
+          "word_id": "omw-en-cloudiness-n",
+          "synset": {
+            "id": "omw-en-14524198-n",
+            "ili": "i113329",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "cloud cover",
+              "overcast"
+            ],
+            "definition": "the state of the sky when it is covered by clouds"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dark",
+      "all_senses": [
+        {
+          "id": "omw-en-dark-05988498-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-05988498-n",
+            "ili": "i68292",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "an unenlightened state"
+          }
+        },
+        {
+          "id": "omw-en-dark-08646306-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-08646306-n",
+            "ili": "i82402",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "dark",
+              "shadow"
+            ],
+            "definition": "an unilluminated area"
+          }
+        },
+        {
+          "id": "omw-en-dark-13983515-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-13983515-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        },
+        {
+          "id": "omw-en-dark-14563564-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-14563564-n",
+            "ili": "i113544",
+            "pos": "n",
+            "lemmas": [
+              "iniquity",
+              "wickedness",
+              "darkness",
+              "dark"
+            ],
+            "definition": "absence of moral or spiritual values"
+          }
+        },
+        {
+          "id": "omw-en-dark-15167027-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-15167027-n",
+            "ili": "i116919",
+            "pos": "n",
+            "lemmas": [
+              "night",
+              "nighttime",
+              "dark"
+            ],
+            "definition": "the time after sunset and before sunrise while it is dark outside"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-dark-13983515-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-13983515-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-dark-05988498-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-05988498-n",
+            "ili": "i68292",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "an unenlightened state"
+          }
+        },
+        {
+          "id": "omw-en-dark-08646306-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-08646306-n",
+            "ili": "i82402",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "dark",
+              "shadow"
+            ],
+            "definition": "an unilluminated area"
+          }
+        },
+        {
+          "id": "omw-en-dark-13983515-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-13983515-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        },
+        {
+          "id": "omw-en-dark-14563564-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-14563564-n",
+            "ili": "i113544",
+            "pos": "n",
+            "lemmas": [
+              "iniquity",
+              "wickedness",
+              "darkness",
+              "dark"
+            ],
+            "definition": "absence of moral or spiritual values"
+          }
+        },
+        {
+          "id": "omw-en-dark-15167027-n",
+          "lemma": "dark",
+          "word_id": "omw-en-dark-n",
+          "synset": {
+            "id": "omw-en-15167027-n",
+            "ili": "i116919",
+            "pos": "n",
+            "lemmas": [
+              "night",
+              "nighttime",
+              "dark"
+            ],
+            "definition": "the time after sunset and before sunrise while it is dark outside"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "darkness",
+      "all_senses": [
+        {
+          "id": "omw-en-darkness-04978216-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-04978216-n",
+            "ili": "i63162",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "duskiness",
+              "swarthiness"
+            ],
+            "definition": "a swarthy complexion"
+          }
+        },
+        {
+          "id": "omw-en-darkness-04979870-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-04979870-n",
+            "ili": "i63171",
+            "pos": "n",
+            "lemmas": [
+              "darkness"
+            ],
+            "definition": "having a dark or somber color"
+          }
+        },
+        {
+          "id": "omw-en-darkness-05988498-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-05988498-n",
+            "ili": "i68292",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "an unenlightened state"
+          }
+        },
+        {
+          "id": "omw-en-darkness-08646306-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-08646306-n",
+            "ili": "i82402",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "dark",
+              "shadow"
+            ],
+            "definition": "an unilluminated area"
+          }
+        },
+        {
+          "id": "omw-en-darkness-13983515-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-13983515-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        },
+        {
+          "id": "omw-en-darkness-14563564-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-14563564-n",
+            "ili": "i113544",
+            "pos": "n",
+            "lemmas": [
+              "iniquity",
+              "wickedness",
+              "darkness",
+              "dark"
+            ],
+            "definition": "absence of moral or spiritual values"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-darkness-13983515-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-13983515-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-darkness-04978216-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-04978216-n",
+            "ili": "i63162",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "duskiness",
+              "swarthiness"
+            ],
+            "definition": "a swarthy complexion"
+          }
+        },
+        {
+          "id": "omw-en-darkness-04979870-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-04979870-n",
+            "ili": "i63171",
+            "pos": "n",
+            "lemmas": [
+              "darkness"
+            ],
+            "definition": "having a dark or somber color"
+          }
+        },
+        {
+          "id": "omw-en-darkness-05988498-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-05988498-n",
+            "ili": "i68292",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "an unenlightened state"
+          }
+        },
+        {
+          "id": "omw-en-darkness-08646306-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-08646306-n",
+            "ili": "i82402",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "dark",
+              "shadow"
+            ],
+            "definition": "an unilluminated area"
+          }
+        },
+        {
+          "id": "omw-en-darkness-13983515-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-13983515-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        },
+        {
+          "id": "omw-en-darkness-14563564-n",
+          "lemma": "darkness",
+          "word_id": "omw-en-darkness-n",
+          "synset": {
+            "id": "omw-en-14563564-n",
+            "ili": "i113544",
+            "pos": "n",
+            "lemmas": [
+              "iniquity",
+              "wickedness",
+              "darkness",
+              "dark"
+            ],
+            "definition": "absence of moral or spiritual values"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dimness",
+      "all_senses": [
+        {
+          "id": "omw-en-dimness-04704675-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-04704675-n",
+            "ili": "i61779",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "faintness"
+            ],
+            "definition": "the quality of being dim or lacking contrast"
+          }
+        },
+        {
+          "id": "omw-en-dimness-04955907-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-04955907-n",
+            "ili": "i63022",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "subduedness"
+            ],
+            "definition": "the property of lights or sounds that lack brilliance or are reduced in intensity"
+          }
+        },
+        {
+          "id": "omw-en-dimness-13985323-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-13985323-n",
+            "ili": "i110431",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "duskiness"
+            ],
+            "definition": "the state of being poorly illuminated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-dimness-13985323-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-13985323-n",
+            "ili": "i110431",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "duskiness"
+            ],
+            "definition": "the state of being poorly illuminated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-dimness-04704675-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-04704675-n",
+            "ili": "i61779",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "faintness"
+            ],
+            "definition": "the quality of being dim or lacking contrast"
+          }
+        },
+        {
+          "id": "omw-en-dimness-04955907-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-04955907-n",
+            "ili": "i63022",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "subduedness"
+            ],
+            "definition": "the property of lights or sounds that lack brilliance or are reduced in intensity"
+          }
+        },
+        {
+          "id": "omw-en-dimness-13985323-n",
+          "lemma": "dimness",
+          "word_id": "omw-en-dimness-n",
+          "synset": {
+            "id": "omw-en-13985323-n",
+            "ili": "i110431",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "duskiness"
+            ],
+            "definition": "the state of being poorly illuminated"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "duskiness",
+      "all_senses": [
+        {
+          "id": "omw-en-duskiness-04978216-n",
+          "lemma": "duskiness",
+          "word_id": "omw-en-duskiness-n",
+          "synset": {
+            "id": "omw-en-04978216-n",
+            "ili": "i63162",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "duskiness",
+              "swarthiness"
+            ],
+            "definition": "a swarthy complexion"
+          }
+        },
+        {
+          "id": "omw-en-duskiness-13985323-n",
+          "lemma": "duskiness",
+          "word_id": "omw-en-duskiness-n",
+          "synset": {
+            "id": "omw-en-13985323-n",
+            "ili": "i110431",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "duskiness"
+            ],
+            "definition": "the state of being poorly illuminated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-duskiness-13985323-n",
+          "lemma": "duskiness",
+          "word_id": "omw-en-duskiness-n",
+          "synset": {
+            "id": "omw-en-13985323-n",
+            "ili": "i110431",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "duskiness"
+            ],
+            "definition": "the state of being poorly illuminated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-duskiness-04978216-n",
+          "lemma": "duskiness",
+          "word_id": "omw-en-duskiness-n",
+          "synset": {
+            "id": "omw-en-04978216-n",
+            "ili": "i63162",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "duskiness",
+              "swarthiness"
+            ],
+            "definition": "a swarthy complexion"
+          }
+        },
+        {
+          "id": "omw-en-duskiness-13985323-n",
+          "lemma": "duskiness",
+          "word_id": "omw-en-duskiness-n",
+          "synset": {
+            "id": "omw-en-13985323-n",
+            "ili": "i110431",
+            "pos": "n",
+            "lemmas": [
+              "dimness",
+              "duskiness"
+            ],
+            "definition": "the state of being poorly illuminated"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gloom",
+      "all_senses": [
+        {
+          "id": "omw-en-gloom-07533257-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-07533257-n",
+            "ili": "i76341",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a feeling of melancholy apprehension"
+          }
+        },
+        {
+          "id": "omw-en-gloom-13985462-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        },
+        {
+          "id": "omw-en-gloom-14525365-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-14525365-n",
+            "ili": "i113336",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "glumness"
+            ],
+            "definition": "an atmosphere of depression and melancholy"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-gloom-13985462-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-gloom-07533257-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-07533257-n",
+            "ili": "i76341",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a feeling of melancholy apprehension"
+          }
+        },
+        {
+          "id": "omw-en-gloom-13985462-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        },
+        {
+          "id": "omw-en-gloom-14525365-n",
+          "lemma": "gloom",
+          "word_id": "omw-en-gloom-n",
+          "synset": {
+            "id": "omw-en-14525365-n",
+            "ili": "i113336",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "glumness"
+            ],
+            "definition": "an atmosphere of depression and melancholy"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "illumination",
+      "all_senses": [
+        {
+          "id": "omw-en-illumination-03769397-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-03769397-n",
+            "ili": "i56268",
+            "pos": "n",
+            "lemmas": [
+              "miniature",
+              "illumination"
+            ],
+            "definition": "painting or drawing included in a book (especially in illuminated medieval manuscripts)"
+          }
+        },
+        {
+          "id": "omw-en-illumination-05018542-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-05018542-n",
+            "ili": "i63373",
+            "pos": "n",
+            "lemmas": [
+              "illuminance",
+              "illumination"
+            ],
+            "definition": "the luminous flux incident on a unit area"
+          }
+        },
+        {
+          "id": "omw-en-illumination-07171206-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-07171206-n",
+            "ili": "i74339",
+            "pos": "n",
+            "lemmas": [
+              "clarification",
+              "elucidation",
+              "illumination"
+            ],
+            "definition": "an interpretation that removes obstacles to understanding"
+          }
+        },
+        {
+          "id": "omw-en-illumination-13983147-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-13983147-n",
+            "ili": "i110419",
+            "pos": "n",
+            "lemmas": [
+              "illumination"
+            ],
+            "definition": "the degree of visibility of your environment"
+          }
+        },
+        {
+          "id": "omw-en-illumination-14563784-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-14563784-n",
+            "ili": "i113545",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "illumination"
+            ],
+            "definition": "a condition of spiritual awareness; divine illumination"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-illumination-13983147-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-13983147-n",
+            "ili": "i110419",
+            "pos": "n",
+            "lemmas": [
+              "illumination"
+            ],
+            "definition": "the degree of visibility of your environment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-illumination-03769397-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-03769397-n",
+            "ili": "i56268",
+            "pos": "n",
+            "lemmas": [
+              "miniature",
+              "illumination"
+            ],
+            "definition": "painting or drawing included in a book (especially in illuminated medieval manuscripts)"
+          }
+        },
+        {
+          "id": "omw-en-illumination-05018542-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-05018542-n",
+            "ili": "i63373",
+            "pos": "n",
+            "lemmas": [
+              "illuminance",
+              "illumination"
+            ],
+            "definition": "the luminous flux incident on a unit area"
+          }
+        },
+        {
+          "id": "omw-en-illumination-07171206-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-07171206-n",
+            "ili": "i74339",
+            "pos": "n",
+            "lemmas": [
+              "clarification",
+              "elucidation",
+              "illumination"
+            ],
+            "definition": "an interpretation that removes obstacles to understanding"
+          }
+        },
+        {
+          "id": "omw-en-illumination-13983147-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-13983147-n",
+            "ili": "i110419",
+            "pos": "n",
+            "lemmas": [
+              "illumination"
+            ],
+            "definition": "the degree of visibility of your environment"
+          }
+        },
+        {
+          "id": "omw-en-illumination-14563784-n",
+          "lemma": "illumination",
+          "word_id": "omw-en-illumination-n",
+          "synset": {
+            "id": "omw-en-14563784-n",
+            "ili": "i113545",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "illumination"
+            ],
+            "definition": "a condition of spiritual awareness; divine illumination"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "light",
+      "all_senses": [
+        {
+          "id": "omw-en-Light-09184668-n",
+          "lemma": "light",
+          "word_id": "omw-en-Light-n",
+          "synset": {
+            "id": "omw-en-09184668-n",
+            "ili": "i84911",
+            "pos": "n",
+            "lemmas": [
+              "Inner Light",
+              "Light",
+              "Light Within",
+              "Christ Within"
+            ],
+            "definition": "a divine presence believed by Quakers to enlighten and guide the soul"
+          }
+        },
+        {
+          "id": "omw-en-light-03665366-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-03665366-n",
+            "ili": "i55679",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "light source"
+            ],
+            "definition": "any device serving as a source of illumination"
+          }
+        },
+        {
+          "id": "omw-en-light-03666591-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-03666591-n",
+            "ili": "i55684",
+            "pos": "n",
+            "lemmas": [
+              "lighter",
+              "light",
+              "igniter",
+              "ignitor"
+            ],
+            "definition": "a device for lighting or igniting fuel or charges or fires"
+          }
+        },
+        {
+          "id": "omw-en-light-04951373-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-04951373-n",
+            "ili": "i63000",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lightness"
+            ],
+            "definition": "the visual effect of illumination on objects or scenes as created in pictures"
+          }
+        },
+        {
+          "id": "omw-en-light-04953380-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-04953380-n",
+            "ili": "i63011",
+            "pos": "n",
+            "lemmas": [
+              "sparkle",
+              "twinkle",
+              "spark",
+              "light"
+            ],
+            "definition": "merriment expressed by a brightness or gleam or animation of countenance"
+          }
+        },
+        {
+          "id": "omw-en-light-05018103-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-05018103-n",
+            "ili": "i63372",
+            "pos": "n",
+            "lemmas": [
+              "luminosity",
+              "brightness",
+              "brightness level",
+              "luminance",
+              "luminousness",
+              "light"
+            ],
+            "definition": "the quality of being luminous; emitting or reflecting light"
+          }
+        },
+        {
+          "id": "omw-en-light-05612706-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-05612706-n",
+            "ili": "i66404",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "public awareness"
+          }
+        },
+        {
+          "id": "omw-en-light-05807933-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-05807933-n",
+            "ili": "i67402",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "mental understanding as an enlightening experience"
+          }
+        },
+        {
+          "id": "omw-en-light-06210791-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-06210791-n",
+            "ili": "i69169",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "a particular perspective or aspect of a situation"
+          }
+        },
+        {
+          "id": "omw-en-light-06874019-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-06874019-n",
+            "ili": "i72616",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "a visual warning signal"
+          }
+        },
+        {
+          "id": "omw-en-light-08646188-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-08646188-n",
+            "ili": "i82401",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "an illuminated area"
+          }
+        },
+        {
+          "id": "omw-en-light-10276659-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-10276659-n",
+            "ili": "i91112",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "a person regarded very fondly"
+          }
+        },
+        {
+          "id": "omw-en-light-11473954-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-11473954-n",
+            "ili": "i97892",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "visible light",
+              "visible radiation"
+            ],
+            "definition": "(physics) electromagnetic radiation that can produce a visual sensation"
+          }
+        },
+        {
+          "id": "omw-en-light-13983304-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-13983304-n",
+            "ili": "i110420",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lighting"
+            ],
+            "definition": "having abundant light or illumination"
+          }
+        },
+        {
+          "id": "omw-en-light-14563784-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-14563784-n",
+            "ili": "i113545",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "illumination"
+            ],
+            "definition": "a condition of spiritual awareness; divine illumination"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-light-13983304-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-13983304-n",
+            "ili": "i110420",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lighting"
+            ],
+            "definition": "having abundant light or illumination"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-Light-09184668-n",
+          "lemma": "light",
+          "word_id": "omw-en-Light-n",
+          "synset": {
+            "id": "omw-en-09184668-n",
+            "ili": "i84911",
+            "pos": "n",
+            "lemmas": [
+              "Inner Light",
+              "Light",
+              "Light Within",
+              "Christ Within"
+            ],
+            "definition": "a divine presence believed by Quakers to enlighten and guide the soul"
+          }
+        },
+        {
+          "id": "omw-en-light-03665366-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-03665366-n",
+            "ili": "i55679",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "light source"
+            ],
+            "definition": "any device serving as a source of illumination"
+          }
+        },
+        {
+          "id": "omw-en-light-03666591-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-03666591-n",
+            "ili": "i55684",
+            "pos": "n",
+            "lemmas": [
+              "lighter",
+              "light",
+              "igniter",
+              "ignitor"
+            ],
+            "definition": "a device for lighting or igniting fuel or charges or fires"
+          }
+        },
+        {
+          "id": "omw-en-light-04951373-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-04951373-n",
+            "ili": "i63000",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lightness"
+            ],
+            "definition": "the visual effect of illumination on objects or scenes as created in pictures"
+          }
+        },
+        {
+          "id": "omw-en-light-04953380-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-04953380-n",
+            "ili": "i63011",
+            "pos": "n",
+            "lemmas": [
+              "sparkle",
+              "twinkle",
+              "spark",
+              "light"
+            ],
+            "definition": "merriment expressed by a brightness or gleam or animation of countenance"
+          }
+        },
+        {
+          "id": "omw-en-light-05018103-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-05018103-n",
+            "ili": "i63372",
+            "pos": "n",
+            "lemmas": [
+              "luminosity",
+              "brightness",
+              "brightness level",
+              "luminance",
+              "luminousness",
+              "light"
+            ],
+            "definition": "the quality of being luminous; emitting or reflecting light"
+          }
+        },
+        {
+          "id": "omw-en-light-05612706-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-05612706-n",
+            "ili": "i66404",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "public awareness"
+          }
+        },
+        {
+          "id": "omw-en-light-05807933-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-05807933-n",
+            "ili": "i67402",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "mental understanding as an enlightening experience"
+          }
+        },
+        {
+          "id": "omw-en-light-06210791-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-06210791-n",
+            "ili": "i69169",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "a particular perspective or aspect of a situation"
+          }
+        },
+        {
+          "id": "omw-en-light-06874019-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-06874019-n",
+            "ili": "i72616",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "a visual warning signal"
+          }
+        },
+        {
+          "id": "omw-en-light-08646188-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-08646188-n",
+            "ili": "i82401",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "an illuminated area"
+          }
+        },
+        {
+          "id": "omw-en-light-10276659-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-10276659-n",
+            "ili": "i91112",
+            "pos": "n",
+            "lemmas": [
+              "light"
+            ],
+            "definition": "a person regarded very fondly"
+          }
+        },
+        {
+          "id": "omw-en-light-11473954-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-11473954-n",
+            "ili": "i97892",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "visible light",
+              "visible radiation"
+            ],
+            "definition": "(physics) electromagnetic radiation that can produce a visual sensation"
+          }
+        },
+        {
+          "id": "omw-en-light-13983304-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-13983304-n",
+            "ili": "i110420",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lighting"
+            ],
+            "definition": "having abundant light or illumination"
+          }
+        },
+        {
+          "id": "omw-en-light-14563784-n",
+          "lemma": "light",
+          "word_id": "omw-en-light-n",
+          "synset": {
+            "id": "omw-en-14563784-n",
+            "ili": "i113545",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "illumination"
+            ],
+            "definition": "a condition of spiritual awareness; divine illumination"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lighting",
+      "all_senses": [
+        {
+          "id": "omw-en-lighting-00378479-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-00378479-n",
+            "ili": "i37397",
+            "pos": "n",
+            "lemmas": [
+              "ignition",
+              "firing",
+              "lighting",
+              "kindling",
+              "inflammation"
+            ],
+            "definition": "the act of setting something on fire"
+          }
+        },
+        {
+          "id": "omw-en-lighting-00608645-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-00608645-n",
+            "ili": "i38624",
+            "pos": "n",
+            "lemmas": [
+              "lighting"
+            ],
+            "definition": "the craft of providing artificial light"
+          }
+        },
+        {
+          "id": "omw-en-lighting-03667235-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-03667235-n",
+            "ili": "i55687",
+            "pos": "n",
+            "lemmas": [
+              "lighting"
+            ],
+            "definition": "apparatus for supplying artificial light effects for the stage or a film"
+          }
+        },
+        {
+          "id": "omw-en-lighting-13983304-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-13983304-n",
+            "ili": "i110420",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lighting"
+            ],
+            "definition": "having abundant light or illumination"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-lighting-13983304-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-13983304-n",
+            "ili": "i110420",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lighting"
+            ],
+            "definition": "having abundant light or illumination"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-lighting-00378479-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-00378479-n",
+            "ili": "i37397",
+            "pos": "n",
+            "lemmas": [
+              "ignition",
+              "firing",
+              "lighting",
+              "kindling",
+              "inflammation"
+            ],
+            "definition": "the act of setting something on fire"
+          }
+        },
+        {
+          "id": "omw-en-lighting-00608645-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-00608645-n",
+            "ili": "i38624",
+            "pos": "n",
+            "lemmas": [
+              "lighting"
+            ],
+            "definition": "the craft of providing artificial light"
+          }
+        },
+        {
+          "id": "omw-en-lighting-03667235-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-03667235-n",
+            "ili": "i55687",
+            "pos": "n",
+            "lemmas": [
+              "lighting"
+            ],
+            "definition": "apparatus for supplying artificial light effects for the stage or a film"
+          }
+        },
+        {
+          "id": "omw-en-lighting-13983304-n",
+          "lemma": "lighting",
+          "word_id": "omw-en-lighting-n",
+          "synset": {
+            "id": "omw-en-13983304-n",
+            "ili": "i110420",
+            "pos": "n",
+            "lemmas": [
+              "light",
+              "lighting"
+            ],
+            "definition": "having abundant light or illumination"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "night",
+      "all_senses": [
+        {
+          "id": "omw-en-night-13983717-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-13983717-n",
+            "ili": "i110422",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "darkness"
+          }
+        },
+        {
+          "id": "omw-en-night-15155747-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15155747-n",
+            "ili": "i116859",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "the dark part of the diurnal cycle considered a time unit"
+          }
+        },
+        {
+          "id": "omw-en-night-15167027-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167027-n",
+            "ili": "i116919",
+            "pos": "n",
+            "lemmas": [
+              "night",
+              "nighttime",
+              "dark"
+            ],
+            "definition": "the time after sunset and before sunrise while it is dark outside"
+          }
+        },
+        {
+          "id": "omw-en-night-15167349-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167349-n",
+            "ili": "i116920",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "the time between sunset and midnight"
+          }
+        },
+        {
+          "id": "omw-en-night-15167474-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167474-n",
+            "ili": "i116921",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "the period spent sleeping"
+          }
+        },
+        {
+          "id": "omw-en-night-15167577-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167577-n",
+            "ili": "i116922",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "a period of ignorance or backwardness or gloom"
+          }
+        },
+        {
+          "id": "omw-en-night-15169759-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15169759-n",
+            "ili": "i116936",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "a shortening of nightfall"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-night-13983717-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-13983717-n",
+            "ili": "i110422",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "darkness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-night-13983717-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-13983717-n",
+            "ili": "i110422",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "darkness"
+          }
+        },
+        {
+          "id": "omw-en-night-15155747-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15155747-n",
+            "ili": "i116859",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "the dark part of the diurnal cycle considered a time unit"
+          }
+        },
+        {
+          "id": "omw-en-night-15167027-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167027-n",
+            "ili": "i116919",
+            "pos": "n",
+            "lemmas": [
+              "night",
+              "nighttime",
+              "dark"
+            ],
+            "definition": "the time after sunset and before sunrise while it is dark outside"
+          }
+        },
+        {
+          "id": "omw-en-night-15167349-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167349-n",
+            "ili": "i116920",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "the time between sunset and midnight"
+          }
+        },
+        {
+          "id": "omw-en-night-15167474-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167474-n",
+            "ili": "i116921",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "the period spent sleeping"
+          }
+        },
+        {
+          "id": "omw-en-night-15167577-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15167577-n",
+            "ili": "i116922",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "a period of ignorance or backwardness or gloom"
+          }
+        },
+        {
+          "id": "omw-en-night-15169759-n",
+          "lemma": "night",
+          "word_id": "omw-en-night-n",
+          "synset": {
+            "id": "omw-en-15169759-n",
+            "ili": "i116936",
+            "pos": "n",
+            "lemmas": [
+              "night"
+            ],
+            "definition": "a shortening of nightfall"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "obscureness",
+      "all_senses": [
+        {
+          "id": "omw-en-obscureness-04823416-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-04823416-n",
+            "ili": "i62343",
+            "pos": "n",
+            "lemmas": [
+              "obscureness",
+              "obscurity",
+              "abstruseness",
+              "reconditeness"
+            ],
+            "definition": "the quality of being unclear or abstruse and hard to understand"
+          }
+        },
+        {
+          "id": "omw-en-obscureness-13985671-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-13985671-n",
+            "ili": "i110433",
+            "pos": "n",
+            "lemmas": [
+              "obscurity",
+              "obscureness"
+            ],
+            "definition": "the state of being indistinct or indefinite for lack of adequate illumination"
+          }
+        },
+        {
+          "id": "omw-en-obscureness-14436438-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-14436438-n",
+            "ili": "i112872",
+            "pos": "n",
+            "lemmas": [
+              "humbleness",
+              "unimportance",
+              "obscureness",
+              "lowliness"
+            ],
+            "definition": "the state of being humble and unimportant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-obscureness-13985671-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-13985671-n",
+            "ili": "i110433",
+            "pos": "n",
+            "lemmas": [
+              "obscurity",
+              "obscureness"
+            ],
+            "definition": "the state of being indistinct or indefinite for lack of adequate illumination"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-obscureness-04823416-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-04823416-n",
+            "ili": "i62343",
+            "pos": "n",
+            "lemmas": [
+              "obscureness",
+              "obscurity",
+              "abstruseness",
+              "reconditeness"
+            ],
+            "definition": "the quality of being unclear or abstruse and hard to understand"
+          }
+        },
+        {
+          "id": "omw-en-obscureness-13985671-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-13985671-n",
+            "ili": "i110433",
+            "pos": "n",
+            "lemmas": [
+              "obscurity",
+              "obscureness"
+            ],
+            "definition": "the state of being indistinct or indefinite for lack of adequate illumination"
+          }
+        },
+        {
+          "id": "omw-en-obscureness-14436438-n",
+          "lemma": "obscureness",
+          "word_id": "omw-en-obscureness-n",
+          "synset": {
+            "id": "omw-en-14436438-n",
+            "ili": "i112872",
+            "pos": "n",
+            "lemmas": [
+              "humbleness",
+              "unimportance",
+              "obscureness",
+              "lowliness"
+            ],
+            "definition": "the state of being humble and unimportant"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "obscurity",
+      "all_senses": [
+        {
+          "id": "omw-en-obscurity-04823416-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-04823416-n",
+            "ili": "i62343",
+            "pos": "n",
+            "lemmas": [
+              "obscureness",
+              "obscurity",
+              "abstruseness",
+              "reconditeness"
+            ],
+            "definition": "the quality of being unclear or abstruse and hard to understand"
+          }
+        },
+        {
+          "id": "omw-en-obscurity-13985671-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-13985671-n",
+            "ili": "i110433",
+            "pos": "n",
+            "lemmas": [
+              "obscurity",
+              "obscureness"
+            ],
+            "definition": "the state of being indistinct or indefinite for lack of adequate illumination"
+          }
+        },
+        {
+          "id": "omw-en-obscurity-14436029-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-14436029-n",
+            "ili": "i112870",
+            "pos": "n",
+            "lemmas": [
+              "obscurity"
+            ],
+            "definition": "an obscure and unimportant standing; not well known"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-obscurity-13985671-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-13985671-n",
+            "ili": "i110433",
+            "pos": "n",
+            "lemmas": [
+              "obscurity",
+              "obscureness"
+            ],
+            "definition": "the state of being indistinct or indefinite for lack of adequate illumination"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-obscurity-04823416-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-04823416-n",
+            "ili": "i62343",
+            "pos": "n",
+            "lemmas": [
+              "obscureness",
+              "obscurity",
+              "abstruseness",
+              "reconditeness"
+            ],
+            "definition": "the quality of being unclear or abstruse and hard to understand"
+          }
+        },
+        {
+          "id": "omw-en-obscurity-13985671-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-13985671-n",
+            "ili": "i110433",
+            "pos": "n",
+            "lemmas": [
+              "obscurity",
+              "obscureness"
+            ],
+            "definition": "the state of being indistinct or indefinite for lack of adequate illumination"
+          }
+        },
+        {
+          "id": "omw-en-obscurity-14436029-n",
+          "lemma": "obscurity",
+          "word_id": "omw-en-obscurity-n",
+          "synset": {
+            "id": "omw-en-14436029-n",
+            "ili": "i112870",
+            "pos": "n",
+            "lemmas": [
+              "obscurity"
+            ],
+            "definition": "an obscure and unimportant standing; not well known"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "overcast",
+      "all_senses": [
+        {
+          "id": "omw-en-overcast-00455076-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-00455076-n",
+            "ili": "i37807",
+            "pos": "n",
+            "lemmas": [
+              "overcast"
+            ],
+            "definition": "a cast that falls beyond the intended spot"
+          }
+        },
+        {
+          "id": "omw-en-overcast-03863442-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-03863442-n",
+            "ili": "i56828",
+            "pos": "n",
+            "lemmas": [
+              "overcast",
+              "overcasting"
+            ],
+            "definition": "a long whipstitch or overhand stitch overlying an edge to prevent raveling"
+          }
+        },
+        {
+          "id": "omw-en-overcast-13984468-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-13984468-n",
+            "ili": "i110426",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "overcast"
+            ],
+            "definition": "gloomy semidarkness caused by cloud cover"
+          }
+        },
+        {
+          "id": "omw-en-overcast-14524198-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-14524198-n",
+            "ili": "i113329",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "cloud cover",
+              "overcast"
+            ],
+            "definition": "the state of the sky when it is covered by clouds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-overcast-13984468-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-13984468-n",
+            "ili": "i110426",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "overcast"
+            ],
+            "definition": "gloomy semidarkness caused by cloud cover"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-overcast-00455076-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-00455076-n",
+            "ili": "i37807",
+            "pos": "n",
+            "lemmas": [
+              "overcast"
+            ],
+            "definition": "a cast that falls beyond the intended spot"
+          }
+        },
+        {
+          "id": "omw-en-overcast-03863442-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-03863442-n",
+            "ili": "i56828",
+            "pos": "n",
+            "lemmas": [
+              "overcast",
+              "overcasting"
+            ],
+            "definition": "a long whipstitch or overhand stitch overlying an edge to prevent raveling"
+          }
+        },
+        {
+          "id": "omw-en-overcast-13984468-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-13984468-n",
+            "ili": "i110426",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "overcast"
+            ],
+            "definition": "gloomy semidarkness caused by cloud cover"
+          }
+        },
+        {
+          "id": "omw-en-overcast-14524198-n",
+          "lemma": "overcast",
+          "word_id": "omw-en-overcast-n",
+          "synset": {
+            "id": "omw-en-14524198-n",
+            "ili": "i113329",
+            "pos": "n",
+            "lemmas": [
+              "cloudiness",
+              "cloud cover",
+              "overcast"
+            ],
+            "definition": "the state of the sky when it is covered by clouds"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shade",
+      "all_senses": [
+        {
+          "id": "omw-en-shade-04181718-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-04181718-n",
+            "ili": "i58724",
+            "pos": "n",
+            "lemmas": [
+              "shade"
+            ],
+            "definition": "protective covering that protects something from direct sunlight"
+          }
+        },
+        {
+          "id": "omw-en-shade-04181983-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-04181983-n",
+            "ili": "i58725",
+            "pos": "n",
+            "lemmas": [
+              "shade"
+            ],
+            "definition": "a representation of the effect of shadows in a picture or drawing (as by shading or darker pigment)"
+          }
+        },
+        {
+          "id": "omw-en-shade-04959230-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-04959230-n",
+            "ili": "i63036",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "tint",
+              "tincture",
+              "tone"
+            ],
+            "definition": "a quality of a given color that differs slightly from another color"
+          }
+        },
+        {
+          "id": "omw-en-shade-05898171-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-05898171-n",
+            "ili": "i67840",
+            "pos": "n",
+            "lemmas": [
+              "ghost",
+              "shade",
+              "spook",
+              "wraith",
+              "specter",
+              "spectre"
+            ],
+            "definition": "a mental representation of some haunting experience"
+          }
+        },
+        {
+          "id": "omw-en-shade-06606191-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-06606191-n",
+            "ili": "i71176",
+            "pos": "n",
+            "lemmas": [
+              "nuance",
+              "nicety",
+              "shade",
+              "subtlety",
+              "refinement"
+            ],
+            "definition": "a subtle difference in meaning or opinion or attitude"
+          }
+        },
+        {
+          "id": "omw-en-shade-13763185-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13763185-n",
+            "ili": "i109203",
+            "pos": "n",
+            "lemmas": [
+              "tad",
+              "shade"
+            ],
+            "definition": "a slight amount or degree of difference"
+          }
+        },
+        {
+          "id": "omw-en-shade-13951794-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13951794-n",
+            "ili": "i110254",
+            "pos": "n",
+            "lemmas": [
+              "shade"
+            ],
+            "definition": "a position of relative inferiority"
+          }
+        },
+        {
+          "id": "omw-en-shade-13984613-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13984613-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-shade-13984613-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13984613-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-shade-04181718-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-04181718-n",
+            "ili": "i58724",
+            "pos": "n",
+            "lemmas": [
+              "shade"
+            ],
+            "definition": "protective covering that protects something from direct sunlight"
+          }
+        },
+        {
+          "id": "omw-en-shade-04181983-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-04181983-n",
+            "ili": "i58725",
+            "pos": "n",
+            "lemmas": [
+              "shade"
+            ],
+            "definition": "a representation of the effect of shadows in a picture or drawing (as by shading or darker pigment)"
+          }
+        },
+        {
+          "id": "omw-en-shade-04959230-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-04959230-n",
+            "ili": "i63036",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "tint",
+              "tincture",
+              "tone"
+            ],
+            "definition": "a quality of a given color that differs slightly from another color"
+          }
+        },
+        {
+          "id": "omw-en-shade-05898171-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-05898171-n",
+            "ili": "i67840",
+            "pos": "n",
+            "lemmas": [
+              "ghost",
+              "shade",
+              "spook",
+              "wraith",
+              "specter",
+              "spectre"
+            ],
+            "definition": "a mental representation of some haunting experience"
+          }
+        },
+        {
+          "id": "omw-en-shade-06606191-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-06606191-n",
+            "ili": "i71176",
+            "pos": "n",
+            "lemmas": [
+              "nuance",
+              "nicety",
+              "shade",
+              "subtlety",
+              "refinement"
+            ],
+            "definition": "a subtle difference in meaning or opinion or attitude"
+          }
+        },
+        {
+          "id": "omw-en-shade-13763185-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13763185-n",
+            "ili": "i109203",
+            "pos": "n",
+            "lemmas": [
+              "tad",
+              "shade"
+            ],
+            "definition": "a slight amount or degree of difference"
+          }
+        },
+        {
+          "id": "omw-en-shade-13951794-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13951794-n",
+            "ili": "i110254",
+            "pos": "n",
+            "lemmas": [
+              "shade"
+            ],
+            "definition": "a position of relative inferiority"
+          }
+        },
+        {
+          "id": "omw-en-shade-13984613-n",
+          "lemma": "shade",
+          "word_id": "omw-en-shade-n",
+          "synset": {
+            "id": "omw-en-13984613-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shadiness",
+      "all_senses": [
+        {
+          "id": "omw-en-shadiness-04811767-n",
+          "lemma": "shadiness",
+          "word_id": "omw-en-shadiness-n",
+          "synset": {
+            "id": "omw-en-04811767-n",
+            "ili": "i62291",
+            "pos": "n",
+            "lemmas": [
+              "shadiness"
+            ],
+            "definition": "of questionable honesty or legality"
+          }
+        },
+        {
+          "id": "omw-en-shadiness-13984613-n",
+          "lemma": "shadiness",
+          "word_id": "omw-en-shadiness-n",
+          "synset": {
+            "id": "omw-en-13984613-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-shadiness-13984613-n",
+          "lemma": "shadiness",
+          "word_id": "omw-en-shadiness-n",
+          "synset": {
+            "id": "omw-en-13984613-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-shadiness-04811767-n",
+          "lemma": "shadiness",
+          "word_id": "omw-en-shadiness-n",
+          "synset": {
+            "id": "omw-en-04811767-n",
+            "ili": "i62291",
+            "pos": "n",
+            "lemmas": [
+              "shadiness"
+            ],
+            "definition": "of questionable honesty or legality"
+          }
+        },
+        {
+          "id": "omw-en-shadiness-13984613-n",
+          "lemma": "shadiness",
+          "word_id": "omw-en-shadiness-n",
+          "synset": {
+            "id": "omw-en-13984613-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shadow",
+      "all_senses": [
+        {
+          "id": "omw-en-shadow-05155349-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-05155349-n",
+            "ili": "i64073",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "refuge from danger or observation"
+          }
+        },
+        {
+          "id": "omw-en-shadow-05897553-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-05897553-n",
+            "ili": "i67837",
+            "pos": "n",
+            "lemmas": [
+              "apparition",
+              "phantom",
+              "phantasm",
+              "phantasma",
+              "fantasm",
+              "shadow"
+            ],
+            "definition": "something existing in perception only"
+          }
+        },
+        {
+          "id": "omw-en-shadow-06646628-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-06646628-n",
+            "ili": "i71408",
+            "pos": "n",
+            "lemmas": [
+              "trace",
+              "vestige",
+              "tincture",
+              "shadow"
+            ],
+            "definition": "an indication that something has been present"
+          }
+        },
+        {
+          "id": "omw-en-shadow-07522418-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-07522418-n",
+            "ili": "i76283",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "a premonition of something adverse"
+          }
+        },
+        {
+          "id": "omw-en-shadow-08646306-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-08646306-n",
+            "ili": "i82402",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "dark",
+              "shadow"
+            ],
+            "definition": "an unilluminated area"
+          }
+        },
+        {
+          "id": "omw-en-shadow-10585359-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-10585359-n",
+            "ili": "i92907",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "an inseparable companion"
+          }
+        },
+        {
+          "id": "omw-en-shadow-10689104-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-10689104-n",
+            "ili": "i93523",
+            "pos": "n",
+            "lemmas": [
+              "tail",
+              "shadow",
+              "shadower"
+            ],
+            "definition": "a spy employed to follow someone and report their movements"
+          }
+        },
+        {
+          "id": "omw-en-shadow-13959642-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-13959642-n",
+            "ili": "i110294",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "a dominating and pervasive presence"
+          }
+        },
+        {
+          "id": "omw-en-shadow-13984944-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-13984944-n",
+            "ili": "i110428",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "shade within clear boundaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-shadow-13984944-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-13984944-n",
+            "ili": "i110428",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "shade within clear boundaries"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-shadow-05155349-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-05155349-n",
+            "ili": "i64073",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "refuge from danger or observation"
+          }
+        },
+        {
+          "id": "omw-en-shadow-05897553-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-05897553-n",
+            "ili": "i67837",
+            "pos": "n",
+            "lemmas": [
+              "apparition",
+              "phantom",
+              "phantasm",
+              "phantasma",
+              "fantasm",
+              "shadow"
+            ],
+            "definition": "something existing in perception only"
+          }
+        },
+        {
+          "id": "omw-en-shadow-06646628-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-06646628-n",
+            "ili": "i71408",
+            "pos": "n",
+            "lemmas": [
+              "trace",
+              "vestige",
+              "tincture",
+              "shadow"
+            ],
+            "definition": "an indication that something has been present"
+          }
+        },
+        {
+          "id": "omw-en-shadow-07522418-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-07522418-n",
+            "ili": "i76283",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "a premonition of something adverse"
+          }
+        },
+        {
+          "id": "omw-en-shadow-08646306-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-08646306-n",
+            "ili": "i82402",
+            "pos": "n",
+            "lemmas": [
+              "darkness",
+              "dark",
+              "shadow"
+            ],
+            "definition": "an unilluminated area"
+          }
+        },
+        {
+          "id": "omw-en-shadow-10585359-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-10585359-n",
+            "ili": "i92907",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "an inseparable companion"
+          }
+        },
+        {
+          "id": "omw-en-shadow-10689104-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-10689104-n",
+            "ili": "i93523",
+            "pos": "n",
+            "lemmas": [
+              "tail",
+              "shadow",
+              "shadower"
+            ],
+            "definition": "a spy employed to follow someone and report their movements"
+          }
+        },
+        {
+          "id": "omw-en-shadow-13959642-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-13959642-n",
+            "ili": "i110294",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "a dominating and pervasive presence"
+          }
+        },
+        {
+          "id": "omw-en-shadow-13984944-n",
+          "lemma": "shadow",
+          "word_id": "omw-en-shadow-n",
+          "synset": {
+            "id": "omw-en-13984944-n",
+            "ili": "i110428",
+            "pos": "n",
+            "lemmas": [
+              "shadow"
+            ],
+            "definition": "shade within clear boundaries"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "somberness",
+      "all_senses": [
+        {
+          "id": "omw-en-somberness-04647478-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-04647478-n",
+            "ili": "i61491",
+            "pos": "n",
+            "lemmas": [
+              "graveness",
+              "gravity",
+              "sobriety",
+              "soberness",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a manner that is serious and solemn"
+          }
+        },
+        {
+          "id": "omw-en-somberness-07533257-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-07533257-n",
+            "ili": "i76341",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a feeling of melancholy apprehension"
+          }
+        },
+        {
+          "id": "omw-en-somberness-13985462-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-somberness-13985462-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-somberness-04647478-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-04647478-n",
+            "ili": "i61491",
+            "pos": "n",
+            "lemmas": [
+              "graveness",
+              "gravity",
+              "sobriety",
+              "soberness",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a manner that is serious and solemn"
+          }
+        },
+        {
+          "id": "omw-en-somberness-07533257-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-07533257-n",
+            "ili": "i76341",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a feeling of melancholy apprehension"
+          }
+        },
+        {
+          "id": "omw-en-somberness-13985462-n",
+          "lemma": "somberness",
+          "word_id": "omw-en-somberness-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sombreness",
+      "all_senses": [
+        {
+          "id": "omw-en-sombreness-04647478-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-04647478-n",
+            "ili": "i61491",
+            "pos": "n",
+            "lemmas": [
+              "graveness",
+              "gravity",
+              "sobriety",
+              "soberness",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a manner that is serious and solemn"
+          }
+        },
+        {
+          "id": "omw-en-sombreness-07533257-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-07533257-n",
+            "ili": "i76341",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a feeling of melancholy apprehension"
+          }
+        },
+        {
+          "id": "omw-en-sombreness-13985462-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "omw-en-sombreness-13985462-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "omw-en-sombreness-04647478-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-04647478-n",
+            "ili": "i61491",
+            "pos": "n",
+            "lemmas": [
+              "graveness",
+              "gravity",
+              "sobriety",
+              "soberness",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a manner that is serious and solemn"
+          }
+        },
+        {
+          "id": "omw-en-sombreness-07533257-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-07533257-n",
+            "ili": "i76341",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "gloominess",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a feeling of melancholy apprehension"
+          }
+        },
+        {
+          "id": "omw-en-sombreness-13985462-n",
+          "lemma": "sombreness",
+          "word_id": "omw-en-sombreness-n",
+          "synset": {
+            "id": "omw-en-13985462-n",
+            "ili": "i110432",
+            "pos": "n",
+            "lemmas": [
+              "gloom",
+              "somberness",
+              "sombreness"
+            ],
+            "definition": "a state of partial or total darkness"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -46,6 +46,28 @@ class SessionKey:
         return hashlib.sha256(raw.encode("utf-8")).hexdigest()[:16]
 
 
+@dataclass(frozen=True)
+class PolysemySessionKey:
+    name: str
+    wordnet: str
+    lexicon: str | None
+    root_ili: str
+
+    @property
+    def id(self) -> str:
+        raw = json.dumps(
+            {
+                "name": self.name,
+                "wordnet": self.wordnet,
+                "lexicon": self.lexicon,
+                "root_ili": self.root_ili,
+                "mode": "polysemy",
+            },
+            sort_keys=True,
+        )
+        return hashlib.sha256(raw.encode("utf-8")).hexdigest()[:16]
+
+
 class WordnetError(ValueError):
     pass
 
@@ -220,6 +242,99 @@ def build_candidate_session(
         "target_ili": target_ili,
         "source_roots": [_synset_payload(synset) for synset in source_roots],
         "target_roots": [_synset_payload(synset) for synset in target_roots],
+        "items": items,
+    }
+
+
+def build_polysemy_session(
+    wordnet_source: str,
+    root_ili: str,
+    lexicon: str | None = None,
+    name: str | None = None,
+    display_wordnet_source: str | None = None,
+    display_lexicon: str | None = None,
+) -> dict[str, Any]:
+    """Build a session of polysemous lemmas anchored in a given ILI subtree.
+
+    Collects all lemmas whose synsets fall in the hyponym closure of root_ili
+    (including the root itself), then keeps only those that are polysemous in
+    the full wordnet (2+ noun senses total).
+
+    source_senses holds the senses found within the subtree (the "anchor"
+    domain senses); target_senses holds all noun senses in the full wordnet
+    so the annotator can classify the relationship between the domain sense
+    and every other sense of the same word.
+
+    Args:
+        wordnet_source: URL, file:// path, project id, or lexicon id
+        root_ili: ILI of the root concept whose hyponym closure is searched
+        lexicon: Optional lexicon specifier to scope the wordnet
+        name: Optional session name
+        display_wordnet_source: Optional wordnet for display labels
+        display_lexicon: Optional lexicon specifier for the display wordnet
+
+    Returns:
+        Session dict compatible with the static annotation UI
+
+    Raises:
+        WordnetError: If no noun synsets are found for root_ili
+    """
+    session_name = (name or "").strip() or f"polysemy:{root_ili}"
+    key = PolysemySessionKey(session_name, wordnet_source, lexicon, root_ili)
+    wordnet = load_wordnet(wordnet_source, lexicon)
+
+    roots = [synset for synset in wordnet.synsets(ili=root_ili) if synset.pos == "n"]
+    if not roots:
+        raise WordnetError(f"No noun synsets found for ILI {root_ili}.")
+
+    # Collect lemmas from the subtree (including root) as the "anchor" senses.
+    subtree_by_lemma = _lemmas_under(roots, include_roots=True)
+
+    items = []
+    for lemma in sorted(subtree_by_lemma, key=lambda lem: lem.casefold()):
+        source_senses = subtree_by_lemma[lemma]
+        all_senses = _merge_senses(_all_senses_for_form(wordnet, lemma), source_senses)
+        if len(all_senses) < 2:
+            continue
+        items.append(
+            {
+                "lemma": lemma,
+                "all_senses": all_senses,
+                "source_senses": source_senses,
+                "target_senses": all_senses,
+                "links": {},
+                "existing_relations": _existing_relations(all_senses, wordnet, wordnet),
+                "comment": "",
+                "sense_annotations": {},
+                "status": "open",
+            }
+        )
+
+    display_wn_source = (display_wordnet_source or "").strip() or None
+    display_wn: wn.Wordnet | None = None
+    if display_wn_source:
+        display_wn = load_wordnet(display_wn_source, display_lexicon)
+
+    if display_wn is not None:
+        _enrich_senses_with_display(items, display_wn)
+
+    resolved_display_lexicon: str | None = None
+    if display_wn is not None:
+        lex_list = display_wn.lexicons()
+        resolved_display_lexicon = lex_list[0].specifier() if len(lex_list) == 1 else display_lexicon
+
+    return {
+        "id": key.id,
+        "name": session_name,
+        "wordnet": wordnet_source,
+        "lexicon": wordnet.lexicons()[0].specifier() if len(wordnet.lexicons()) == 1 else lexicon,
+        "display_wordnet": display_wn_source,
+        "display_lexicon": resolved_display_lexicon,
+        "root_ili": root_ili,
+        "source_ili": root_ili,
+        "target_ili": root_ili,
+        "source_roots": [_synset_payload(synset) for synset in roots],
+        "target_roots": [_synset_payload(synset) for synset in roots],
         "items": items,
     }
 

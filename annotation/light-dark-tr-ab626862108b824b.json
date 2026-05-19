@@ -1,0 +1,1922 @@
+{
+  "id": "ab626862108b824b",
+  "name": "light-dark-tr",
+  "wordnet": "https://raw.githubusercontent.com/StarlangSoftware/TurkishWordNet/master/kenet.xml",
+  "lexicon": "kenet:1.0",
+  "display_wordnet": "omw-en:1.4",
+  "display_lexicon": "omw-en:1.4",
+  "root_ili": "i110421",
+  "source_ili": "i110421",
+  "target_ili": "i110421",
+  "source_roots": [
+    {
+      "id": "kenet-TUR10_0417480-n",
+      "ili": "i110421",
+      "pos": "n",
+      "lemmas": [
+        "karanlık"
+      ],
+      "definition": "Işık olmama durumu"
+    }
+  ],
+  "target_roots": [
+    {
+      "id": "kenet-TUR10_0417480-n",
+      "ili": "i110421",
+      "pos": "n",
+      "lemmas": [
+        "karanlık"
+      ],
+      "definition": "Işık olmama durumu"
+    }
+  ],
+  "items": [
+    {
+      "lemma": "gece",
+      "all_senses": [
+        {
+          "id": "kenet-gece-n-1-TUR10_0286280-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0286280-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece"
+            ],
+            "definition": "Eğlence, anma vb. amaçlarla geceleri düzenlenen toplantı"
+          }
+        },
+        {
+          "id": "kenet-gece-n-2-TUR10_0793130-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0793130-n",
+            "ili": "i116919",
+            "pos": "n",
+            "lemmas": [
+              "gece",
+              "tün",
+              "şeb",
+              "akşam"
+            ],
+            "definition": "Güneş battıktan gün ağarıncaya kadar geçen süre"
+          },
+          "display_synset": {
+            "lemmas": [
+              "night",
+              "nighttime",
+              "dark"
+            ],
+            "definition": "the time after sunset and before sunrise while it is dark outside"
+          }
+        },
+        {
+          "id": "kenet-gece-n-TUR10_0286270-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n",
+          "synset": {
+            "id": "kenet-TUR10_0286270-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece"
+            ],
+            "definition": "Bu süre içindeki karanlık"
+          }
+        },
+        {
+          "id": "kenet-geçe-n-TUR10_0825780-n",
+          "lemma": "gece",
+          "word_id": "kenet-geçe-n",
+          "synset": {
+            "id": "kenet-TUR10_0825780-n",
+            "ili": "i81999",
+            "pos": "n",
+            "lemmas": [
+              "yaka",
+              "kıyı",
+              "geçe",
+              "kenar"
+            ],
+            "definition": "Bir şeyin, bir yerin bitiş kısmı veya yakını, uç, taraf"
+          },
+          "display_synset": {
+            "lemmas": [
+              "end"
+            ],
+            "definition": "a boundary marking the extremities of something"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-gece-n-TUR10_0286270-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n",
+          "synset": {
+            "id": "kenet-TUR10_0286270-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece"
+            ],
+            "definition": "Bu süre içindeki karanlık"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-gece-n-1-TUR10_0286280-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0286280-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece"
+            ],
+            "definition": "Eğlence, anma vb. amaçlarla geceleri düzenlenen toplantı"
+          }
+        },
+        {
+          "id": "kenet-gece-n-2-TUR10_0793130-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0793130-n",
+            "ili": "i116919",
+            "pos": "n",
+            "lemmas": [
+              "gece",
+              "tün",
+              "şeb",
+              "akşam"
+            ],
+            "definition": "Güneş battıktan gün ağarıncaya kadar geçen süre"
+          },
+          "display_synset": {
+            "lemmas": [
+              "night",
+              "nighttime",
+              "dark"
+            ],
+            "definition": "the time after sunset and before sunrise while it is dark outside"
+          }
+        },
+        {
+          "id": "kenet-gece-n-TUR10_0286270-n",
+          "lemma": "gece",
+          "word_id": "kenet-gece-n",
+          "synset": {
+            "id": "kenet-TUR10_0286270-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gece"
+            ],
+            "definition": "Bu süre içindeki karanlık"
+          }
+        },
+        {
+          "id": "kenet-geçe-n-TUR10_0825780-n",
+          "lemma": "gece",
+          "word_id": "kenet-geçe-n",
+          "synset": {
+            "id": "kenet-TUR10_0825780-n",
+            "ili": "i81999",
+            "pos": "n",
+            "lemmas": [
+              "yaka",
+              "kıyı",
+              "geçe",
+              "kenar"
+            ],
+            "definition": "Bir şeyin, bir yerin bitiş kısmı veya yakını, uç, taraf"
+          },
+          "display_synset": {
+            "lemmas": [
+              "end"
+            ],
+            "definition": "a boundary marking the extremities of something"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gölge",
+      "all_senses": [
+        {
+          "id": "kenet-gölge-n-1-TUR10_0302870-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0302870-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Saydam olmayan bir cisim tarafından ışığın engellenmesiyle ışıklı yerde oluşan karanlık"
+          },
+          "display_synset": {
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-2-TUR10_0302880-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0302880-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Güneş ışınlarından korunacak yer"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-3-TUR10_0302900-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0302900-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Resimde bir şekli cisimlendirmek için, onun ışık almaması gereken yerlerine vurulan az çok koyu renk"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-4-TUR10_0302910-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0302910-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge",
+              "yansıma",
+              "röfle"
+            ],
+            "definition": "Saçın yansıması"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-5-TUR10_0302920-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0302920-n",
+            "ili": "i71408",
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Yetkisi olmadığı hâlde etkili olan"
+          },
+          "display_synset": {
+            "lemmas": [
+              "trace",
+              "vestige",
+              "tincture",
+              "shadow"
+            ],
+            "definition": "an indication that something has been present"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-6-TUR10_0302930-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0302930-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Birinin yanından hiç ayrılmayan kimse"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-7-TUR10_0334150-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-7",
+          "synset": {
+            "id": "kenet-TUR10_0334150-n",
+            "ili": "i67840",
+            "pos": "n",
+            "lemmas": [
+              "gölge",
+              "silüet",
+              "hayal",
+              "hayalet",
+              "hayâlet"
+            ],
+            "definition": "Ne olduğu anlaşılamayan karaltı, belli belirsiz görünen şey, bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü"
+          },
+          "display_synset": {
+            "lemmas": [
+              "ghost",
+              "shade",
+              "spook",
+              "wraith",
+              "specter",
+              "spectre"
+            ],
+            "definition": "a mental representation of some haunting experience"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-TUR10_0208840-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n",
+          "synset": {
+            "id": "kenet-TUR10_0208840-n",
+            "ili": "i39702",
+            "pos": "n",
+            "lemmas": [
+              "koruma",
+              "diriğ",
+              "dulda",
+              "esirgeme",
+              "gayret",
+              "gölge",
+              "gözetme",
+              "himaye",
+              "kısırganma",
+              "koruyuculuk",
+              "sahabet",
+              "sıyanet",
+              "vikaye"
+            ],
+            "definition": "Bir kimseyi veya bir şeyi dış etkilerden, tehlikeden, zor bir durumdan uzak tutma"
+          },
+          "display_synset": {
+            "lemmas": [
+              "protection"
+            ],
+            "definition": "the activity of protecting someone or something"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-gölge-n-1-TUR10_0302870-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0302870-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Saydam olmayan bir cisim tarafından ışığın engellenmesiyle ışıklı yerde oluşan karanlık"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-gölge-n-1-TUR10_0302870-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0302870-n",
+            "ili": "i110427",
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Saydam olmayan bir cisim tarafından ışığın engellenmesiyle ışıklı yerde oluşan karanlık"
+          },
+          "display_synset": {
+            "lemmas": [
+              "shade",
+              "shadiness",
+              "shadowiness"
+            ],
+            "definition": "relative darkness caused by light rays being intercepted by an opaque body"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-2-TUR10_0302880-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0302880-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Güneş ışınlarından korunacak yer"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-3-TUR10_0302900-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0302900-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Resimde bir şekli cisimlendirmek için, onun ışık almaması gereken yerlerine vurulan az çok koyu renk"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-4-TUR10_0302910-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0302910-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge",
+              "yansıma",
+              "röfle"
+            ],
+            "definition": "Saçın yansıması"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-5-TUR10_0302920-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0302920-n",
+            "ili": "i71408",
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Yetkisi olmadığı hâlde etkili olan"
+          },
+          "display_synset": {
+            "lemmas": [
+              "trace",
+              "vestige",
+              "tincture",
+              "shadow"
+            ],
+            "definition": "an indication that something has been present"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-6-TUR10_0302930-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0302930-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gölge"
+            ],
+            "definition": "Birinin yanından hiç ayrılmayan kimse"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-7-TUR10_0334150-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n-7",
+          "synset": {
+            "id": "kenet-TUR10_0334150-n",
+            "ili": "i67840",
+            "pos": "n",
+            "lemmas": [
+              "gölge",
+              "silüet",
+              "hayal",
+              "hayalet",
+              "hayâlet"
+            ],
+            "definition": "Ne olduğu anlaşılamayan karaltı, belli belirsiz görünen şey, bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü"
+          },
+          "display_synset": {
+            "lemmas": [
+              "ghost",
+              "shade",
+              "spook",
+              "wraith",
+              "specter",
+              "spectre"
+            ],
+            "definition": "a mental representation of some haunting experience"
+          }
+        },
+        {
+          "id": "kenet-gölge-n-TUR10_0208840-n",
+          "lemma": "gölge",
+          "word_id": "kenet-gölge-n",
+          "synset": {
+            "id": "kenet-TUR10_0208840-n",
+            "ili": "i39702",
+            "pos": "n",
+            "lemmas": [
+              "koruma",
+              "diriğ",
+              "dulda",
+              "esirgeme",
+              "gayret",
+              "gölge",
+              "gözetme",
+              "himaye",
+              "kısırganma",
+              "koruyuculuk",
+              "sahabet",
+              "sıyanet",
+              "vikaye"
+            ],
+            "definition": "Bir kimseyi veya bir şeyi dış etkilerden, tehlikeden, zor bir durumdan uzak tutma"
+          },
+          "display_synset": {
+            "lemmas": [
+              "protection"
+            ],
+            "definition": "the activity of protecting someone or something"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gözenek",
+      "all_senses": [
+        {
+          "id": "kenet-gözenek-n-1-TUR10_0308680-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0308680-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Güneş yüzeyinde görülen küçük yuvarlak, kara lekelerden her biri"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-2-TUR10_0308690-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0308690-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Bir malzemenin içinde irili ufaklı boşlukların bulunması durumu süngerimsi görünüş"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-3-TUR10_0308700-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0308700-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek",
+              "mesame"
+            ],
+            "definition": "Bitkilerde solunum ve fotosentez için gerekli oksijen ve karbondioksit alışverişine, suyun buhar olarak dışarı atılmasına yarayan, yaprakların alt yüzeyinde çok sayıda bulunan, hücreler arasındaki küçük deliklerden her biri"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-4-TUR10_0537960-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0537960-n",
+            "ili": "i64523",
+            "pos": "n",
+            "lemmas": [
+              "gözenek",
+              "mesame"
+            ],
+            "definition": "Canlı dokularda dış deri üzerindeki küçük, basit açıklık"
+          },
+          "display_synset": {
+            "lemmas": [
+              "pore"
+            ],
+            "definition": "any small opening in the skin or outer surface of an animal"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-5-TUR10_0622420-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0622420-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "pencere",
+              "cam",
+              "gözenek"
+            ],
+            "definition": "Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve, cam, panjur, perde gibi eklentilerle daha kullanışlı bir duruma getirilen açıklık"
+          },
+          "display_synset": {
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-6-TUR10_0684130-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0684130-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ajur",
+              "antika",
+              "gözenek",
+              "sıçandişi"
+            ],
+            "definition": "Mendil, örtü, yatak çarşafı vb. bezlerin kenarlarına paralel ipliklerden bir bölümü çekilip dikey olanların ikisi, üçü bir arada tire ile sarılarak yapılan diş diş süs"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-TUR10_0308640-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n",
+          "synset": {
+            "id": "kenet-TUR10_0308640-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Delikli bir nesnenin deliklerinden her biri"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-gözenek-n-1-TUR10_0308680-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0308680-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Güneş yüzeyinde görülen küçük yuvarlak, kara lekelerden her biri"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-gözenek-n-1-TUR10_0308680-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0308680-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Güneş yüzeyinde görülen küçük yuvarlak, kara lekelerden her biri"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-2-TUR10_0308690-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0308690-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Bir malzemenin içinde irili ufaklı boşlukların bulunması durumu süngerimsi görünüş"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-3-TUR10_0308700-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0308700-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek",
+              "mesame"
+            ],
+            "definition": "Bitkilerde solunum ve fotosentez için gerekli oksijen ve karbondioksit alışverişine, suyun buhar olarak dışarı atılmasına yarayan, yaprakların alt yüzeyinde çok sayıda bulunan, hücreler arasındaki küçük deliklerden her biri"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-4-TUR10_0537960-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0537960-n",
+            "ili": "i64523",
+            "pos": "n",
+            "lemmas": [
+              "gözenek",
+              "mesame"
+            ],
+            "definition": "Canlı dokularda dış deri üzerindeki küçük, basit açıklık"
+          },
+          "display_synset": {
+            "lemmas": [
+              "pore"
+            ],
+            "definition": "any small opening in the skin or outer surface of an animal"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-5-TUR10_0622420-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-5",
+          "synset": {
+            "id": "kenet-TUR10_0622420-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "pencere",
+              "cam",
+              "gözenek"
+            ],
+            "definition": "Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve, cam, panjur, perde gibi eklentilerle daha kullanışlı bir duruma getirilen açıklık"
+          },
+          "display_synset": {
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-6-TUR10_0684130-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n-6",
+          "synset": {
+            "id": "kenet-TUR10_0684130-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "ajur",
+              "antika",
+              "gözenek",
+              "sıçandişi"
+            ],
+            "definition": "Mendil, örtü, yatak çarşafı vb. bezlerin kenarlarına paralel ipliklerden bir bölümü çekilip dikey olanların ikisi, üçü bir arada tire ile sarılarak yapılan diş diş süs"
+          }
+        },
+        {
+          "id": "kenet-gözenek-n-TUR10_0308640-n",
+          "lemma": "gözenek",
+          "word_id": "kenet-gözenek-n",
+          "synset": {
+            "id": "kenet-TUR10_0308640-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "gözenek"
+            ],
+            "definition": "Delikli bir nesnenin deliklerinden her biri"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karaltı",
+      "all_senses": [
+        {
+          "id": "kenet-karaltı-n-1-TUR10_0417130-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0417130-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Hafif karanlık"
+          }
+        },
+        {
+          "id": "kenet-karaltı-n-2-TUR10_0417140-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0417140-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Leke"
+          }
+        },
+        {
+          "id": "kenet-karaltı-n-TUR10_0417120-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n",
+          "synset": {
+            "id": "kenet-TUR10_0417120-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Uzaklık ve karanlık sebebiyle kim veya ne olduğu seçilemeyen, belli belirsiz, koyu renkli biçim"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-karaltı-n-1-TUR10_0417130-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0417130-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Hafif karanlık"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-karaltı-n-1-TUR10_0417130-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0417130-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Hafif karanlık"
+          }
+        },
+        {
+          "id": "kenet-karaltı-n-2-TUR10_0417140-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0417140-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Leke"
+          }
+        },
+        {
+          "id": "kenet-karaltı-n-TUR10_0417120-n",
+          "lemma": "karaltı",
+          "word_id": "kenet-karaltı-n",
+          "synset": {
+            "id": "kenet-TUR10_0417120-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karaltı"
+            ],
+            "definition": "Uzaklık ve karanlık sebebiyle kim veya ne olduğu seçilemeyen, belli belirsiz, koyu renkli biçim"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karanlık",
+      "all_senses": [
+        {
+          "id": "kenet-karanlık-n-1-TUR10_0756190-n",
+          "lemma": "karanlık",
+          "word_id": "kenet-karanlık-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0756190-n",
+            "ili": "i75081",
+            "pos": "n",
+            "lemmas": [
+              "üzüntü",
+              "teessür",
+              "üzünç",
+              "üzülme",
+              "çeki",
+              "dert",
+              "ızdırap",
+              "inkıbaz",
+              "koyuntu",
+              "melal",
+              "karanlık",
+              "keder",
+              "gaile",
+              "elem",
+              "ezgi",
+              "ezginlik",
+              "yara",
+              "yürek ağrısı",
+              "yürek darlığı",
+              "kasavet",
+              "bulut",
+              "melâl"
+            ],
+            "definition": "Olması istenilmeyen olaylardan doğan ruh tedirginliği"
+          },
+          "display_synset": {
+            "lemmas": [
+              "affliction"
+            ],
+            "definition": "a cause of great suffering and distress"
+          }
+        },
+        {
+          "id": "kenet-karanlık-n-TUR10_0417480-n",
+          "lemma": "karanlık",
+          "word_id": "kenet-karanlık-n",
+          "synset": {
+            "id": "kenet-TUR10_0417480-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "karanlık"
+            ],
+            "definition": "Işık olmama durumu"
+          },
+          "display_synset": {
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-karanlık-n-TUR10_0417480-n",
+          "lemma": "karanlık",
+          "word_id": "kenet-karanlık-n",
+          "synset": {
+            "id": "kenet-TUR10_0417480-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "karanlık"
+            ],
+            "definition": "Işık olmama durumu"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-karanlık-n-1-TUR10_0756190-n",
+          "lemma": "karanlık",
+          "word_id": "kenet-karanlık-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0756190-n",
+            "ili": "i75081",
+            "pos": "n",
+            "lemmas": [
+              "üzüntü",
+              "teessür",
+              "üzünç",
+              "üzülme",
+              "çeki",
+              "dert",
+              "ızdırap",
+              "inkıbaz",
+              "koyuntu",
+              "melal",
+              "karanlık",
+              "keder",
+              "gaile",
+              "elem",
+              "ezgi",
+              "ezginlik",
+              "yara",
+              "yürek ağrısı",
+              "yürek darlığı",
+              "kasavet",
+              "bulut",
+              "melâl"
+            ],
+            "definition": "Olması istenilmeyen olaylardan doğan ruh tedirginliği"
+          },
+          "display_synset": {
+            "lemmas": [
+              "affliction"
+            ],
+            "definition": "a cause of great suffering and distress"
+          }
+        },
+        {
+          "id": "kenet-karanlık-n-TUR10_0417480-n",
+          "lemma": "karanlık",
+          "word_id": "kenet-karanlık-n",
+          "synset": {
+            "id": "kenet-TUR10_0417480-n",
+            "ili": "i110421",
+            "pos": "n",
+            "lemmas": [
+              "karanlık"
+            ],
+            "definition": "Işık olmama durumu"
+          },
+          "display_synset": {
+            "lemmas": [
+              "dark",
+              "darkness"
+            ],
+            "definition": "absence of light or illumination"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karartı",
+      "all_senses": [
+        {
+          "id": "kenet-karartı-n-1-TUR10_0418090-n",
+          "lemma": "karartı",
+          "word_id": "kenet-karartı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0418090-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "siyahlık",
+              "karartı"
+            ],
+            "definition": "Karanlık veya koyuluk"
+          }
+        },
+        {
+          "id": "kenet-karartı-n-TUR10_0418080-n",
+          "lemma": "karartı",
+          "word_id": "kenet-karartı-n",
+          "synset": {
+            "id": "kenet-TUR10_0418080-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karartı"
+            ],
+            "definition": "Karaltı"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-karartı-n-1-TUR10_0418090-n",
+          "lemma": "karartı",
+          "word_id": "kenet-karartı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0418090-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "siyahlık",
+              "karartı"
+            ],
+            "definition": "Karanlık veya koyuluk"
+          }
+        },
+        {
+          "id": "kenet-karartı-n-TUR10_0418080-n",
+          "lemma": "karartı",
+          "word_id": "kenet-karartı-n",
+          "synset": {
+            "id": "kenet-TUR10_0418080-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karartı"
+            ],
+            "definition": "Karaltı"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-karartı-n-1-TUR10_0418090-n",
+          "lemma": "karartı",
+          "word_id": "kenet-karartı-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0418090-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "siyahlık",
+              "karartı"
+            ],
+            "definition": "Karanlık veya koyuluk"
+          }
+        },
+        {
+          "id": "kenet-karartı-n-TUR10_0418080-n",
+          "lemma": "karartı",
+          "word_id": "kenet-karartı-n",
+          "synset": {
+            "id": "kenet-TUR10_0418080-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "karartı"
+            ],
+            "definition": "Karaltı"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "leke",
+      "all_senses": [
+        {
+          "id": "kenet-leke-n-1-TUR10_0509380-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0509380-n",
+            "ili": "i61724",
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Kirliliği gösteren iz"
+          },
+          "display_synset": {
+            "lemmas": [
+              "smudge",
+              "spot",
+              "blot",
+              "daub",
+              "smear",
+              "smirch",
+              "slur"
+            ],
+            "definition": "a blemish made by dirt"
+          }
+        },
+        {
+          "id": "kenet-leke-n-2-TUR10_0509390-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0509390-n",
+            "ili": "i61661",
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Bir yüzeyde türlü sebepler dolayısıyla oluşan farklı renk"
+          },
+          "display_synset": {
+            "lemmas": [
+              "spot",
+              "speckle",
+              "dapple",
+              "patch",
+              "fleck",
+              "maculation"
+            ],
+            "definition": "a small contrasting part of something"
+          }
+        },
+        {
+          "id": "kenet-leke-n-3-TUR10_0509400-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0509400-n",
+            "ili": "i61711",
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Vücudun herhangi bir yerinde oluşan değişik renk"
+          },
+          "display_synset": {
+            "lemmas": [
+              "blemish",
+              "defect",
+              "mar"
+            ],
+            "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)"
+          }
+        },
+        {
+          "id": "kenet-leke-n-4-TUR10_0509420-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0509420-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Güneş, ay veya herhangi bir gezegenin parlak yüzeyinde görülen karanlık bölüm"
+          }
+        },
+        {
+          "id": "kenet-leke-n-TUR10_0415150-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n",
+          "synset": {
+            "id": "kenet-TUR10_0415150-n",
+            "ili": "i112735",
+            "pos": "n",
+            "lemmas": [
+              "kara",
+              "kir",
+              "leke",
+              "şaibe"
+            ],
+            "definition": "Utanılacak durum"
+          },
+          "display_synset": {
+            "lemmas": [
+              "mire"
+            ],
+            "definition": "a difficulty or embarrassment that is hard to extricate yourself from"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-leke-n-4-TUR10_0509420-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0509420-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Güneş, ay veya herhangi bir gezegenin parlak yüzeyinde görülen karanlık bölüm"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-leke-n-1-TUR10_0509380-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0509380-n",
+            "ili": "i61724",
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Kirliliği gösteren iz"
+          },
+          "display_synset": {
+            "lemmas": [
+              "smudge",
+              "spot",
+              "blot",
+              "daub",
+              "smear",
+              "smirch",
+              "slur"
+            ],
+            "definition": "a blemish made by dirt"
+          }
+        },
+        {
+          "id": "kenet-leke-n-2-TUR10_0509390-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0509390-n",
+            "ili": "i61661",
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Bir yüzeyde türlü sebepler dolayısıyla oluşan farklı renk"
+          },
+          "display_synset": {
+            "lemmas": [
+              "spot",
+              "speckle",
+              "dapple",
+              "patch",
+              "fleck",
+              "maculation"
+            ],
+            "definition": "a small contrasting part of something"
+          }
+        },
+        {
+          "id": "kenet-leke-n-3-TUR10_0509400-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0509400-n",
+            "ili": "i61711",
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Vücudun herhangi bir yerinde oluşan değişik renk"
+          },
+          "display_synset": {
+            "lemmas": [
+              "blemish",
+              "defect",
+              "mar"
+            ],
+            "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)"
+          }
+        },
+        {
+          "id": "kenet-leke-n-4-TUR10_0509420-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n-4",
+          "synset": {
+            "id": "kenet-TUR10_0509420-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "leke"
+            ],
+            "definition": "Güneş, ay veya herhangi bir gezegenin parlak yüzeyinde görülen karanlık bölüm"
+          }
+        },
+        {
+          "id": "kenet-leke-n-TUR10_0415150-n",
+          "lemma": "leke",
+          "word_id": "kenet-leke-n",
+          "synset": {
+            "id": "kenet-TUR10_0415150-n",
+            "ili": "i112735",
+            "pos": "n",
+            "lemmas": [
+              "kara",
+              "kir",
+              "leke",
+              "şaibe"
+            ],
+            "definition": "Utanılacak durum"
+          },
+          "display_synset": {
+            "lemmas": [
+              "mire"
+            ],
+            "definition": "a difficulty or embarrassment that is hard to extricate yourself from"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [
+        {
+          "source": "kenet-leke-n-1-TUR10_0509380-n",
+          "target": "kenet-leke-n-3-TUR10_0509400-n",
+          "source_synset": "kenet-TUR10_0509380-n",
+          "target_synset": "kenet-TUR10_0509400-n",
+          "source_reference_synset": "kenet-TUR10_0509380-n",
+          "target_reference_synset": "kenet-TUR10_0509400-n",
+          "type": "hypernym",
+          "level": "reference"
+        },
+        {
+          "source": "kenet-leke-n-1-TUR10_0509380-n",
+          "target": "kenet-leke-n-3-TUR10_0509400-n",
+          "source_synset": "kenet-TUR10_0509380-n",
+          "target_synset": "kenet-TUR10_0509400-n",
+          "type": "hypernym",
+          "level": "synset"
+        },
+        {
+          "source": "kenet-leke-n-3-TUR10_0509400-n",
+          "target": "kenet-leke-n-1-TUR10_0509380-n",
+          "source_synset": "kenet-TUR10_0509400-n",
+          "target_synset": "kenet-TUR10_0509380-n",
+          "source_reference_synset": "kenet-TUR10_0509400-n",
+          "target_reference_synset": "kenet-TUR10_0509380-n",
+          "type": "hyponym",
+          "level": "reference"
+        },
+        {
+          "source": "kenet-leke-n-3-TUR10_0509400-n",
+          "target": "kenet-leke-n-1-TUR10_0509380-n",
+          "source_synset": "kenet-TUR10_0509400-n",
+          "target_synset": "kenet-TUR10_0509380-n",
+          "type": "hyponym",
+          "level": "synset"
+        }
+      ],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "peçe",
+      "all_senses": [
+        {
+          "id": "kenet-peçe-n-1-TUR10_0620540-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0620540-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Bir şeyi gizlemek için üzerine çekilen örtü"
+          }
+        },
+        {
+          "id": "kenet-peçe-n-2-TUR10_0620550-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0620550-n",
+            "ili": "i40909",
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Maske; sır; giz"
+          },
+          "display_synset": {
+            "lemmas": [
+              "mask"
+            ],
+            "definition": "activity that tries to conceal something"
+          }
+        },
+        {
+          "id": "kenet-peçe-n-3-TUR10_0620560-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0620560-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Yıldız resimlerinin alındığı planların yüzeyinde görülen hafif karartı"
+          }
+        },
+        {
+          "id": "kenet-peçe-n-TUR10_0576930-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n",
+          "synset": {
+            "id": "kenet-TUR10_0576930-n",
+            "ili": "i54705",
+            "pos": "n",
+            "lemmas": [
+              "peçe",
+              "nikap"
+            ],
+            "definition": "Kadınların sokakta yüzlerine örttükleri ince genellikle siyah renkteki örtü"
+          },
+          "display_synset": {
+            "lemmas": [
+              "head covering",
+              "veil"
+            ],
+            "definition": "a garment that covers the head and face"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-peçe-n-3-TUR10_0620560-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0620560-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Yıldız resimlerinin alındığı planların yüzeyinde görülen hafif karartı"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-peçe-n-1-TUR10_0620540-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0620540-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Bir şeyi gizlemek için üzerine çekilen örtü"
+          }
+        },
+        {
+          "id": "kenet-peçe-n-2-TUR10_0620550-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-2",
+          "synset": {
+            "id": "kenet-TUR10_0620550-n",
+            "ili": "i40909",
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Maske; sır; giz"
+          },
+          "display_synset": {
+            "lemmas": [
+              "mask"
+            ],
+            "definition": "activity that tries to conceal something"
+          }
+        },
+        {
+          "id": "kenet-peçe-n-3-TUR10_0620560-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n-3",
+          "synset": {
+            "id": "kenet-TUR10_0620560-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "peçe"
+            ],
+            "definition": "Yıldız resimlerinin alındığı planların yüzeyinde görülen hafif karartı"
+          }
+        },
+        {
+          "id": "kenet-peçe-n-TUR10_0576930-n",
+          "lemma": "peçe",
+          "word_id": "kenet-peçe-n",
+          "synset": {
+            "id": "kenet-TUR10_0576930-n",
+            "ili": "i54705",
+            "pos": "n",
+            "lemmas": [
+              "peçe",
+              "nikap"
+            ],
+            "definition": "Kadınların sokakta yüzlerine örttükleri ince genellikle siyah renkteki örtü"
+          },
+          "display_synset": {
+            "lemmas": [
+              "head covering",
+              "veil"
+            ],
+            "definition": "a garment that covers the head and face"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "santimetrelik",
+      "all_senses": [
+        {
+          "id": "kenet-santimetrelik-n-1-TUR10_0663950-n",
+          "lemma": "santimetrelik",
+          "word_id": "kenet-santimetrelik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0663950-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "santimetrelik"
+            ],
+            "definition": "Dalga boyu bir ile on santimetre arasında değişen radyo dalgaları gölgesi"
+          }
+        },
+        {
+          "id": "kenet-santimetrelik-n-TUR10_0663940-n",
+          "lemma": "santimetrelik",
+          "word_id": "kenet-santimetrelik-n",
+          "synset": {
+            "id": "kenet-TUR10_0663940-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "santimetrelik"
+            ],
+            "definition": "Santimetre ölçüsünde olan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-santimetrelik-n-1-TUR10_0663950-n",
+          "lemma": "santimetrelik",
+          "word_id": "kenet-santimetrelik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0663950-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "santimetrelik"
+            ],
+            "definition": "Dalga boyu bir ile on santimetre arasında değişen radyo dalgaları gölgesi"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-santimetrelik-n-1-TUR10_0663950-n",
+          "lemma": "santimetrelik",
+          "word_id": "kenet-santimetrelik-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0663950-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "santimetrelik"
+            ],
+            "definition": "Dalga boyu bir ile on santimetre arasında değişen radyo dalgaları gölgesi"
+          }
+        },
+        {
+          "id": "kenet-santimetrelik-n-TUR10_0663940-n",
+          "lemma": "santimetrelik",
+          "word_id": "kenet-santimetrelik-n",
+          "synset": {
+            "id": "kenet-TUR10_0663940-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "santimetrelik"
+            ],
+            "definition": "Santimetre ölçüsünde olan"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "saye",
+      "all_senses": [
+        {
+          "id": "kenet-saye-n-1-TUR10_0670340-n",
+          "lemma": "saye",
+          "word_id": "kenet-saye-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0670340-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "saye"
+            ],
+            "definition": "Koruma, yardım"
+          }
+        },
+        {
+          "id": "kenet-saye-n-TUR10_0670330-n",
+          "lemma": "saye",
+          "word_id": "kenet-saye-n",
+          "synset": {
+            "id": "kenet-TUR10_0670330-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "saye"
+            ],
+            "definition": "Gölge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-saye-n-TUR10_0670330-n",
+          "lemma": "saye",
+          "word_id": "kenet-saye-n",
+          "synset": {
+            "id": "kenet-TUR10_0670330-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "saye"
+            ],
+            "definition": "Gölge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-saye-n-1-TUR10_0670340-n",
+          "lemma": "saye",
+          "word_id": "kenet-saye-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0670340-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "saye"
+            ],
+            "definition": "Koruma, yardım"
+          }
+        },
+        {
+          "id": "kenet-saye-n-TUR10_0670330-n",
+          "lemma": "saye",
+          "word_id": "kenet-saye-n",
+          "synset": {
+            "id": "kenet-TUR10_0670330-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "saye"
+            ],
+            "definition": "Gölge"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "siyahlık",
+      "all_senses": [
+        {
+          "id": "kenet-siyahlık-n-1-TUR10_0697440-n",
+          "lemma": "siyahlık",
+          "word_id": "kenet-siyahlık-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0697440-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "siyahlık"
+            ],
+            "definition": "Kara renk"
+          },
+          "display_synset": {
+            "lemmas": [
+              "black",
+              "blackness",
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "kenet-siyahlık-n-TUR10_0418090-n",
+          "lemma": "siyahlık",
+          "word_id": "kenet-siyahlık-n",
+          "synset": {
+            "id": "kenet-TUR10_0418090-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "siyahlık",
+              "karartı"
+            ],
+            "definition": "Karanlık veya koyuluk"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "kenet-siyahlık-n-TUR10_0418090-n",
+          "lemma": "siyahlık",
+          "word_id": "kenet-siyahlık-n",
+          "synset": {
+            "id": "kenet-TUR10_0418090-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "siyahlık",
+              "karartı"
+            ],
+            "definition": "Karanlık veya koyuluk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "kenet-siyahlık-n-1-TUR10_0697440-n",
+          "lemma": "siyahlık",
+          "word_id": "kenet-siyahlık-n-1",
+          "synset": {
+            "id": "kenet-TUR10_0697440-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "siyahlık"
+            ],
+            "definition": "Kara renk"
+          },
+          "display_synset": {
+            "lemmas": [
+              "black",
+              "blackness",
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "kenet-siyahlık-n-TUR10_0418090-n",
+          "lemma": "siyahlık",
+          "word_id": "kenet-siyahlık-n",
+          "synset": {
+            "id": "kenet-TUR10_0418090-n",
+            "ili": null,
+            "pos": "n",
+            "lemmas": [
+              "siyahlık",
+              "karartı"
+            ],
+            "definition": "Karanlık veya koyuluk"
+          }
+        }
+      ],
+      "links": {},
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

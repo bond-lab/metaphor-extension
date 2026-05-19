@@ -8,6 +8,7 @@ from metaphor_extension.wordnet_service import (
     _merge_senses,
     _synset_payload,
     build_candidate_session,
+    build_polysemy_session,
     load_wordnet,
 )
 
@@ -175,6 +176,49 @@ def test_merge_senses_deduplicates_by_synset_id():
     )
 
     assert [sense["id"] for sense in senses] == ["sense-a", "sense-c"]
+
+
+@pytest.mark.skipif(not has_lexicon("omw-en:1.4"), reason="omw-en:1.4 is not installed")
+def test_build_polysemy_session_returns_only_polysemous_lemmas():
+    # i63025 = color/colour — a domain rich in polysemous English words
+    session = build_polysemy_session("omw-en:1.4", "i63025", name="color-en")
+
+    assert session["root_ili"] == "i63025"
+    assert session["source_ili"] == "i63025"
+    assert session["target_ili"] == "i63025"
+    assert session["items"]
+    # every item must have 2+ senses in the full wordnet (target_senses = all_senses)
+    for item in session["items"]:
+        assert len(item["all_senses"]) >= 2, f"{item['lemma']} has < 2 total senses"
+        assert item["target_senses"] == item["all_senses"]
+
+
+@pytest.mark.skipif(not has_lexicon("omw-en:1.4"), reason="omw-en:1.4 is not installed")
+def test_build_polysemy_session_source_senses_are_subtree_subset():
+    # source_senses must be a subset of all_senses (they come from the subtree)
+    session = build_polysemy_session("omw-en:1.4", "i63025", name="color-en")
+
+    for item in session["items"]:
+        source_ids = {s["id"] for s in item["source_senses"]}
+        all_ids = {s["id"] for s in item["all_senses"]}
+        assert source_ids <= all_ids, f"{item['lemma']}: source_senses not subset of all_senses"
+
+
+@pytest.mark.skipif(not has_lexicon("omw-en:1.4"), reason="omw-en:1.4 is not installed")
+def test_build_polysemy_session_includes_leaf_root_polysemy():
+    # i113545 = light/illumination — a leaf node; polysemy is in the full wordnet
+    session = build_polysemy_session("omw-en:1.4", "i113545", name="light-en")
+
+    lemmas = {item["lemma"] for item in session["items"]}
+    assert "light" in lemmas
+
+
+@pytest.mark.skipif(not has_lexicon("omw-en:1.4"), reason="omw-en:1.4 is not installed")
+def test_build_polysemy_session_id_is_stable():
+    s1 = build_polysemy_session("omw-en:1.4", "i63025", name="color-en")
+    s2 = build_polysemy_session("omw-en:1.4", "i63025", name="color-en")
+
+    assert s1["id"] == s2["id"]
 
 
 @pytest.mark.skipif(not has_lexicon("wnja:2.0"), reason="wnja:2.0 is not installed")
