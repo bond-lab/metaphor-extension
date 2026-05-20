@@ -1,0 +1,244 @@
+{
+  "id": "5440eb2fd7aad08e",
+  "name": "unimet-Occitan",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "oci",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "buòu",
+      "all_senses": [
+        {
+          "id": "unimet-oci-buòu-n02403003",
+          "lemma": "buòu",
+          "word_id": "unimet-oci-buòu",
+          "synset": {
+            "id": "omw-en-02403003-n",
+            "ili": "i48234",
+            "pos": "n",
+            "lemmas": [
+              "ox"
+            ],
+            "definition": "an adult castrated bull of the genus Bos; especially Bos taurus"
+          }
+        },
+        {
+          "id": "unimet-oci-buòu-n07663592",
+          "lemma": "buòu",
+          "word_id": "unimet-oci-buòu",
+          "synset": {
+            "id": "omw-en-07663592-n",
+            "ili": "i77197",
+            "pos": "n",
+            "lemmas": [
+              "boeuf"
+            ],
+            "definition": "meat from an adult domestic bovine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-oci-buòu-n02403003",
+          "lemma": "buòu",
+          "word_id": "unimet-oci-buòu",
+          "synset": {
+            "id": "omw-en-02403003-n",
+            "ili": "i48234",
+            "pos": "n",
+            "lemmas": [
+              "ox"
+            ],
+            "definition": "an adult castrated bull of the genus Bos; especially Bos taurus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-oci-buòu-n07663592",
+          "lemma": "buòu",
+          "word_id": "unimet-oci-buòu",
+          "synset": {
+            "id": "omw-en-07663592-n",
+            "ili": "i77197",
+            "pos": "n",
+            "lemmas": [
+              "boeuf"
+            ],
+            "definition": "meat from an adult domestic bovine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-oci-buòu-n02403003::unimet-oci-buòu-n07663592": {
+          "source": "unimet-oci-buòu-n02403003",
+          "target": "unimet-oci-buòu-n07663592",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "galina",
+      "all_senses": [
+        {
+          "id": "unimet-oci-galina-n01792640",
+          "lemma": "galina",
+          "word_id": "unimet-oci-galina",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-oci-galina-n07644967",
+          "lemma": "galina",
+          "word_id": "unimet-oci-galina",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-oci-galina-n01792640",
+          "lemma": "galina",
+          "word_id": "unimet-oci-galina",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-oci-galina-n07644967",
+          "lemma": "galina",
+          "word_id": "unimet-oci-galina",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-oci-galina-n01792640::unimet-oci-galina-n07644967": {
+          "source": "unimet-oci-galina-n01792640",
+          "target": "unimet-oci-galina-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sopar",
+      "all_senses": [
+        {
+          "id": "unimet-oci-sopar-n07575726",
+          "lemma": "sopar",
+          "word_id": "unimet-oci-sopar",
+          "synset": {
+            "id": "omw-en-07575726-n",
+            "ili": "i76571",
+            "pos": "n",
+            "lemmas": [
+              "dinner"
+            ],
+            "definition": "the main meal of the day served in the evening or at midday"
+          }
+        },
+        {
+          "id": "unimet-oci-sopar-v01167981",
+          "lemma": "sopar",
+          "word_id": "unimet-oci-sopar",
+          "synset": {
+            "id": "omw-en-01167981-v",
+            "ili": "i27457",
+            "pos": "v",
+            "lemmas": [
+              "dine"
+            ],
+            "definition": "have supper; eat dinner"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-oci-sopar-n07575726",
+          "lemma": "sopar",
+          "word_id": "unimet-oci-sopar",
+          "synset": {
+            "id": "omw-en-07575726-n",
+            "ili": "i76571",
+            "pos": "n",
+            "lemmas": [
+              "dinner"
+            ],
+            "definition": "the main meal of the day served in the evening or at midday"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-oci-sopar-v01167981",
+          "lemma": "sopar",
+          "word_id": "unimet-oci-sopar",
+          "synset": {
+            "id": "omw-en-01167981-v",
+            "ili": "i27457",
+            "pos": "v",
+            "lemmas": [
+              "dine"
+            ],
+            "definition": "have supper; eat dinner"
+          }
+        }
+      ],
+      "links": {
+        "unimet-oci-sopar-n07575726::unimet-oci-sopar-v01167981": {
+          "source": "unimet-oci-sopar-n07575726",
+          "target": "unimet-oci-sopar-v01167981",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

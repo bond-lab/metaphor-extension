@@ -1,0 +1,624 @@
+{
+  "id": "e37d9b518136f9d9",
+  "name": "unimet-Central Khmer",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "khm",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "កណ្ដាស់",
+      "all_senses": [
+        {
+          "id": "unimet-khm-កណ្ដាស់-n14314850",
+          "lemma": "កណ្ដាស់",
+          "word_id": "unimet-khm-កណ្ដាស់",
+          "synset": {
+            "id": "omw-en-14314850-n",
+            "ili": "i112172",
+            "pos": "n",
+            "lemmas": [
+              "sternutation"
+            ],
+            "definition": "a symptom consisting of the involuntary expulsion of air from the nose"
+          }
+        },
+        {
+          "id": "unimet-khm-កណ្ដាស់-v00004819",
+          "lemma": "កណ្ដាស់",
+          "word_id": "unimet-khm-កណ្ដាស់",
+          "synset": {
+            "id": "omw-en-00004819-v",
+            "ili": "i21792",
+            "pos": "v",
+            "lemmas": [
+              "sneeze"
+            ],
+            "definition": "exhale spasmodically, as when an irritant entered one's nose"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-កណ្ដាស់-v00004819",
+          "lemma": "កណ្ដាស់",
+          "word_id": "unimet-khm-កណ្ដាស់",
+          "synset": {
+            "id": "omw-en-00004819-v",
+            "ili": "i21792",
+            "pos": "v",
+            "lemmas": [
+              "sneeze"
+            ],
+            "definition": "exhale spasmodically, as when an irritant entered one's nose"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-កណ្ដាស់-n14314850",
+          "lemma": "កណ្ដាស់",
+          "word_id": "unimet-khm-កណ្ដាស់",
+          "synset": {
+            "id": "omw-en-14314850-n",
+            "ili": "i112172",
+            "pos": "n",
+            "lemmas": [
+              "sternutation"
+            ],
+            "definition": "a symptom consisting of the involuntary expulsion of air from the nose"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-កណ្ដាស់-v00004819::unimet-khm-កណ្ដាស់-n14314850": {
+          "source": "unimet-khm-កណ្ដាស់-v00004819",
+          "target": "unimet-khm-កណ្ដាស់-n14314850",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "កែវ",
+      "all_senses": [
+        {
+          "id": "unimet-khm-កែវ-n03438257",
+          "lemma": "កែវ",
+          "word_id": "unimet-khm-កែវ",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-khm-កែវ-n14881303",
+          "lemma": "កែវ",
+          "word_id": "unimet-khm-កែវ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-កែវ-n14881303",
+          "lemma": "កែវ",
+          "word_id": "unimet-khm-កែវ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-កែវ-n03438257",
+          "lemma": "កែវ",
+          "word_id": "unimet-khm-កែវ",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-កែវ-n14881303::unimet-khm-កែវ-n03438257": {
+          "source": "unimet-khm-កែវ-n14881303",
+          "target": "unimet-khm-កែវ-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ក្រពើ",
+      "all_senses": [
+        {
+          "id": "unimet-khm-ក្រពើ-n01697178",
+          "lemma": "ក្រពើ",
+          "word_id": "unimet-khm-ក្រពើ",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        },
+        {
+          "id": "unimet-khm-ក្រពើ-n14760447",
+          "lemma": "ក្រពើ",
+          "word_id": "unimet-khm-ក្រពើ",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-ក្រពើ-n01697178",
+          "lemma": "ក្រពើ",
+          "word_id": "unimet-khm-ក្រពើ",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-ក្រពើ-n14760447",
+          "lemma": "ក្រពើ",
+          "word_id": "unimet-khm-ក្រពើ",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-ក្រពើ-n01697178::unimet-khm-ក្រពើ-n14760447": {
+          "source": "unimet-khm-ក្រពើ-n01697178",
+          "target": "unimet-khm-ក្រពើ-n14760447",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ប្រទេស",
+      "all_senses": [
+        {
+          "id": "unimet-khm-ប្រទេស-n08168978",
+          "lemma": "ប្រទេស",
+          "word_id": "unimet-khm-ប្រទេស",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-khm-ប្រទេស-n08544813",
+          "lemma": "ប្រទេស",
+          "word_id": "unimet-khm-ប្រទេស",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-ប្រទេស-n08168978",
+          "lemma": "ប្រទេស",
+          "word_id": "unimet-khm-ប្រទេស",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-ប្រទេស-n08544813",
+          "lemma": "ប្រទេស",
+          "word_id": "unimet-khm-ប្រទេស",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-ប្រទេស-n08168978::unimet-khm-ប្រទេស-n08544813": {
+          "source": "unimet-khm-ប្រទេស-n08168978",
+          "target": "unimet-khm-ប្រទេស-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ផលិក",
+      "all_senses": [
+        {
+          "id": "unimet-khm-ផលិក-n03142834",
+          "lemma": "ផលិក",
+          "word_id": "unimet-khm-ផលិក",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-khm-ផលិក-n14883206",
+          "lemma": "ផលិក",
+          "word_id": "unimet-khm-ផលិក",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-ផលិក-n14883206",
+          "lemma": "ផលិក",
+          "word_id": "unimet-khm-ផលិក",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-ផលិក-n03142834",
+          "lemma": "ផលិក",
+          "word_id": "unimet-khm-ផលិក",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-ផលិក-n14883206::unimet-khm-ផលិក-n03142834": {
+          "source": "unimet-khm-ផលិក-n14883206",
+          "target": "unimet-khm-ផលិក-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ម្នាស់",
+      "all_senses": [
+        {
+          "id": "unimet-khm-ម្នាស់-n07753275",
+          "lemma": "ម្នាស់",
+          "word_id": "unimet-khm-ម្នាស់",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-khm-ម្នាស់-n12607456",
+          "lemma": "ម្នាស់",
+          "word_id": "unimet-khm-ម្នាស់",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-ម្នាស់-n07753275",
+          "lemma": "ម្នាស់",
+          "word_id": "unimet-khm-ម្នាស់",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-ម្នាស់-n12607456",
+          "lemma": "ម្នាស់",
+          "word_id": "unimet-khm-ម្នាស់",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-ម្នាស់-n07753275::unimet-khm-ម្នាស់-n12607456": {
+          "source": "unimet-khm-ម្នាស់-n07753275",
+          "target": "unimet-khm-ម្នាស់-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "រដ្ឋ",
+      "all_senses": [
+        {
+          "id": "unimet-khm-រដ្ឋ-n08178547",
+          "lemma": "រដ្ឋ",
+          "word_id": "unimet-khm-រដ្ឋ",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-khm-រដ្ឋ-n08654360",
+          "lemma": "រដ្ឋ",
+          "word_id": "unimet-khm-រដ្ឋ",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-រដ្ឋ-n08178547",
+          "lemma": "រដ្ឋ",
+          "word_id": "unimet-khm-រដ្ឋ",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-រដ្ឋ-n08654360",
+          "lemma": "រដ្ឋ",
+          "word_id": "unimet-khm-រដ្ឋ",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-រដ្ឋ-n08178547::unimet-khm-រដ្ឋ-n08654360": {
+          "source": "unimet-khm-រដ្ឋ-n08178547",
+          "target": "unimet-khm-រដ្ឋ-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "សណ្ដែកសៀង",
+      "all_senses": [
+        {
+          "id": "unimet-khm-សណ្ដែកសៀង-n07729485",
+          "lemma": "សណ្ដែកសៀង",
+          "word_id": "unimet-khm-សណ្ដែកសៀង",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        },
+        {
+          "id": "unimet-khm-សណ្ដែកសៀង-n12532168",
+          "lemma": "សណ្ដែកសៀង",
+          "word_id": "unimet-khm-សណ្ដែកសៀង",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-khm-សណ្ដែកសៀង-n12532168",
+          "lemma": "សណ្ដែកសៀង",
+          "word_id": "unimet-khm-សណ្ដែកសៀង",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-khm-សណ្ដែកសៀង-n07729485",
+          "lemma": "សណ្ដែកសៀង",
+          "word_id": "unimet-khm-សណ្ដែកសៀង",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        }
+      ],
+      "links": {
+        "unimet-khm-សណ្ដែកសៀង-n12532168::unimet-khm-សណ្ដែកសៀង-n07729485": {
+          "source": "unimet-khm-សណ្ដែកសៀង-n12532168",
+          "target": "unimet-khm-សណ្ដែកសៀង-n07729485",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

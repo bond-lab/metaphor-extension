@@ -1,0 +1,168 @@
+{
+  "id": "99fdc3c38bba5298",
+  "name": "unimet-Western Frisian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "fry",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ierdbei",
+      "all_senses": [
+        {
+          "id": "unimet-fry-ierdbei-n07745940",
+          "lemma": "ierdbei",
+          "word_id": "unimet-fry-ierdbei",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-fry-ierdbei-n12630144",
+          "lemma": "ierdbei",
+          "word_id": "unimet-fry-ierdbei",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fry-ierdbei-n07745940",
+          "lemma": "ierdbei",
+          "word_id": "unimet-fry-ierdbei",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fry-ierdbei-n12630144",
+          "lemma": "ierdbei",
+          "word_id": "unimet-fry-ierdbei",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fry-ierdbei-n07745940::unimet-fry-ierdbei-n12630144": {
+          "source": "unimet-fry-ierdbei-n07745940",
+          "target": "unimet-fry-ierdbei-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lân",
+      "all_senses": [
+        {
+          "id": "unimet-fry-lân-n08168978",
+          "lemma": "lân",
+          "word_id": "unimet-fry-lân",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-fry-lân-n08544813",
+          "lemma": "lân",
+          "word_id": "unimet-fry-lân",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fry-lân-n08168978",
+          "lemma": "lân",
+          "word_id": "unimet-fry-lân",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fry-lân-n08544813",
+          "lemma": "lân",
+          "word_id": "unimet-fry-lân",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fry-lân-n08168978::unimet-fry-lân-n08544813": {
+          "source": "unimet-fry-lân-n08168978",
+          "target": "unimet-fry-lân-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "5a6a43ade15c068a",
+  "name": "unimet-Manx",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "glv",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "balley beg",
+      "all_senses": [
+        {
+          "id": "unimet-glv-balley beg-n08226699",
+          "lemma": "balley beg",
+          "word_id": "unimet-glv-balley beg",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-glv-balley beg-n08672738",
+          "lemma": "balley beg",
+          "word_id": "unimet-glv-balley beg",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glv-balley beg-n08226699",
+          "lemma": "balley beg",
+          "word_id": "unimet-glv-balley beg",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glv-balley beg-n08672738",
+          "lemma": "balley beg",
+          "word_id": "unimet-glv-balley beg",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glv-balley beg-n08226699::unimet-glv-balley beg-n08672738": {
+          "source": "unimet-glv-balley beg-n08226699",
+          "target": "unimet-glv-balley beg-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glonney",
+      "all_senses": [
+        {
+          "id": "unimet-glv-glonney-n03438257",
+          "lemma": "glonney",
+          "word_id": "unimet-glv-glonney",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-glv-glonney-n14881303",
+          "lemma": "glonney",
+          "word_id": "unimet-glv-glonney",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glv-glonney-n14881303",
+          "lemma": "glonney",
+          "word_id": "unimet-glv-glonney",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glv-glonney-n03438257",
+          "lemma": "glonney",
+          "word_id": "unimet-glv-glonney",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glv-glonney-n14881303::unimet-glv-glonney-n03438257": {
+          "source": "unimet-glv-glonney-n14881303",
+          "target": "unimet-glv-glonney-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jee-ushtaghey",
+      "all_senses": [
+        {
+          "id": "unimet-glv-jee-ushtaghey-n14536831",
+          "lemma": "jee-ushtaghey",
+          "word_id": "unimet-glv-jee-ushtaghey",
+          "synset": {
+            "id": "omw-en-14536831-n",
+            "ili": "i113395",
+            "pos": "n",
+            "lemmas": [
+              "desiccation"
+            ],
+            "definition": "dryness resulting from the removal of water"
+          }
+        },
+        {
+          "id": "unimet-glv-jee-ushtaghey-v00211396",
+          "lemma": "jee-ushtaghey",
+          "word_id": "unimet-glv-jee-ushtaghey",
+          "synset": {
+            "id": "omw-en-00211396-v",
+            "ili": "i22776",
+            "pos": "v",
+            "lemmas": [
+              "dehydrate"
+            ],
+            "definition": "remove water from"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glv-jee-ushtaghey-v00211396",
+          "lemma": "jee-ushtaghey",
+          "word_id": "unimet-glv-jee-ushtaghey",
+          "synset": {
+            "id": "omw-en-00211396-v",
+            "ili": "i22776",
+            "pos": "v",
+            "lemmas": [
+              "dehydrate"
+            ],
+            "definition": "remove water from"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glv-jee-ushtaghey-n14536831",
+          "lemma": "jee-ushtaghey",
+          "word_id": "unimet-glv-jee-ushtaghey",
+          "synset": {
+            "id": "omw-en-14536831-n",
+            "ili": "i113395",
+            "pos": "n",
+            "lemmas": [
+              "desiccation"
+            ],
+            "definition": "dryness resulting from the removal of water"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glv-jee-ushtaghey-v00211396::unimet-glv-jee-ushtaghey-n14536831": {
+          "source": "unimet-glv-jee-ushtaghey-v00211396",
+          "target": "unimet-glv-jee-ushtaghey-n14536831",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

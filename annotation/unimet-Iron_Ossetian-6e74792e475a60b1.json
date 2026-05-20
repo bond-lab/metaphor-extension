@@ -1,0 +1,92 @@
+{
+  "id": "6e74792e475a60b1",
+  "name": "unimet-Iron Ossetian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "oss",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "булкъ",
+      "all_senses": [
+        {
+          "id": "unimet-oss-булкъ-n07735687",
+          "lemma": "булкъ",
+          "word_id": "unimet-oss-булкъ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-oss-булкъ-n11894327",
+          "lemma": "булкъ",
+          "word_id": "unimet-oss-булкъ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-oss-булкъ-n11894327",
+          "lemma": "булкъ",
+          "word_id": "unimet-oss-булкъ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-oss-булкъ-n07735687",
+          "lemma": "булкъ",
+          "word_id": "unimet-oss-булкъ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-oss-булкъ-n11894327::unimet-oss-булкъ-n07735687": {
+          "source": "unimet-oss-булкъ-n11894327",
+          "target": "unimet-oss-булкъ-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

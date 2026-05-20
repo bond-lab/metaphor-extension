@@ -1,0 +1,92 @@
+{
+  "id": "0a3fe2bd17ea023b",
+  "name": "unimet-Dungan",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "dng",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "гоцзя",
+      "all_senses": [
+        {
+          "id": "unimet-dng-гоцзя-n08168978",
+          "lemma": "гоцзя",
+          "word_id": "unimet-dng-гоцзя",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-dng-гоцзя-n08544813",
+          "lemma": "гоцзя",
+          "word_id": "unimet-dng-гоцзя",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dng-гоцзя-n08168978",
+          "lemma": "гоцзя",
+          "word_id": "unimet-dng-гоцзя",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dng-гоцзя-n08544813",
+          "lemma": "гоцзя",
+          "word_id": "unimet-dng-гоцзя",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dng-гоцзя-n08168978::unimet-dng-гоцзя-n08544813": {
+          "source": "unimet-dng-гоцзя-n08168978",
+          "target": "unimet-dng-гоцзя-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

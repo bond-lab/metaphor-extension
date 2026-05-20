@@ -1,0 +1,168 @@
+{
+  "id": "65e387e93fb52d92",
+  "name": "unimet-Hiligaynon",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "hil",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "abaniko",
+      "all_senses": [
+        {
+          "id": "unimet-hil-abaniko-n03320046",
+          "lemma": "abaniko",
+          "word_id": "unimet-hil-abaniko",
+          "synset": {
+            "id": "omw-en-03320046-n",
+            "ili": "i53588",
+            "pos": "n",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "a device for creating a current of air by movement of a surface or surfaces"
+          }
+        },
+        {
+          "id": "unimet-hil-abaniko-v01885580",
+          "lemma": "abaniko",
+          "word_id": "unimet-hil-abaniko",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hil-abaniko-n03320046",
+          "lemma": "abaniko",
+          "word_id": "unimet-hil-abaniko",
+          "synset": {
+            "id": "omw-en-03320046-n",
+            "ili": "i53588",
+            "pos": "n",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "a device for creating a current of air by movement of a surface or surfaces"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hil-abaniko-v01885580",
+          "lemma": "abaniko",
+          "word_id": "unimet-hil-abaniko",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hil-abaniko-n03320046::unimet-hil-abaniko-v01885580": {
+          "source": "unimet-hil-abaniko-n03320046",
+          "target": "unimet-hil-abaniko-v01885580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "babana",
+      "all_senses": [
+        {
+          "id": "unimet-hil-babana-n07761309",
+          "lemma": "babana",
+          "word_id": "unimet-hil-babana",
+          "synset": {
+            "id": "omw-en-07761309-n",
+            "ili": "i77852",
+            "pos": "n",
+            "lemmas": [
+              "soursop"
+            ],
+            "definition": "large spiny tropical fruit with tart pulp related to custard apples"
+          }
+        },
+        {
+          "id": "unimet-hil-babana-n11694664",
+          "lemma": "babana",
+          "word_id": "unimet-hil-babana",
+          "synset": {
+            "id": "omw-en-11694664-n",
+            "ili": "i98802",
+            "pos": "n",
+            "lemmas": [
+              "annona muricata"
+            ],
+            "definition": "small tropical American tree bearing large succulent slightly acid fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hil-babana-n07761309",
+          "lemma": "babana",
+          "word_id": "unimet-hil-babana",
+          "synset": {
+            "id": "omw-en-07761309-n",
+            "ili": "i77852",
+            "pos": "n",
+            "lemmas": [
+              "soursop"
+            ],
+            "definition": "large spiny tropical fruit with tart pulp related to custard apples"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hil-babana-n11694664",
+          "lemma": "babana",
+          "word_id": "unimet-hil-babana",
+          "synset": {
+            "id": "omw-en-11694664-n",
+            "ili": "i98802",
+            "pos": "n",
+            "lemmas": [
+              "annona muricata"
+            ],
+            "definition": "small tropical American tree bearing large succulent slightly acid fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hil-babana-n07761309::unimet-hil-babana-n11694664": {
+          "source": "unimet-hil-babana-n07761309",
+          "target": "unimet-hil-babana-n11694664",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

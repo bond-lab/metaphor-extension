@@ -1,0 +1,320 @@
+{
+  "id": "905fdbbaa72f2290",
+  "name": "unimet-Egyptian Arabic",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "arz",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "عدس",
+      "all_senses": [
+        {
+          "id": "unimet-arz-عدس-n07725255",
+          "lemma": "عدس",
+          "word_id": "unimet-arz-عدس",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-arz-عدس-n12544240",
+          "lemma": "عدس",
+          "word_id": "unimet-arz-عدس",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-arz-عدس-n12544240",
+          "lemma": "عدس",
+          "word_id": "unimet-arz-عدس",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-arz-عدس-n07725255",
+          "lemma": "عدس",
+          "word_id": "unimet-arz-عدس",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-arz-عدس-n12544240::unimet-arz-عدس-n07725255": {
+          "source": "unimet-arz-عدس-n12544240",
+          "target": "unimet-arz-عدس-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "فطر",
+      "all_senses": [
+        {
+          "id": "unimet-arz-فطر-n07734744",
+          "lemma": "فطر",
+          "word_id": "unimet-arz-فطر",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-arz-فطر-n12992868",
+          "lemma": "فطر",
+          "word_id": "unimet-arz-فطر",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-arz-فطر-n12992868",
+          "lemma": "فطر",
+          "word_id": "unimet-arz-فطر",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-arz-فطر-n07734744",
+          "lemma": "فطر",
+          "word_id": "unimet-arz-فطر",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-arz-فطر-n12992868::unimet-arz-فطر-n07734744": {
+          "source": "unimet-arz-فطر-n12992868",
+          "target": "unimet-arz-فطر-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "فلفل رومي",
+      "all_senses": [
+        {
+          "id": "unimet-arz-فلفل رومي-n07721195",
+          "lemma": "فلفل رومي",
+          "word_id": "unimet-arz-فلفل رومي",
+          "synset": {
+            "id": "omw-en-07721195-n",
+            "ili": "i77585",
+            "pos": "n",
+            "lemmas": [
+              "pimento"
+            ],
+            "definition": "fully ripened sweet red pepper; usually cooked"
+          }
+        },
+        {
+          "id": "unimet-arz-فلفل رومي-n12901264",
+          "lemma": "فلفل رومي",
+          "word_id": "unimet-arz-فلفل رومي",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-arz-فلفل رومي-n12901264",
+          "lemma": "فلفل رومي",
+          "word_id": "unimet-arz-فلفل رومي",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-arz-فلفل رومي-n07721195",
+          "lemma": "فلفل رومي",
+          "word_id": "unimet-arz-فلفل رومي",
+          "synset": {
+            "id": "omw-en-07721195-n",
+            "ili": "i77585",
+            "pos": "n",
+            "lemmas": [
+              "pimento"
+            ],
+            "definition": "fully ripened sweet red pepper; usually cooked"
+          }
+        }
+      ],
+      "links": {
+        "unimet-arz-فلفل رومي-n12901264::unimet-arz-فلفل رومي-n07721195": {
+          "source": "unimet-arz-فلفل رومي-n12901264",
+          "target": "unimet-arz-فلفل رومي-n07721195",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "فول الصويا",
+      "all_senses": [
+        {
+          "id": "unimet-arz-فول الصويا-n07729485",
+          "lemma": "فول الصويا",
+          "word_id": "unimet-arz-فول الصويا",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        },
+        {
+          "id": "unimet-arz-فول الصويا-n12532168",
+          "lemma": "فول الصويا",
+          "word_id": "unimet-arz-فول الصويا",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-arz-فول الصويا-n12532168",
+          "lemma": "فول الصويا",
+          "word_id": "unimet-arz-فول الصويا",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-arz-فول الصويا-n07729485",
+          "lemma": "فول الصويا",
+          "word_id": "unimet-arz-فول الصويا",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        }
+      ],
+      "links": {
+        "unimet-arz-فول الصويا-n12532168::unimet-arz-فول الصويا-n07729485": {
+          "source": "unimet-arz-فول الصويا-n12532168",
+          "target": "unimet-arz-فول الصويا-n07729485",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

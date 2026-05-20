@@ -1,0 +1,168 @@
+{
+  "id": "41683807d9367e23",
+  "name": "unimet-Nuclear Pashto",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "pus",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "توت",
+      "all_senses": [
+        {
+          "id": "unimet-pus-توت-n07767171",
+          "lemma": "توت",
+          "word_id": "unimet-pus-توت",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-pus-توت-n12399132",
+          "lemma": "توت",
+          "word_id": "unimet-pus-توت",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pus-توت-n07767171",
+          "lemma": "توت",
+          "word_id": "unimet-pus-توت",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pus-توت-n12399132",
+          "lemma": "توت",
+          "word_id": "unimet-pus-توت",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pus-توت-n07767171::unimet-pus-توت-n12399132": {
+          "source": "unimet-pus-توت-n07767171",
+          "target": "unimet-pus-توت-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "غمی",
+      "all_senses": [
+        {
+          "id": "unimet-pus-غمی-n03596787",
+          "lemma": "غمی",
+          "word_id": "unimet-pus-غمی",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-pus-غمی-n14699752",
+          "lemma": "غمی",
+          "word_id": "unimet-pus-غمی",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pus-غمی-n14699752",
+          "lemma": "غمی",
+          "word_id": "unimet-pus-غمی",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pus-غمی-n03596787",
+          "lemma": "غمی",
+          "word_id": "unimet-pus-غمی",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pus-غمی-n14699752::unimet-pus-غمی-n03596787": {
+          "source": "unimet-pus-غمی-n14699752",
+          "target": "unimet-pus-غمی-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

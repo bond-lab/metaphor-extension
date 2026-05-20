@@ -1,0 +1,1070 @@
+{
+  "id": "0ca3e3a645481b45",
+  "name": "unimet-Vietnamese",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "vie",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "cà phê",
+      "all_senses": [
+        {
+          "id": "unimet-vie-cà phê-n07929351",
+          "lemma": "cà phê",
+          "word_id": "unimet-vie-cà phê",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-vie-cà phê-n12662772",
+          "lemma": "cà phê",
+          "word_id": "unimet-vie-cà phê",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-cà phê-n07929351",
+          "lemma": "cà phê",
+          "word_id": "unimet-vie-cà phê",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-cà phê-n12662772",
+          "lemma": "cà phê",
+          "word_id": "unimet-vie-cà phê",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-cà phê-n07929351::unimet-vie-cà phê-n12662772": {
+          "source": "unimet-vie-cà phê-n07929351",
+          "target": "unimet-vie-cà phê-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cá sấu",
+      "all_senses": [
+        {
+          "id": "unimet-vie-cá sấu-n01697178",
+          "lemma": "cá sấu",
+          "word_id": "unimet-vie-cá sấu",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        },
+        {
+          "id": "unimet-vie-cá sấu-n14760447",
+          "lemma": "cá sấu",
+          "word_id": "unimet-vie-cá sấu",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-cá sấu-n01697178",
+          "lemma": "cá sấu",
+          "word_id": "unimet-vie-cá sấu",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-cá sấu-n14760447",
+          "lemma": "cá sấu",
+          "word_id": "unimet-vie-cá sấu",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-cá sấu-n01697178::unimet-vie-cá sấu-n14760447": {
+          "source": "unimet-vie-cá sấu-n01697178",
+          "target": "unimet-vie-cá sấu-n14760447",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dứa",
+      "all_senses": [
+        {
+          "id": "unimet-vie-dứa-n07753275",
+          "lemma": "dứa",
+          "word_id": "unimet-vie-dứa",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-vie-dứa-n12607456",
+          "lemma": "dứa",
+          "word_id": "unimet-vie-dứa",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-dứa-n07753275",
+          "lemma": "dứa",
+          "word_id": "unimet-vie-dứa",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-dứa-n12607456",
+          "lemma": "dứa",
+          "word_id": "unimet-vie-dứa",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-dứa-n07753275::unimet-vie-dứa-n12607456": {
+          "source": "unimet-vie-dứa-n07753275",
+          "target": "unimet-vie-dứa-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dừa",
+      "all_senses": [
+        {
+          "id": "unimet-vie-dừa-n07772935",
+          "lemma": "dừa",
+          "word_id": "unimet-vie-dừa",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-vie-dừa-n07773238",
+          "lemma": "dừa",
+          "word_id": "unimet-vie-dừa",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        },
+        {
+          "id": "unimet-vie-dừa-n12587803",
+          "lemma": "dừa",
+          "word_id": "unimet-vie-dừa",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-dừa-n07772935",
+          "lemma": "dừa",
+          "word_id": "unimet-vie-dừa",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-dừa-n12587803",
+          "lemma": "dừa",
+          "word_id": "unimet-vie-dừa",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        },
+        {
+          "id": "unimet-vie-dừa-n07773238",
+          "lemma": "dừa",
+          "word_id": "unimet-vie-dừa",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-dừa-n07772935::unimet-vie-dừa-n12587803": {
+          "source": "unimet-vie-dừa-n07772935",
+          "target": "unimet-vie-dừa-n12587803",
+          "type": "metonymy"
+        },
+        "unimet-vie-dừa-n12587803::unimet-vie-dừa-n07773238": {
+          "source": "unimet-vie-dừa-n12587803",
+          "target": "unimet-vie-dừa-n07773238",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kết hôn",
+      "all_senses": [
+        {
+          "id": "unimet-vie-kết hôn-n13963970",
+          "lemma": "kết hôn",
+          "word_id": "unimet-vie-kết hôn",
+          "synset": {
+            "id": "omw-en-13963970-n",
+            "ili": "i110316",
+            "pos": "n",
+            "lemmas": [
+              "matrimony"
+            ],
+            "definition": "the state of being a married couple voluntarily joined for life (or until divorce)"
+          }
+        },
+        {
+          "id": "unimet-vie-kết hôn-v02488834",
+          "lemma": "kết hôn",
+          "word_id": "unimet-vie-kết hôn",
+          "synset": {
+            "id": "omw-en-02488834-v",
+            "ili": "i34166",
+            "pos": "v",
+            "lemmas": [
+              "espouse"
+            ],
+            "definition": "take in marriage"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-kết hôn-v02488834",
+          "lemma": "kết hôn",
+          "word_id": "unimet-vie-kết hôn",
+          "synset": {
+            "id": "omw-en-02488834-v",
+            "ili": "i34166",
+            "pos": "v",
+            "lemmas": [
+              "espouse"
+            ],
+            "definition": "take in marriage"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-kết hôn-n13963970",
+          "lemma": "kết hôn",
+          "word_id": "unimet-vie-kết hôn",
+          "synset": {
+            "id": "omw-en-13963970-n",
+            "ili": "i110316",
+            "pos": "n",
+            "lemmas": [
+              "matrimony"
+            ],
+            "definition": "the state of being a married couple voluntarily joined for life (or until divorce)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-kết hôn-v02488834::unimet-vie-kết hôn-n13963970": {
+          "source": "unimet-vie-kết hôn-v02488834",
+          "target": "unimet-vie-kết hôn-n13963970",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mìn",
+      "all_senses": [
+        {
+          "id": "unimet-vie-mìn-n03260293",
+          "lemma": "mìn",
+          "word_id": "unimet-vie-mìn",
+          "synset": {
+            "id": "omw-en-03260293-n",
+            "ili": "i53276",
+            "pos": "n",
+            "lemmas": [
+              "dynamite"
+            ],
+            "definition": "an explosive containing nitrate sensitized with nitroglycerin absorbed on wood pulp"
+          }
+        },
+        {
+          "id": "unimet-vie-mìn-n03639675",
+          "lemma": "mìn",
+          "word_id": "unimet-vie-mìn",
+          "synset": {
+            "id": "omw-en-03639675-n",
+            "ili": "i55519",
+            "pos": "n",
+            "lemmas": [
+              "ground-emplaced mine"
+            ],
+            "definition": "an explosive mine hidden underground; explodes when stepped on or driven over"
+          }
+        },
+        {
+          "id": "unimet-vie-mìn-n03768132",
+          "lemma": "mìn",
+          "word_id": "unimet-vie-mìn",
+          "synset": {
+            "id": "omw-en-03768132-n",
+            "ili": "i56261",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-mìn-n03260293",
+          "lemma": "mìn",
+          "word_id": "unimet-vie-mìn",
+          "synset": {
+            "id": "omw-en-03260293-n",
+            "ili": "i53276",
+            "pos": "n",
+            "lemmas": [
+              "dynamite"
+            ],
+            "definition": "an explosive containing nitrate sensitized with nitroglycerin absorbed on wood pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-mìn-n03639675",
+          "lemma": "mìn",
+          "word_id": "unimet-vie-mìn",
+          "synset": {
+            "id": "omw-en-03639675-n",
+            "ili": "i55519",
+            "pos": "n",
+            "lemmas": [
+              "ground-emplaced mine"
+            ],
+            "definition": "an explosive mine hidden underground; explodes when stepped on or driven over"
+          }
+        },
+        {
+          "id": "unimet-vie-mìn-n03768132",
+          "lemma": "mìn",
+          "word_id": "unimet-vie-mìn",
+          "synset": {
+            "id": "omw-en-03768132-n",
+            "ili": "i56261",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-mìn-n03260293::unimet-vie-mìn-n03639675": {
+          "source": "unimet-vie-mìn-n03260293",
+          "target": "unimet-vie-mìn-n03639675",
+          "type": "metonymy"
+        },
+        "unimet-vie-mìn-n03260293::unimet-vie-mìn-n03768132": {
+          "source": "unimet-vie-mìn-n03260293",
+          "target": "unimet-vie-mìn-n03768132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "nấm",
+      "all_senses": [
+        {
+          "id": "unimet-vie-nấm-n07734744",
+          "lemma": "nấm",
+          "word_id": "unimet-vie-nấm",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-vie-nấm-n12992868",
+          "lemma": "nấm",
+          "word_id": "unimet-vie-nấm",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-nấm-n12992868",
+          "lemma": "nấm",
+          "word_id": "unimet-vie-nấm",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-nấm-n07734744",
+          "lemma": "nấm",
+          "word_id": "unimet-vie-nấm",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-nấm-n12992868::unimet-vie-nấm-n07734744": {
+          "source": "unimet-vie-nấm-n12992868",
+          "target": "unimet-vie-nấm-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "phát minh",
+      "all_senses": [
+        {
+          "id": "unimet-vie-phát minh-n03582658",
+          "lemma": "phát minh",
+          "word_id": "unimet-vie-phát minh",
+          "synset": {
+            "id": "omw-en-03582658-n",
+            "ili": "i55167",
+            "pos": "n",
+            "lemmas": [
+              "innovation"
+            ],
+            "definition": "a creation (a new device or process) resulting from study and experimentation"
+          }
+        },
+        {
+          "id": "unimet-vie-phát minh-v01632411",
+          "lemma": "phát minh",
+          "word_id": "unimet-vie-phát minh",
+          "synset": {
+            "id": "omw-en-01632411-v",
+            "ili": "i29911",
+            "pos": "v",
+            "lemmas": [
+              "invent"
+            ],
+            "definition": "come up with  (an idea, plan, explanation, theory, or principle) after a mental effort"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-phát minh-v01632411",
+          "lemma": "phát minh",
+          "word_id": "unimet-vie-phát minh",
+          "synset": {
+            "id": "omw-en-01632411-v",
+            "ili": "i29911",
+            "pos": "v",
+            "lemmas": [
+              "invent"
+            ],
+            "definition": "come up with  (an idea, plan, explanation, theory, or principle) after a mental effort"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-phát minh-n03582658",
+          "lemma": "phát minh",
+          "word_id": "unimet-vie-phát minh",
+          "synset": {
+            "id": "omw-en-03582658-n",
+            "ili": "i55167",
+            "pos": "n",
+            "lemmas": [
+              "innovation"
+            ],
+            "definition": "a creation (a new device or process) resulting from study and experimentation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-phát minh-v01632411::unimet-vie-phát minh-n03582658": {
+          "source": "unimet-vie-phát minh-v01632411",
+          "target": "unimet-vie-phát minh-n03582658",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "quê hương",
+      "all_senses": [
+        {
+          "id": "unimet-vie-quê hương-n08168978",
+          "lemma": "quê hương",
+          "word_id": "unimet-vie-quê hương",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-vie-quê hương-n08510169",
+          "lemma": "quê hương",
+          "word_id": "unimet-vie-quê hương",
+          "synset": {
+            "id": "omw-en-08510169-n",
+            "ili": "i81771",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the country where you were born"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-quê hương-n08168978",
+          "lemma": "quê hương",
+          "word_id": "unimet-vie-quê hương",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-quê hương-n08510169",
+          "lemma": "quê hương",
+          "word_id": "unimet-vie-quê hương",
+          "synset": {
+            "id": "omw-en-08510169-n",
+            "ili": "i81771",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the country where you were born"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-quê hương-n08168978::unimet-vie-quê hương-n08510169": {
+          "source": "unimet-vie-quê hương-n08168978",
+          "target": "unimet-vie-quê hương-n08510169",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "quạt",
+      "all_senses": [
+        {
+          "id": "unimet-vie-quạt-n03320046",
+          "lemma": "quạt",
+          "word_id": "unimet-vie-quạt",
+          "synset": {
+            "id": "omw-en-03320046-n",
+            "ili": "i53588",
+            "pos": "n",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "a device for creating a current of air by movement of a surface or surfaces"
+          }
+        },
+        {
+          "id": "unimet-vie-quạt-v01885580",
+          "lemma": "quạt",
+          "word_id": "unimet-vie-quạt",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-quạt-n03320046",
+          "lemma": "quạt",
+          "word_id": "unimet-vie-quạt",
+          "synset": {
+            "id": "omw-en-03320046-n",
+            "ili": "i53588",
+            "pos": "n",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "a device for creating a current of air by movement of a surface or surfaces"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-quạt-v01885580",
+          "lemma": "quạt",
+          "word_id": "unimet-vie-quạt",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-quạt-n03320046::unimet-vie-quạt-v01885580": {
+          "source": "unimet-vie-quạt-n03320046",
+          "target": "unimet-vie-quạt-v01885580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sổ",
+      "all_senses": [
+        {
+          "id": "unimet-vie-sổ-n02870526",
+          "lemma": "sổ",
+          "word_id": "unimet-vie-sổ",
+          "synset": {
+            "id": "omw-en-02870526-n",
+            "ili": "i50954",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge"
+          }
+        },
+        {
+          "id": "unimet-vie-sổ-n06410904",
+          "lemma": "sổ",
+          "word_id": "unimet-vie-sổ",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-sổ-n02870526",
+          "lemma": "sổ",
+          "word_id": "unimet-vie-sổ",
+          "synset": {
+            "id": "omw-en-02870526-n",
+            "ili": "i50954",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-sổ-n06410904",
+          "lemma": "sổ",
+          "word_id": "unimet-vie-sổ",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-sổ-n02870526::unimet-vie-sổ-n06410904": {
+          "source": "unimet-vie-sổ-n02870526",
+          "target": "unimet-vie-sổ-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "thơm",
+      "all_senses": [
+        {
+          "id": "unimet-vie-thơm-n07753275",
+          "lemma": "thơm",
+          "word_id": "unimet-vie-thơm",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-vie-thơm-n12607456",
+          "lemma": "thơm",
+          "word_id": "unimet-vie-thơm",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-thơm-n07753275",
+          "lemma": "thơm",
+          "word_id": "unimet-vie-thơm",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-thơm-n12607456",
+          "lemma": "thơm",
+          "word_id": "unimet-vie-thơm",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-thơm-n07753275::unimet-vie-thơm-n12607456": {
+          "source": "unimet-vie-thơm-n07753275",
+          "target": "unimet-vie-thơm-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tv",
+      "all_senses": [
+        {
+          "id": "unimet-vie-tv-n04405907",
+          "lemma": "tv",
+          "word_id": "unimet-vie-tv",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        },
+        {
+          "id": "unimet-vie-tv-n06277280",
+          "lemma": "tv",
+          "word_id": "unimet-vie-tv",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vie-tv-n04405907",
+          "lemma": "tv",
+          "word_id": "unimet-vie-tv",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vie-tv-n06277280",
+          "lemma": "tv",
+          "word_id": "unimet-vie-tv",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vie-tv-n04405907::unimet-vie-tv-n06277280": {
+          "source": "unimet-vie-tv-n04405907",
+          "target": "unimet-vie-tv-n06277280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

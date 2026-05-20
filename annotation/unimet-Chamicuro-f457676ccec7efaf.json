@@ -1,0 +1,168 @@
+{
+  "id": "f457676ccec7efaf",
+  "name": "unimet-Chamicuro",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ccc",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "koko",
+      "all_senses": [
+        {
+          "id": "unimet-ccc-koko-n07772935",
+          "lemma": "koko",
+          "word_id": "unimet-ccc-koko",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-ccc-koko-n12587803",
+          "lemma": "koko",
+          "word_id": "unimet-ccc-koko",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ccc-koko-n07772935",
+          "lemma": "koko",
+          "word_id": "unimet-ccc-koko",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ccc-koko-n12587803",
+          "lemma": "koko",
+          "word_id": "unimet-ccc-koko",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ccc-koko-n07772935::unimet-ccc-koko-n12587803": {
+          "source": "unimet-ccc-koko-n07772935",
+          "target": "unimet-ccc-koko-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mawuli",
+      "all_senses": [
+        {
+          "id": "unimet-ccc-mawuli-n07753275",
+          "lemma": "mawuli",
+          "word_id": "unimet-ccc-mawuli",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-ccc-mawuli-n12607456",
+          "lemma": "mawuli",
+          "word_id": "unimet-ccc-mawuli",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ccc-mawuli-n07753275",
+          "lemma": "mawuli",
+          "word_id": "unimet-ccc-mawuli",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ccc-mawuli-n12607456",
+          "lemma": "mawuli",
+          "word_id": "unimet-ccc-mawuli",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ccc-mawuli-n07753275::unimet-ccc-mawuli-n12607456": {
+          "source": "unimet-ccc-mawuli-n07753275",
+          "target": "unimet-ccc-mawuli-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

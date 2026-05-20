@@ -1,0 +1,1288 @@
+{
+  "id": "dd501ae51e52290e",
+  "name": "unimet-Ukrainian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ukr",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "абрикос",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-абрикос-n07750872",
+          "lemma": "абрикос",
+          "word_id": "unimet-ukr-абрикос",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-ukr-абрикос-n12640607",
+          "lemma": "абрикос",
+          "word_id": "unimet-ukr-абрикос",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-абрикос-n07750872",
+          "lemma": "абрикос",
+          "word_id": "unimet-ukr-абрикос",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-абрикос-n12640607",
+          "lemma": "абрикос",
+          "word_id": "unimet-ukr-абрикос",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-абрикос-n07750872::unimet-ukr-абрикос-n12640607": {
+          "source": "unimet-ukr-абрикос-n07750872",
+          "target": "unimet-ukr-абрикос-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "влада",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-влада-n05190804",
+          "lemma": "влада",
+          "word_id": "unimet-ukr-влада",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        },
+        {
+          "id": "unimet-ukr-влада-n09824609",
+          "lemma": "влада",
+          "word_id": "unimet-ukr-влада",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-влада-n05190804",
+          "lemma": "влада",
+          "word_id": "unimet-ukr-влада",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-влада-n09824609",
+          "lemma": "влада",
+          "word_id": "unimet-ukr-влада",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-влада-n05190804::unimet-ukr-влада-n09824609": {
+          "source": "unimet-ukr-влада-n05190804",
+          "target": "unimet-ukr-влада-n09824609",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "груша",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-груша-n07767847",
+          "lemma": "груша",
+          "word_id": "unimet-ukr-груша",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-ukr-груша-n12651611",
+          "lemma": "груша",
+          "word_id": "unimet-ukr-груша",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-груша-n07767847",
+          "lemma": "груша",
+          "word_id": "unimet-ukr-груша",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-груша-n12651611",
+          "lemma": "груша",
+          "word_id": "unimet-ukr-груша",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-груша-n07767847::unimet-ukr-груша-n12651611": {
+          "source": "unimet-ukr-груша-n07767847",
+          "target": "unimet-ukr-груша-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "держава",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-держава-n08168978",
+          "lemma": "держава",
+          "word_id": "unimet-ukr-держава",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ukr-держава-n08178547",
+          "lemma": "держава",
+          "word_id": "unimet-ukr-держава",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-ukr-держава-n08654360",
+          "lemma": "держава",
+          "word_id": "unimet-ukr-держава",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-держава-n08168978",
+          "lemma": "держава",
+          "word_id": "unimet-ukr-держава",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ukr-держава-n08178547",
+          "lemma": "держава",
+          "word_id": "unimet-ukr-держава",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-держава-n08654360",
+          "lemma": "держава",
+          "word_id": "unimet-ukr-держава",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-держава-n08168978::unimet-ukr-держава-n08654360": {
+          "source": "unimet-ukr-держава-n08168978",
+          "target": "unimet-ukr-держава-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-ukr-держава-n08178547::unimet-ukr-держава-n08654360": {
+          "source": "unimet-ukr-держава-n08178547",
+          "target": "unimet-ukr-держава-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "дорогоцінний камінь",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-дорогоцінний камінь-n03596787",
+          "lemma": "дорогоцінний камінь",
+          "word_id": "unimet-ukr-дорогоцінний камінь",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-ukr-дорогоцінний камінь-n14699752",
+          "lemma": "дорогоцінний камінь",
+          "word_id": "unimet-ukr-дорогоцінний камінь",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-дорогоцінний камінь-n14699752",
+          "lemma": "дорогоцінний камінь",
+          "word_id": "unimet-ukr-дорогоцінний камінь",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-дорогоцінний камінь-n03596787",
+          "lemma": "дорогоцінний камінь",
+          "word_id": "unimet-ukr-дорогоцінний камінь",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-дорогоцінний камінь-n14699752::unimet-ukr-дорогоцінний камінь-n03596787": {
+          "source": "unimet-ukr-дорогоцінний камінь-n14699752",
+          "target": "unimet-ukr-дорогоцінний камінь-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "квасоля",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-квасоля-n07724943",
+          "lemma": "квасоля",
+          "word_id": "unimet-ukr-квасоля",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        },
+        {
+          "id": "unimet-ukr-квасоля-n12556793",
+          "lemma": "квасоля",
+          "word_id": "unimet-ukr-квасоля",
+          "synset": {
+            "id": "omw-en-12556793-n",
+            "ili": "i102891",
+            "pos": "n",
+            "lemmas": [
+              "phaseolus vulgaris"
+            ],
+            "definition": "the common annual twining or bushy bean plant grown for its edible seeds or pods"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-квасоля-n12556793",
+          "lemma": "квасоля",
+          "word_id": "unimet-ukr-квасоля",
+          "synset": {
+            "id": "omw-en-12556793-n",
+            "ili": "i102891",
+            "pos": "n",
+            "lemmas": [
+              "phaseolus vulgaris"
+            ],
+            "definition": "the common annual twining or bushy bean plant grown for its edible seeds or pods"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-квасоля-n07724943",
+          "lemma": "квасоля",
+          "word_id": "unimet-ukr-квасоля",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-квасоля-n12556793::unimet-ukr-квасоля-n07724943": {
+          "source": "unimet-ukr-квасоля-n12556793",
+          "target": "unimet-ukr-квасоля-n07724943",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кокос",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-кокос-n07772935",
+          "lemma": "кокос",
+          "word_id": "unimet-ukr-кокос",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-ukr-кокос-n07773238",
+          "lemma": "кокос",
+          "word_id": "unimet-ukr-кокос",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        },
+        {
+          "id": "unimet-ukr-кокос-n12587803",
+          "lemma": "кокос",
+          "word_id": "unimet-ukr-кокос",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-кокос-n07772935",
+          "lemma": "кокос",
+          "word_id": "unimet-ukr-кокос",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-кокос-n12587803",
+          "lemma": "кокос",
+          "word_id": "unimet-ukr-кокос",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        },
+        {
+          "id": "unimet-ukr-кокос-n07773238",
+          "lemma": "кокос",
+          "word_id": "unimet-ukr-кокос",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-кокос-n07772935::unimet-ukr-кокос-n12587803": {
+          "source": "unimet-ukr-кокос-n07772935",
+          "target": "unimet-ukr-кокос-n12587803",
+          "type": "metonymy"
+        },
+        "unimet-ukr-кокос-n12587803::unimet-ukr-кокос-n07773238": {
+          "source": "unimet-ukr-кокос-n12587803",
+          "target": "unimet-ukr-кокос-n07773238",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кокосовий горіх",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-кокосовий горіх-n07772935",
+          "lemma": "кокосовий горіх",
+          "word_id": "unimet-ukr-кокосовий горіх",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-ukr-кокосовий горіх-n12587803",
+          "lemma": "кокосовий горіх",
+          "word_id": "unimet-ukr-кокосовий горіх",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-кокосовий горіх-n07772935",
+          "lemma": "кокосовий горіх",
+          "word_id": "unimet-ukr-кокосовий горіх",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-кокосовий горіх-n12587803",
+          "lemma": "кокосовий горіх",
+          "word_id": "unimet-ukr-кокосовий горіх",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-кокосовий горіх-n07772935::unimet-ukr-кокосовий горіх-n12587803": {
+          "source": "unimet-ukr-кокосовий горіх-n07772935",
+          "target": "unimet-ukr-кокосовий горіх-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "країна",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-країна-n08168978",
+          "lemma": "країна",
+          "word_id": "unimet-ukr-країна",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ukr-країна-n08544813",
+          "lemma": "країна",
+          "word_id": "unimet-ukr-країна",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-країна-n08168978",
+          "lemma": "країна",
+          "word_id": "unimet-ukr-країна",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-країна-n08544813",
+          "lemma": "країна",
+          "word_id": "unimet-ukr-країна",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-країна-n08168978::unimet-ukr-країна-n08544813": {
+          "source": "unimet-ukr-країна-n08168978",
+          "target": "unimet-ukr-країна-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "курка",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-курка-n01791625",
+          "lemma": "курка",
+          "word_id": "unimet-ukr-курка",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ukr-курка-n01792640",
+          "lemma": "курка",
+          "word_id": "unimet-ukr-курка",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-ukr-курка-n07644967",
+          "lemma": "курка",
+          "word_id": "unimet-ukr-курка",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-курка-n01791625",
+          "lemma": "курка",
+          "word_id": "unimet-ukr-курка",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ukr-курка-n01792640",
+          "lemma": "курка",
+          "word_id": "unimet-ukr-курка",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-курка-n07644967",
+          "lemma": "курка",
+          "word_id": "unimet-ukr-курка",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-курка-n01791625::unimet-ukr-курка-n07644967": {
+          "source": "unimet-ukr-курка-n01791625",
+          "target": "unimet-ukr-курка-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-ukr-курка-n01792640::unimet-ukr-курка-n07644967": {
+          "source": "unimet-ukr-курка-n01792640",
+          "target": "unimet-ukr-курка-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "мішок",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-мішок-n04122825",
+          "lemma": "мішок",
+          "word_id": "unimet-ukr-мішок",
+          "synset": {
+            "id": "omw-en-04122825-n",
+            "ili": "i58368",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a bag made of paper or plastic for holding customer's purchases"
+          }
+        },
+        {
+          "id": "unimet-ukr-мішок-n13769206",
+          "lemma": "мішок",
+          "word_id": "unimet-ukr-мішок",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-мішок-n04122825",
+          "lemma": "мішок",
+          "word_id": "unimet-ukr-мішок",
+          "synset": {
+            "id": "omw-en-04122825-n",
+            "ili": "i58368",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a bag made of paper or plastic for holding customer's purchases"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-мішок-n13769206",
+          "lemma": "мішок",
+          "word_id": "unimet-ukr-мішок",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-мішок-n04122825::unimet-ukr-мішок-n13769206": {
+          "source": "unimet-ukr-мішок-n04122825",
+          "target": "unimet-ukr-мішок-n13769206",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "самоцвіт",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-самоцвіт-n03596787",
+          "lemma": "самоцвіт",
+          "word_id": "unimet-ukr-самоцвіт",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-ukr-самоцвіт-n14699752",
+          "lemma": "самоцвіт",
+          "word_id": "unimet-ukr-самоцвіт",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-самоцвіт-n14699752",
+          "lemma": "самоцвіт",
+          "word_id": "unimet-ukr-самоцвіт",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-самоцвіт-n03596787",
+          "lemma": "самоцвіт",
+          "word_id": "unimet-ukr-самоцвіт",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-самоцвіт-n14699752::unimet-ukr-самоцвіт-n03596787": {
+          "source": "unimet-ukr-самоцвіт-n14699752",
+          "target": "unimet-ukr-самоцвіт-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "село",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-село-n08226699",
+          "lemma": "село",
+          "word_id": "unimet-ukr-село",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-ukr-село-n08644722",
+          "lemma": "село",
+          "word_id": "unimet-ukr-село",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-ukr-село-n08672738",
+          "lemma": "село",
+          "word_id": "unimet-ukr-село",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-село-n08226699",
+          "lemma": "село",
+          "word_id": "unimet-ukr-село",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-село-n08644722",
+          "lemma": "село",
+          "word_id": "unimet-ukr-село",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-ukr-село-n08672738",
+          "lemma": "село",
+          "word_id": "unimet-ukr-село",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-село-n08226699::unimet-ukr-село-n08644722": {
+          "source": "unimet-ukr-село-n08226699",
+          "target": "unimet-ukr-село-n08644722",
+          "type": "metonymy"
+        },
+        "unimet-ukr-село-n08226699::unimet-ukr-село-n08672738": {
+          "source": "unimet-ukr-село-n08226699",
+          "target": "unimet-ukr-село-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "школа",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-школа-n04146050",
+          "lemma": "школа",
+          "word_id": "unimet-ukr-школа",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-ukr-школа-n08276720",
+          "lemma": "школа",
+          "word_id": "unimet-ukr-школа",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-школа-n04146050",
+          "lemma": "школа",
+          "word_id": "unimet-ukr-школа",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-школа-n08276720",
+          "lemma": "школа",
+          "word_id": "unimet-ukr-школа",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-школа-n04146050::unimet-ukr-школа-n08276720": {
+          "source": "unimet-ukr-школа-n04146050",
+          "target": "unimet-ukr-школа-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "шовковиця",
+      "all_senses": [
+        {
+          "id": "unimet-ukr-шовковиця-n07767171",
+          "lemma": "шовковиця",
+          "word_id": "unimet-ukr-шовковиця",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-ukr-шовковиця-n12399132",
+          "lemma": "шовковиця",
+          "word_id": "unimet-ukr-шовковиця",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ukr-шовковиця-n07767171",
+          "lemma": "шовковиця",
+          "word_id": "unimet-ukr-шовковиця",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ukr-шовковиця-n12399132",
+          "lemma": "шовковиця",
+          "word_id": "unimet-ukr-шовковиця",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ukr-шовковиця-n07767171::unimet-ukr-шовковиця-n12399132": {
+          "source": "unimet-ukr-шовковиця-n07767171",
+          "target": "unimet-ukr-шовковиця-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "d15a70992537ad6b",
+  "name": "unimet-Haitian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "hat",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "manje",
+      "all_senses": [
+        {
+          "id": "unimet-hat-manje-n00021734",
+          "lemma": "manje",
+          "word_id": "unimet-hat-manje",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        },
+        {
+          "id": "unimet-hat-manje-v01168468",
+          "lemma": "manje",
+          "word_id": "unimet-hat-manje",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hat-manje-v01168468",
+          "lemma": "manje",
+          "word_id": "unimet-hat-manje",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hat-manje-n00021734",
+          "lemma": "manje",
+          "word_id": "unimet-hat-manje",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hat-manje-v01168468::unimet-hat-manje-n00021734": {
+          "source": "unimet-hat-manje-v01168468",
+          "target": "unimet-hat-manje-n00021734",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

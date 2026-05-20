@@ -1,0 +1,1450 @@
+{
+  "id": "885898c5d1348013",
+  "name": "unimet-Mandarin Chinese",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "cmn",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "命運",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-命運-n09504915",
+          "lemma": "命運",
+          "word_id": "unimet-cmn-命運",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        },
+        {
+          "id": "unimet-cmn-命運-n14473222",
+          "lemma": "命運",
+          "word_id": "unimet-cmn-命運",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-命運-n14473222",
+          "lemma": "命運",
+          "word_id": "unimet-cmn-命運",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-命運-n09504915",
+          "lemma": "命運",
+          "word_id": "unimet-cmn-命運",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-命運-n14473222::unimet-cmn-命運-n09504915": {
+          "source": "unimet-cmn-命運-n14473222",
+          "target": "unimet-cmn-命運-n09504915",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "報紙",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-報紙-n03822171",
+          "lemma": "報紙",
+          "word_id": "unimet-cmn-報紙",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-cmn-報紙-n06267145",
+          "lemma": "報紙",
+          "word_id": "unimet-cmn-報紙",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-報紙-n03822171",
+          "lemma": "報紙",
+          "word_id": "unimet-cmn-報紙",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-報紙-n06267145",
+          "lemma": "報紙",
+          "word_id": "unimet-cmn-報紙",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-報紙-n03822171::unimet-cmn-報紙-n06267145": {
+          "source": "unimet-cmn-報紙-n03822171",
+          "target": "unimet-cmn-報紙-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "嫌",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-嫌-n10681383",
+          "lemma": "嫌",
+          "word_id": "unimet-cmn-嫌",
+          "synset": {
+            "id": "omw-en-10681383-n",
+            "ili": "i93471",
+            "pos": "n",
+            "lemmas": [
+              "suspect"
+            ],
+            "definition": "someone who is under suspicion"
+          }
+        },
+        {
+          "id": "unimet-cmn-嫌-n13982839",
+          "lemma": "嫌",
+          "word_id": "unimet-cmn-嫌",
+          "synset": {
+            "id": "omw-en-13982839-n",
+            "ili": "i110417",
+            "pos": "n",
+            "lemmas": [
+              "suspicion"
+            ],
+            "definition": "the state of being suspected"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-嫌-n13982839",
+          "lemma": "嫌",
+          "word_id": "unimet-cmn-嫌",
+          "synset": {
+            "id": "omw-en-13982839-n",
+            "ili": "i110417",
+            "pos": "n",
+            "lemmas": [
+              "suspicion"
+            ],
+            "definition": "the state of being suspected"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-嫌-n10681383",
+          "lemma": "嫌",
+          "word_id": "unimet-cmn-嫌",
+          "synset": {
+            "id": "omw-en-10681383-n",
+            "ili": "i93471",
+            "pos": "n",
+            "lemmas": [
+              "suspect"
+            ],
+            "definition": "someone who is under suspicion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-嫌-n13982839::unimet-cmn-嫌-n10681383": {
+          "source": "unimet-cmn-嫌-n13982839",
+          "target": "unimet-cmn-嫌-n10681383",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "學校",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-學校-n04146050",
+          "lemma": "學校",
+          "word_id": "unimet-cmn-學校",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-cmn-學校-n08276720",
+          "lemma": "學校",
+          "word_id": "unimet-cmn-學校",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-學校-n04146050",
+          "lemma": "學校",
+          "word_id": "unimet-cmn-學校",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-學校-n08276720",
+          "lemma": "學校",
+          "word_id": "unimet-cmn-學校",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-學校-n04146050::unimet-cmn-學校-n08276720": {
+          "source": "unimet-cmn-學校-n04146050",
+          "target": "unimet-cmn-學校-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "宴",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-宴-n07578093",
+          "lemma": "宴",
+          "word_id": "unimet-cmn-宴",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-cmn-宴-n08253640",
+          "lemma": "宴",
+          "word_id": "unimet-cmn-宴",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-宴-n07578093",
+          "lemma": "宴",
+          "word_id": "unimet-cmn-宴",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-宴-n08253640",
+          "lemma": "宴",
+          "word_id": "unimet-cmn-宴",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-宴-n07578093::unimet-cmn-宴-n08253640": {
+          "source": "unimet-cmn-宴-n07578093",
+          "target": "unimet-cmn-宴-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "才",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-才-n05200169",
+          "lemma": "才",
+          "word_id": "unimet-cmn-才",
+          "synset": {
+            "id": "omw-en-05200169-n",
+            "ili": "i64298",
+            "pos": "n",
+            "lemmas": [
+              "ability"
+            ],
+            "definition": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
+          }
+        },
+        {
+          "id": "unimet-cmn-才-n10689878",
+          "lemma": "才",
+          "word_id": "unimet-cmn-才",
+          "synset": {
+            "id": "omw-en-10689878-n",
+            "ili": "i93528",
+            "pos": "n",
+            "lemmas": [
+              "talent"
+            ],
+            "definition": "a person who possesses unusual innate ability in some field or activity"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-才-n05200169",
+          "lemma": "才",
+          "word_id": "unimet-cmn-才",
+          "synset": {
+            "id": "omw-en-05200169-n",
+            "ili": "i64298",
+            "pos": "n",
+            "lemmas": [
+              "ability"
+            ],
+            "definition": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-才-n10689878",
+          "lemma": "才",
+          "word_id": "unimet-cmn-才",
+          "synset": {
+            "id": "omw-en-10689878-n",
+            "ili": "i93528",
+            "pos": "n",
+            "lemmas": [
+              "talent"
+            ],
+            "definition": "a person who possesses unusual innate ability in some field or activity"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-才-n05200169::unimet-cmn-才-n10689878": {
+          "source": "unimet-cmn-才-n05200169",
+          "target": "unimet-cmn-才-n10689878",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "材",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-材-n05200169",
+          "lemma": "材",
+          "word_id": "unimet-cmn-材",
+          "synset": {
+            "id": "omw-en-05200169-n",
+            "ili": "i64298",
+            "pos": "n",
+            "lemmas": [
+              "ability"
+            ],
+            "definition": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
+          }
+        },
+        {
+          "id": "unimet-cmn-材-n10689878",
+          "lemma": "材",
+          "word_id": "unimet-cmn-材",
+          "synset": {
+            "id": "omw-en-10689878-n",
+            "ili": "i93528",
+            "pos": "n",
+            "lemmas": [
+              "talent"
+            ],
+            "definition": "a person who possesses unusual innate ability in some field or activity"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-材-n05200169",
+          "lemma": "材",
+          "word_id": "unimet-cmn-材",
+          "synset": {
+            "id": "omw-en-05200169-n",
+            "ili": "i64298",
+            "pos": "n",
+            "lemmas": [
+              "ability"
+            ],
+            "definition": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-材-n10689878",
+          "lemma": "材",
+          "word_id": "unimet-cmn-材",
+          "synset": {
+            "id": "omw-en-10689878-n",
+            "ili": "i93528",
+            "pos": "n",
+            "lemmas": [
+              "talent"
+            ],
+            "definition": "a person who possesses unusual innate ability in some field or activity"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-材-n05200169::unimet-cmn-材-n10689878": {
+          "source": "unimet-cmn-材-n05200169",
+          "target": "unimet-cmn-材-n10689878",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "梅",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-梅-n07751451",
+          "lemma": "梅",
+          "word_id": "unimet-cmn-梅",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-cmn-梅-n07752602",
+          "lemma": "梅",
+          "word_id": "unimet-cmn-梅",
+          "synset": {
+            "id": "omw-en-07752602-n",
+            "ili": "i77796",
+            "pos": "n",
+            "lemmas": [
+              "prune"
+            ],
+            "definition": "dried plum"
+          }
+        },
+        {
+          "id": "unimet-cmn-梅-n12638218",
+          "lemma": "梅",
+          "word_id": "unimet-cmn-梅",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-梅-n07751451",
+          "lemma": "梅",
+          "word_id": "unimet-cmn-梅",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-cmn-梅-n07752602",
+          "lemma": "梅",
+          "word_id": "unimet-cmn-梅",
+          "synset": {
+            "id": "omw-en-07752602-n",
+            "ili": "i77796",
+            "pos": "n",
+            "lemmas": [
+              "prune"
+            ],
+            "definition": "dried plum"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-梅-n12638218",
+          "lemma": "梅",
+          "word_id": "unimet-cmn-梅",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-梅-n07751451::unimet-cmn-梅-n12638218": {
+          "source": "unimet-cmn-梅-n07751451",
+          "target": "unimet-cmn-梅-n12638218",
+          "type": "metonymy"
+        },
+        "unimet-cmn-梅-n07752602::unimet-cmn-梅-n12638218": {
+          "source": "unimet-cmn-梅-n07752602",
+          "target": "unimet-cmn-梅-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "王梨",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-王梨-n07753275",
+          "lemma": "王梨",
+          "word_id": "unimet-cmn-王梨",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-cmn-王梨-n12607456",
+          "lemma": "王梨",
+          "word_id": "unimet-cmn-王梨",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-王梨-n07753275",
+          "lemma": "王梨",
+          "word_id": "unimet-cmn-王梨",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-王梨-n12607456",
+          "lemma": "王梨",
+          "word_id": "unimet-cmn-王梨",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-王梨-n07753275::unimet-cmn-王梨-n12607456": {
+          "source": "unimet-cmn-王梨-n07753275",
+          "target": "unimet-cmn-王梨-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "睏",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-睏-n14024882",
+          "lemma": "睏",
+          "word_id": "unimet-cmn-睏",
+          "synset": {
+            "id": "omw-en-14024882-n",
+            "ili": "i110638",
+            "pos": "n",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "a natural and periodic state of rest during which consciousness of the world is suspended"
+          }
+        },
+        {
+          "id": "unimet-cmn-睏-v00014742",
+          "lemma": "睏",
+          "word_id": "unimet-cmn-睏",
+          "synset": {
+            "id": "omw-en-00014742-v",
+            "ili": "i21840",
+            "pos": "v",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "be asleep"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-睏-v00014742",
+          "lemma": "睏",
+          "word_id": "unimet-cmn-睏",
+          "synset": {
+            "id": "omw-en-00014742-v",
+            "ili": "i21840",
+            "pos": "v",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "be asleep"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-睏-n14024882",
+          "lemma": "睏",
+          "word_id": "unimet-cmn-睏",
+          "synset": {
+            "id": "omw-en-14024882-n",
+            "ili": "i110638",
+            "pos": "n",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "a natural and periodic state of rest during which consciousness of the world is suspended"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-睏-v00014742::unimet-cmn-睏-n14024882": {
+          "source": "unimet-cmn-睏-v00014742",
+          "target": "unimet-cmn-睏-n14024882",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "礦",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-礦-n03768346",
+          "lemma": "礦",
+          "word_id": "unimet-cmn-礦",
+          "synset": {
+            "id": "omw-en-03768346-n",
+            "ili": "i56262",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "excavation in the earth from which ores and minerals are extracted"
+          }
+        },
+        {
+          "id": "unimet-cmn-礦-n14662574",
+          "lemma": "礦",
+          "word_id": "unimet-cmn-礦",
+          "synset": {
+            "id": "omw-en-14662574-n",
+            "ili": "i114036",
+            "pos": "n",
+            "lemmas": [
+              "mineral"
+            ],
+            "definition": "solid homogeneous inorganic substances occurring in nature having a definite chemical composition"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-礦-n14662574",
+          "lemma": "礦",
+          "word_id": "unimet-cmn-礦",
+          "synset": {
+            "id": "omw-en-14662574-n",
+            "ili": "i114036",
+            "pos": "n",
+            "lemmas": [
+              "mineral"
+            ],
+            "definition": "solid homogeneous inorganic substances occurring in nature having a definite chemical composition"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-礦-n03768346",
+          "lemma": "礦",
+          "word_id": "unimet-cmn-礦",
+          "synset": {
+            "id": "omw-en-03768346-n",
+            "ili": "i56262",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "excavation in the earth from which ores and minerals are extracted"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-礦-n14662574::unimet-cmn-礦-n03768346": {
+          "source": "unimet-cmn-礦-n14662574",
+          "target": "unimet-cmn-礦-n03768346",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "美",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-美-n04683814",
+          "lemma": "美",
+          "word_id": "unimet-cmn-美",
+          "synset": {
+            "id": "omw-en-04683814-n",
+            "ili": "i61667",
+            "pos": "n",
+            "lemmas": [
+              "beauty"
+            ],
+            "definition": "the qualities that give pleasure to the senses"
+          }
+        },
+        {
+          "id": "unimet-cmn-美-n10613996",
+          "lemma": "美",
+          "word_id": "unimet-cmn-美",
+          "synset": {
+            "id": "omw-en-10613996-n",
+            "ili": "i93085",
+            "pos": "n",
+            "lemmas": [
+              "beauty"
+            ],
+            "definition": "a very attractive or seductive looking woman"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-美-n04683814",
+          "lemma": "美",
+          "word_id": "unimet-cmn-美",
+          "synset": {
+            "id": "omw-en-04683814-n",
+            "ili": "i61667",
+            "pos": "n",
+            "lemmas": [
+              "beauty"
+            ],
+            "definition": "the qualities that give pleasure to the senses"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-美-n10613996",
+          "lemma": "美",
+          "word_id": "unimet-cmn-美",
+          "synset": {
+            "id": "omw-en-10613996-n",
+            "ili": "i93085",
+            "pos": "n",
+            "lemmas": [
+              "beauty"
+            ],
+            "definition": "a very attractive or seductive looking woman"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-美-n04683814::unimet-cmn-美-n10613996": {
+          "source": "unimet-cmn-美-n04683814",
+          "target": "unimet-cmn-美-n10613996",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "藤",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-藤-n04582205",
+          "lemma": "藤",
+          "word_id": "unimet-cmn-藤",
+          "synset": {
+            "id": "omw-en-04582205-n",
+            "ili": "i61134",
+            "pos": "n",
+            "lemmas": [
+              "caning"
+            ],
+            "definition": "work made of interlaced slender branches (especially willow branches)"
+          }
+        },
+        {
+          "id": "unimet-cmn-藤-n15097849",
+          "lemma": "藤",
+          "word_id": "unimet-cmn-藤",
+          "synset": {
+            "id": "omw-en-15097849-n",
+            "ili": "i116547",
+            "pos": "n",
+            "lemmas": [
+              "wicker"
+            ],
+            "definition": "slender flexible branches or twigs (especially of willow or some canes); used for wickerwork"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-藤-n15097849",
+          "lemma": "藤",
+          "word_id": "unimet-cmn-藤",
+          "synset": {
+            "id": "omw-en-15097849-n",
+            "ili": "i116547",
+            "pos": "n",
+            "lemmas": [
+              "wicker"
+            ],
+            "definition": "slender flexible branches or twigs (especially of willow or some canes); used for wickerwork"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-藤-n04582205",
+          "lemma": "藤",
+          "word_id": "unimet-cmn-藤",
+          "synset": {
+            "id": "omw-en-04582205-n",
+            "ili": "i61134",
+            "pos": "n",
+            "lemmas": [
+              "caning"
+            ],
+            "definition": "work made of interlaced slender branches (especially willow branches)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-藤-n15097849::unimet-cmn-藤-n04582205": {
+          "source": "unimet-cmn-藤-n15097849",
+          "target": "unimet-cmn-藤-n04582205",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "袋",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-袋-n02773037",
+          "lemma": "袋",
+          "word_id": "unimet-cmn-袋",
+          "synset": {
+            "id": "omw-en-02773037-n",
+            "ili": "i50359",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a flexible container with a single opening"
+          }
+        },
+        {
+          "id": "unimet-cmn-袋-n13764639",
+          "lemma": "袋",
+          "word_id": "unimet-cmn-袋",
+          "synset": {
+            "id": "omw-en-13764639-n",
+            "ili": "i109213",
+            "pos": "n",
+            "lemmas": [
+              "bagful"
+            ],
+            "definition": "the quantity that a bag will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-袋-n02773037",
+          "lemma": "袋",
+          "word_id": "unimet-cmn-袋",
+          "synset": {
+            "id": "omw-en-02773037-n",
+            "ili": "i50359",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a flexible container with a single opening"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-袋-n13764639",
+          "lemma": "袋",
+          "word_id": "unimet-cmn-袋",
+          "synset": {
+            "id": "omw-en-13764639-n",
+            "ili": "i109213",
+            "pos": "n",
+            "lemmas": [
+              "bagful"
+            ],
+            "definition": "the quantity that a bag will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-袋-n02773037::unimet-cmn-袋-n13764639": {
+          "source": "unimet-cmn-袋-n02773037",
+          "target": "unimet-cmn-袋-n13764639",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "集",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-集-n02870092",
+          "lemma": "集",
+          "word_id": "unimet-cmn-集",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-cmn-集-n06413666",
+          "lemma": "集",
+          "word_id": "unimet-cmn-集",
+          "synset": {
+            "id": "omw-en-06413666-n",
+            "ili": "i70194",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "a publication that is one of a set of several similar publications"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-集-n02870092",
+          "lemma": "集",
+          "word_id": "unimet-cmn-集",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-集-n06413666",
+          "lemma": "集",
+          "word_id": "unimet-cmn-集",
+          "synset": {
+            "id": "omw-en-06413666-n",
+            "ili": "i70194",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "a publication that is one of a set of several similar publications"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-集-n02870092::unimet-cmn-集-n06413666": {
+          "source": "unimet-cmn-集-n02870092",
+          "target": "unimet-cmn-集-n06413666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "頭",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-頭-n05538625",
+          "lemma": "頭",
+          "word_id": "unimet-cmn-頭",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-cmn-頭-n09623038",
+          "lemma": "頭",
+          "word_id": "unimet-cmn-頭",
+          "synset": {
+            "id": "omw-en-09623038-n",
+            "ili": "i87225",
+            "pos": "n",
+            "lemmas": [
+              "leader"
+            ],
+            "definition": "a person who rules or guides or inspires others"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-頭-n05538625",
+          "lemma": "頭",
+          "word_id": "unimet-cmn-頭",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-頭-n09623038",
+          "lemma": "頭",
+          "word_id": "unimet-cmn-頭",
+          "synset": {
+            "id": "omw-en-09623038-n",
+            "ili": "i87225",
+            "pos": "n",
+            "lemmas": [
+              "leader"
+            ],
+            "definition": "a person who rules or guides or inspires others"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-頭-n05538625::unimet-cmn-頭-n09623038": {
+          "source": "unimet-cmn-頭-n05538625",
+          "target": "unimet-cmn-頭-n09623038",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "首",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-首-n05538625",
+          "lemma": "首",
+          "word_id": "unimet-cmn-首",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-cmn-首-n09623038",
+          "lemma": "首",
+          "word_id": "unimet-cmn-首",
+          "synset": {
+            "id": "omw-en-09623038-n",
+            "ili": "i87225",
+            "pos": "n",
+            "lemmas": [
+              "leader"
+            ],
+            "definition": "a person who rules or guides or inspires others"
+          }
+        },
+        {
+          "id": "unimet-cmn-首-n10162991",
+          "lemma": "首",
+          "word_id": "unimet-cmn-首",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-首-n05538625",
+          "lemma": "首",
+          "word_id": "unimet-cmn-首",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-首-n09623038",
+          "lemma": "首",
+          "word_id": "unimet-cmn-首",
+          "synset": {
+            "id": "omw-en-09623038-n",
+            "ili": "i87225",
+            "pos": "n",
+            "lemmas": [
+              "leader"
+            ],
+            "definition": "a person who rules or guides or inspires others"
+          }
+        },
+        {
+          "id": "unimet-cmn-首-n10162991",
+          "lemma": "首",
+          "word_id": "unimet-cmn-首",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-首-n05538625::unimet-cmn-首-n09623038": {
+          "source": "unimet-cmn-首-n05538625",
+          "target": "unimet-cmn-首-n09623038",
+          "type": "metonymy"
+        },
+        "unimet-cmn-首-n05538625::unimet-cmn-首-n10162991": {
+          "source": "unimet-cmn-首-n05538625",
+          "target": "unimet-cmn-首-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "鵝",
+      "all_senses": [
+        {
+          "id": "unimet-cmn-鵝-n01855672",
+          "lemma": "鵝",
+          "word_id": "unimet-cmn-鵝",
+          "synset": {
+            "id": "omw-en-01855672-n",
+            "ili": "i45102",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks"
+          }
+        },
+        {
+          "id": "unimet-cmn-鵝-n07646821",
+          "lemma": "鵝",
+          "word_id": "unimet-cmn-鵝",
+          "synset": {
+            "id": "omw-en-07646821-n",
+            "ili": "i77078",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "flesh of a goose (domestic or wild)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-cmn-鵝-n01855672",
+          "lemma": "鵝",
+          "word_id": "unimet-cmn-鵝",
+          "synset": {
+            "id": "omw-en-01855672-n",
+            "ili": "i45102",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-cmn-鵝-n07646821",
+          "lemma": "鵝",
+          "word_id": "unimet-cmn-鵝",
+          "synset": {
+            "id": "omw-en-07646821-n",
+            "ili": "i77078",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "flesh of a goose (domestic or wild)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-cmn-鵝-n01855672::unimet-cmn-鵝-n07646821": {
+          "source": "unimet-cmn-鵝-n01855672",
+          "target": "unimet-cmn-鵝-n07646821",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

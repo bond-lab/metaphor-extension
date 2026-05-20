@@ -1,0 +1,1691 @@
+{
+  "id": "567c24e3d576e776",
+  "name": "unimet-Xhosa",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "xho",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "amanzi",
+      "all_senses": [
+        {
+          "id": "unimet-xho-amanzi-n04562658",
+          "lemma": "amanzi",
+          "word_id": "unimet-xho-amanzi",
+          "synset": {
+            "id": "omw-en-04562658-n",
+            "ili": "i61023",
+            "pos": "n",
+            "lemmas": [
+              "water system"
+            ],
+            "definition": "a facility that provides a source of water"
+          }
+        },
+        {
+          "id": "unimet-xho-amanzi-n14845743",
+          "lemma": "amanzi",
+          "word_id": "unimet-xho-amanzi",
+          "synset": {
+            "id": "omw-en-14845743-n",
+            "ili": "i115069",
+            "pos": "n",
+            "lemmas": [
+              "water"
+            ],
+            "definition": "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-amanzi-n14845743",
+          "lemma": "amanzi",
+          "word_id": "unimet-xho-amanzi",
+          "synset": {
+            "id": "omw-en-14845743-n",
+            "ili": "i115069",
+            "pos": "n",
+            "lemmas": [
+              "water"
+            ],
+            "definition": "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-amanzi-n04562658",
+          "lemma": "amanzi",
+          "word_id": "unimet-xho-amanzi",
+          "synset": {
+            "id": "omw-en-04562658-n",
+            "ili": "i61023",
+            "pos": "n",
+            "lemmas": [
+              "water system"
+            ],
+            "definition": "a facility that provides a source of water"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-amanzi-n14845743::unimet-xho-amanzi-n04562658": {
+          "source": "unimet-xho-amanzi-n14845743",
+          "target": "unimet-xho-amanzi-n04562658",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "icandelo lolawulo",
+      "all_senses": [
+        {
+          "id": "unimet-xho-icandelo lolawulo-n08077292",
+          "lemma": "icandelo lolawulo",
+          "word_id": "unimet-xho-icandelo lolawulo",
+          "synset": {
+            "id": "omw-en-08077292-n",
+            "ili": "i79668",
+            "pos": "n",
+            "lemmas": [
+              "administrative unit"
+            ],
+            "definition": "a unit with administrative responsibilities"
+          }
+        },
+        {
+          "id": "unimet-xho-icandelo lolawulo-n08491826",
+          "lemma": "icandelo lolawulo",
+          "word_id": "unimet-xho-icandelo lolawulo",
+          "synset": {
+            "id": "omw-en-08491826-n",
+            "ili": "i81682",
+            "pos": "n",
+            "lemmas": [
+              "administrative district"
+            ],
+            "definition": "a district defined for administrative purposes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-icandelo lolawulo-n08077292",
+          "lemma": "icandelo lolawulo",
+          "word_id": "unimet-xho-icandelo lolawulo",
+          "synset": {
+            "id": "omw-en-08077292-n",
+            "ili": "i79668",
+            "pos": "n",
+            "lemmas": [
+              "administrative unit"
+            ],
+            "definition": "a unit with administrative responsibilities"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-icandelo lolawulo-n08491826",
+          "lemma": "icandelo lolawulo",
+          "word_id": "unimet-xho-icandelo lolawulo",
+          "synset": {
+            "id": "omw-en-08491826-n",
+            "ili": "i81682",
+            "pos": "n",
+            "lemmas": [
+              "administrative district"
+            ],
+            "definition": "a district defined for administrative purposes"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-icandelo lolawulo-n08077292::unimet-xho-icandelo lolawulo-n08491826": {
+          "source": "unimet-xho-icandelo lolawulo-n08077292",
+          "target": "unimet-xho-icandelo lolawulo-n08491826",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ikhaya",
+      "all_senses": [
+        {
+          "id": "unimet-xho-ikhaya-n08078020",
+          "lemma": "ikhaya",
+          "word_id": "unimet-xho-ikhaya",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-xho-ikhaya-n08558963",
+          "lemma": "ikhaya",
+          "word_id": "unimet-xho-ikhaya",
+          "synset": {
+            "id": "omw-en-08558963-n",
+            "ili": "i81962",
+            "pos": "n",
+            "lemmas": [
+              "abode"
+            ],
+            "definition": "any address at which you dwell more than temporarily"
+          }
+        },
+        {
+          "id": "unimet-xho-ikhaya-n08559508",
+          "lemma": "ikhaya",
+          "word_id": "unimet-xho-ikhaya",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-ikhaya-n08078020",
+          "lemma": "ikhaya",
+          "word_id": "unimet-xho-ikhaya",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-ikhaya-n08558963",
+          "lemma": "ikhaya",
+          "word_id": "unimet-xho-ikhaya",
+          "synset": {
+            "id": "omw-en-08558963-n",
+            "ili": "i81962",
+            "pos": "n",
+            "lemmas": [
+              "abode"
+            ],
+            "definition": "any address at which you dwell more than temporarily"
+          }
+        },
+        {
+          "id": "unimet-xho-ikhaya-n08559508",
+          "lemma": "ikhaya",
+          "word_id": "unimet-xho-ikhaya",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-ikhaya-n08078020::unimet-xho-ikhaya-n08558963": {
+          "source": "unimet-xho-ikhaya-n08078020",
+          "target": "unimet-xho-ikhaya-n08558963",
+          "type": "metonymy"
+        },
+        "unimet-xho-ikhaya-n08078020::unimet-xho-ikhaya-n08559508": {
+          "source": "unimet-xho-ikhaya-n08078020",
+          "target": "unimet-xho-ikhaya-n08559508",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ikhiwane",
+      "all_senses": [
+        {
+          "id": "unimet-xho-ikhiwane-n07753113",
+          "lemma": "ikhiwane",
+          "word_id": "unimet-xho-ikhiwane",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        },
+        {
+          "id": "unimet-xho-ikhiwane-n12401684",
+          "lemma": "ikhiwane",
+          "word_id": "unimet-xho-ikhiwane",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-ikhiwane-n07753113",
+          "lemma": "ikhiwane",
+          "word_id": "unimet-xho-ikhiwane",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-ikhiwane-n12401684",
+          "lemma": "ikhiwane",
+          "word_id": "unimet-xho-ikhiwane",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-ikhiwane-n07753113::unimet-xho-ikhiwane-n12401684": {
+          "source": "unimet-xho-ikhiwane-n07753113",
+          "target": "unimet-xho-ikhiwane-n12401684",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "iklabhu",
+      "all_senses": [
+        {
+          "id": "unimet-xho-iklabhu-n03054311",
+          "lemma": "iklabhu",
+          "word_id": "unimet-xho-iklabhu",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        },
+        {
+          "id": "unimet-xho-iklabhu-n08227214",
+          "lemma": "iklabhu",
+          "word_id": "unimet-xho-iklabhu",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-iklabhu-n03054311",
+          "lemma": "iklabhu",
+          "word_id": "unimet-xho-iklabhu",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-iklabhu-n08227214",
+          "lemma": "iklabhu",
+          "word_id": "unimet-xho-iklabhu",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-iklabhu-n03054311::unimet-xho-iklabhu-n08227214": {
+          "source": "unimet-xho-iklabhu-n03054311",
+          "target": "unimet-xho-iklabhu-n08227214",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ilali",
+      "all_senses": [
+        {
+          "id": "unimet-xho-ilali-n08226699",
+          "lemma": "ilali",
+          "word_id": "unimet-xho-ilali",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-xho-ilali-n08672738",
+          "lemma": "ilali",
+          "word_id": "unimet-xho-ilali",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-ilali-n08226699",
+          "lemma": "ilali",
+          "word_id": "unimet-xho-ilali",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-ilali-n08672738",
+          "lemma": "ilali",
+          "word_id": "unimet-xho-ilali",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-ilali-n08226699::unimet-xho-ilali-n08672738": {
+          "source": "unimet-xho-ilali-n08226699",
+          "target": "unimet-xho-ilali-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ilizwe",
+      "all_senses": [
+        {
+          "id": "unimet-xho-ilizwe-n08166552",
+          "lemma": "ilizwe",
+          "word_id": "unimet-xho-ilizwe",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-xho-ilizwe-n08168978",
+          "lemma": "ilizwe",
+          "word_id": "unimet-xho-ilizwe",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-xho-ilizwe-n08544813",
+          "lemma": "ilizwe",
+          "word_id": "unimet-xho-ilizwe",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-ilizwe-n08166552",
+          "lemma": "ilizwe",
+          "word_id": "unimet-xho-ilizwe",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-xho-ilizwe-n08168978",
+          "lemma": "ilizwe",
+          "word_id": "unimet-xho-ilizwe",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-ilizwe-n08544813",
+          "lemma": "ilizwe",
+          "word_id": "unimet-xho-ilizwe",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-ilizwe-n08166552::unimet-xho-ilizwe-n08544813": {
+          "source": "unimet-xho-ilizwe-n08166552",
+          "target": "unimet-xho-ilizwe-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-xho-ilizwe-n08168978::unimet-xho-ilizwe-n08544813": {
+          "source": "unimet-xho-ilizwe-n08168978",
+          "target": "unimet-xho-ilizwe-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "imbodlela",
+      "all_senses": [
+        {
+          "id": "unimet-xho-imbodlela-n02876657",
+          "lemma": "imbodlela",
+          "word_id": "unimet-xho-imbodlela",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        },
+        {
+          "id": "unimet-xho-imbodlela-n13765396",
+          "lemma": "imbodlela",
+          "word_id": "unimet-xho-imbodlela",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-imbodlela-n02876657",
+          "lemma": "imbodlela",
+          "word_id": "unimet-xho-imbodlela",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-imbodlela-n13765396",
+          "lemma": "imbodlela",
+          "word_id": "unimet-xho-imbodlela",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-imbodlela-n02876657::unimet-xho-imbodlela-n13765396": {
+          "source": "unimet-xho-imbodlela-n02876657",
+          "target": "unimet-xho-imbodlela-n13765396",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "incwadi",
+      "all_senses": [
+        {
+          "id": "unimet-xho-incwadi-n02870092",
+          "lemma": "incwadi",
+          "word_id": "unimet-xho-incwadi",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-xho-incwadi-n06410904",
+          "lemma": "incwadi",
+          "word_id": "unimet-xho-incwadi",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-incwadi-n02870092",
+          "lemma": "incwadi",
+          "word_id": "unimet-xho-incwadi",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-incwadi-n06410904",
+          "lemma": "incwadi",
+          "word_id": "unimet-xho-incwadi",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-incwadi-n02870092::unimet-xho-incwadi-n06410904": {
+          "source": "unimet-xho-incwadi-n02870092",
+          "target": "unimet-xho-incwadi-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ingobozi",
+      "all_senses": [
+        {
+          "id": "unimet-xho-ingobozi-n02801938",
+          "lemma": "ingobozi",
+          "word_id": "unimet-xho-ingobozi",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        },
+        {
+          "id": "unimet-xho-ingobozi-n13765207",
+          "lemma": "ingobozi",
+          "word_id": "unimet-xho-ingobozi",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-ingobozi-n02801938",
+          "lemma": "ingobozi",
+          "word_id": "unimet-xho-ingobozi",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-ingobozi-n13765207",
+          "lemma": "ingobozi",
+          "word_id": "unimet-xho-ingobozi",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-ingobozi-n02801938::unimet-xho-ingobozi-n13765207": {
+          "source": "unimet-xho-ingobozi-n02801938",
+          "target": "unimet-xho-ingobozi-n13765207",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "intloko",
+      "all_senses": [
+        {
+          "id": "unimet-xho-intloko-n05538625",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-xho-intloko-n10081456",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-10081456-n",
+            "ili": "i89903",
+            "pos": "n",
+            "lemmas": [
+              "father"
+            ],
+            "definition": "a person who holds an important or distinguished position in some organization"
+          }
+        },
+        {
+          "id": "unimet-xho-intloko-n10468559",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-10468559-n",
+            "ili": "i92217",
+            "pos": "n",
+            "lemmas": [
+              "president"
+            ],
+            "definition": "an executive officer of a firm or corporation"
+          }
+        },
+        {
+          "id": "unimet-xho-intloko-n10474645",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-10474645-n",
+            "ili": "i92250",
+            "pos": "n",
+            "lemmas": [
+              "head teacher"
+            ],
+            "definition": "the educator who has executive authority for a school"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-intloko-n05538625",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-intloko-n10081456",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-10081456-n",
+            "ili": "i89903",
+            "pos": "n",
+            "lemmas": [
+              "father"
+            ],
+            "definition": "a person who holds an important or distinguished position in some organization"
+          }
+        },
+        {
+          "id": "unimet-xho-intloko-n10468559",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-10468559-n",
+            "ili": "i92217",
+            "pos": "n",
+            "lemmas": [
+              "president"
+            ],
+            "definition": "an executive officer of a firm or corporation"
+          }
+        },
+        {
+          "id": "unimet-xho-intloko-n10474645",
+          "lemma": "intloko",
+          "word_id": "unimet-xho-intloko",
+          "synset": {
+            "id": "omw-en-10474645-n",
+            "ili": "i92250",
+            "pos": "n",
+            "lemmas": [
+              "head teacher"
+            ],
+            "definition": "the educator who has executive authority for a school"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-intloko-n05538625::unimet-xho-intloko-n10081456": {
+          "source": "unimet-xho-intloko-n05538625",
+          "target": "unimet-xho-intloko-n10081456",
+          "type": "metonymy"
+        },
+        "unimet-xho-intloko-n05538625::unimet-xho-intloko-n10468559": {
+          "source": "unimet-xho-intloko-n05538625",
+          "target": "unimet-xho-intloko-n10468559",
+          "type": "metonymy"
+        },
+        "unimet-xho-intloko-n05538625::unimet-xho-intloko-n10474645": {
+          "source": "unimet-xho-intloko-n05538625",
+          "target": "unimet-xho-intloko-n10474645",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "iphepha",
+      "all_senses": [
+        {
+          "id": "unimet-xho-iphepha-n03822171",
+          "lemma": "iphepha",
+          "word_id": "unimet-xho-iphepha",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-xho-iphepha-n06267145",
+          "lemma": "iphepha",
+          "word_id": "unimet-xho-iphepha",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-iphepha-n03822171",
+          "lemma": "iphepha",
+          "word_id": "unimet-xho-iphepha",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-iphepha-n06267145",
+          "lemma": "iphepha",
+          "word_id": "unimet-xho-iphepha",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-iphepha-n03822171::unimet-xho-iphepha-n06267145": {
+          "source": "unimet-xho-iphepha-n03822171",
+          "target": "unimet-xho-iphepha-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "iphephandaba",
+      "all_senses": [
+        {
+          "id": "unimet-xho-iphephandaba-n03822171",
+          "lemma": "iphephandaba",
+          "word_id": "unimet-xho-iphephandaba",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-xho-iphephandaba-n06267145",
+          "lemma": "iphephandaba",
+          "word_id": "unimet-xho-iphephandaba",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-iphephandaba-n03822171",
+          "lemma": "iphephandaba",
+          "word_id": "unimet-xho-iphephandaba",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-iphephandaba-n06267145",
+          "lemma": "iphephandaba",
+          "word_id": "unimet-xho-iphephandaba",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-iphephandaba-n03822171::unimet-xho-iphephandaba-n06267145": {
+          "source": "unimet-xho-iphephandaba-n03822171",
+          "target": "unimet-xho-iphephandaba-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "isebe",
+      "all_senses": [
+        {
+          "id": "unimet-xho-isebe-n03770316",
+          "lemma": "isebe",
+          "word_id": "unimet-xho-isebe",
+          "synset": {
+            "id": "omw-en-03770316-n",
+            "ili": "i56275",
+            "pos": "n",
+            "lemmas": [
+              "ministry"
+            ],
+            "definition": "building where the business of a government department is transacted"
+          }
+        },
+        {
+          "id": "unimet-xho-isebe-n08114861",
+          "lemma": "isebe",
+          "word_id": "unimet-xho-isebe",
+          "synset": {
+            "id": "omw-en-08114861-n",
+            "ili": "i79830",
+            "pos": "n",
+            "lemmas": [
+              "section"
+            ],
+            "definition": "a specialized division of a large organization"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-isebe-n03770316",
+          "lemma": "isebe",
+          "word_id": "unimet-xho-isebe",
+          "synset": {
+            "id": "omw-en-03770316-n",
+            "ili": "i56275",
+            "pos": "n",
+            "lemmas": [
+              "ministry"
+            ],
+            "definition": "building where the business of a government department is transacted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-isebe-n08114861",
+          "lemma": "isebe",
+          "word_id": "unimet-xho-isebe",
+          "synset": {
+            "id": "omw-en-08114861-n",
+            "ili": "i79830",
+            "pos": "n",
+            "lemmas": [
+              "section"
+            ],
+            "definition": "a specialized division of a large organization"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-isebe-n03770316::unimet-xho-isebe-n08114861": {
+          "source": "unimet-xho-isebe-n03770316",
+          "target": "unimet-xho-isebe-n08114861",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "isikolo",
+      "all_senses": [
+        {
+          "id": "unimet-xho-isikolo-n04146050",
+          "lemma": "isikolo",
+          "word_id": "unimet-xho-isikolo",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-xho-isikolo-n08276720",
+          "lemma": "isikolo",
+          "word_id": "unimet-xho-isikolo",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-isikolo-n04146050",
+          "lemma": "isikolo",
+          "word_id": "unimet-xho-isikolo",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-isikolo-n08276720",
+          "lemma": "isikolo",
+          "word_id": "unimet-xho-isikolo",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-isikolo-n04146050::unimet-xho-isikolo-n08276720": {
+          "source": "unimet-xho-isikolo-n04146050",
+          "target": "unimet-xho-isikolo-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "itheko",
+      "all_senses": [
+        {
+          "id": "unimet-xho-itheko-n07447261",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n07447641",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n07448038",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-07448038-n",
+            "ili": "i75851",
+            "pos": "n",
+            "lemmas": [
+              "brawl"
+            ],
+            "definition": "an uproarious party"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n08252467",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-08252467-n",
+            "ili": "i80499",
+            "pos": "n",
+            "lemmas": [
+              "function"
+            ],
+            "definition": "a formal or official social gathering or ceremony"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n08252602",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-itheko-n07447261",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n07447641",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n07448038",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-07448038-n",
+            "ili": "i75851",
+            "pos": "n",
+            "lemmas": [
+              "brawl"
+            ],
+            "definition": "an uproarious party"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-itheko-n08252467",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-08252467-n",
+            "ili": "i80499",
+            "pos": "n",
+            "lemmas": [
+              "function"
+            ],
+            "definition": "a formal or official social gathering or ceremony"
+          }
+        },
+        {
+          "id": "unimet-xho-itheko-n08252602",
+          "lemma": "itheko",
+          "word_id": "unimet-xho-itheko",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-itheko-n07447261::unimet-xho-itheko-n08252467": {
+          "source": "unimet-xho-itheko-n07447261",
+          "target": "unimet-xho-itheko-n08252467",
+          "type": "metonymy"
+        },
+        "unimet-xho-itheko-n07447261::unimet-xho-itheko-n08252602": {
+          "source": "unimet-xho-itheko-n07447261",
+          "target": "unimet-xho-itheko-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-xho-itheko-n07447641::unimet-xho-itheko-n08252602": {
+          "source": "unimet-xho-itheko-n07447641",
+          "target": "unimet-xho-itheko-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-xho-itheko-n07448038::unimet-xho-itheko-n08252602": {
+          "source": "unimet-xho-itheko-n07448038",
+          "target": "unimet-xho-itheko-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ukukhathazeka",
+      "all_senses": [
+        {
+          "id": "unimet-xho-ukukhathazeka-n05832264",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-xho-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-xho-ukukhathazeka-n07524242",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-xho-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-ukukhathazeka-n07524242",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-xho-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-ukukhathazeka-n05832264",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-xho-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-ukukhathazeka-n07524242::unimet-xho-ukukhathazeka-n05832264": {
+          "source": "unimet-xho-ukukhathazeka-n07524242",
+          "target": "unimet-xho-ukukhathazeka-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "umasipala",
+      "all_senses": [
+        {
+          "id": "unimet-xho-umasipala-n08225581",
+          "lemma": "umasipala",
+          "word_id": "unimet-xho-umasipala",
+          "synset": {
+            "id": "omw-en-08225581-n",
+            "ili": "i80336",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "people living in a town or city having local self-government"
+          }
+        },
+        {
+          "id": "unimet-xho-umasipala-n08626283",
+          "lemma": "umasipala",
+          "word_id": "unimet-xho-umasipala",
+          "synset": {
+            "id": "omw-en-08626283-n",
+            "ili": "i82317",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "an urban district having corporate status and powers of self-government"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-umasipala-n08225581",
+          "lemma": "umasipala",
+          "word_id": "unimet-xho-umasipala",
+          "synset": {
+            "id": "omw-en-08225581-n",
+            "ili": "i80336",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "people living in a town or city having local self-government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-umasipala-n08626283",
+          "lemma": "umasipala",
+          "word_id": "unimet-xho-umasipala",
+          "synset": {
+            "id": "omw-en-08626283-n",
+            "ili": "i82317",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "an urban district having corporate status and powers of self-government"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-umasipala-n08225581::unimet-xho-umasipala-n08626283": {
+          "source": "unimet-xho-umasipala-n08225581",
+          "target": "unimet-xho-umasipala-n08626283",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "umgidi",
+      "all_senses": [
+        {
+          "id": "unimet-xho-umgidi-n07447261",
+          "lemma": "umgidi",
+          "word_id": "unimet-xho-umgidi",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-xho-umgidi-n08252211",
+          "lemma": "umgidi",
+          "word_id": "unimet-xho-umgidi",
+          "synset": {
+            "id": "omw-en-08252211-n",
+            "ili": "i80498",
+            "pos": "n",
+            "lemmas": [
+              "social gathering"
+            ],
+            "definition": "a gathering for the purpose of promoting fellowship"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xho-umgidi-n07447261",
+          "lemma": "umgidi",
+          "word_id": "unimet-xho-umgidi",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xho-umgidi-n08252211",
+          "lemma": "umgidi",
+          "word_id": "unimet-xho-umgidi",
+          "synset": {
+            "id": "omw-en-08252211-n",
+            "ili": "i80498",
+            "pos": "n",
+            "lemmas": [
+              "social gathering"
+            ],
+            "definition": "a gathering for the purpose of promoting fellowship"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xho-umgidi-n07447261::unimet-xho-umgidi-n08252211": {
+          "source": "unimet-xho-umgidi-n07447261",
+          "target": "unimet-xho-umgidi-n08252211",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "id": "d6a2461703e0f1cb",
+  "name": "unimet-Pedi",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nso",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "buka",
+      "all_senses": [
+        {
+          "id": "unimet-nso-buka-n02870092",
+          "lemma": "buka",
+          "word_id": "unimet-nso-buka",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-nso-buka-n06410904",
+          "lemma": "buka",
+          "word_id": "unimet-nso-buka",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nso-buka-n02870092",
+          "lemma": "buka",
+          "word_id": "unimet-nso-buka",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nso-buka-n06410904",
+          "lemma": "buka",
+          "word_id": "unimet-nso-buka",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nso-buka-n02870092::unimet-nso-buka-n06410904": {
+          "source": "unimet-nso-buka-n02870092",
+          "target": "unimet-nso-buka-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "faki",
+      "all_senses": [
+        {
+          "id": "unimet-nso-faki-n02795169",
+          "lemma": "faki",
+          "word_id": "unimet-nso-faki",
+          "synset": {
+            "id": "omw-en-02795169-n",
+            "ili": "i50486",
+            "pos": "n",
+            "lemmas": [
+              "barrel"
+            ],
+            "definition": "a cylindrical container that holds liquids"
+          }
+        },
+        {
+          "id": "unimet-nso-faki-n13766547",
+          "lemma": "faki",
+          "word_id": "unimet-nso-faki",
+          "synset": {
+            "id": "omw-en-13766547-n",
+            "ili": "i109231",
+            "pos": "n",
+            "lemmas": [
+              "cask"
+            ],
+            "definition": "the quantity a cask will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nso-faki-n02795169",
+          "lemma": "faki",
+          "word_id": "unimet-nso-faki",
+          "synset": {
+            "id": "omw-en-02795169-n",
+            "ili": "i50486",
+            "pos": "n",
+            "lemmas": [
+              "barrel"
+            ],
+            "definition": "a cylindrical container that holds liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nso-faki-n13766547",
+          "lemma": "faki",
+          "word_id": "unimet-nso-faki",
+          "synset": {
+            "id": "omw-en-13766547-n",
+            "ili": "i109231",
+            "pos": "n",
+            "lemmas": [
+              "cask"
+            ],
+            "definition": "the quantity a cask will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nso-faki-n02795169::unimet-nso-faki-n13766547": {
+          "source": "unimet-nso-faki-n02795169",
+          "target": "unimet-nso-faki-n13766547",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lepotlelo",
+      "all_senses": [
+        {
+          "id": "unimet-nso-lepotlelo-n02876657",
+          "lemma": "lepotlelo",
+          "word_id": "unimet-nso-lepotlelo",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        },
+        {
+          "id": "unimet-nso-lepotlelo-n13765396",
+          "lemma": "lepotlelo",
+          "word_id": "unimet-nso-lepotlelo",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nso-lepotlelo-n02876657",
+          "lemma": "lepotlelo",
+          "word_id": "unimet-nso-lepotlelo",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nso-lepotlelo-n13765396",
+          "lemma": "lepotlelo",
+          "word_id": "unimet-nso-lepotlelo",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nso-lepotlelo-n02876657::unimet-nso-lepotlelo-n13765396": {
+          "source": "unimet-nso-lepotlelo-n02876657",
+          "target": "unimet-nso-lepotlelo-n13765396",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "moletlo",
+      "all_senses": [
+        {
+          "id": "unimet-nso-moletlo-n07447261",
+          "lemma": "moletlo",
+          "word_id": "unimet-nso-moletlo",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nso-moletlo-n08252467",
+          "lemma": "moletlo",
+          "word_id": "unimet-nso-moletlo",
+          "synset": {
+            "id": "omw-en-08252467-n",
+            "ili": "i80499",
+            "pos": "n",
+            "lemmas": [
+              "function"
+            ],
+            "definition": "a formal or official social gathering or ceremony"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nso-moletlo-n07447261",
+          "lemma": "moletlo",
+          "word_id": "unimet-nso-moletlo",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nso-moletlo-n08252467",
+          "lemma": "moletlo",
+          "word_id": "unimet-nso-moletlo",
+          "synset": {
+            "id": "omw-en-08252467-n",
+            "ili": "i80499",
+            "pos": "n",
+            "lemmas": [
+              "function"
+            ],
+            "definition": "a formal or official social gathering or ceremony"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nso-moletlo-n07447261::unimet-nso-moletlo-n08252467": {
+          "source": "unimet-nso-moletlo-n07447261",
+          "target": "unimet-nso-moletlo-n08252467",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "moletlwana",
+      "all_senses": [
+        {
+          "id": "unimet-nso-moletlwana-n07447641",
+          "lemma": "moletlwana",
+          "word_id": "unimet-nso-moletlwana",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-nso-moletlwana-n07448038",
+          "lemma": "moletlwana",
+          "word_id": "unimet-nso-moletlwana",
+          "synset": {
+            "id": "omw-en-07448038-n",
+            "ili": "i75851",
+            "pos": "n",
+            "lemmas": [
+              "brawl"
+            ],
+            "definition": "an uproarious party"
+          }
+        },
+        {
+          "id": "unimet-nso-moletlwana-n08256369",
+          "lemma": "moletlwana",
+          "word_id": "unimet-nso-moletlwana",
+          "synset": {
+            "id": "omw-en-08256369-n",
+            "ili": "i80524",
+            "pos": "n",
+            "lemmas": [
+              "mixer"
+            ],
+            "definition": "a party of people assembled to promote sociability and communal activity"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nso-moletlwana-n07447641",
+          "lemma": "moletlwana",
+          "word_id": "unimet-nso-moletlwana",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-nso-moletlwana-n07448038",
+          "lemma": "moletlwana",
+          "word_id": "unimet-nso-moletlwana",
+          "synset": {
+            "id": "omw-en-07448038-n",
+            "ili": "i75851",
+            "pos": "n",
+            "lemmas": [
+              "brawl"
+            ],
+            "definition": "an uproarious party"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nso-moletlwana-n08256369",
+          "lemma": "moletlwana",
+          "word_id": "unimet-nso-moletlwana",
+          "synset": {
+            "id": "omw-en-08256369-n",
+            "ili": "i80524",
+            "pos": "n",
+            "lemmas": [
+              "mixer"
+            ],
+            "definition": "a party of people assembled to promote sociability and communal activity"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nso-moletlwana-n07447641::unimet-nso-moletlwana-n08256369": {
+          "source": "unimet-nso-moletlwana-n07447641",
+          "target": "unimet-nso-moletlwana-n08256369",
+          "type": "metonymy"
+        },
+        "unimet-nso-moletlwana-n07448038::unimet-nso-moletlwana-n08256369": {
+          "source": "unimet-nso-moletlwana-n07448038",
+          "target": "unimet-nso-moletlwana-n08256369",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "puku",
+      "all_senses": [
+        {
+          "id": "unimet-nso-puku-n02870092",
+          "lemma": "puku",
+          "word_id": "unimet-nso-puku",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-nso-puku-n06410904",
+          "lemma": "puku",
+          "word_id": "unimet-nso-puku",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nso-puku-n02870092",
+          "lemma": "puku",
+          "word_id": "unimet-nso-puku",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nso-puku-n06410904",
+          "lemma": "puku",
+          "word_id": "unimet-nso-puku",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nso-puku-n02870092::unimet-nso-puku-n06410904": {
+          "source": "unimet-nso-puku-n02870092",
+          "target": "unimet-nso-puku-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

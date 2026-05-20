@@ -1,0 +1,3307 @@
+{
+  "id": "b7464af5ec548689",
+  "name": "unimet-Tamil",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tam",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ஆப்பிள்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-ஆப்பிள்-n07739125",
+          "lemma": "ஆப்பிள்",
+          "word_id": "unimet-tam-ஆப்பிள்",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-tam-ஆப்பிள்-n12633994",
+          "lemma": "ஆப்பிள்",
+          "word_id": "unimet-tam-ஆப்பிள்",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-ஆப்பிள்-n07739125",
+          "lemma": "ஆப்பிள்",
+          "word_id": "unimet-tam-ஆப்பிள்",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-ஆப்பிள்-n12633994",
+          "lemma": "ஆப்பிள்",
+          "word_id": "unimet-tam-ஆப்பிள்",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-ஆப்பிள்-n07739125::unimet-tam-ஆப்பிள்-n12633994": {
+          "source": "unimet-tam-ஆப்பிள்-n07739125",
+          "target": "unimet-tam-ஆப்பிள்-n12633994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ஆளிவிதை",
+      "all_senses": [
+        {
+          "id": "unimet-tam-ஆளிவிதை-n12486574",
+          "lemma": "ஆளிவிதை",
+          "word_id": "unimet-tam-ஆளிவிதை",
+          "synset": {
+            "id": "omw-en-12486574-n",
+            "ili": "i102575",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "plant of the genus Linum that is cultivated for its seeds and for the fibers of its stem"
+          }
+        },
+        {
+          "id": "unimet-tam-ஆளிவிதை-n15086247",
+          "lemma": "ஆளிவிதை",
+          "word_id": "unimet-tam-ஆளிவிதை",
+          "synset": {
+            "id": "omw-en-15086247-n",
+            "ili": "i116478",
+            "pos": "n",
+            "lemmas": [
+              "linseed"
+            ],
+            "definition": "the seed of flax used as a source of oil"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-ஆளிவிதை-n15086247",
+          "lemma": "ஆளிவிதை",
+          "word_id": "unimet-tam-ஆளிவிதை",
+          "synset": {
+            "id": "omw-en-15086247-n",
+            "ili": "i116478",
+            "pos": "n",
+            "lemmas": [
+              "linseed"
+            ],
+            "definition": "the seed of flax used as a source of oil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-ஆளிவிதை-n12486574",
+          "lemma": "ஆளிவிதை",
+          "word_id": "unimet-tam-ஆளிவிதை",
+          "synset": {
+            "id": "omw-en-12486574-n",
+            "ili": "i102575",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "plant of the genus Linum that is cultivated for its seeds and for the fibers of its stem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-ஆளிவிதை-n15086247::unimet-tam-ஆளிவிதை-n12486574": {
+          "source": "unimet-tam-ஆளிவிதை-n15086247",
+          "target": "unimet-tam-ஆளிவிதை-n12486574",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "இன்பம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-இன்பம்-n05829782",
+          "lemma": "இன்பம்",
+          "word_id": "unimet-tam-இன்பம்",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-tam-இன்பம்-n07491038",
+          "lemma": "இன்பம்",
+          "word_id": "unimet-tam-இன்பம்",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        },
+        {
+          "id": "unimet-tam-இன்பம்-n07527352",
+          "lemma": "இன்பம்",
+          "word_id": "unimet-tam-இன்பம்",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-இன்பம்-n07491038",
+          "lemma": "இன்பம்",
+          "word_id": "unimet-tam-இன்பம்",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        },
+        {
+          "id": "unimet-tam-இன்பம்-n07527352",
+          "lemma": "இன்பம்",
+          "word_id": "unimet-tam-இன்பம்",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-இன்பம்-n05829782",
+          "lemma": "இன்பம்",
+          "word_id": "unimet-tam-இன்பம்",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-இன்பம்-n07491038::unimet-tam-இன்பம்-n05829782": {
+          "source": "unimet-tam-இன்பம்-n07491038",
+          "target": "unimet-tam-இன்பம்-n05829782",
+          "type": "metonymy"
+        },
+        "unimet-tam-இன்பம்-n07527352::unimet-tam-இன்பம்-n05829782": {
+          "source": "unimet-tam-இன்பம்-n07527352",
+          "target": "unimet-tam-இன்பம்-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "உருளைக்கிழங்கு",
+      "all_senses": [
+        {
+          "id": "unimet-tam-உருளைக்கிழங்கு-n07710616",
+          "lemma": "உருளைக்கிழங்கு",
+          "word_id": "unimet-tam-உருளைக்கிழங்கு",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        },
+        {
+          "id": "unimet-tam-உருளைக்கிழங்கு-n12897493",
+          "lemma": "உருளைக்கிழங்கு",
+          "word_id": "unimet-tam-உருளைக்கிழங்கு",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-உருளைக்கிழங்கு-n12897493",
+          "lemma": "உருளைக்கிழங்கு",
+          "word_id": "unimet-tam-உருளைக்கிழங்கு",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-உருளைக்கிழங்கு-n07710616",
+          "lemma": "உருளைக்கிழங்கு",
+          "word_id": "unimet-tam-உருளைக்கிழங்கு",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-உருளைக்கிழங்கு-n12897493::unimet-tam-உருளைக்கிழங்கு-n07710616": {
+          "source": "unimet-tam-உருளைக்கிழங்கு-n12897493",
+          "target": "unimet-tam-உருளைக்கிழங்கு-n07710616",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "எதிரி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-எதிரி-n07547805",
+          "lemma": "எதிரி",
+          "word_id": "unimet-tam-எதிரி",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-tam-எதிரி-n09773245",
+          "lemma": "எதிரி",
+          "word_id": "unimet-tam-எதிரி",
+          "synset": {
+            "id": "omw-en-09773245-n",
+            "ili": "i88097",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "someone who offers opposition"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-எதிரி-n07547805",
+          "lemma": "எதிரி",
+          "word_id": "unimet-tam-எதிரி",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-எதிரி-n09773245",
+          "lemma": "எதிரி",
+          "word_id": "unimet-tam-எதிரி",
+          "synset": {
+            "id": "omw-en-09773245-n",
+            "ili": "i88097",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "someone who offers opposition"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-எதிரி-n07547805::unimet-tam-எதிரி-n09773245": {
+          "source": "unimet-tam-எதிரி-n07547805",
+          "target": "unimet-tam-எதிரி-n09773245",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "கண்ணாடி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-கண்ணாடி-n03773035",
+          "lemma": "கண்ணாடி",
+          "word_id": "unimet-tam-கண்ணாடி",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-tam-கண்ணாடி-n14881303",
+          "lemma": "கண்ணாடி",
+          "word_id": "unimet-tam-கண்ணாடி",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-கண்ணாடி-n14881303",
+          "lemma": "கண்ணாடி",
+          "word_id": "unimet-tam-கண்ணாடி",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-கண்ணாடி-n03773035",
+          "lemma": "கண்ணாடி",
+          "word_id": "unimet-tam-கண்ணாடி",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-கண்ணாடி-n14881303::unimet-tam-கண்ணாடி-n03773035": {
+          "source": "unimet-tam-கண்ணாடி-n14881303",
+          "target": "unimet-tam-கண்ணாடி-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "கமரக் பழம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-கமரக் பழம்-n07746551",
+          "lemma": "கமரக் பழம்",
+          "word_id": "unimet-tam-கமரக் பழம்",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-tam-கமரக் பழம்-n12704343",
+          "lemma": "கமரக் பழம்",
+          "word_id": "unimet-tam-கமரக் பழம்",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-கமரக் பழம்-n07746551",
+          "lemma": "கமரக் பழம்",
+          "word_id": "unimet-tam-கமரக் பழம்",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-கமரக் பழம்-n12704343",
+          "lemma": "கமரக் பழம்",
+          "word_id": "unimet-tam-கமரக் பழம்",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-கமரக் பழம்-n07746551::unimet-tam-கமரக் பழம்-n12704343": {
+          "source": "unimet-tam-கமரக் பழம்-n07746551",
+          "target": "unimet-tam-கமரக் பழம்-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "காளான்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-காளான்-n07734744",
+          "lemma": "காளான்",
+          "word_id": "unimet-tam-காளான்",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-tam-காளான்-n13001041",
+          "lemma": "காளான்",
+          "word_id": "unimet-tam-காளான்",
+          "synset": {
+            "id": "omw-en-13001041-n",
+            "ili": "i105063",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "common name for an edible agaric (contrasting with the inedible toadstool)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-காளான்-n13001041",
+          "lemma": "காளான்",
+          "word_id": "unimet-tam-காளான்",
+          "synset": {
+            "id": "omw-en-13001041-n",
+            "ili": "i105063",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "common name for an edible agaric (contrasting with the inedible toadstool)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-காளான்-n07734744",
+          "lemma": "காளான்",
+          "word_id": "unimet-tam-காளான்",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-காளான்-n13001041::unimet-tam-காளான்-n07734744": {
+          "source": "unimet-tam-காளான்-n13001041",
+          "target": "unimet-tam-காளான்-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "கிராமம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-கிராமம்-n08226699",
+          "lemma": "கிராமம்",
+          "word_id": "unimet-tam-கிராமம்",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-tam-கிராமம்-n08672738",
+          "lemma": "கிராமம்",
+          "word_id": "unimet-tam-கிராமம்",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-கிராமம்-n08226699",
+          "lemma": "கிராமம்",
+          "word_id": "unimet-tam-கிராமம்",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-கிராமம்-n08672738",
+          "lemma": "கிராமம்",
+          "word_id": "unimet-tam-கிராமம்",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-கிராமம்-n08226699::unimet-tam-கிராமம்-n08672738": {
+          "source": "unimet-tam-கிராமம்-n08226699",
+          "target": "unimet-tam-கிராமம்-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "கொண்டைக்கடலை",
+      "all_senses": [
+        {
+          "id": "unimet-tam-கொண்டைக்கடலை-n07726095",
+          "lemma": "கொண்டைக்கடலை",
+          "word_id": "unimet-tam-கொண்டைக்கடலை",
+          "synset": {
+            "id": "omw-en-07726095-n",
+            "ili": "i77619",
+            "pos": "n",
+            "lemmas": [
+              "chickpea"
+            ],
+            "definition": "large white roundish Asiatic legume; usually dried"
+          }
+        },
+        {
+          "id": "unimet-tam-கொண்டைக்கடலை-n12515711",
+          "lemma": "கொண்டைக்கடலை",
+          "word_id": "unimet-tam-கொண்டைக்கடலை",
+          "synset": {
+            "id": "omw-en-12515711-n",
+            "ili": "i102699",
+            "pos": "n",
+            "lemmas": [
+              "chickpea plant"
+            ],
+            "definition": "Asiatic herb cultivated for its short pods with one or two edible seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-கொண்டைக்கடலை-n12515711",
+          "lemma": "கொண்டைக்கடலை",
+          "word_id": "unimet-tam-கொண்டைக்கடலை",
+          "synset": {
+            "id": "omw-en-12515711-n",
+            "ili": "i102699",
+            "pos": "n",
+            "lemmas": [
+              "chickpea plant"
+            ],
+            "definition": "Asiatic herb cultivated for its short pods with one or two edible seeds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-கொண்டைக்கடலை-n07726095",
+          "lemma": "கொண்டைக்கடலை",
+          "word_id": "unimet-tam-கொண்டைக்கடலை",
+          "synset": {
+            "id": "omw-en-07726095-n",
+            "ili": "i77619",
+            "pos": "n",
+            "lemmas": [
+              "chickpea"
+            ],
+            "definition": "large white roundish Asiatic legume; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-கொண்டைக்கடலை-n12515711::unimet-tam-கொண்டைக்கடலை-n07726095": {
+          "source": "unimet-tam-கொண்டைக்கடலை-n12515711",
+          "target": "unimet-tam-கொண்டைக்கடலை-n07726095",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "கொய்யாப்பழம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-கொய்யாப்பழம்-n07765361",
+          "lemma": "கொய்யாப்பழம்",
+          "word_id": "unimet-tam-கொய்யாப்பழம்",
+          "synset": {
+            "id": "omw-en-07765361-n",
+            "ili": "i77876",
+            "pos": "n",
+            "lemmas": [
+              "guava"
+            ],
+            "definition": "tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies"
+          }
+        },
+        {
+          "id": "unimet-tam-கொய்யாப்பழம்-n12333771",
+          "lemma": "கொய்யாப்பழம்",
+          "word_id": "unimet-tam-கொய்யாப்பழம்",
+          "synset": {
+            "id": "omw-en-12333771-n",
+            "ili": "i101848",
+            "pos": "n",
+            "lemmas": [
+              "psidium littorale"
+            ],
+            "definition": "small tropical shrubby tree bearing small yellowish fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-கொய்யாப்பழம்-n07765361",
+          "lemma": "கொய்யாப்பழம்",
+          "word_id": "unimet-tam-கொய்யாப்பழம்",
+          "synset": {
+            "id": "omw-en-07765361-n",
+            "ili": "i77876",
+            "pos": "n",
+            "lemmas": [
+              "guava"
+            ],
+            "definition": "tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-கொய்யாப்பழம்-n12333771",
+          "lemma": "கொய்யாப்பழம்",
+          "word_id": "unimet-tam-கொய்யாப்பழம்",
+          "synset": {
+            "id": "omw-en-12333771-n",
+            "ili": "i101848",
+            "pos": "n",
+            "lemmas": [
+              "psidium littorale"
+            ],
+            "definition": "small tropical shrubby tree bearing small yellowish fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-கொய்யாப்பழம்-n07765361::unimet-tam-கொய்யாப்பழம்-n12333771": {
+          "source": "unimet-tam-கொய்யாப்பழம்-n07765361",
+          "target": "unimet-tam-கொய்யாப்பழம்-n12333771",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "கௌதாரி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-கௌதாரி-n01807496",
+          "lemma": "கௌதாரி",
+          "word_id": "unimet-tam-கௌதாரி",
+          "synset": {
+            "id": "omw-en-01807496-n",
+            "ili": "i44811",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "small Old World gallinaceous game birds"
+          }
+        },
+        {
+          "id": "unimet-tam-கௌதாரி-n07647496",
+          "lemma": "கௌதாரி",
+          "word_id": "unimet-tam-கௌதாரி",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-கௌதாரி-n01807496",
+          "lemma": "கௌதாரி",
+          "word_id": "unimet-tam-கௌதாரி",
+          "synset": {
+            "id": "omw-en-01807496-n",
+            "ili": "i44811",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "small Old World gallinaceous game birds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-கௌதாரி-n07647496",
+          "lemma": "கௌதாரி",
+          "word_id": "unimet-tam-கௌதாரி",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-கௌதாரி-n01807496::unimet-tam-கௌதாரி-n07647496": {
+          "source": "unimet-tam-கௌதாரி-n01807496",
+          "target": "unimet-tam-கௌதாரி-n07647496",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "சாம்ராஜியம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-சாம்ராஜியம்-n08405723",
+          "lemma": "சாம்ராஜியம்",
+          "word_id": "unimet-tam-சாம்ராஜியம்",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        },
+        {
+          "id": "unimet-tam-சாம்ராஜியம்-n08557482",
+          "lemma": "சாம்ராஜியம்",
+          "word_id": "unimet-tam-சாம்ராஜியம்",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-சாம்ராஜியம்-n08405723",
+          "lemma": "சாம்ராஜியம்",
+          "word_id": "unimet-tam-சாம்ராஜியம்",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-சாம்ராஜியம்-n08557482",
+          "lemma": "சாம்ராஜியம்",
+          "word_id": "unimet-tam-சாம்ராஜியம்",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-சாம்ராஜியம்-n08405723::unimet-tam-சாம்ராஜியம்-n08557482": {
+          "source": "unimet-tam-சாம்ராஜியம்-n08405723",
+          "target": "unimet-tam-சாம்ராஜியம்-n08557482",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "சுயநலம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-சுயநலம்-n04835028",
+          "lemma": "சுயநலம்",
+          "word_id": "unimet-tam-சுயநலம்",
+          "synset": {
+            "id": "omw-en-04835028-n",
+            "ili": "i62400",
+            "pos": "n",
+            "lemmas": [
+              "self-interest"
+            ],
+            "definition": "concern for your own interests and welfare"
+          }
+        },
+        {
+          "id": "unimet-tam-சுயநலம்-n10047459",
+          "lemma": "சுயநலம்",
+          "word_id": "unimet-tam-சுயநலம்",
+          "synset": {
+            "id": "omw-en-10047459-n",
+            "ili": "i89700",
+            "pos": "n",
+            "lemmas": [
+              "egoist"
+            ],
+            "definition": "a conceited and self-centered person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-சுயநலம்-n04835028",
+          "lemma": "சுயநலம்",
+          "word_id": "unimet-tam-சுயநலம்",
+          "synset": {
+            "id": "omw-en-04835028-n",
+            "ili": "i62400",
+            "pos": "n",
+            "lemmas": [
+              "self-interest"
+            ],
+            "definition": "concern for your own interests and welfare"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-சுயநலம்-n10047459",
+          "lemma": "சுயநலம்",
+          "word_id": "unimet-tam-சுயநலம்",
+          "synset": {
+            "id": "omw-en-10047459-n",
+            "ili": "i89700",
+            "pos": "n",
+            "lemmas": [
+              "egoist"
+            ],
+            "definition": "a conceited and self-centered person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-சுயநலம்-n04835028::unimet-tam-சுயநலம்-n10047459": {
+          "source": "unimet-tam-சுயநலம்-n04835028",
+          "target": "unimet-tam-சுயநலம்-n10047459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "தக்காளி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-தக்காளி-n07734017",
+          "lemma": "தக்காளி",
+          "word_id": "unimet-tam-தக்காளி",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-tam-தக்காளி-n12905817",
+          "lemma": "தக்காளி",
+          "word_id": "unimet-tam-தக்காளி",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-தக்காளி-n12905817",
+          "lemma": "தக்காளி",
+          "word_id": "unimet-tam-தக்காளி",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-தக்காளி-n07734017",
+          "lemma": "தக்காளி",
+          "word_id": "unimet-tam-தக்காளி",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-தக்காளி-n12905817::unimet-tam-தக்காளி-n07734017": {
+          "source": "unimet-tam-தக்காளி-n12905817",
+          "target": "unimet-tam-தக்காளி-n07734017",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "தர்பூசணி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-தர்பூசணி-n07756951",
+          "lemma": "தர்பூசணி",
+          "word_id": "unimet-tam-தர்பூசணி",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-tam-தர்பூசணி-n12164065",
+          "lemma": "தர்பூசணி",
+          "word_id": "unimet-tam-தர்பூசணி",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-தர்பூசணி-n07756951",
+          "lemma": "தர்பூசணி",
+          "word_id": "unimet-tam-தர்பூசணி",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-தர்பூசணி-n12164065",
+          "lemma": "தர்பூசணி",
+          "word_id": "unimet-tam-தர்பூசணி",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-தர்பூசணி-n07756951::unimet-tam-தர்பூசணி-n12164065": {
+          "source": "unimet-tam-தர்பூசணி-n07756951",
+          "target": "unimet-tam-தர்பூசணி-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "துயரம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-துயரம்-n05833683",
+          "lemma": "துயரம்",
+          "word_id": "unimet-tam-துயரம்",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-tam-துயரம்-n07532440",
+          "lemma": "துயரம்",
+          "word_id": "unimet-tam-துயரம்",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-துயரம்-n07532440",
+          "lemma": "துயரம்",
+          "word_id": "unimet-tam-துயரம்",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-துயரம்-n05833683",
+          "lemma": "துயரம்",
+          "word_id": "unimet-tam-துயரம்",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-துயரம்-n07532440::unimet-tam-துயரம்-n05833683": {
+          "source": "unimet-tam-துயரம்-n07532440",
+          "target": "unimet-tam-துயரம்-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "தேங்காய்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-தேங்காய்-n07772935",
+          "lemma": "தேங்காய்",
+          "word_id": "unimet-tam-தேங்காய்",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-tam-தேங்காய்-n12587803",
+          "lemma": "தேங்காய்",
+          "word_id": "unimet-tam-தேங்காய்",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-தேங்காய்-n07772935",
+          "lemma": "தேங்காய்",
+          "word_id": "unimet-tam-தேங்காய்",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-தேங்காய்-n12587803",
+          "lemma": "தேங்காய்",
+          "word_id": "unimet-tam-தேங்காய்",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-தேங்காய்-n07772935::unimet-tam-தேங்காய்-n12587803": {
+          "source": "unimet-tam-தேங்காய்-n07772935",
+          "target": "unimet-tam-தேங்காய்-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "தேவாலயம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-தேவாலயம்-n03028079",
+          "lemma": "தேவாலயம்",
+          "word_id": "unimet-tam-தேவாலயம்",
+          "synset": {
+            "id": "omw-en-03028079-n",
+            "ili": "i51914",
+            "pos": "n",
+            "lemmas": [
+              "temple"
+            ],
+            "definition": "a place for public (especially Christian) worship"
+          }
+        },
+        {
+          "id": "unimet-tam-தேவாலயம்-n08082602",
+          "lemma": "தேவாலயம்",
+          "word_id": "unimet-tam-தேவாலயம்",
+          "synset": {
+            "id": "omw-en-08082602-n",
+            "ili": "i79691",
+            "pos": "n",
+            "lemmas": [
+              "christian church"
+            ],
+            "definition": "one of the groups of Christians who have their own beliefs and forms of worship"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-தேவாலயம்-n03028079",
+          "lemma": "தேவாலயம்",
+          "word_id": "unimet-tam-தேவாலயம்",
+          "synset": {
+            "id": "omw-en-03028079-n",
+            "ili": "i51914",
+            "pos": "n",
+            "lemmas": [
+              "temple"
+            ],
+            "definition": "a place for public (especially Christian) worship"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-தேவாலயம்-n08082602",
+          "lemma": "தேவாலயம்",
+          "word_id": "unimet-tam-தேவாலயம்",
+          "synset": {
+            "id": "omw-en-08082602-n",
+            "ili": "i79691",
+            "pos": "n",
+            "lemmas": [
+              "christian church"
+            ],
+            "definition": "one of the groups of Christians who have their own beliefs and forms of worship"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-தேவாலயம்-n03028079::unimet-tam-தேவாலயம்-n08082602": {
+          "source": "unimet-tam-தேவாலயம்-n03028079",
+          "target": "unimet-tam-தேவாலயம்-n08082602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "தொலைபேசி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-தொலைபேசி-n04401088",
+          "lemma": "தொலைபேசி",
+          "word_id": "unimet-tam-தொலைபேசி",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-tam-தொலைபேசி-n06272290",
+          "lemma": "தொலைபேசி",
+          "word_id": "unimet-tam-தொலைபேசி",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-தொலைபேசி-n04401088",
+          "lemma": "தொலைபேசி",
+          "word_id": "unimet-tam-தொலைபேசி",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-தொலைபேசி-n06272290",
+          "lemma": "தொலைபேசி",
+          "word_id": "unimet-tam-தொலைபேசி",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-தொலைபேசி-n04401088::unimet-tam-தொலைபேசி-n06272290": {
+          "source": "unimet-tam-தொலைபேசி-n04401088",
+          "target": "unimet-tam-தொலைபேசி-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "நாடு",
+      "all_senses": [
+        {
+          "id": "unimet-tam-நாடு-n08166552",
+          "lemma": "நாடு",
+          "word_id": "unimet-tam-நாடு",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-tam-நாடு-n08544813",
+          "lemma": "நாடு",
+          "word_id": "unimet-tam-நாடு",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-நாடு-n08166552",
+          "lemma": "நாடு",
+          "word_id": "unimet-tam-நாடு",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-நாடு-n08544813",
+          "lemma": "நாடு",
+          "word_id": "unimet-tam-நாடு",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-நாடு-n08166552::unimet-tam-நாடு-n08544813": {
+          "source": "unimet-tam-நாடு-n08166552",
+          "target": "unimet-tam-நாடு-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "நார்த்தங்காய்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-நார்த்தங்காய்-n07750146",
+          "lemma": "நார்த்தங்காய்",
+          "word_id": "unimet-tam-நார்த்தங்காய்",
+          "synset": {
+            "id": "omw-en-07750146-n",
+            "ili": "i77779",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "large pear-shaped fruit similar to grapefruit but with coarse dry pulp"
+          }
+        },
+        {
+          "id": "unimet-tam-நார்த்தங்காய்-n12709103",
+          "lemma": "நார்த்தங்காய்",
+          "word_id": "unimet-tam-நார்த்தங்காய்",
+          "synset": {
+            "id": "omw-en-12709103-n",
+            "ili": "i103640",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "southeastern Asian tree producing large fruits resembling grapefruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-நார்த்தங்காய்-n07750146",
+          "lemma": "நார்த்தங்காய்",
+          "word_id": "unimet-tam-நார்த்தங்காய்",
+          "synset": {
+            "id": "omw-en-07750146-n",
+            "ili": "i77779",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "large pear-shaped fruit similar to grapefruit but with coarse dry pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-நார்த்தங்காய்-n12709103",
+          "lemma": "நார்த்தங்காய்",
+          "word_id": "unimet-tam-நார்த்தங்காய்",
+          "synset": {
+            "id": "omw-en-12709103-n",
+            "ili": "i103640",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "southeastern Asian tree producing large fruits resembling grapefruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-நார்த்தங்காய்-n07750146::unimet-tam-நார்த்தங்காய்-n12709103": {
+          "source": "unimet-tam-நார்த்தங்காய்-n07750146",
+          "target": "unimet-tam-நார்த்தங்காய்-n12709103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "நிலக்கடலை",
+      "all_senses": [
+        {
+          "id": "unimet-tam-நிலக்கடலை-n07737745",
+          "lemma": "நிலக்கடலை",
+          "word_id": "unimet-tam-நிலக்கடலை",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        },
+        {
+          "id": "unimet-tam-நிலக்கடலை-n11748501",
+          "lemma": "நிலக்கடலை",
+          "word_id": "unimet-tam-நிலக்கடலை",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-நிலக்கடலை-n07737745",
+          "lemma": "நிலக்கடலை",
+          "word_id": "unimet-tam-நிலக்கடலை",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-நிலக்கடலை-n11748501",
+          "lemma": "நிலக்கடலை",
+          "word_id": "unimet-tam-நிலக்கடலை",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-நிலக்கடலை-n07737745::unimet-tam-நிலக்கடலை-n11748501": {
+          "source": "unimet-tam-நிலக்கடலை-n07737745",
+          "target": "unimet-tam-நிலக்கடலை-n11748501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "நூல்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-நூல்-n04426788",
+          "lemma": "நூல்",
+          "word_id": "unimet-tam-நூல்",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-tam-நூல்-n14866889",
+          "lemma": "நூல்",
+          "word_id": "unimet-tam-நூல்",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-நூல்-n14866889",
+          "lemma": "நூல்",
+          "word_id": "unimet-tam-நூல்",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-நூல்-n04426788",
+          "lemma": "நூல்",
+          "word_id": "unimet-tam-நூல்",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-நூல்-n14866889::unimet-tam-நூல்-n04426788": {
+          "source": "unimet-tam-நூல்-n14866889",
+          "target": "unimet-tam-நூல்-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "பகைவன்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-பகைவன்-n07547805",
+          "lemma": "பகைவன்",
+          "word_id": "unimet-tam-பகைவன்",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-tam-பகைவன்-n09773245",
+          "lemma": "பகைவன்",
+          "word_id": "unimet-tam-பகைவன்",
+          "synset": {
+            "id": "omw-en-09773245-n",
+            "ili": "i88097",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "someone who offers opposition"
+          }
+        },
+        {
+          "id": "unimet-tam-பகைவன்-n10098710",
+          "lemma": "பகைவன்",
+          "word_id": "unimet-tam-பகைவன்",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-பகைவன்-n07547805",
+          "lemma": "பகைவன்",
+          "word_id": "unimet-tam-பகைவன்",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-பகைவன்-n09773245",
+          "lemma": "பகைவன்",
+          "word_id": "unimet-tam-பகைவன்",
+          "synset": {
+            "id": "omw-en-09773245-n",
+            "ili": "i88097",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "someone who offers opposition"
+          }
+        },
+        {
+          "id": "unimet-tam-பகைவன்-n10098710",
+          "lemma": "பகைவன்",
+          "word_id": "unimet-tam-பகைவன்",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-பகைவன்-n07547805::unimet-tam-பகைவன்-n09773245": {
+          "source": "unimet-tam-பகைவன்-n07547805",
+          "target": "unimet-tam-பகைவன்-n09773245",
+          "type": "metonymy"
+        },
+        "unimet-tam-பகைவன்-n07547805::unimet-tam-பகைவன்-n10098710": {
+          "source": "unimet-tam-பகைவன்-n07547805",
+          "target": "unimet-tam-பகைவன்-n10098710",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "பட்டாணி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-பட்டாணி-n12560016",
+          "lemma": "பட்டாணி",
+          "word_id": "unimet-tam-பட்டாணி",
+          "synset": {
+            "id": "omw-en-12560016-n",
+            "ili": "i102906",
+            "pos": "n",
+            "lemmas": [
+              "pea plant"
+            ],
+            "definition": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds"
+          }
+        },
+        {
+          "id": "unimet-tam-பட்டாணி-n12560282",
+          "lemma": "பட்டாணி",
+          "word_id": "unimet-tam-பட்டாணி",
+          "synset": {
+            "id": "omw-en-12560282-n",
+            "ili": "i102907",
+            "pos": "n",
+            "lemmas": [
+              "pea"
+            ],
+            "definition": "the fruit or seed of a pea plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-பட்டாணி-n12560016",
+          "lemma": "பட்டாணி",
+          "word_id": "unimet-tam-பட்டாணி",
+          "synset": {
+            "id": "omw-en-12560016-n",
+            "ili": "i102906",
+            "pos": "n",
+            "lemmas": [
+              "pea plant"
+            ],
+            "definition": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-பட்டாணி-n12560282",
+          "lemma": "பட்டாணி",
+          "word_id": "unimet-tam-பட்டாணி",
+          "synset": {
+            "id": "omw-en-12560282-n",
+            "ili": "i102907",
+            "pos": "n",
+            "lemmas": [
+              "pea"
+            ],
+            "definition": "the fruit or seed of a pea plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-பட்டாணி-n12560016::unimet-tam-பட்டாணி-n12560282": {
+          "source": "unimet-tam-பட்டாணி-n12560016",
+          "target": "unimet-tam-பட்டாணி-n12560282",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "பாக்கு",
+      "all_senses": [
+        {
+          "id": "unimet-tam-பாக்கு-n07770869",
+          "lemma": "பாக்கு",
+          "word_id": "unimet-tam-பாக்கு",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-tam-பாக்கு-n12584191",
+          "lemma": "பாக்கு",
+          "word_id": "unimet-tam-பாக்கு",
+          "synset": {
+            "id": "omw-en-12584191-n",
+            "ili": "i103019",
+            "pos": "n",
+            "lemmas": [
+              "areca"
+            ],
+            "definition": "any of several tall tropical palms native to southeastern Asia having egg-shaped nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-பாக்கு-n07770869",
+          "lemma": "பாக்கு",
+          "word_id": "unimet-tam-பாக்கு",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-பாக்கு-n12584191",
+          "lemma": "பாக்கு",
+          "word_id": "unimet-tam-பாக்கு",
+          "synset": {
+            "id": "omw-en-12584191-n",
+            "ili": "i103019",
+            "pos": "n",
+            "lemmas": [
+              "areca"
+            ],
+            "definition": "any of several tall tropical palms native to southeastern Asia having egg-shaped nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-பாக்கு-n07770869::unimet-tam-பாக்கு-n12584191": {
+          "source": "unimet-tam-பாக்கு-n07770869",
+          "target": "unimet-tam-பாக்கு-n12584191",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "பிஸ்தா",
+      "all_senses": [
+        {
+          "id": "unimet-tam-பிஸ்தா-n07775050",
+          "lemma": "பிஸ்தா",
+          "word_id": "unimet-tam-பிஸ்தா",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        },
+        {
+          "id": "unimet-tam-பிஸ்தா-n12761702",
+          "lemma": "பிஸ்தா",
+          "word_id": "unimet-tam-பிஸ்தா",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-பிஸ்தா-n07775050",
+          "lemma": "பிஸ்தா",
+          "word_id": "unimet-tam-பிஸ்தா",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-பிஸ்தா-n12761702",
+          "lemma": "பிஸ்தா",
+          "word_id": "unimet-tam-பிஸ்தா",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-பிஸ்தா-n07775050::unimet-tam-பிஸ்தா-n12761702": {
+          "source": "unimet-tam-பிஸ்தா-n07775050",
+          "target": "unimet-tam-பிஸ்தா-n12761702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "பிஹி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-பிஹி-n07769584",
+          "lemma": "பிஹி",
+          "word_id": "unimet-tam-பிஹி",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-tam-பிஹி-n12628986",
+          "lemma": "பிஹி",
+          "word_id": "unimet-tam-பிஹி",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-பிஹி-n07769584",
+          "lemma": "பிஹி",
+          "word_id": "unimet-tam-பிஹி",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-பிஹி-n12628986",
+          "lemma": "பிஹி",
+          "word_id": "unimet-tam-பிஹி",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-பிஹி-n07769584::unimet-tam-பிஹி-n12628986": {
+          "source": "unimet-tam-பிஹி-n07769584",
+          "target": "unimet-tam-பிஹி-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "புளி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-புளி-n07764630",
+          "lemma": "புளி",
+          "word_id": "unimet-tam-புளி",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        },
+        {
+          "id": "unimet-tam-புளி-n12501202",
+          "lemma": "புளி",
+          "word_id": "unimet-tam-புளி",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-புளி-n07764630",
+          "lemma": "புளி",
+          "word_id": "unimet-tam-புளி",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-புளி-n12501202",
+          "lemma": "புளி",
+          "word_id": "unimet-tam-புளி",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-புளி-n07764630::unimet-tam-புளி-n12501202": {
+          "source": "unimet-tam-புளி-n07764630",
+          "target": "unimet-tam-புளி-n12501202",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "மகிழ்ச்சி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-மகிழ்ச்சி-n05829782",
+          "lemma": "மகிழ்ச்சி",
+          "word_id": "unimet-tam-மகிழ்ச்சி",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-tam-மகிழ்ச்சி-n07551890",
+          "lemma": "மகிழ்ச்சி",
+          "word_id": "unimet-tam-மகிழ்ச்சி",
+          "synset": {
+            "id": "omw-en-07551890-n",
+            "ili": "i76447",
+            "pos": "n",
+            "lemmas": [
+              "joviality"
+            ],
+            "definition": "feeling jolly and jovial and full of good humor"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-மகிழ்ச்சி-n07551890",
+          "lemma": "மகிழ்ச்சி",
+          "word_id": "unimet-tam-மகிழ்ச்சி",
+          "synset": {
+            "id": "omw-en-07551890-n",
+            "ili": "i76447",
+            "pos": "n",
+            "lemmas": [
+              "joviality"
+            ],
+            "definition": "feeling jolly and jovial and full of good humor"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-மகிழ்ச்சி-n05829782",
+          "lemma": "மகிழ்ச்சி",
+          "word_id": "unimet-tam-மகிழ்ச்சி",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-மகிழ்ச்சி-n07551890::unimet-tam-மகிழ்ச்சி-n05829782": {
+          "source": "unimet-tam-மகிழ்ச்சி-n07551890",
+          "target": "unimet-tam-மகிழ்ச்சி-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "மாதுளை",
+      "all_senses": [
+        {
+          "id": "unimet-tam-மாதுளை-n07768694",
+          "lemma": "மாதுளை",
+          "word_id": "unimet-tam-மாதுளை",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-tam-மாதுளை-n12345280",
+          "lemma": "மாதுளை",
+          "word_id": "unimet-tam-மாதுளை",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-மாதுளை-n07768694",
+          "lemma": "மாதுளை",
+          "word_id": "unimet-tam-மாதுளை",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-மாதுளை-n12345280",
+          "lemma": "மாதுளை",
+          "word_id": "unimet-tam-மாதுளை",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-மாதுளை-n07768694::unimet-tam-மாதுளை-n12345280": {
+          "source": "unimet-tam-மாதுளை-n07768694",
+          "target": "unimet-tam-மாதுளை-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "முட்டாள்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-முட்டாள்-n04891333",
+          "lemma": "முட்டாள்",
+          "word_id": "unimet-tam-முட்டாள்",
+          "synset": {
+            "id": "omw-en-04891333-n",
+            "ili": "i62692",
+            "pos": "n",
+            "lemmas": [
+              "unwiseness"
+            ],
+            "definition": "the trait of acting stupidly or rashly"
+          }
+        },
+        {
+          "id": "unimet-tam-முட்டாள்-n10100761",
+          "lemma": "முட்டாள்",
+          "word_id": "unimet-tam-முட்டாள்",
+          "synset": {
+            "id": "omw-en-10100761-n",
+            "ili": "i90022",
+            "pos": "n",
+            "lemmas": [
+              "saphead"
+            ],
+            "definition": "a person who lacks good judgment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-முட்டாள்-n04891333",
+          "lemma": "முட்டாள்",
+          "word_id": "unimet-tam-முட்டாள்",
+          "synset": {
+            "id": "omw-en-04891333-n",
+            "ili": "i62692",
+            "pos": "n",
+            "lemmas": [
+              "unwiseness"
+            ],
+            "definition": "the trait of acting stupidly or rashly"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-முட்டாள்-n10100761",
+          "lemma": "முட்டாள்",
+          "word_id": "unimet-tam-முட்டாள்",
+          "synset": {
+            "id": "omw-en-10100761-n",
+            "ili": "i90022",
+            "pos": "n",
+            "lemmas": [
+              "saphead"
+            ],
+            "definition": "a person who lacks good judgment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-முட்டாள்-n04891333::unimet-tam-முட்டாள்-n10100761": {
+          "source": "unimet-tam-முட்டாள்-n04891333",
+          "target": "unimet-tam-முட்டாள்-n10100761",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ராஜ்மா",
+      "all_senses": [
+        {
+          "id": "unimet-tam-ராஜ்மா-n07727048",
+          "lemma": "ராஜ்மா",
+          "word_id": "unimet-tam-ராஜ்மா",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        },
+        {
+          "id": "unimet-tam-ராஜ்மா-n12557064",
+          "lemma": "ராஜ்மா",
+          "word_id": "unimet-tam-ராஜ்மா",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-ராஜ்மா-n12557064",
+          "lemma": "ராஜ்மா",
+          "word_id": "unimet-tam-ராஜ்மா",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-ராஜ்மா-n07727048",
+          "lemma": "ராஜ்மா",
+          "word_id": "unimet-tam-ராஜ்மா",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-ராஜ்மா-n12557064::unimet-tam-ராஜ்மா-n07727048": {
+          "source": "unimet-tam-ராஜ்மா-n12557064",
+          "target": "unimet-tam-ராஜ்மா-n07727048",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "லீசி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-லீசி-n07766173",
+          "lemma": "லீசி",
+          "word_id": "unimet-tam-லீசி",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-tam-லீசி-n12744387",
+          "lemma": "லீசி",
+          "word_id": "unimet-tam-லீசி",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-லீசி-n07766173",
+          "lemma": "லீசி",
+          "word_id": "unimet-tam-லீசி",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-லீசி-n12744387",
+          "lemma": "லீசி",
+          "word_id": "unimet-tam-லீசி",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-லீசி-n07766173::unimet-tam-லீசி-n12744387": {
+          "source": "unimet-tam-லீசி-n07766173",
+          "target": "unimet-tam-லீசி-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "வாய்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-வாய்-n05301908",
+          "lemma": "வாய்",
+          "word_id": "unimet-tam-வாய்",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-tam-வாய்-n05302499",
+          "lemma": "வாய்",
+          "word_id": "unimet-tam-வாய்",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-tam-வாய்-n10335679",
+          "lemma": "வாய்",
+          "word_id": "unimet-tam-வாய்",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-வாய்-n05301908",
+          "lemma": "வாய்",
+          "word_id": "unimet-tam-வாய்",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-tam-வாய்-n05302499",
+          "lemma": "வாய்",
+          "word_id": "unimet-tam-வாய்",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-வாய்-n10335679",
+          "lemma": "வாய்",
+          "word_id": "unimet-tam-வாய்",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-வாய்-n05301908::unimet-tam-வாய்-n10335679": {
+          "source": "unimet-tam-வாய்-n05301908",
+          "target": "unimet-tam-வாய்-n10335679",
+          "type": "metonymy"
+        },
+        "unimet-tam-வாய்-n05302499::unimet-tam-வாய்-n10335679": {
+          "source": "unimet-tam-வாய்-n05302499",
+          "target": "unimet-tam-வாய்-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "விருந்து",
+      "all_senses": [
+        {
+          "id": "unimet-tam-விருந்து-n07578093",
+          "lemma": "விருந்து",
+          "word_id": "unimet-tam-விருந்து",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-tam-விருந்து-n08253640",
+          "lemma": "விருந்து",
+          "word_id": "unimet-tam-விருந்து",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-விருந்து-n07578093",
+          "lemma": "விருந்து",
+          "word_id": "unimet-tam-விருந்து",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-விருந்து-n08253640",
+          "lemma": "விருந்து",
+          "word_id": "unimet-tam-விருந்து",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-விருந்து-n07578093::unimet-tam-விருந்து-n08253640": {
+          "source": "unimet-tam-விருந்து-n07578093",
+          "target": "unimet-tam-விருந்து-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "வெங்காயம்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-வெங்காயம்-n07722217",
+          "lemma": "வெங்காயம்",
+          "word_id": "unimet-tam-வெங்காயம்",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-tam-வெங்காயம்-n12432808",
+          "lemma": "வெங்காயம்",
+          "word_id": "unimet-tam-வெங்காயம்",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-வெங்காயம்-n12432808",
+          "lemma": "வெங்காயம்",
+          "word_id": "unimet-tam-வெங்காயம்",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-வெங்காயம்-n07722217",
+          "lemma": "வெங்காயம்",
+          "word_id": "unimet-tam-வெங்காயம்",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-வெங்காயம்-n12432808::unimet-tam-வெங்காயம்-n07722217": {
+          "source": "unimet-tam-வெங்காயம்-n12432808",
+          "target": "unimet-tam-வெங்காயம்-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "வெண்டக்காய்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-வெண்டக்காய்-n12171966",
+          "lemma": "வெண்டக்காய்",
+          "word_id": "unimet-tam-வெண்டக்காய்",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-tam-வெண்டக்காய்-n12172364",
+          "lemma": "வெண்டக்காய்",
+          "word_id": "unimet-tam-வெண்டக்காய்",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-வெண்டக்காய்-n12171966",
+          "lemma": "வெண்டக்காய்",
+          "word_id": "unimet-tam-வெண்டக்காய்",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-வெண்டக்காய்-n12172364",
+          "lemma": "வெண்டக்காய்",
+          "word_id": "unimet-tam-வெண்டக்காய்",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-வெண்டக்காய்-n12171966::unimet-tam-வெண்டக்காய்-n12172364": {
+          "source": "unimet-tam-வெண்டக்காய்-n12171966",
+          "target": "unimet-tam-வெண்டக்காய்-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "வெண்டைக்காய்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-வெண்டைக்காய்-n12171966",
+          "lemma": "வெண்டைக்காய்",
+          "word_id": "unimet-tam-வெண்டைக்காய்",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-tam-வெண்டைக்காய்-n12172364",
+          "lemma": "வெண்டைக்காய்",
+          "word_id": "unimet-tam-வெண்டைக்காய்",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-வெண்டைக்காய்-n12171966",
+          "lemma": "வெண்டைக்காய்",
+          "word_id": "unimet-tam-வெண்டைக்காய்",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-வெண்டைக்காய்-n12172364",
+          "lemma": "வெண்டைக்காய்",
+          "word_id": "unimet-tam-வெண்டைக்காய்",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-வெண்டைக்காய்-n12171966::unimet-tam-வெண்டைக்காய்-n12172364": {
+          "source": "unimet-tam-வெண்டைக்காய்-n12171966",
+          "target": "unimet-tam-வெண்டைக்காய்-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "வெள்ளரிக்காய்",
+      "all_senses": [
+        {
+          "id": "unimet-tam-வெள்ளரிக்காய்-n07718472",
+          "lemma": "வெள்ளரிக்காய்",
+          "word_id": "unimet-tam-வெள்ளரிக்காய்",
+          "synset": {
+            "id": "omw-en-07718472-n",
+            "ili": "i77565",
+            "pos": "n",
+            "lemmas": [
+              "gorge"
+            ],
+            "definition": "cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons"
+          }
+        },
+        {
+          "id": "unimet-tam-வெள்ளரிக்காய்-n12165384",
+          "lemma": "வெள்ளரிக்காய்",
+          "word_id": "unimet-tam-வெள்ளரிக்காய்",
+          "synset": {
+            "id": "omw-en-12165384-n",
+            "ili": "i101074",
+            "pos": "n",
+            "lemmas": [
+              "cucumis sativus"
+            ],
+            "definition": "a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-வெள்ளரிக்காய்-n12165384",
+          "lemma": "வெள்ளரிக்காய்",
+          "word_id": "unimet-tam-வெள்ளரிக்காய்",
+          "synset": {
+            "id": "omw-en-12165384-n",
+            "ili": "i101074",
+            "pos": "n",
+            "lemmas": [
+              "cucumis sativus"
+            ],
+            "definition": "a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-வெள்ளரிக்காய்-n07718472",
+          "lemma": "வெள்ளரிக்காய்",
+          "word_id": "unimet-tam-வெள்ளரிக்காய்",
+          "synset": {
+            "id": "omw-en-07718472-n",
+            "ili": "i77565",
+            "pos": "n",
+            "lemmas": [
+              "gorge"
+            ],
+            "definition": "cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-வெள்ளரிக்காய்-n12165384::unimet-tam-வெள்ளரிக்காய்-n07718472": {
+          "source": "unimet-tam-வெள்ளரிக்காய்-n12165384",
+          "target": "unimet-tam-வெள்ளரிக்காய்-n07718472",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ஸ்ட்ராபெர்ரி",
+      "all_senses": [
+        {
+          "id": "unimet-tam-ஸ்ட்ராபெர்ரி-n07745940",
+          "lemma": "ஸ்ட்ராபெர்ரி",
+          "word_id": "unimet-tam-ஸ்ட்ராபெர்ரி",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-tam-ஸ்ட்ராபெர்ரி-n12630144",
+          "lemma": "ஸ்ட்ராபெர்ரி",
+          "word_id": "unimet-tam-ஸ்ட்ராபெர்ரி",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tam-ஸ்ட்ராபெர்ரி-n07745940",
+          "lemma": "ஸ்ட்ராபெர்ரி",
+          "word_id": "unimet-tam-ஸ்ட்ராபெர்ரி",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tam-ஸ்ட்ராபெர்ரி-n12630144",
+          "lemma": "ஸ்ட்ராபெர்ரி",
+          "word_id": "unimet-tam-ஸ்ட்ராபெர்ரி",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tam-ஸ்ட்ராபெர்ரி-n07745940::unimet-tam-ஸ்ட்ராபெர்ரி-n12630144": {
+          "source": "unimet-tam-ஸ்ட்ராபெர்ரி-n07745940",
+          "target": "unimet-tam-ஸ்ட்ராபெர்ரி-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

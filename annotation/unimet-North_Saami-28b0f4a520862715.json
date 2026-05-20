@@ -1,0 +1,125 @@
+{
+  "id": "28b0f4a520862715",
+  "name": "unimet-North Saami",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "sme",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "vuonccis",
+      "all_senses": [
+        {
+          "id": "unimet-sme-vuonccis-n01791625",
+          "lemma": "vuonccis",
+          "word_id": "unimet-sme-vuonccis",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-sme-vuonccis-n01792158",
+          "lemma": "vuonccis",
+          "word_id": "unimet-sme-vuonccis",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-sme-vuonccis-n07644967",
+          "lemma": "vuonccis",
+          "word_id": "unimet-sme-vuonccis",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sme-vuonccis-n01791625",
+          "lemma": "vuonccis",
+          "word_id": "unimet-sme-vuonccis",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-sme-vuonccis-n01792158",
+          "lemma": "vuonccis",
+          "word_id": "unimet-sme-vuonccis",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sme-vuonccis-n07644967",
+          "lemma": "vuonccis",
+          "word_id": "unimet-sme-vuonccis",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sme-vuonccis-n01791625::unimet-sme-vuonccis-n07644967": {
+          "source": "unimet-sme-vuonccis-n01791625",
+          "target": "unimet-sme-vuonccis-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-sme-vuonccis-n01792158::unimet-sme-vuonccis-n07644967": {
+          "source": "unimet-sme-vuonccis-n01792158",
+          "target": "unimet-sme-vuonccis-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,1767 @@
+{
+  "id": "261537c2dca52458",
+  "name": "unimet-Norwegian Nynorsk",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nno",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "bok",
+      "all_senses": [
+        {
+          "id": "unimet-nno-bok-n02870092",
+          "lemma": "bok",
+          "word_id": "unimet-nno-bok",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-nno-bok-n06410904",
+          "lemma": "bok",
+          "word_id": "unimet-nno-bok",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-bok-n02870092",
+          "lemma": "bok",
+          "word_id": "unimet-nno-bok",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-bok-n06410904",
+          "lemma": "bok",
+          "word_id": "unimet-nno-bok",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-bok-n02870092::unimet-nno-bok-n06410904": {
+          "source": "unimet-nno-bok-n02870092",
+          "target": "unimet-nno-bok-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "børste",
+      "all_senses": [
+        {
+          "id": "unimet-nno-børste-n02908217",
+          "lemma": "børste",
+          "word_id": "unimet-nno-børste",
+          "synset": {
+            "id": "omw-en-02908217-n",
+            "ili": "i51192",
+            "pos": "n",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "an implement that has hairs or bristles firmly set into a handle"
+          }
+        },
+        {
+          "id": "unimet-nno-børste-v01243809",
+          "lemma": "børste",
+          "word_id": "unimet-nno-børste",
+          "synset": {
+            "id": "omw-en-01243809-v",
+            "ili": "i27852",
+            "pos": "v",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "rub with a brush, or as if with a brush"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-børste-n02908217",
+          "lemma": "børste",
+          "word_id": "unimet-nno-børste",
+          "synset": {
+            "id": "omw-en-02908217-n",
+            "ili": "i51192",
+            "pos": "n",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "an implement that has hairs or bristles firmly set into a handle"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-børste-v01243809",
+          "lemma": "børste",
+          "word_id": "unimet-nno-børste",
+          "synset": {
+            "id": "omw-en-01243809-v",
+            "ili": "i27852",
+            "pos": "v",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "rub with a brush, or as if with a brush"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-børste-n02908217::unimet-nno-børste-v01243809": {
+          "source": "unimet-nno-børste-n02908217",
+          "target": "unimet-nno-børste-v01243809",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dekke",
+      "all_senses": [
+        {
+          "id": "unimet-nno-dekke-n04014297",
+          "lemma": "dekke",
+          "word_id": "unimet-nno-dekke",
+          "synset": {
+            "id": "omw-en-04014297-n",
+            "ili": "i57729",
+            "pos": "n",
+            "lemmas": [
+              "protective covering"
+            ],
+            "definition": "a covering that is intend to protect from damage or injury"
+          }
+        },
+        {
+          "id": "unimet-nno-dekke-n04151940",
+          "lemma": "dekke",
+          "word_id": "unimet-nno-dekke",
+          "synset": {
+            "id": "omw-en-04151940-n",
+            "ili": "i58555",
+            "pos": "n",
+            "lemmas": [
+              "screen"
+            ],
+            "definition": "a covering that serves to conceal or shelter something"
+          }
+        },
+        {
+          "id": "unimet-nno-dekke-v01332730",
+          "lemma": "dekke",
+          "word_id": "unimet-nno-dekke",
+          "synset": {
+            "id": "omw-en-01332730-v",
+            "ili": "i28352",
+            "pos": "v",
+            "lemmas": [
+              "cover"
+            ],
+            "definition": "provide with a covering or cause to be covered"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-dekke-v01332730",
+          "lemma": "dekke",
+          "word_id": "unimet-nno-dekke",
+          "synset": {
+            "id": "omw-en-01332730-v",
+            "ili": "i28352",
+            "pos": "v",
+            "lemmas": [
+              "cover"
+            ],
+            "definition": "provide with a covering or cause to be covered"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-dekke-n04014297",
+          "lemma": "dekke",
+          "word_id": "unimet-nno-dekke",
+          "synset": {
+            "id": "omw-en-04014297-n",
+            "ili": "i57729",
+            "pos": "n",
+            "lemmas": [
+              "protective covering"
+            ],
+            "definition": "a covering that is intend to protect from damage or injury"
+          }
+        },
+        {
+          "id": "unimet-nno-dekke-n04151940",
+          "lemma": "dekke",
+          "word_id": "unimet-nno-dekke",
+          "synset": {
+            "id": "omw-en-04151940-n",
+            "ili": "i58555",
+            "pos": "n",
+            "lemmas": [
+              "screen"
+            ],
+            "definition": "a covering that serves to conceal or shelter something"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-dekke-v01332730::unimet-nno-dekke-n04014297": {
+          "source": "unimet-nno-dekke-v01332730",
+          "target": "unimet-nno-dekke-n04014297",
+          "type": "metonymy"
+        },
+        "unimet-nno-dekke-v01332730::unimet-nno-dekke-n04151940": {
+          "source": "unimet-nno-dekke-v01332730",
+          "target": "unimet-nno-dekke-n04151940",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "drikke",
+      "all_senses": [
+        {
+          "id": "unimet-nno-drikke-n07881800",
+          "lemma": "drikke",
+          "word_id": "unimet-nno-drikke",
+          "synset": {
+            "id": "omw-en-07881800-n",
+            "ili": "i78658",
+            "pos": "n",
+            "lemmas": [
+              "drink"
+            ],
+            "definition": "any liquid suitable for drinking"
+          }
+        },
+        {
+          "id": "unimet-nno-drikke-v01170052",
+          "lemma": "drikke",
+          "word_id": "unimet-nno-drikke",
+          "synset": {
+            "id": "omw-en-01170052-v",
+            "ili": "i27466",
+            "pos": "v",
+            "lemmas": [
+              "imbibe"
+            ],
+            "definition": "take in liquids"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-drikke-v01170052",
+          "lemma": "drikke",
+          "word_id": "unimet-nno-drikke",
+          "synset": {
+            "id": "omw-en-01170052-v",
+            "ili": "i27466",
+            "pos": "v",
+            "lemmas": [
+              "imbibe"
+            ],
+            "definition": "take in liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-drikke-n07881800",
+          "lemma": "drikke",
+          "word_id": "unimet-nno-drikke",
+          "synset": {
+            "id": "omw-en-07881800-n",
+            "ili": "i78658",
+            "pos": "n",
+            "lemmas": [
+              "drink"
+            ],
+            "definition": "any liquid suitable for drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-drikke-v01170052::unimet-nno-drikke-n07881800": {
+          "source": "unimet-nno-drikke-v01170052",
+          "target": "unimet-nno-drikke-n07881800",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fest",
+      "all_senses": [
+        {
+          "id": "unimet-nno-fest-n07447261",
+          "lemma": "fest",
+          "word_id": "unimet-nno-fest",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nno-fest-n07447641",
+          "lemma": "fest",
+          "word_id": "unimet-nno-fest",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-nno-fest-n08252602",
+          "lemma": "fest",
+          "word_id": "unimet-nno-fest",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-fest-n07447261",
+          "lemma": "fest",
+          "word_id": "unimet-nno-fest",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nno-fest-n07447641",
+          "lemma": "fest",
+          "word_id": "unimet-nno-fest",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-fest-n08252602",
+          "lemma": "fest",
+          "word_id": "unimet-nno-fest",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-fest-n07447261::unimet-nno-fest-n08252602": {
+          "source": "unimet-nno-fest-n07447261",
+          "target": "unimet-nno-fest-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-nno-fest-n07447641::unimet-nno-fest-n08252602": {
+          "source": "unimet-nno-fest-n07447641",
+          "target": "unimet-nno-fest-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "film",
+      "all_senses": [
+        {
+          "id": "unimet-nno-film-n03338821",
+          "lemma": "film",
+          "word_id": "unimet-nno-film",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        },
+        {
+          "id": "unimet-nno-film-n06262567",
+          "lemma": "film",
+          "word_id": "unimet-nno-film",
+          "synset": {
+            "id": "omw-en-06262567-n",
+            "ili": "i69416",
+            "pos": "n",
+            "lemmas": [
+              "cinema"
+            ],
+            "definition": "a medium that disseminates moving pictures"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-film-n03338821",
+          "lemma": "film",
+          "word_id": "unimet-nno-film",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-film-n06262567",
+          "lemma": "film",
+          "word_id": "unimet-nno-film",
+          "synset": {
+            "id": "omw-en-06262567-n",
+            "ili": "i69416",
+            "pos": "n",
+            "lemmas": [
+              "cinema"
+            ],
+            "definition": "a medium that disseminates moving pictures"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-film-n03338821::unimet-nno-film-n06262567": {
+          "source": "unimet-nno-film-n03338821",
+          "target": "unimet-nno-film-n06262567",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fly",
+      "all_senses": [
+        {
+          "id": "unimet-nno-fly-n02691156",
+          "lemma": "fly",
+          "word_id": "unimet-nno-fly",
+          "synset": {
+            "id": "omw-en-02691156-n",
+            "ili": "i49901",
+            "pos": "n",
+            "lemmas": [
+              "aircraft"
+            ],
+            "definition": "an aircraft that has a fixed wing and is powered by propellers or jets"
+          }
+        },
+        {
+          "id": "unimet-nno-fly-v01940403",
+          "lemma": "fly",
+          "word_id": "unimet-nno-fly",
+          "synset": {
+            "id": "omw-en-01940403-v",
+            "ili": "i31423",
+            "pos": "v",
+            "lemmas": [
+              "fly"
+            ],
+            "definition": "travel through the air; be airborne"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-fly-v01940403",
+          "lemma": "fly",
+          "word_id": "unimet-nno-fly",
+          "synset": {
+            "id": "omw-en-01940403-v",
+            "ili": "i31423",
+            "pos": "v",
+            "lemmas": [
+              "fly"
+            ],
+            "definition": "travel through the air; be airborne"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-fly-n02691156",
+          "lemma": "fly",
+          "word_id": "unimet-nno-fly",
+          "synset": {
+            "id": "omw-en-02691156-n",
+            "ili": "i49901",
+            "pos": "n",
+            "lemmas": [
+              "aircraft"
+            ],
+            "definition": "an aircraft that has a fixed wing and is powered by propellers or jets"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-fly-v01940403::unimet-nno-fly-n02691156": {
+          "source": "unimet-nno-fly-v01940403",
+          "target": "unimet-nno-fly-n02691156",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-nno-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-nno-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-nno-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-nno-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-nno-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-nno-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-glas-n14881303::unimet-nno-glas-n03438257": {
+          "source": "unimet-nno-glas-n14881303",
+          "target": "unimet-nno-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hjerne",
+      "all_senses": [
+        {
+          "id": "unimet-nno-hjerne-n05481095",
+          "lemma": "hjerne",
+          "word_id": "unimet-nno-hjerne",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        },
+        {
+          "id": "unimet-nno-hjerne-n10126926",
+          "lemma": "hjerne",
+          "word_id": "unimet-nno-hjerne",
+          "synset": {
+            "id": "omw-en-10126926-n",
+            "ili": "i90187",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "someone who has exceptional intellectual ability and originality"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-hjerne-n05481095",
+          "lemma": "hjerne",
+          "word_id": "unimet-nno-hjerne",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-hjerne-n10126926",
+          "lemma": "hjerne",
+          "word_id": "unimet-nno-hjerne",
+          "synset": {
+            "id": "omw-en-10126926-n",
+            "ili": "i90187",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "someone who has exceptional intellectual ability and originality"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-hjerne-n05481095::unimet-nno-hjerne-n10126926": {
+          "source": "unimet-nno-hjerne-n05481095",
+          "target": "unimet-nno-hjerne-n10126926",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hovud",
+      "all_senses": [
+        {
+          "id": "unimet-nno-hovud-n05538625",
+          "lemma": "hovud",
+          "word_id": "unimet-nno-hovud",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-nno-hovud-n10289039",
+          "lemma": "hovud",
+          "word_id": "unimet-nno-hovud",
+          "synset": {
+            "id": "omw-en-10289039-n",
+            "ili": "i91186",
+            "pos": "n",
+            "lemmas": [
+              "man"
+            ],
+            "definition": "the generic use of the word to refer to any human being"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-hovud-n05538625",
+          "lemma": "hovud",
+          "word_id": "unimet-nno-hovud",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-hovud-n10289039",
+          "lemma": "hovud",
+          "word_id": "unimet-nno-hovud",
+          "synset": {
+            "id": "omw-en-10289039-n",
+            "ili": "i91186",
+            "pos": "n",
+            "lemmas": [
+              "man"
+            ],
+            "definition": "the generic use of the word to refer to any human being"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-hovud-n05538625::unimet-nno-hovud-n10289039": {
+          "source": "unimet-nno-hovud-n05538625",
+          "target": "unimet-nno-hovud-n10289039",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hus",
+      "all_senses": [
+        {
+          "id": "unimet-nno-hus-n08078020",
+          "lemma": "hus",
+          "word_id": "unimet-nno-hus",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-nno-hus-n08558963",
+          "lemma": "hus",
+          "word_id": "unimet-nno-hus",
+          "synset": {
+            "id": "omw-en-08558963-n",
+            "ili": "i81962",
+            "pos": "n",
+            "lemmas": [
+              "abode"
+            ],
+            "definition": "any address at which you dwell more than temporarily"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-hus-n08078020",
+          "lemma": "hus",
+          "word_id": "unimet-nno-hus",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-hus-n08558963",
+          "lemma": "hus",
+          "word_id": "unimet-nno-hus",
+          "synset": {
+            "id": "omw-en-08558963-n",
+            "ili": "i81962",
+            "pos": "n",
+            "lemmas": [
+              "abode"
+            ],
+            "definition": "any address at which you dwell more than temporarily"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-hus-n08078020::unimet-nno-hus-n08558963": {
+          "source": "unimet-nno-hus-n08078020",
+          "target": "unimet-nno-hus-n08558963",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "krystall",
+      "all_senses": [
+        {
+          "id": "unimet-nno-krystall-n03142834",
+          "lemma": "krystall",
+          "word_id": "unimet-nno-krystall",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-nno-krystall-n14879750",
+          "lemma": "krystall",
+          "word_id": "unimet-nno-krystall",
+          "synset": {
+            "id": "omw-en-14879750-n",
+            "ili": "i115263",
+            "pos": "n",
+            "lemmas": [
+              "quartz"
+            ],
+            "definition": "colorless glass made of almost pure silica"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-krystall-n14879750",
+          "lemma": "krystall",
+          "word_id": "unimet-nno-krystall",
+          "synset": {
+            "id": "omw-en-14879750-n",
+            "ili": "i115263",
+            "pos": "n",
+            "lemmas": [
+              "quartz"
+            ],
+            "definition": "colorless glass made of almost pure silica"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-krystall-n03142834",
+          "lemma": "krystall",
+          "word_id": "unimet-nno-krystall",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-krystall-n14879750::unimet-nno-krystall-n03142834": {
+          "source": "unimet-nno-krystall-n14879750",
+          "target": "unimet-nno-krystall-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pumpe",
+      "all_senses": [
+        {
+          "id": "unimet-nno-pumpe-n04021798",
+          "lemma": "pumpe",
+          "word_id": "unimet-nno-pumpe",
+          "synset": {
+            "id": "omw-en-04021798-n",
+            "ili": "i57766",
+            "pos": "n",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "a mechanical device that moves fluid or gas by pressure or suction"
+          }
+        },
+        {
+          "id": "unimet-nno-pumpe-v01853069",
+          "lemma": "pumpe",
+          "word_id": "unimet-nno-pumpe",
+          "synset": {
+            "id": "omw-en-01853069-v",
+            "ili": "i30965",
+            "pos": "v",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "raise (gases or fluids) with a pump"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-pumpe-n04021798",
+          "lemma": "pumpe",
+          "word_id": "unimet-nno-pumpe",
+          "synset": {
+            "id": "omw-en-04021798-n",
+            "ili": "i57766",
+            "pos": "n",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "a mechanical device that moves fluid or gas by pressure or suction"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-pumpe-v01853069",
+          "lemma": "pumpe",
+          "word_id": "unimet-nno-pumpe",
+          "synset": {
+            "id": "omw-en-01853069-v",
+            "ili": "i30965",
+            "pos": "v",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "raise (gases or fluids) with a pump"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-pumpe-n04021798::unimet-nno-pumpe-v01853069": {
+          "source": "unimet-nno-pumpe-n04021798",
+          "target": "unimet-nno-pumpe-v01853069",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "selskap",
+      "all_senses": [
+        {
+          "id": "unimet-nno-selskap-n07447261",
+          "lemma": "selskap",
+          "word_id": "unimet-nno-selskap",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nno-selskap-n07447641",
+          "lemma": "selskap",
+          "word_id": "unimet-nno-selskap",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-nno-selskap-n08252602",
+          "lemma": "selskap",
+          "word_id": "unimet-nno-selskap",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-selskap-n07447261",
+          "lemma": "selskap",
+          "word_id": "unimet-nno-selskap",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nno-selskap-n07447641",
+          "lemma": "selskap",
+          "word_id": "unimet-nno-selskap",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-selskap-n08252602",
+          "lemma": "selskap",
+          "word_id": "unimet-nno-selskap",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-selskap-n07447261::unimet-nno-selskap-n08252602": {
+          "source": "unimet-nno-selskap-n07447261",
+          "target": "unimet-nno-selskap-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-nno-selskap-n07447641::unimet-nno-selskap-n08252602": {
+          "source": "unimet-nno-selskap-n07447641",
+          "target": "unimet-nno-selskap-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skade",
+      "all_senses": [
+        {
+          "id": "unimet-nno-skade-n14285662",
+          "lemma": "skade",
+          "word_id": "unimet-nno-skade",
+          "synset": {
+            "id": "omw-en-14285662-n",
+            "ili": "i112025",
+            "pos": "n",
+            "lemmas": [
+              "injury"
+            ],
+            "definition": "any physical damage to the body caused by violence or accident or fracture etc."
+          }
+        },
+        {
+          "id": "unimet-nno-skade-v00069879",
+          "lemma": "skade",
+          "word_id": "unimet-nno-skade",
+          "synset": {
+            "id": "omw-en-00069879-v",
+            "ili": "i22125",
+            "pos": "v",
+            "lemmas": [
+              "injure"
+            ],
+            "definition": "cause injuries or bodily harm to"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-skade-v00069879",
+          "lemma": "skade",
+          "word_id": "unimet-nno-skade",
+          "synset": {
+            "id": "omw-en-00069879-v",
+            "ili": "i22125",
+            "pos": "v",
+            "lemmas": [
+              "injure"
+            ],
+            "definition": "cause injuries or bodily harm to"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-skade-n14285662",
+          "lemma": "skade",
+          "word_id": "unimet-nno-skade",
+          "synset": {
+            "id": "omw-en-14285662-n",
+            "ili": "i112025",
+            "pos": "n",
+            "lemmas": [
+              "injury"
+            ],
+            "definition": "any physical damage to the body caused by violence or accident or fracture etc."
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-skade-v00069879::unimet-nno-skade-n14285662": {
+          "source": "unimet-nno-skade-v00069879",
+          "target": "unimet-nno-skade-n14285662",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stat",
+      "all_senses": [
+        {
+          "id": "unimet-nno-stat-n08168978",
+          "lemma": "stat",
+          "word_id": "unimet-nno-stat",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-nno-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-nno-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-nno-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-nno-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-stat-n08168978",
+          "lemma": "stat",
+          "word_id": "unimet-nno-stat",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-nno-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-nno-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-nno-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-stat-n08168978::unimet-nno-stat-n08654360": {
+          "source": "unimet-nno-stat-n08168978",
+          "target": "unimet-nno-stat-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-nno-stat-n08178547::unimet-nno-stat-n08654360": {
+          "source": "unimet-nno-stat-n08178547",
+          "target": "unimet-nno-stat-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "støtte",
+      "all_senses": [
+        {
+          "id": "unimet-nno-støtte-n04081044",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-04081044-n",
+            "ili": "i58114",
+            "pos": "n",
+            "lemmas": [
+              "rest"
+            ],
+            "definition": "a support on which things can be put"
+          }
+        },
+        {
+          "id": "unimet-nno-støtte-n04359589",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-04359589-n",
+            "ili": "i59816",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "any device that bears the weight of another thing"
+          }
+        },
+        {
+          "id": "unimet-nno-støtte-n04360501",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-04360501-n",
+            "ili": "i59817",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "supporting structure that holds up or provides a foundation"
+          }
+        },
+        {
+          "id": "unimet-nno-støtte-v01217043",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-01217043-v",
+            "ili": "i27707",
+            "pos": "v",
+            "lemmas": [
+              "hold up"
+            ],
+            "definition": "be the physical support of; carry the weight of"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-støtte-v01217043",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-01217043-v",
+            "ili": "i27707",
+            "pos": "v",
+            "lemmas": [
+              "hold up"
+            ],
+            "definition": "be the physical support of; carry the weight of"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-støtte-n04081044",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-04081044-n",
+            "ili": "i58114",
+            "pos": "n",
+            "lemmas": [
+              "rest"
+            ],
+            "definition": "a support on which things can be put"
+          }
+        },
+        {
+          "id": "unimet-nno-støtte-n04359589",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-04359589-n",
+            "ili": "i59816",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "any device that bears the weight of another thing"
+          }
+        },
+        {
+          "id": "unimet-nno-støtte-n04360501",
+          "lemma": "støtte",
+          "word_id": "unimet-nno-støtte",
+          "synset": {
+            "id": "omw-en-04360501-n",
+            "ili": "i59817",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "supporting structure that holds up or provides a foundation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-støtte-v01217043::unimet-nno-støtte-n04081044": {
+          "source": "unimet-nno-støtte-v01217043",
+          "target": "unimet-nno-støtte-n04081044",
+          "type": "metonymy"
+        },
+        "unimet-nno-støtte-v01217043::unimet-nno-støtte-n04359589": {
+          "source": "unimet-nno-støtte-v01217043",
+          "target": "unimet-nno-støtte-n04359589",
+          "type": "metonymy"
+        },
+        "unimet-nno-støtte-v01217043::unimet-nno-støtte-n04360501": {
+          "source": "unimet-nno-støtte-v01217043",
+          "target": "unimet-nno-støtte-n04360501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tamtam",
+      "all_senses": [
+        {
+          "id": "unimet-nno-tamtam-n07447261",
+          "lemma": "tamtam",
+          "word_id": "unimet-nno-tamtam",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nno-tamtam-n07447641",
+          "lemma": "tamtam",
+          "word_id": "unimet-nno-tamtam",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-nno-tamtam-n08252602",
+          "lemma": "tamtam",
+          "word_id": "unimet-nno-tamtam",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-tamtam-n07447261",
+          "lemma": "tamtam",
+          "word_id": "unimet-nno-tamtam",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-nno-tamtam-n07447641",
+          "lemma": "tamtam",
+          "word_id": "unimet-nno-tamtam",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-tamtam-n08252602",
+          "lemma": "tamtam",
+          "word_id": "unimet-nno-tamtam",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-tamtam-n07447261::unimet-nno-tamtam-n08252602": {
+          "source": "unimet-nno-tamtam-n07447261",
+          "target": "unimet-nno-tamtam-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-nno-tamtam-n07447641::unimet-nno-tamtam-n08252602": {
+          "source": "unimet-nno-tamtam-n07447641",
+          "target": "unimet-nno-tamtam-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tenkar",
+      "all_senses": [
+        {
+          "id": "unimet-nno-tenkar-n05481095",
+          "lemma": "tenkar",
+          "word_id": "unimet-nno-tenkar",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        },
+        {
+          "id": "unimet-nno-tenkar-n10708292",
+          "lemma": "tenkar",
+          "word_id": "unimet-nno-tenkar",
+          "synset": {
+            "id": "omw-en-10708292-n",
+            "ili": "i93631",
+            "pos": "n",
+            "lemmas": [
+              "creative thinker"
+            ],
+            "definition": "an important intellectual"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-tenkar-n05481095",
+          "lemma": "tenkar",
+          "word_id": "unimet-nno-tenkar",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-tenkar-n10708292",
+          "lemma": "tenkar",
+          "word_id": "unimet-nno-tenkar",
+          "synset": {
+            "id": "omw-en-10708292-n",
+            "ili": "i93631",
+            "pos": "n",
+            "lemmas": [
+              "creative thinker"
+            ],
+            "definition": "an important intellectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-tenkar-n05481095::unimet-nno-tenkar-n10708292": {
+          "source": "unimet-nno-tenkar-n05481095",
+          "target": "unimet-nno-tenkar-n10708292",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vifte",
+      "all_senses": [
+        {
+          "id": "unimet-nno-vifte-n04526964",
+          "lemma": "vifte",
+          "word_id": "unimet-nno-vifte",
+          "synset": {
+            "id": "omw-en-04526964-n",
+            "ili": "i60812",
+            "pos": "n",
+            "lemmas": [
+              "ventilator"
+            ],
+            "definition": "a device (such as a fan) that introduces fresh air or expels foul air"
+          }
+        },
+        {
+          "id": "unimet-nno-vifte-v01885580",
+          "lemma": "vifte",
+          "word_id": "unimet-nno-vifte",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nno-vifte-n04526964",
+          "lemma": "vifte",
+          "word_id": "unimet-nno-vifte",
+          "synset": {
+            "id": "omw-en-04526964-n",
+            "ili": "i60812",
+            "pos": "n",
+            "lemmas": [
+              "ventilator"
+            ],
+            "definition": "a device (such as a fan) that introduces fresh air or expels foul air"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nno-vifte-v01885580",
+          "lemma": "vifte",
+          "word_id": "unimet-nno-vifte",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nno-vifte-n04526964::unimet-nno-vifte-v01885580": {
+          "source": "unimet-nno-vifte-n04526964",
+          "target": "unimet-nno-vifte-v01885580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

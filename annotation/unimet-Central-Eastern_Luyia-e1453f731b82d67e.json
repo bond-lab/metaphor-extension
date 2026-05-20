@@ -1,0 +1,92 @@
+{
+  "id": "e1453f731b82d67e",
+  "name": "unimet-Central-Eastern Luyia",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "luy",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "chinyenyi",
+      "all_senses": [
+        {
+          "id": "unimet-luy-chinyenyi-n07707451",
+          "lemma": "chinyenyi",
+          "word_id": "unimet-luy-chinyenyi",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-luy-chinyenyi-n12212361",
+          "lemma": "chinyenyi",
+          "word_id": "unimet-luy-chinyenyi",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-luy-chinyenyi-n12212361",
+          "lemma": "chinyenyi",
+          "word_id": "unimet-luy-chinyenyi",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-luy-chinyenyi-n07707451",
+          "lemma": "chinyenyi",
+          "word_id": "unimet-luy-chinyenyi",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-luy-chinyenyi-n12212361::unimet-luy-chinyenyi-n07707451": {
+          "source": "unimet-luy-chinyenyi-n12212361",
+          "target": "unimet-luy-chinyenyi-n07707451",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

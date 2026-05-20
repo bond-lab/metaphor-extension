@@ -1,0 +1,92 @@
+{
+  "id": "aab77ec61aacaed9",
+  "name": "unimet-Marathi",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mar",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "लिंबू",
+      "all_senses": [
+        {
+          "id": "unimet-mar-लिंबू-n07749582",
+          "lemma": "लिंबू",
+          "word_id": "unimet-mar-लिंबू",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-mar-लिंबू-n12711596",
+          "lemma": "लिंबू",
+          "word_id": "unimet-mar-लिंबू",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mar-लिंबू-n07749582",
+          "lemma": "लिंबू",
+          "word_id": "unimet-mar-लिंबू",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mar-लिंबू-n12711596",
+          "lemma": "लिंबू",
+          "word_id": "unimet-mar-लिंबू",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mar-लिंबू-n07749582::unimet-mar-लिंबू-n12711596": {
+          "source": "unimet-mar-लिंबू-n07749582",
+          "target": "unimet-mar-लिंबू-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

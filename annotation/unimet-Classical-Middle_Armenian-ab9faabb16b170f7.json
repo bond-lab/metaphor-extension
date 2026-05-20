@@ -1,0 +1,92 @@
+{
+  "id": "ab9faabb16b170f7",
+  "name": "unimet-Classical-Middle Armenian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "xcl",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ոսպն",
+      "all_senses": [
+        {
+          "id": "unimet-xcl-ոսպն-n07725255",
+          "lemma": "ոսպն",
+          "word_id": "unimet-xcl-ոսպն",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-xcl-ոսպն-n12544240",
+          "lemma": "ոսպն",
+          "word_id": "unimet-xcl-ոսպն",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-xcl-ոսպն-n12544240",
+          "lemma": "ոսպն",
+          "word_id": "unimet-xcl-ոսպն",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-xcl-ոսպն-n07725255",
+          "lemma": "ոսպն",
+          "word_id": "unimet-xcl-ոսպն",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-xcl-ոսպն-n12544240::unimet-xcl-ոսպն-n07725255": {
+          "source": "unimet-xcl-ոսպն-n12544240",
+          "target": "unimet-xcl-ոսպն-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

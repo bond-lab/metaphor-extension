@@ -1,0 +1,700 @@
+{
+  "id": "c617a97d883f823c",
+  "name": "unimet-Afrikaans",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "afr",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-afr-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-afr-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-afr-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-afr-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-afr-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-afr-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-glas-n14881303::unimet-afr-glas-n03438257": {
+          "source": "unimet-afr-glas-n14881303",
+          "target": "unimet-afr-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "haan",
+      "all_senses": [
+        {
+          "id": "unimet-afr-haan-n01792158",
+          "lemma": "haan",
+          "word_id": "unimet-afr-haan",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-afr-haan-n07644967",
+          "lemma": "haan",
+          "word_id": "unimet-afr-haan",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-haan-n01792158",
+          "lemma": "haan",
+          "word_id": "unimet-afr-haan",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-haan-n07644967",
+          "lemma": "haan",
+          "word_id": "unimet-afr-haan",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-haan-n01792158::unimet-afr-haan-n07644967": {
+          "source": "unimet-afr-haan-n01792158",
+          "target": "unimet-afr-haan-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kweeper",
+      "all_senses": [
+        {
+          "id": "unimet-afr-kweeper-n07769584",
+          "lemma": "kweeper",
+          "word_id": "unimet-afr-kweeper",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-afr-kweeper-n12628986",
+          "lemma": "kweeper",
+          "word_id": "unimet-afr-kweeper",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-kweeper-n07769584",
+          "lemma": "kweeper",
+          "word_id": "unimet-afr-kweeper",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-kweeper-n12628986",
+          "lemma": "kweeper",
+          "word_id": "unimet-afr-kweeper",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-kweeper-n07769584::unimet-afr-kweeper-n12628986": {
+          "source": "unimet-afr-kweeper-n07769584",
+          "target": "unimet-afr-kweeper-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-afr-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-afr-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-afr-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-afr-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-afr-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-afr-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-land-n08168978::unimet-afr-land-n08544813": {
+          "source": "unimet-afr-land-n08168978",
+          "target": "unimet-afr-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "melk",
+      "all_senses": [
+        {
+          "id": "unimet-afr-melk-n07844042",
+          "lemma": "melk",
+          "word_id": "unimet-afr-melk",
+          "synset": {
+            "id": "omw-en-07844042-n",
+            "ili": "i78383",
+            "pos": "n",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "a white nutritious liquid secreted by mammals and used as food by human beings"
+          }
+        },
+        {
+          "id": "unimet-afr-melk-v00194170",
+          "lemma": "melk",
+          "word_id": "unimet-afr-melk",
+          "synset": {
+            "id": "omw-en-00194170-v",
+            "ili": "i22689",
+            "pos": "v",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "take milk from female mammals"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-melk-n07844042",
+          "lemma": "melk",
+          "word_id": "unimet-afr-melk",
+          "synset": {
+            "id": "omw-en-07844042-n",
+            "ili": "i78383",
+            "pos": "n",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "a white nutritious liquid secreted by mammals and used as food by human beings"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-melk-v00194170",
+          "lemma": "melk",
+          "word_id": "unimet-afr-melk",
+          "synset": {
+            "id": "omw-en-00194170-v",
+            "ili": "i22689",
+            "pos": "v",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "take milk from female mammals"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-melk-n07844042::unimet-afr-melk-v00194170": {
+          "source": "unimet-afr-melk-n07844042",
+          "target": "unimet-afr-melk-v00194170",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pruim",
+      "all_senses": [
+        {
+          "id": "unimet-afr-pruim-n07751451",
+          "lemma": "pruim",
+          "word_id": "unimet-afr-pruim",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-afr-pruim-n12638218",
+          "lemma": "pruim",
+          "word_id": "unimet-afr-pruim",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-pruim-n07751451",
+          "lemma": "pruim",
+          "word_id": "unimet-afr-pruim",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-pruim-n12638218",
+          "lemma": "pruim",
+          "word_id": "unimet-afr-pruim",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-pruim-n07751451::unimet-afr-pruim-n12638218": {
+          "source": "unimet-afr-pruim-n07751451",
+          "target": "unimet-afr-pruim-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skool",
+      "all_senses": [
+        {
+          "id": "unimet-afr-skool-n04146050",
+          "lemma": "skool",
+          "word_id": "unimet-afr-skool",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-afr-skool-n08276720",
+          "lemma": "skool",
+          "word_id": "unimet-afr-skool",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-skool-n04146050",
+          "lemma": "skool",
+          "word_id": "unimet-afr-skool",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-skool-n08276720",
+          "lemma": "skool",
+          "word_id": "unimet-afr-skool",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-skool-n04146050::unimet-afr-skool-n08276720": {
+          "source": "unimet-afr-skool-n04146050",
+          "target": "unimet-afr-skool-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "slaap",
+      "all_senses": [
+        {
+          "id": "unimet-afr-slaap-n14024882",
+          "lemma": "slaap",
+          "word_id": "unimet-afr-slaap",
+          "synset": {
+            "id": "omw-en-14024882-n",
+            "ili": "i110638",
+            "pos": "n",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "a natural and periodic state of rest during which consciousness of the world is suspended"
+          }
+        },
+        {
+          "id": "unimet-afr-slaap-v00014742",
+          "lemma": "slaap",
+          "word_id": "unimet-afr-slaap",
+          "synset": {
+            "id": "omw-en-00014742-v",
+            "ili": "i21840",
+            "pos": "v",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "be asleep"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-slaap-v00014742",
+          "lemma": "slaap",
+          "word_id": "unimet-afr-slaap",
+          "synset": {
+            "id": "omw-en-00014742-v",
+            "ili": "i21840",
+            "pos": "v",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "be asleep"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-slaap-n14024882",
+          "lemma": "slaap",
+          "word_id": "unimet-afr-slaap",
+          "synset": {
+            "id": "omw-en-14024882-n",
+            "ili": "i110638",
+            "pos": "n",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "a natural and periodic state of rest during which consciousness of the world is suspended"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-slaap-v00014742::unimet-afr-slaap-n14024882": {
+          "source": "unimet-afr-slaap-v00014742",
+          "target": "unimet-afr-slaap-n14024882",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "waatlemoen",
+      "all_senses": [
+        {
+          "id": "unimet-afr-waatlemoen-n07756951",
+          "lemma": "waatlemoen",
+          "word_id": "unimet-afr-waatlemoen",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-afr-waatlemoen-n12164065",
+          "lemma": "waatlemoen",
+          "word_id": "unimet-afr-waatlemoen",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-afr-waatlemoen-n07756951",
+          "lemma": "waatlemoen",
+          "word_id": "unimet-afr-waatlemoen",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-afr-waatlemoen-n12164065",
+          "lemma": "waatlemoen",
+          "word_id": "unimet-afr-waatlemoen",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-afr-waatlemoen-n07756951::unimet-afr-waatlemoen-n12164065": {
+          "source": "unimet-afr-waatlemoen-n07756951",
+          "target": "unimet-afr-waatlemoen-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

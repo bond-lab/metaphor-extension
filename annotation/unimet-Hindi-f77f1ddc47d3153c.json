@@ -1,0 +1,885 @@
+{
+  "id": "f77f1ddc47d3153c",
+  "name": "unimet-Hindi",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "hin",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "अनानास",
+      "all_senses": [
+        {
+          "id": "unimet-hin-अनानास-n07753275",
+          "lemma": "अनानास",
+          "word_id": "unimet-hin-अनानास",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-hin-अनानास-n12607456",
+          "lemma": "अनानास",
+          "word_id": "unimet-hin-अनानास",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-अनानास-n07753275",
+          "lemma": "अनानास",
+          "word_id": "unimet-hin-अनानास",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-अनानास-n12607456",
+          "lemma": "अनानास",
+          "word_id": "unimet-hin-अनानास",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-अनानास-n07753275::unimet-hin-अनानास-n12607456": {
+          "source": "unimet-hin-अनानास-n07753275",
+          "target": "unimet-hin-अनानास-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "खाना",
+      "all_senses": [
+        {
+          "id": "unimet-hin-खाना-n00021734",
+          "lemma": "खाना",
+          "word_id": "unimet-hin-खाना",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        },
+        {
+          "id": "unimet-hin-खाना-n07573696",
+          "lemma": "खाना",
+          "word_id": "unimet-hin-खाना",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        },
+        {
+          "id": "unimet-hin-खाना-v01168468",
+          "lemma": "खाना",
+          "word_id": "unimet-hin-खाना",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-खाना-v01168468",
+          "lemma": "खाना",
+          "word_id": "unimet-hin-खाना",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        },
+        {
+          "id": "unimet-hin-खाना-n07573696",
+          "lemma": "खाना",
+          "word_id": "unimet-hin-खाना",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-खाना-n00021734",
+          "lemma": "खाना",
+          "word_id": "unimet-hin-खाना",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-खाना-v01168468::unimet-hin-खाना-n00021734": {
+          "source": "unimet-hin-खाना-v01168468",
+          "target": "unimet-hin-खाना-n00021734",
+          "type": "metonymy"
+        },
+        "unimet-hin-खाना-n07573696::unimet-hin-खाना-v01168468": {
+          "source": "unimet-hin-खाना-n07573696",
+          "target": "unimet-hin-खाना-v01168468",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "घड़ियाल",
+      "all_senses": [
+        {
+          "id": "unimet-hin-घड़ियाल-n01697178",
+          "lemma": "घड़ियाल",
+          "word_id": "unimet-hin-घड़ियाल",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        },
+        {
+          "id": "unimet-hin-घड़ियाल-n14760447",
+          "lemma": "घड़ियाल",
+          "word_id": "unimet-hin-घड़ियाल",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-घड़ियाल-n01697178",
+          "lemma": "घड़ियाल",
+          "word_id": "unimet-hin-घड़ियाल",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-घड़ियाल-n14760447",
+          "lemma": "घड़ियाल",
+          "word_id": "unimet-hin-घड़ियाल",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-घड़ियाल-n01697178::unimet-hin-घड़ियाल-n14760447": {
+          "source": "unimet-hin-घड़ियाल-n01697178",
+          "target": "unimet-hin-घड़ियाल-n14760447",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "देश",
+      "all_senses": [
+        {
+          "id": "unimet-hin-देश-n08168978",
+          "lemma": "देश",
+          "word_id": "unimet-hin-देश",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-hin-देश-n08544813",
+          "lemma": "देश",
+          "word_id": "unimet-hin-देश",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-देश-n08168978",
+          "lemma": "देश",
+          "word_id": "unimet-hin-देश",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-देश-n08544813",
+          "lemma": "देश",
+          "word_id": "unimet-hin-देश",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-देश-n08168978::unimet-hin-देश-n08544813": {
+          "source": "unimet-hin-देश-n08168978",
+          "target": "unimet-hin-देश-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "पत्थर",
+      "all_senses": [
+        {
+          "id": "unimet-hin-पत्थर-n03596787",
+          "lemma": "पत्थर",
+          "word_id": "unimet-hin-पत्थर",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-hin-पत्थर-n14699752",
+          "lemma": "पत्थर",
+          "word_id": "unimet-hin-पत्थर",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-पत्थर-n14699752",
+          "lemma": "पत्थर",
+          "word_id": "unimet-hin-पत्थर",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-पत्थर-n03596787",
+          "lemma": "पत्थर",
+          "word_id": "unimet-hin-पत्थर",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-पत्थर-n14699752::unimet-hin-पत्थर-n03596787": {
+          "source": "unimet-hin-पत्थर-n14699752",
+          "target": "unimet-hin-पत्थर-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मगर",
+      "all_senses": [
+        {
+          "id": "unimet-hin-मगर-n01697178",
+          "lemma": "मगर",
+          "word_id": "unimet-hin-मगर",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        },
+        {
+          "id": "unimet-hin-मगर-n14760447",
+          "lemma": "मगर",
+          "word_id": "unimet-hin-मगर",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-मगर-n01697178",
+          "lemma": "मगर",
+          "word_id": "unimet-hin-मगर",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-मगर-n14760447",
+          "lemma": "मगर",
+          "word_id": "unimet-hin-मगर",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-मगर-n01697178::unimet-hin-मगर-n14760447": {
+          "source": "unimet-hin-मगर-n01697178",
+          "target": "unimet-hin-मगर-n14760447",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मणि",
+      "all_senses": [
+        {
+          "id": "unimet-hin-मणि-n03596787",
+          "lemma": "मणि",
+          "word_id": "unimet-hin-मणि",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-hin-मणि-n14699752",
+          "lemma": "मणि",
+          "word_id": "unimet-hin-मणि",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-मणि-n14699752",
+          "lemma": "मणि",
+          "word_id": "unimet-hin-मणि",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-मणि-n03596787",
+          "lemma": "मणि",
+          "word_id": "unimet-hin-मणि",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-मणि-n14699752::unimet-hin-मणि-n03596787": {
+          "source": "unimet-hin-मणि-n14699752",
+          "target": "unimet-hin-मणि-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मुर्गा",
+      "all_senses": [
+        {
+          "id": "unimet-hin-मुर्गा-n01792158",
+          "lemma": "मुर्गा",
+          "word_id": "unimet-hin-मुर्गा",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-hin-मुर्गा-n07644967",
+          "lemma": "मुर्गा",
+          "word_id": "unimet-hin-मुर्गा",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-मुर्गा-n01792158",
+          "lemma": "मुर्गा",
+          "word_id": "unimet-hin-मुर्गा",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-मुर्गा-n07644967",
+          "lemma": "मुर्गा",
+          "word_id": "unimet-hin-मुर्गा",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-मुर्गा-n01792158::unimet-hin-मुर्गा-n07644967": {
+          "source": "unimet-hin-मुर्गा-n01792158",
+          "target": "unimet-hin-मुर्गा-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "रत्न",
+      "all_senses": [
+        {
+          "id": "unimet-hin-रत्न-n03596787",
+          "lemma": "रत्न",
+          "word_id": "unimet-hin-रत्न",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-hin-रत्न-n14699752",
+          "lemma": "रत्न",
+          "word_id": "unimet-hin-रत्न",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-रत्न-n14699752",
+          "lemma": "रत्न",
+          "word_id": "unimet-hin-रत्न",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-रत्न-n03596787",
+          "lemma": "रत्न",
+          "word_id": "unimet-hin-रत्न",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-रत्न-n14699752::unimet-hin-रत्न-n03596787": {
+          "source": "unimet-hin-रत्न-n14699752",
+          "target": "unimet-hin-रत्न-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "राष्ट्र",
+      "all_senses": [
+        {
+          "id": "unimet-hin-राष्ट्र-n08168978",
+          "lemma": "राष्ट्र",
+          "word_id": "unimet-hin-राष्ट्र",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-hin-राष्ट्र-n08654360",
+          "lemma": "राष्ट्र",
+          "word_id": "unimet-hin-राष्ट्र",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-राष्ट्र-n08168978",
+          "lemma": "राष्ट्र",
+          "word_id": "unimet-hin-राष्ट्र",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-राष्ट्र-n08654360",
+          "lemma": "राष्ट्र",
+          "word_id": "unimet-hin-राष्ट्र",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-राष्ट्र-n08168978::unimet-hin-राष्ट्र-n08654360": {
+          "source": "unimet-hin-राष्ट्र-n08168978",
+          "target": "unimet-hin-राष्ट्र-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "शीशा",
+      "all_senses": [
+        {
+          "id": "unimet-hin-शीशा-n03773035",
+          "lemma": "शीशा",
+          "word_id": "unimet-hin-शीशा",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-hin-शीशा-n14881303",
+          "lemma": "शीशा",
+          "word_id": "unimet-hin-शीशा",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hin-शीशा-n14881303",
+          "lemma": "शीशा",
+          "word_id": "unimet-hin-शीशा",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hin-शीशा-n03773035",
+          "lemma": "शीशा",
+          "word_id": "unimet-hin-शीशा",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hin-शीशा-n14881303::unimet-hin-शीशा-n03773035": {
+          "source": "unimet-hin-शीशा-n14881303",
+          "target": "unimet-hin-शीशा-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

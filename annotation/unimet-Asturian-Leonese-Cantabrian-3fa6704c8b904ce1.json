@@ -1,0 +1,168 @@
+{
+  "id": "3fa6704c8b904ce1",
+  "name": "unimet-Asturian-Leonese-Cantabrian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ast",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "fresa",
+      "all_senses": [
+        {
+          "id": "unimet-ast-fresa-n07745940",
+          "lemma": "fresa",
+          "word_id": "unimet-ast-fresa",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-ast-fresa-n12630144",
+          "lemma": "fresa",
+          "word_id": "unimet-ast-fresa",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ast-fresa-n07745940",
+          "lemma": "fresa",
+          "word_id": "unimet-ast-fresa",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ast-fresa-n12630144",
+          "lemma": "fresa",
+          "word_id": "unimet-ast-fresa",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ast-fresa-n07745940::unimet-ast-fresa-n12630144": {
+          "source": "unimet-ast-fresa-n07745940",
+          "target": "unimet-ast-fresa-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sandía",
+      "all_senses": [
+        {
+          "id": "unimet-ast-sandía-n07756951",
+          "lemma": "sandía",
+          "word_id": "unimet-ast-sandía",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-ast-sandía-n12164065",
+          "lemma": "sandía",
+          "word_id": "unimet-ast-sandía",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ast-sandía-n07756951",
+          "lemma": "sandía",
+          "word_id": "unimet-ast-sandía",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ast-sandía-n12164065",
+          "lemma": "sandía",
+          "word_id": "unimet-ast-sandía",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ast-sandía-n07756951::unimet-ast-sandía-n12164065": {
+          "source": "unimet-ast-sandía-n07756951",
+          "target": "unimet-ast-sandía-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

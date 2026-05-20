@@ -1,0 +1,2157 @@
+{
+  "id": "9348bdaf5f347d24",
+  "name": "unimet-Kashmiri",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kas",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ألِش",
+      "all_senses": [
+        {
+          "id": "unimet-kas-ألِش-n12486574",
+          "lemma": "ألِش",
+          "word_id": "unimet-kas-ألِش",
+          "synset": {
+            "id": "omw-en-12486574-n",
+            "ili": "i102575",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "plant of the genus Linum that is cultivated for its seeds and for the fibers of its stem"
+          }
+        },
+        {
+          "id": "unimet-kas-ألِش-n15086247",
+          "lemma": "ألِش",
+          "word_id": "unimet-kas-ألِش",
+          "synset": {
+            "id": "omw-en-15086247-n",
+            "ili": "i116478",
+            "pos": "n",
+            "lemmas": [
+              "linseed"
+            ],
+            "definition": "the seed of flax used as a source of oil"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-ألِش-n15086247",
+          "lemma": "ألِش",
+          "word_id": "unimet-kas-ألِش",
+          "synset": {
+            "id": "omw-en-15086247-n",
+            "ili": "i116478",
+            "pos": "n",
+            "lemmas": [
+              "linseed"
+            ],
+            "definition": "the seed of flax used as a source of oil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-ألِش-n12486574",
+          "lemma": "ألِش",
+          "word_id": "unimet-kas-ألِش",
+          "synset": {
+            "id": "omw-en-12486574-n",
+            "ili": "i102575",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "plant of the genus Linum that is cultivated for its seeds and for the fibers of its stem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-ألِش-n15086247::unimet-kas-ألِش-n12486574": {
+          "source": "unimet-kas-ألِش-n15086247",
+          "target": "unimet-kas-ألِش-n12486574",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "أنٛجوٗر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-أنٛجوٗر-n07753113",
+          "lemma": "أنٛجوٗر",
+          "word_id": "unimet-kas-أنٛجوٗر",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        },
+        {
+          "id": "unimet-kas-أنٛجوٗر-n12401684",
+          "lemma": "أنٛجوٗر",
+          "word_id": "unimet-kas-أنٛجوٗر",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-أنٛجوٗر-n07753113",
+          "lemma": "أنٛجوٗر",
+          "word_id": "unimet-kas-أنٛجوٗر",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-أنٛجوٗر-n12401684",
+          "lemma": "أنٛجوٗر",
+          "word_id": "unimet-kas-أنٛجوٗر",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-أنٛجوٗر-n07753113::unimet-kas-أنٛجوٗر-n12401684": {
+          "source": "unimet-kas-أنٛجوٗر-n07753113",
+          "target": "unimet-kas-أنٛجوٗر-n12401684",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "بَطُخ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-بَطُخ-n01846331",
+          "lemma": "بَطُخ",
+          "word_id": "unimet-kas-بَطُخ",
+          "synset": {
+            "id": "omw-en-01846331-n",
+            "ili": "i45045",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+          }
+        },
+        {
+          "id": "unimet-kas-بَطُخ-n07646578",
+          "lemma": "بَطُخ",
+          "word_id": "unimet-kas-بَطُخ",
+          "synset": {
+            "id": "omw-en-07646578-n",
+            "ili": "i77076",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "flesh of a duck (domestic or wild)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-بَطُخ-n01846331",
+          "lemma": "بَطُخ",
+          "word_id": "unimet-kas-بَطُخ",
+          "synset": {
+            "id": "omw-en-01846331-n",
+            "ili": "i45045",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-بَطُخ-n07646578",
+          "lemma": "بَطُخ",
+          "word_id": "unimet-kas-بَطُخ",
+          "synset": {
+            "id": "omw-en-07646578-n",
+            "ili": "i77076",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "flesh of a duck (domestic or wild)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-بَطُخ-n01846331::unimet-kas-بَطُخ-n07646578": {
+          "source": "unimet-kas-بَطُخ-n01846331",
+          "target": "unimet-kas-بَطُخ-n07646578",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "بَٹیر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-بَٹیر-n01806567",
+          "lemma": "بَٹیر",
+          "word_id": "unimet-kas-بَٹیر",
+          "synset": {
+            "id": "omw-en-01806567-n",
+            "ili": "i44805",
+            "pos": "n",
+            "lemmas": [
+              "quail"
+            ],
+            "definition": "small gallinaceous game birds"
+          }
+        },
+        {
+          "id": "unimet-kas-بَٹیر-n07647321",
+          "lemma": "بَٹیر",
+          "word_id": "unimet-kas-بَٹیر",
+          "synset": {
+            "id": "omw-en-07647321-n",
+            "ili": "i77081",
+            "pos": "n",
+            "lemmas": [
+              "quail"
+            ],
+            "definition": "flesh of quail; suitable for roasting or broiling if young; otherwise must be braised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-بَٹیر-n01806567",
+          "lemma": "بَٹیر",
+          "word_id": "unimet-kas-بَٹیر",
+          "synset": {
+            "id": "omw-en-01806567-n",
+            "ili": "i44805",
+            "pos": "n",
+            "lemmas": [
+              "quail"
+            ],
+            "definition": "small gallinaceous game birds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-بَٹیر-n07647321",
+          "lemma": "بَٹیر",
+          "word_id": "unimet-kas-بَٹیر",
+          "synset": {
+            "id": "omw-en-07647321-n",
+            "ili": "i77081",
+            "pos": "n",
+            "lemmas": [
+              "quail"
+            ],
+            "definition": "flesh of quail; suitable for roasting or broiling if young; otherwise must be braised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-بَٹیر-n01806567::unimet-kas-بَٹیر-n07647321": {
+          "source": "unimet-kas-بَٹیر-n01806567",
+          "target": "unimet-kas-بَٹیر-n07647321",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "خَرگوش",
+      "all_senses": [
+        {
+          "id": "unimet-kas-خَرگوش-n02324045",
+          "lemma": "خَرگوش",
+          "word_id": "unimet-kas-خَرگوش",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        },
+        {
+          "id": "unimet-kas-خَرگوش-n07666521",
+          "lemma": "خَرگوش",
+          "word_id": "unimet-kas-خَرگوش",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-خَرگوش-n02324045",
+          "lemma": "خَرگوش",
+          "word_id": "unimet-kas-خَرگوش",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-خَرگوش-n07666521",
+          "lemma": "خَرگوش",
+          "word_id": "unimet-kas-خَرگوش",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-خَرگوش-n02324045::unimet-kas-خَرگوش-n07666521": {
+          "source": "unimet-kas-خَرگوش-n02324045",
+          "target": "unimet-kas-خَرگوش-n07666521",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "داو",
+      "all_senses": [
+        {
+          "id": "unimet-kas-داو-n04426788",
+          "lemma": "داو",
+          "word_id": "unimet-kas-داو",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-kas-داو-n14866889",
+          "lemma": "داو",
+          "word_id": "unimet-kas-داو",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-داو-n14866889",
+          "lemma": "داو",
+          "word_id": "unimet-kas-داو",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-داو-n04426788",
+          "lemma": "داو",
+          "word_id": "unimet-kas-داو",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-داو-n14866889::unimet-kas-داو-n04426788": {
+          "source": "unimet-kas-داو-n14866889",
+          "target": "unimet-kas-داو-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "رَبَر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-رَبَر-n04116512",
+          "lemma": "رَبَر",
+          "word_id": "unimet-kas-رَبَر",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-kas-رَبَر-n15006258",
+          "lemma": "رَبَر",
+          "word_id": "unimet-kas-رَبَر",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-رَبَر-n15006258",
+          "lemma": "رَبَر",
+          "word_id": "unimet-kas-رَبَر",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-رَبَر-n04116512",
+          "lemma": "رَبَر",
+          "word_id": "unimet-kas-رَبَر",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-رَبَر-n15006258::unimet-kas-رَبَر-n04116512": {
+          "source": "unimet-kas-رَبَر-n15006258",
+          "target": "unimet-kas-رَبَر-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "رَزمہہ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-رَزمہہ-n07727048",
+          "lemma": "رَزمہہ",
+          "word_id": "unimet-kas-رَزمہہ",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        },
+        {
+          "id": "unimet-kas-رَزمہہ-n12557064",
+          "lemma": "رَزمہہ",
+          "word_id": "unimet-kas-رَزمہہ",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-رَزمہہ-n12557064",
+          "lemma": "رَزمہہ",
+          "word_id": "unimet-kas-رَزمہہ",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-رَزمہہ-n07727048",
+          "lemma": "رَزمہہ",
+          "word_id": "unimet-kas-رَزمہہ",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-رَزمہہ-n12557064::unimet-kas-رَزمہہ-n07727048": {
+          "source": "unimet-kas-رَزمہہ-n12557064",
+          "target": "unimet-kas-رَزمہہ-n07727048",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "رِیاسَت",
+      "all_senses": [
+        {
+          "id": "unimet-kas-رِیاسَت-n08405603",
+          "lemma": "رِیاسَت",
+          "word_id": "unimet-kas-رِیاسَت",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-kas-رِیاسَت-n08558155",
+          "lemma": "رِیاسَت",
+          "word_id": "unimet-kas-رِیاسَت",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-رِیاسَت-n08405603",
+          "lemma": "رِیاسَت",
+          "word_id": "unimet-kas-رِیاسَت",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-رِیاسَت-n08558155",
+          "lemma": "رِیاسَت",
+          "word_id": "unimet-kas-رِیاسَت",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-رِیاسَت-n08405603::unimet-kas-رِیاسَت-n08558155": {
+          "source": "unimet-kas-رِیاسَت-n08405603",
+          "target": "unimet-kas-رِیاسَت-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "شیٖشہٕ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-شیٖشہٕ-n03773035",
+          "lemma": "شیٖشہٕ",
+          "word_id": "unimet-kas-شیٖشہٕ",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-kas-شیٖشہٕ-n14881303",
+          "lemma": "شیٖشہٕ",
+          "word_id": "unimet-kas-شیٖشہٕ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-شیٖشہٕ-n14881303",
+          "lemma": "شیٖشہٕ",
+          "word_id": "unimet-kas-شیٖشہٕ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-شیٖشہٕ-n03773035",
+          "lemma": "شیٖشہٕ",
+          "word_id": "unimet-kas-شیٖشہٕ",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-شیٖشہٕ-n14881303::unimet-kas-شیٖشہٕ-n03773035": {
+          "source": "unimet-kas-شیٖشہٕ-n14881303",
+          "target": "unimet-kas-شیٖشہٕ-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ظٲلِم",
+      "all_senses": [
+        {
+          "id": "unimet-kas-ظٲلِم-n04831031",
+          "lemma": "ظٲلِم",
+          "word_id": "unimet-kas-ظٲلِم",
+          "synset": {
+            "id": "omw-en-04831031-n",
+            "ili": "i62381",
+            "pos": "n",
+            "lemmas": [
+              "mercilessness"
+            ],
+            "definition": "inhumaneness evidenced by an unwillingness to be kind or forgiving"
+          }
+        },
+        {
+          "id": "unimet-kas-ظٲلِم-n09845589",
+          "lemma": "ظٲلِم",
+          "word_id": "unimet-kas-ظٲلِم",
+          "synset": {
+            "id": "omw-en-09845589-n",
+            "ili": "i88504",
+            "pos": "n",
+            "lemmas": [
+              "wolf"
+            ],
+            "definition": "a cruelly rapacious person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-ظٲلِم-n04831031",
+          "lemma": "ظٲلِم",
+          "word_id": "unimet-kas-ظٲلِم",
+          "synset": {
+            "id": "omw-en-04831031-n",
+            "ili": "i62381",
+            "pos": "n",
+            "lemmas": [
+              "mercilessness"
+            ],
+            "definition": "inhumaneness evidenced by an unwillingness to be kind or forgiving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-ظٲلِم-n09845589",
+          "lemma": "ظٲلِم",
+          "word_id": "unimet-kas-ظٲلِم",
+          "synset": {
+            "id": "omw-en-09845589-n",
+            "ili": "i88504",
+            "pos": "n",
+            "lemmas": [
+              "wolf"
+            ],
+            "definition": "a cruelly rapacious person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-ظٲلِم-n04831031::unimet-kas-ظٲلِم-n09845589": {
+          "source": "unimet-kas-ظٲلِم-n04831031",
+          "target": "unimet-kas-ظٲلِم-n09845589",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "فون",
+      "all_senses": [
+        {
+          "id": "unimet-kas-فون-n02992529",
+          "lemma": "فون",
+          "word_id": "unimet-kas-فون",
+          "synset": {
+            "id": "omw-en-02992529-n",
+            "ili": "i51696",
+            "pos": "n",
+            "lemmas": [
+              "cellular telephone"
+            ],
+            "definition": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+          }
+        },
+        {
+          "id": "unimet-kas-فون-n04401088",
+          "lemma": "فون",
+          "word_id": "unimet-kas-فون",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-kas-فون-n06272290",
+          "lemma": "فون",
+          "word_id": "unimet-kas-فون",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-فون-n02992529",
+          "lemma": "فون",
+          "word_id": "unimet-kas-فون",
+          "synset": {
+            "id": "omw-en-02992529-n",
+            "ili": "i51696",
+            "pos": "n",
+            "lemmas": [
+              "cellular telephone"
+            ],
+            "definition": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+          }
+        },
+        {
+          "id": "unimet-kas-فون-n04401088",
+          "lemma": "فون",
+          "word_id": "unimet-kas-فون",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-فون-n06272290",
+          "lemma": "فون",
+          "word_id": "unimet-kas-فون",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-فون-n02992529::unimet-kas-فون-n06272290": {
+          "source": "unimet-kas-فون-n02992529",
+          "target": "unimet-kas-فون-n06272290",
+          "type": "metonymy"
+        },
+        "unimet-kas-فون-n04401088::unimet-kas-فون-n06272290": {
+          "source": "unimet-kas-فون-n04401088",
+          "target": "unimet-kas-فون-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "فِکِر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-فِکِر-n14374432",
+          "lemma": "فِکِر",
+          "word_id": "unimet-kas-فِکِر",
+          "synset": {
+            "id": "omw-en-14374432-n",
+            "ili": "i112540",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a relatively permanent state of anxiety occurring in a variety of mental disorders"
+          }
+        },
+        {
+          "id": "unimet-kas-فِکِر-v01766748",
+          "lemma": "فِکِر",
+          "word_id": "unimet-kas-فِکِر",
+          "synset": {
+            "id": "omw-en-01766748-v",
+            "ili": "i30571",
+            "pos": "v",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "be concerned with"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-فِکِر-v01766748",
+          "lemma": "فِکِر",
+          "word_id": "unimet-kas-فِکِر",
+          "synset": {
+            "id": "omw-en-01766748-v",
+            "ili": "i30571",
+            "pos": "v",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "be concerned with"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-فِکِر-n14374432",
+          "lemma": "فِکِر",
+          "word_id": "unimet-kas-فِکِر",
+          "synset": {
+            "id": "omw-en-14374432-n",
+            "ili": "i112540",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a relatively permanent state of anxiety occurring in a variety of mental disorders"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-فِکِر-v01766748::unimet-kas-فِکِر-n14374432": {
+          "source": "unimet-kas-فِکِر-v01766748",
+          "target": "unimet-kas-فِکِر-n14374432",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "لوکاٹ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-لوکاٹ-n07763792",
+          "lemma": "لوکاٹ",
+          "word_id": "unimet-kas-لوکاٹ",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        },
+        {
+          "id": "unimet-kas-لوکاٹ-n12629666",
+          "lemma": "لوکاٹ",
+          "word_id": "unimet-kas-لوکاٹ",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-لوکاٹ-n07763792",
+          "lemma": "لوکاٹ",
+          "word_id": "unimet-kas-لوکاٹ",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-لوکاٹ-n12629666",
+          "lemma": "لوکاٹ",
+          "word_id": "unimet-kas-لوکاٹ",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-لوکاٹ-n07763792::unimet-kas-لوکاٹ-n12629666": {
+          "source": "unimet-kas-لوکاٹ-n07763792",
+          "target": "unimet-kas-لوکاٹ-n12629666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "مرسا",
+      "all_senses": [
+        {
+          "id": "unimet-kas-مرسا-n11823305",
+          "lemma": "مرسا",
+          "word_id": "unimet-kas-مرسا",
+          "synset": {
+            "id": "omw-en-11823305-n",
+            "ili": "i99419",
+            "pos": "n",
+            "lemmas": [
+              "amaranth"
+            ],
+            "definition": "seed of amaranth plants used as a native cereal in Central and South America"
+          }
+        },
+        {
+          "id": "unimet-kas-مرسا-n11823756",
+          "lemma": "مرسا",
+          "word_id": "unimet-kas-مرسا",
+          "synset": {
+            "id": "omw-en-11823756-n",
+            "ili": "i99422",
+            "pos": "n",
+            "lemmas": [
+              "gentleman's-cane"
+            ],
+            "definition": "tall showy tropical American annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-مرسا-n11823305",
+          "lemma": "مرسا",
+          "word_id": "unimet-kas-مرسا",
+          "synset": {
+            "id": "omw-en-11823305-n",
+            "ili": "i99419",
+            "pos": "n",
+            "lemmas": [
+              "amaranth"
+            ],
+            "definition": "seed of amaranth plants used as a native cereal in Central and South America"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-مرسا-n11823756",
+          "lemma": "مرسا",
+          "word_id": "unimet-kas-مرسا",
+          "synset": {
+            "id": "omw-en-11823756-n",
+            "ili": "i99422",
+            "pos": "n",
+            "lemmas": [
+              "gentleman's-cane"
+            ],
+            "definition": "tall showy tropical American annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-مرسا-n11823305::unimet-kas-مرسا-n11823756": {
+          "source": "unimet-kas-مرسا-n11823305",
+          "target": "unimet-kas-مرسا-n11823756",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "مُٹھ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-مُٹھ-n12532168",
+          "lemma": "مُٹھ",
+          "word_id": "unimet-kas-مُٹھ",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        },
+        {
+          "id": "unimet-kas-مُٹھ-n12532564",
+          "lemma": "مُٹھ",
+          "word_id": "unimet-kas-مُٹھ",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-مُٹھ-n12532168",
+          "lemma": "مُٹھ",
+          "word_id": "unimet-kas-مُٹھ",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-مُٹھ-n12532564",
+          "lemma": "مُٹھ",
+          "word_id": "unimet-kas-مُٹھ",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-مُٹھ-n12532168::unimet-kas-مُٹھ-n12532564": {
+          "source": "unimet-kas-مُٹھ-n12532168",
+          "target": "unimet-kas-مُٹھ-n12532564",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "وونُن",
+      "all_senses": [
+        {
+          "id": "unimet-kas-وونُن-n04568298",
+          "lemma": "وونُن",
+          "word_id": "unimet-kas-وونُن",
+          "synset": {
+            "id": "omw-en-04568298-n",
+            "ili": "i61051",
+            "pos": "n",
+            "lemmas": [
+              "weave"
+            ],
+            "definition": "pattern of weaving or structure of a fabric"
+          }
+        },
+        {
+          "id": "unimet-kas-وونُن-v01673891",
+          "lemma": "وونُن",
+          "word_id": "unimet-kas-وونُن",
+          "synset": {
+            "id": "omw-en-01673891-v",
+            "ili": "i30113",
+            "pos": "v",
+            "lemmas": [
+              "tissue"
+            ],
+            "definition": "create a piece of cloth by interlacing strands of fabric, such as wool or cotton"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-وونُن-v01673891",
+          "lemma": "وونُن",
+          "word_id": "unimet-kas-وونُن",
+          "synset": {
+            "id": "omw-en-01673891-v",
+            "ili": "i30113",
+            "pos": "v",
+            "lemmas": [
+              "tissue"
+            ],
+            "definition": "create a piece of cloth by interlacing strands of fabric, such as wool or cotton"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-وونُن-n04568298",
+          "lemma": "وونُن",
+          "word_id": "unimet-kas-وونُن",
+          "synset": {
+            "id": "omw-en-04568298-n",
+            "ili": "i61051",
+            "pos": "n",
+            "lemmas": [
+              "weave"
+            ],
+            "definition": "pattern of weaving or structure of a fabric"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-وونُن-v01673891::unimet-kas-وونُن-n04568298": {
+          "source": "unimet-kas-وونُن-v01673891",
+          "target": "unimet-kas-وونُن-n04568298",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ٲس",
+      "all_senses": [
+        {
+          "id": "unimet-kas-ٲس-n05301908",
+          "lemma": "ٲس",
+          "word_id": "unimet-kas-ٲس",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-kas-ٲس-n05302499",
+          "lemma": "ٲس",
+          "word_id": "unimet-kas-ٲس",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-kas-ٲس-n10335679",
+          "lemma": "ٲس",
+          "word_id": "unimet-kas-ٲس",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-ٲس-n05301908",
+          "lemma": "ٲس",
+          "word_id": "unimet-kas-ٲس",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-kas-ٲس-n05302499",
+          "lemma": "ٲس",
+          "word_id": "unimet-kas-ٲس",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-ٲس-n10335679",
+          "lemma": "ٲس",
+          "word_id": "unimet-kas-ٲس",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-ٲس-n05301908::unimet-kas-ٲس-n10335679": {
+          "source": "unimet-kas-ٲس-n05301908",
+          "target": "unimet-kas-ٲس-n10335679",
+          "type": "metonymy"
+        },
+        "unimet-kas-ٲس-n05302499::unimet-kas-ٲس-n10335679": {
+          "source": "unimet-kas-ٲس-n05302499",
+          "target": "unimet-kas-ٲس-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ٲلوٕ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-ٲلوٕ-n07710616",
+          "lemma": "ٲلوٕ",
+          "word_id": "unimet-kas-ٲلوٕ",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        },
+        {
+          "id": "unimet-kas-ٲلوٕ-n12897493",
+          "lemma": "ٲلوٕ",
+          "word_id": "unimet-kas-ٲلوٕ",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-ٲلوٕ-n12897493",
+          "lemma": "ٲلوٕ",
+          "word_id": "unimet-kas-ٲلوٕ",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-ٲلوٕ-n07710616",
+          "lemma": "ٲلوٕ",
+          "word_id": "unimet-kas-ٲلوٕ",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-ٲلوٕ-n12897493::unimet-kas-ٲلوٕ-n07710616": {
+          "source": "unimet-kas-ٲلوٕ-n12897493",
+          "target": "unimet-kas-ٲلوٕ-n07710616",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "چَکوترٕ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-چَکوترٕ-n07750146",
+          "lemma": "چَکوترٕ",
+          "word_id": "unimet-kas-چَکوترٕ",
+          "synset": {
+            "id": "omw-en-07750146-n",
+            "ili": "i77779",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "large pear-shaped fruit similar to grapefruit but with coarse dry pulp"
+          }
+        },
+        {
+          "id": "unimet-kas-چَکوترٕ-n12709103",
+          "lemma": "چَکوترٕ",
+          "word_id": "unimet-kas-چَکوترٕ",
+          "synset": {
+            "id": "omw-en-12709103-n",
+            "ili": "i103640",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "southeastern Asian tree producing large fruits resembling grapefruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-چَکوترٕ-n07750146",
+          "lemma": "چَکوترٕ",
+          "word_id": "unimet-kas-چَکوترٕ",
+          "synset": {
+            "id": "omw-en-07750146-n",
+            "ili": "i77779",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "large pear-shaped fruit similar to grapefruit but with coarse dry pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-چَکوترٕ-n12709103",
+          "lemma": "چَکوترٕ",
+          "word_id": "unimet-kas-چَکوترٕ",
+          "synset": {
+            "id": "omw-en-12709103-n",
+            "ili": "i103640",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "southeastern Asian tree producing large fruits resembling grapefruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-چَکوترٕ-n07750146::unimet-kas-چَکوترٕ-n12709103": {
+          "source": "unimet-kas-چَکوترٕ-n07750146",
+          "target": "unimet-kas-چَکوترٕ-n12709103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "کوتُر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-کوتُر-n01811909",
+          "lemma": "کوتُر",
+          "word_id": "unimet-kas-کوتُر",
+          "synset": {
+            "id": "omw-en-01811909-n",
+            "ili": "i44837",
+            "pos": "n",
+            "lemmas": [
+              "jonah"
+            ],
+            "definition": "wild and domesticated birds having a heavy body and short legs"
+          }
+        },
+        {
+          "id": "unimet-kas-کوتُر-n07646403",
+          "lemma": "کوتُر",
+          "word_id": "unimet-kas-کوتُر",
+          "synset": {
+            "id": "omw-en-07646403-n",
+            "ili": "i77075",
+            "pos": "n",
+            "lemmas": [
+              "squab"
+            ],
+            "definition": "flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-کوتُر-n01811909",
+          "lemma": "کوتُر",
+          "word_id": "unimet-kas-کوتُر",
+          "synset": {
+            "id": "omw-en-01811909-n",
+            "ili": "i44837",
+            "pos": "n",
+            "lemmas": [
+              "jonah"
+            ],
+            "definition": "wild and domesticated birds having a heavy body and short legs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-کوتُر-n07646403",
+          "lemma": "کوتُر",
+          "word_id": "unimet-kas-کوتُر",
+          "synset": {
+            "id": "omw-en-07646403-n",
+            "ili": "i77075",
+            "pos": "n",
+            "lemmas": [
+              "squab"
+            ],
+            "definition": "flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-کوتُر-n01811909::unimet-kas-کوتُر-n07646403": {
+          "source": "unimet-kas-کوتُر-n01811909",
+          "target": "unimet-kas-کوتُر-n07646403",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "کۄکُر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-کۄکُر-n01792158",
+          "lemma": "کۄکُر",
+          "word_id": "unimet-kas-کۄکُر",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-kas-کۄکُر-n07644967",
+          "lemma": "کۄکُر",
+          "word_id": "unimet-kas-کۄکُر",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        },
+        {
+          "id": "unimet-kas-کۄکُر-n07645384",
+          "lemma": "کۄکُر",
+          "word_id": "unimet-kas-کۄکُر",
+          "synset": {
+            "id": "omw-en-07645384-n",
+            "ili": "i77067",
+            "pos": "n",
+            "lemmas": [
+              "capon"
+            ],
+            "definition": "flesh of a castrated male chicken"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-کۄکُر-n01792158",
+          "lemma": "کۄکُر",
+          "word_id": "unimet-kas-کۄکُر",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-کۄکُر-n07644967",
+          "lemma": "کۄکُر",
+          "word_id": "unimet-kas-کۄکُر",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        },
+        {
+          "id": "unimet-kas-کۄکُر-n07645384",
+          "lemma": "کۄکُر",
+          "word_id": "unimet-kas-کۄکُر",
+          "synset": {
+            "id": "omw-en-07645384-n",
+            "ili": "i77067",
+            "pos": "n",
+            "lemmas": [
+              "capon"
+            ],
+            "definition": "flesh of a castrated male chicken"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-کۄکُر-n01792158::unimet-kas-کۄکُر-n07644967": {
+          "source": "unimet-kas-کۄکُر-n01792158",
+          "target": "unimet-kas-کۄکُر-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-kas-کۄکُر-n01792158::unimet-kas-کۄکُر-n07645384": {
+          "source": "unimet-kas-کۄکُر-n01792158",
+          "target": "unimet-kas-کۄکُر-n07645384",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "کۄکٕر",
+      "all_senses": [
+        {
+          "id": "unimet-kas-کۄکٕر-n01792640",
+          "lemma": "کۄکٕر",
+          "word_id": "unimet-kas-کۄکٕر",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-kas-کۄکٕر-n07646067",
+          "lemma": "کۄکٕر",
+          "word_id": "unimet-kas-کۄکٕر",
+          "synset": {
+            "id": "omw-en-07646067-n",
+            "ili": "i77072",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "flesh of an older chicken suitable for stewing"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-کۄکٕر-n01792640",
+          "lemma": "کۄکٕر",
+          "word_id": "unimet-kas-کۄکٕر",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-کۄکٕر-n07646067",
+          "lemma": "کۄکٕر",
+          "word_id": "unimet-kas-کۄکٕر",
+          "synset": {
+            "id": "omw-en-07646067-n",
+            "ili": "i77072",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "flesh of an older chicken suitable for stewing"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-کۄکٕر-n01792640::unimet-kas-کۄکٕر-n07646067": {
+          "source": "unimet-kas-کۄکٕر-n01792640",
+          "target": "unimet-kas-کۄکٕر-n07646067",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "گِلاسہٕ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-گِلاسہٕ-n07757132",
+          "lemma": "گِلاسہٕ",
+          "word_id": "unimet-kas-گِلاسہٕ",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-kas-گِلاسہٕ-n12641413",
+          "lemma": "گِلاسہٕ",
+          "word_id": "unimet-kas-گِلاسہٕ",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-گِلاسہٕ-n07757132",
+          "lemma": "گِلاسہٕ",
+          "word_id": "unimet-kas-گِلاسہٕ",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-گِلاسہٕ-n12641413",
+          "lemma": "گِلاسہٕ",
+          "word_id": "unimet-kas-گِلاسہٕ",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-گِلاسہٕ-n07757132::unimet-kas-گِلاسہٕ-n12641413": {
+          "source": "unimet-kas-گِلاسہٕ-n07757132",
+          "target": "unimet-kas-گِلاسہٕ-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ہٮ۪مبہٕ",
+      "all_senses": [
+        {
+          "id": "unimet-kas-ہٮ۪مبہٕ-n12556307",
+          "lemma": "ہٮ۪مبہٕ",
+          "word_id": "unimet-kas-ہٮ۪مبہٕ",
+          "synset": {
+            "id": "omw-en-12556307-n",
+            "ili": "i102888",
+            "pos": "n",
+            "lemmas": [
+              "bean plant"
+            ],
+            "definition": "any of various leguminous plants grown for their edible seeds and pods"
+          }
+        },
+        {
+          "id": "unimet-kas-ہٮ۪مبہٕ-n13136316",
+          "lemma": "ہٮ۪مبہٕ",
+          "word_id": "unimet-kas-ہٮ۪مبہٕ",
+          "synset": {
+            "id": "omw-en-13136316-n",
+            "ili": "i105679",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various seeds or fruits that are beans or resemble beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-ہٮ۪مبہٕ-n12556307",
+          "lemma": "ہٮ۪مبہٕ",
+          "word_id": "unimet-kas-ہٮ۪مبہٕ",
+          "synset": {
+            "id": "omw-en-12556307-n",
+            "ili": "i102888",
+            "pos": "n",
+            "lemmas": [
+              "bean plant"
+            ],
+            "definition": "any of various leguminous plants grown for their edible seeds and pods"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-ہٮ۪مبہٕ-n13136316",
+          "lemma": "ہٮ۪مبہٕ",
+          "word_id": "unimet-kas-ہٮ۪مبہٕ",
+          "synset": {
+            "id": "omw-en-13136316-n",
+            "ili": "i105679",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various seeds or fruits that are beans or resemble beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-ہٮ۪مبہٕ-n12556307::unimet-kas-ہٮ۪مبہٕ-n13136316": {
+          "source": "unimet-kas-ہٮ۪مبہٕ-n12556307",
+          "target": "unimet-kas-ہٮ۪مبہٕ-n13136316",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ہۄژُن",
+      "all_senses": [
+        {
+          "id": "unimet-kas-ہۄژُن-n14561102",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-14561102-n",
+            "ili": "i113530",
+            "pos": "n",
+            "lemmas": [
+              "putridness"
+            ],
+            "definition": "in a state of progressive putrefaction"
+          }
+        },
+        {
+          "id": "unimet-kas-ہۄژُن-v00093775",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-00093775-v",
+            "ili": "i22239",
+            "pos": "v",
+            "lemmas": [
+              "rot"
+            ],
+            "definition": "waste away"
+          }
+        },
+        {
+          "id": "unimet-kas-ہۄژُن-v00210259",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-00210259-v",
+            "ili": "i22770",
+            "pos": "v",
+            "lemmas": [
+              "go bad"
+            ],
+            "definition": "become unfit for consumption or use"
+          }
+        },
+        {
+          "id": "unimet-kas-ہۄژُن-v00552815",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-00552815-v",
+            "ili": "i24507",
+            "pos": "v",
+            "lemmas": [
+              "decay"
+            ],
+            "definition": "undergo decay or decomposition"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kas-ہۄژُن-v00093775",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-00093775-v",
+            "ili": "i22239",
+            "pos": "v",
+            "lemmas": [
+              "rot"
+            ],
+            "definition": "waste away"
+          }
+        },
+        {
+          "id": "unimet-kas-ہۄژُن-v00210259",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-00210259-v",
+            "ili": "i22770",
+            "pos": "v",
+            "lemmas": [
+              "go bad"
+            ],
+            "definition": "become unfit for consumption or use"
+          }
+        },
+        {
+          "id": "unimet-kas-ہۄژُن-v00552815",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-00552815-v",
+            "ili": "i24507",
+            "pos": "v",
+            "lemmas": [
+              "decay"
+            ],
+            "definition": "undergo decay or decomposition"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kas-ہۄژُن-n14561102",
+          "lemma": "ہۄژُن",
+          "word_id": "unimet-kas-ہۄژُن",
+          "synset": {
+            "id": "omw-en-14561102-n",
+            "ili": "i113530",
+            "pos": "n",
+            "lemmas": [
+              "putridness"
+            ],
+            "definition": "in a state of progressive putrefaction"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kas-ہۄژُن-v00093775::unimet-kas-ہۄژُن-n14561102": {
+          "source": "unimet-kas-ہۄژُن-v00093775",
+          "target": "unimet-kas-ہۄژُن-n14561102",
+          "type": "metonymy"
+        },
+        "unimet-kas-ہۄژُن-v00210259::unimet-kas-ہۄژُن-n14561102": {
+          "source": "unimet-kas-ہۄژُن-v00210259",
+          "target": "unimet-kas-ہۄژُن-n14561102",
+          "type": "metonymy"
+        },
+        "unimet-kas-ہۄژُن-v00552815::unimet-kas-ہۄژُن-n14561102": {
+          "source": "unimet-kas-ہۄژُن-v00552815",
+          "target": "unimet-kas-ہۄژُن-n14561102",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

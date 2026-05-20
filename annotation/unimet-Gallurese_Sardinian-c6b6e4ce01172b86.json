@@ -1,0 +1,92 @@
+{
+  "id": "c6b6e4ce01172b86",
+  "name": "unimet-Gallurese Sardinian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "sdn",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "síndria",
+      "all_senses": [
+        {
+          "id": "unimet-sdn-síndria-n07756951",
+          "lemma": "síndria",
+          "word_id": "unimet-sdn-síndria",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-sdn-síndria-n12164065",
+          "lemma": "síndria",
+          "word_id": "unimet-sdn-síndria",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sdn-síndria-n07756951",
+          "lemma": "síndria",
+          "word_id": "unimet-sdn-síndria",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sdn-síndria-n12164065",
+          "lemma": "síndria",
+          "word_id": "unimet-sdn-síndria",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sdn-síndria-n07756951::unimet-sdn-síndria-n12164065": {
+          "source": "unimet-sdn-síndria-n07756951",
+          "target": "unimet-sdn-síndria-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

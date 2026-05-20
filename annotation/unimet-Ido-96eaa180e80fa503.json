@@ -1,0 +1,168 @@
+{
+  "id": "96eaa180e80fa503",
+  "name": "unimet-Ido",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ido",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "latugo",
+      "all_senses": [
+        {
+          "id": "unimet-ido-latugo-n07723559",
+          "lemma": "latugo",
+          "word_id": "unimet-ido-latugo",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        },
+        {
+          "id": "unimet-ido-latugo-n11986306",
+          "lemma": "latugo",
+          "word_id": "unimet-ido-latugo",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ido-latugo-n11986306",
+          "lemma": "latugo",
+          "word_id": "unimet-ido-latugo",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ido-latugo-n07723559",
+          "lemma": "latugo",
+          "word_id": "unimet-ido-latugo",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ido-latugo-n11986306::unimet-ido-latugo-n07723559": {
+          "source": "unimet-ido-latugo-n11986306",
+          "target": "unimet-ido-latugo-n07723559",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skolo",
+      "all_senses": [
+        {
+          "id": "unimet-ido-skolo-n04146050",
+          "lemma": "skolo",
+          "word_id": "unimet-ido-skolo",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-ido-skolo-n08276720",
+          "lemma": "skolo",
+          "word_id": "unimet-ido-skolo",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ido-skolo-n04146050",
+          "lemma": "skolo",
+          "word_id": "unimet-ido-skolo",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ido-skolo-n08276720",
+          "lemma": "skolo",
+          "word_id": "unimet-ido-skolo",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ido-skolo-n04146050::unimet-ido-skolo-n08276720": {
+          "source": "unimet-ido-skolo-n04146050",
+          "target": "unimet-ido-skolo-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "fdb7c6f3e8c3003c",
+  "name": "unimet-Tonga (Tonga Islands)",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ton",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "'âvoka",
+      "all_senses": [
+        {
+          "id": "unimet-ton-'âvoka-n07764847",
+          "lemma": "'âvoka",
+          "word_id": "unimet-ton-'âvoka",
+          "synset": {
+            "id": "omw-en-07764847-n",
+            "ili": "i77873",
+            "pos": "n",
+            "lemmas": [
+              "alligator pear"
+            ],
+            "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+          }
+        },
+        {
+          "id": "unimet-ton-'âvoka-n11706761",
+          "lemma": "'âvoka",
+          "word_id": "unimet-ton-'âvoka",
+          "synset": {
+            "id": "omw-en-11706761-n",
+            "ili": "i98863",
+            "pos": "n",
+            "lemmas": [
+              "avocado tree"
+            ],
+            "definition": "tropical American tree bearing large pulpy green fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ton-'âvoka-n07764847",
+          "lemma": "'âvoka",
+          "word_id": "unimet-ton-'âvoka",
+          "synset": {
+            "id": "omw-en-07764847-n",
+            "ili": "i77873",
+            "pos": "n",
+            "lemmas": [
+              "alligator pear"
+            ],
+            "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ton-'âvoka-n11706761",
+          "lemma": "'âvoka",
+          "word_id": "unimet-ton-'âvoka",
+          "synset": {
+            "id": "omw-en-11706761-n",
+            "ili": "i98863",
+            "pos": "n",
+            "lemmas": [
+              "avocado tree"
+            ],
+            "definition": "tropical American tree bearing large pulpy green fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ton-'âvoka-n07764847::unimet-ton-'âvoka-n11706761": {
+          "source": "unimet-ton-'âvoka-n07764847",
+          "target": "unimet-ton-'âvoka-n11706761",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "puaka",
+      "all_senses": [
+        {
+          "id": "unimet-ton-puaka-n02395406",
+          "lemma": "puaka",
+          "word_id": "unimet-ton-puaka",
+          "synset": {
+            "id": "omw-en-02395406-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "squealer"
+            ],
+            "definition": "domestic swine"
+          }
+        },
+        {
+          "id": "unimet-ton-puaka-n07668702",
+          "lemma": "puaka",
+          "word_id": "unimet-ton-puaka",
+          "synset": {
+            "id": "omw-en-07668702-n",
+            "ili": "i77237",
+            "pos": "n",
+            "lemmas": [
+              "porc"
+            ],
+            "definition": "meat from a domestic hog or pig"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ton-puaka-n02395406",
+          "lemma": "puaka",
+          "word_id": "unimet-ton-puaka",
+          "synset": {
+            "id": "omw-en-02395406-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "squealer"
+            ],
+            "definition": "domestic swine"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ton-puaka-n07668702",
+          "lemma": "puaka",
+          "word_id": "unimet-ton-puaka",
+          "synset": {
+            "id": "omw-en-07668702-n",
+            "ili": "i77237",
+            "pos": "n",
+            "lemmas": [
+              "porc"
+            ],
+            "definition": "meat from a domestic hog or pig"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ton-puaka-n02395406::unimet-ton-puaka-n07668702": {
+          "source": "unimet-ton-puaka-n02395406",
+          "target": "unimet-ton-puaka-n07668702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

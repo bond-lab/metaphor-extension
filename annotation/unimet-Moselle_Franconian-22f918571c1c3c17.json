@@ -1,0 +1,320 @@
+{
+  "id": "22f918571c1c3c17",
+  "name": "unimet-Moselle Franconian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ltz",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ananas",
+      "all_senses": [
+        {
+          "id": "unimet-ltz-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-ltz-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-ltz-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-ltz-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ltz-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-ltz-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ltz-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-ltz-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ltz-ananas-n07753275::unimet-ltz-ananas-n12607456": {
+          "source": "unimet-ltz-ananas-n07753275",
+          "target": "unimet-ltz-ananas-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-ltz-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-ltz-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-ltz-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-ltz-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ltz-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-ltz-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ltz-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-ltz-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ltz-glas-n14881303::unimet-ltz-glas-n03438257": {
+          "source": "unimet-ltz-glas-n14881303",
+          "target": "unimet-ltz-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-ltz-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-ltz-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ltz-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-ltz-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ltz-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-ltz-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ltz-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-ltz-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ltz-land-n08168978::unimet-ltz-land-n08544813": {
+          "source": "unimet-ltz-land-n08168978",
+          "target": "unimet-ltz-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "waassermeloun",
+      "all_senses": [
+        {
+          "id": "unimet-ltz-waassermeloun-n07756951",
+          "lemma": "waassermeloun",
+          "word_id": "unimet-ltz-waassermeloun",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-ltz-waassermeloun-n12164065",
+          "lemma": "waassermeloun",
+          "word_id": "unimet-ltz-waassermeloun",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ltz-waassermeloun-n07756951",
+          "lemma": "waassermeloun",
+          "word_id": "unimet-ltz-waassermeloun",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ltz-waassermeloun-n12164065",
+          "lemma": "waassermeloun",
+          "word_id": "unimet-ltz-waassermeloun",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ltz-waassermeloun-n07756951::unimet-ltz-waassermeloun-n12164065": {
+          "source": "unimet-ltz-waassermeloun-n07756951",
+          "target": "unimet-ltz-waassermeloun-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "36eae7876369b007",
+  "name": "unimet-Kalaallisut",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kal",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "igalaaq",
+      "all_senses": [
+        {
+          "id": "unimet-kal-igalaaq-n04587648",
+          "lemma": "igalaaq",
+          "word_id": "unimet-kal-igalaaq",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "unimet-kal-igalaaq-n14881303",
+          "lemma": "igalaaq",
+          "word_id": "unimet-kal-igalaaq",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kal-igalaaq-n14881303",
+          "lemma": "igalaaq",
+          "word_id": "unimet-kal-igalaaq",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kal-igalaaq-n04587648",
+          "lemma": "igalaaq",
+          "word_id": "unimet-kal-igalaaq",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kal-igalaaq-n14881303::unimet-kal-igalaaq-n04587648": {
+          "source": "unimet-kal-igalaaq-n14881303",
+          "target": "unimet-kal-igalaaq-n04587648",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "imertarfik",
+      "all_senses": [
+        {
+          "id": "unimet-kal-imertarfik-n03438257",
+          "lemma": "imertarfik",
+          "word_id": "unimet-kal-imertarfik",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-kal-imertarfik-n14881303",
+          "lemma": "imertarfik",
+          "word_id": "unimet-kal-imertarfik",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kal-imertarfik-n14881303",
+          "lemma": "imertarfik",
+          "word_id": "unimet-kal-imertarfik",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kal-imertarfik-n03438257",
+          "lemma": "imertarfik",
+          "word_id": "unimet-kal-imertarfik",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kal-imertarfik-n14881303::unimet-kal-imertarfik-n03438257": {
+          "source": "unimet-kal-imertarfik-n14881303",
+          "target": "unimet-kal-imertarfik-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

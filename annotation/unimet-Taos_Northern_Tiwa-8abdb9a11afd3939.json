@@ -1,0 +1,92 @@
+{
+  "id": "8abdb9a11afd3939",
+  "name": "unimet-Taos Northern Tiwa",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "twf",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "lìlúna",
+      "all_senses": [
+        {
+          "id": "unimet-twf-lìlúna-n01792640",
+          "lemma": "lìlúna",
+          "word_id": "unimet-twf-lìlúna",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-twf-lìlúna-n07644967",
+          "lemma": "lìlúna",
+          "word_id": "unimet-twf-lìlúna",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-twf-lìlúna-n01792640",
+          "lemma": "lìlúna",
+          "word_id": "unimet-twf-lìlúna",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-twf-lìlúna-n07644967",
+          "lemma": "lìlúna",
+          "word_id": "unimet-twf-lìlúna",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-twf-lìlúna-n01792640::unimet-twf-lìlúna-n07644967": {
+          "source": "unimet-twf-lìlúna-n01792640",
+          "target": "unimet-twf-lìlúna-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

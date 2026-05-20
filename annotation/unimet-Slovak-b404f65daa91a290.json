@@ -1,0 +1,5125 @@
+{
+  "id": "b404f65daa91a290",
+  "name": "unimet-Slovak",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "slk",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "banket",
+      "all_senses": [
+        {
+          "id": "unimet-slk-banket-n07578093",
+          "lemma": "banket",
+          "word_id": "unimet-slk-banket",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-slk-banket-n08253640",
+          "lemma": "banket",
+          "word_id": "unimet-slk-banket",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-banket-n07578093",
+          "lemma": "banket",
+          "word_id": "unimet-slk-banket",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-banket-n08253640",
+          "lemma": "banket",
+          "word_id": "unimet-slk-banket",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-banket-n07578093::unimet-slk-banket-n08253640": {
+          "source": "unimet-slk-banket-n07578093",
+          "target": "unimet-slk-banket-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cibuľa",
+      "all_senses": [
+        {
+          "id": "unimet-slk-cibuľa-n07722217",
+          "lemma": "cibuľa",
+          "word_id": "unimet-slk-cibuľa",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-slk-cibuľa-n12432808",
+          "lemma": "cibuľa",
+          "word_id": "unimet-slk-cibuľa",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-cibuľa-n12432808",
+          "lemma": "cibuľa",
+          "word_id": "unimet-slk-cibuľa",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-cibuľa-n07722217",
+          "lemma": "cibuľa",
+          "word_id": "unimet-slk-cibuľa",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-cibuľa-n12432808::unimet-slk-cibuľa-n07722217": {
+          "source": "unimet-slk-cibuľa-n12432808",
+          "target": "unimet-slk-cibuľa-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "citrus",
+      "all_senses": [
+        {
+          "id": "unimet-slk-citrus-n07747055",
+          "lemma": "citrus",
+          "word_id": "unimet-slk-citrus",
+          "synset": {
+            "id": "omw-en-07747055-n",
+            "ili": "i77760",
+            "pos": "n",
+            "lemmas": [
+              "lime"
+            ],
+            "definition": "any of numerous fruits of the genus Citrus having thick rind and juicy pulp; grown in warm regions"
+          }
+        },
+        {
+          "id": "unimet-slk-citrus-n12707781",
+          "lemma": "citrus",
+          "word_id": "unimet-slk-citrus",
+          "synset": {
+            "id": "omw-en-12707781-n",
+            "ili": "i103635",
+            "pos": "n",
+            "lemmas": [
+              "citrus tree"
+            ],
+            "definition": "any of numerous tropical usually thorny evergreen trees of the genus Citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-citrus-n07747055",
+          "lemma": "citrus",
+          "word_id": "unimet-slk-citrus",
+          "synset": {
+            "id": "omw-en-07747055-n",
+            "ili": "i77760",
+            "pos": "n",
+            "lemmas": [
+              "lime"
+            ],
+            "definition": "any of numerous fruits of the genus Citrus having thick rind and juicy pulp; grown in warm regions"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-citrus-n12707781",
+          "lemma": "citrus",
+          "word_id": "unimet-slk-citrus",
+          "synset": {
+            "id": "omw-en-12707781-n",
+            "ili": "i103635",
+            "pos": "n",
+            "lemmas": [
+              "citrus tree"
+            ],
+            "definition": "any of numerous tropical usually thorny evergreen trees of the genus Citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-citrus-n07747055::unimet-slk-citrus-n12707781": {
+          "source": "unimet-slk-citrus-n07747055",
+          "target": "unimet-slk-citrus-n12707781",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "citrón",
+      "all_senses": [
+        {
+          "id": "unimet-slk-citrón-n07749582",
+          "lemma": "citrón",
+          "word_id": "unimet-slk-citrón",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-slk-citrón-n12711596",
+          "lemma": "citrón",
+          "word_id": "unimet-slk-citrón",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-citrón-n07749582",
+          "lemma": "citrón",
+          "word_id": "unimet-slk-citrón",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-citrón-n12711596",
+          "lemma": "citrón",
+          "word_id": "unimet-slk-citrón",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-citrón-n07749582::unimet-slk-citrón-n12711596": {
+          "source": "unimet-slk-citrón-n07749582",
+          "target": "unimet-slk-citrón-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dedina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-dedina-n08226699",
+          "lemma": "dedina",
+          "word_id": "unimet-slk-dedina",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-slk-dedina-n08672738",
+          "lemma": "dedina",
+          "word_id": "unimet-slk-dedina",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-dedina-n08226699",
+          "lemma": "dedina",
+          "word_id": "unimet-slk-dedina",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-dedina-n08672738",
+          "lemma": "dedina",
+          "word_id": "unimet-slk-dedina",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-dedina-n08226699::unimet-slk-dedina-n08672738": {
+          "source": "unimet-slk-dedina-n08226699",
+          "target": "unimet-slk-dedina-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "diamant",
+      "all_senses": [
+        {
+          "id": "unimet-slk-diamant-n13371958",
+          "lemma": "diamant",
+          "word_id": "unimet-slk-diamant",
+          "synset": {
+            "id": "omw-en-13371958-n",
+            "ili": "i106984",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem"
+          }
+        },
+        {
+          "id": "unimet-slk-diamant-n14834563",
+          "lemma": "diamant",
+          "word_id": "unimet-slk-diamant",
+          "synset": {
+            "id": "omw-en-14834563-n",
+            "ili": "i115004",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "very hard native crystalline carbon valued as a gem"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-diamant-n14834563",
+          "lemma": "diamant",
+          "word_id": "unimet-slk-diamant",
+          "synset": {
+            "id": "omw-en-14834563-n",
+            "ili": "i115004",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "very hard native crystalline carbon valued as a gem"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-diamant-n13371958",
+          "lemma": "diamant",
+          "word_id": "unimet-slk-diamant",
+          "synset": {
+            "id": "omw-en-13371958-n",
+            "ili": "i106984",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-diamant-n14834563::unimet-slk-diamant-n13371958": {
+          "source": "unimet-slk-diamant-n14834563",
+          "target": "unimet-slk-diamant-n13371958",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "drahokam",
+      "all_senses": [
+        {
+          "id": "unimet-slk-drahokam-n03596787",
+          "lemma": "drahokam",
+          "word_id": "unimet-slk-drahokam",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-slk-drahokam-n14699752",
+          "lemma": "drahokam",
+          "word_id": "unimet-slk-drahokam",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-drahokam-n14699752",
+          "lemma": "drahokam",
+          "word_id": "unimet-slk-drahokam",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-drahokam-n03596787",
+          "lemma": "drahokam",
+          "word_id": "unimet-slk-drahokam",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-drahokam-n14699752::unimet-slk-drahokam-n03596787": {
+          "source": "unimet-slk-drahokam-n14699752",
+          "target": "unimet-slk-drahokam-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "farbivo",
+      "all_senses": [
+        {
+          "id": "unimet-slk-farbivo-n03875218",
+          "lemma": "farbivo",
+          "word_id": "unimet-slk-farbivo",
+          "synset": {
+            "id": "omw-en-03875218-n",
+            "ili": "i56905",
+            "pos": "n",
+            "lemmas": [
+              "paint"
+            ],
+            "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
+          }
+        },
+        {
+          "id": "unimet-slk-farbivo-n14990723",
+          "lemma": "farbivo",
+          "word_id": "unimet-slk-farbivo",
+          "synset": {
+            "id": "omw-en-14990723-n",
+            "ili": "i115920",
+            "pos": "n",
+            "lemmas": [
+              "pigment"
+            ],
+            "definition": "dry coloring matter (especially a powder to be mixed with a liquid to produce paint etc)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-farbivo-n14990723",
+          "lemma": "farbivo",
+          "word_id": "unimet-slk-farbivo",
+          "synset": {
+            "id": "omw-en-14990723-n",
+            "ili": "i115920",
+            "pos": "n",
+            "lemmas": [
+              "pigment"
+            ],
+            "definition": "dry coloring matter (especially a powder to be mixed with a liquid to produce paint etc)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-farbivo-n03875218",
+          "lemma": "farbivo",
+          "word_id": "unimet-slk-farbivo",
+          "synset": {
+            "id": "omw-en-03875218-n",
+            "ili": "i56905",
+            "pos": "n",
+            "lemmas": [
+              "paint"
+            ],
+            "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-farbivo-n14990723::unimet-slk-farbivo-n03875218": {
+          "source": "unimet-slk-farbivo-n14990723",
+          "target": "unimet-slk-farbivo-n03875218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "farnosť",
+      "all_senses": [
+        {
+          "id": "unimet-slk-farnosť-n08223688",
+          "lemma": "farnosť",
+          "word_id": "unimet-slk-farnosť",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        },
+        {
+          "id": "unimet-slk-farnosť-n08615001",
+          "lemma": "farnosť",
+          "word_id": "unimet-slk-farnosť",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-farnosť-n08223688",
+          "lemma": "farnosť",
+          "word_id": "unimet-slk-farnosť",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-farnosť-n08615001",
+          "lemma": "farnosť",
+          "word_id": "unimet-slk-farnosť",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-farnosť-n08223688::unimet-slk-farnosť-n08615001": {
+          "source": "unimet-slk-farnosť-n08223688",
+          "target": "unimet-slk-farnosť-n08615001",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "geto",
+      "all_senses": [
+        {
+          "id": "unimet-slk-geto-n08479095",
+          "lemma": "geto",
+          "word_id": "unimet-slk-geto",
+          "synset": {
+            "id": "omw-en-08479095-n",
+            "ili": "i81607",
+            "pos": "n",
+            "lemmas": [
+              "judaism"
+            ],
+            "definition": "Jews collectively"
+          }
+        },
+        {
+          "id": "unimet-slk-geto-n08549292",
+          "lemma": "geto",
+          "word_id": "unimet-slk-geto",
+          "synset": {
+            "id": "omw-en-08549292-n",
+            "ili": "i81906",
+            "pos": "n",
+            "lemmas": [
+              "ghetto"
+            ],
+            "definition": "a poor densely populated city district occupied by a minority ethnic group linked together by economic hardship and social restrictions"
+          }
+        },
+        {
+          "id": "unimet-slk-geto-n08578951",
+          "lemma": "geto",
+          "word_id": "unimet-slk-geto",
+          "synset": {
+            "id": "omw-en-08578951-n",
+            "ili": "i82051",
+            "pos": "n",
+            "lemmas": [
+              "ghetto"
+            ],
+            "definition": "formerly the restricted quarter of many European cities in which Jews were required to live"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-geto-n08479095",
+          "lemma": "geto",
+          "word_id": "unimet-slk-geto",
+          "synset": {
+            "id": "omw-en-08479095-n",
+            "ili": "i81607",
+            "pos": "n",
+            "lemmas": [
+              "judaism"
+            ],
+            "definition": "Jews collectively"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-geto-n08549292",
+          "lemma": "geto",
+          "word_id": "unimet-slk-geto",
+          "synset": {
+            "id": "omw-en-08549292-n",
+            "ili": "i81906",
+            "pos": "n",
+            "lemmas": [
+              "ghetto"
+            ],
+            "definition": "a poor densely populated city district occupied by a minority ethnic group linked together by economic hardship and social restrictions"
+          }
+        },
+        {
+          "id": "unimet-slk-geto-n08578951",
+          "lemma": "geto",
+          "word_id": "unimet-slk-geto",
+          "synset": {
+            "id": "omw-en-08578951-n",
+            "ili": "i82051",
+            "pos": "n",
+            "lemmas": [
+              "ghetto"
+            ],
+            "definition": "formerly the restricted quarter of many European cities in which Jews were required to live"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-geto-n08479095::unimet-slk-geto-n08549292": {
+          "source": "unimet-slk-geto-n08479095",
+          "target": "unimet-slk-geto-n08549292",
+          "type": "metonymy"
+        },
+        "unimet-slk-geto-n08479095::unimet-slk-geto-n08578951": {
+          "source": "unimet-slk-geto-n08479095",
+          "target": "unimet-slk-geto-n08578951",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hlava",
+      "all_senses": [
+        {
+          "id": "unimet-slk-hlava-n05538625",
+          "lemma": "hlava",
+          "word_id": "unimet-slk-hlava",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-slk-hlava-n10162991",
+          "lemma": "hlava",
+          "word_id": "unimet-slk-hlava",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-hlava-n05538625",
+          "lemma": "hlava",
+          "word_id": "unimet-slk-hlava",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-hlava-n10162991",
+          "lemma": "hlava",
+          "word_id": "unimet-slk-hlava",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-hlava-n05538625::unimet-slk-hlava-n10162991": {
+          "source": "unimet-slk-hlava-n05538625",
+          "target": "unimet-slk-hlava-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hostina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-hostina-n07578093",
+          "lemma": "hostina",
+          "word_id": "unimet-slk-hostina",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-slk-hostina-n08253640",
+          "lemma": "hostina",
+          "word_id": "unimet-slk-hostina",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-hostina-n07578093",
+          "lemma": "hostina",
+          "word_id": "unimet-slk-hostina",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-hostina-n08253640",
+          "lemma": "hostina",
+          "word_id": "unimet-slk-hostina",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-hostina-n07578093::unimet-slk-hostina-n08253640": {
+          "source": "unimet-slk-hostina-n07578093",
+          "target": "unimet-slk-hostina-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hruška",
+      "all_senses": [
+        {
+          "id": "unimet-slk-hruška-n07767847",
+          "lemma": "hruška",
+          "word_id": "unimet-slk-hruška",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-slk-hruška-n12651611",
+          "lemma": "hruška",
+          "word_id": "unimet-slk-hruška",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-hruška-n07767847",
+          "lemma": "hruška",
+          "word_id": "unimet-slk-hruška",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-hruška-n12651611",
+          "lemma": "hruška",
+          "word_id": "unimet-slk-hruška",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-hruška-n07767847::unimet-slk-hruška-n12651611": {
+          "source": "unimet-slk-hruška-n07767847",
+          "target": "unimet-slk-hruška-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hydina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-hydina-n01789740",
+          "lemma": "hydina",
+          "word_id": "unimet-slk-hydina",
+          "synset": {
+            "id": "omw-en-01789740-n",
+            "ili": "i44695",
+            "pos": "n",
+            "lemmas": [
+              "fowl"
+            ],
+            "definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-slk-hydina-n07644706",
+          "lemma": "hydina",
+          "word_id": "unimet-slk-hydina",
+          "synset": {
+            "id": "omw-en-07644706-n",
+            "ili": "i77064",
+            "pos": "n",
+            "lemmas": [
+              "poultry"
+            ],
+            "definition": "flesh of chickens or turkeys or ducks or geese raised for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-hydina-n01789740",
+          "lemma": "hydina",
+          "word_id": "unimet-slk-hydina",
+          "synset": {
+            "id": "omw-en-01789740-n",
+            "ili": "i44695",
+            "pos": "n",
+            "lemmas": [
+              "fowl"
+            ],
+            "definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-hydina-n07644706",
+          "lemma": "hydina",
+          "word_id": "unimet-slk-hydina",
+          "synset": {
+            "id": "omw-en-07644706-n",
+            "ili": "i77064",
+            "pos": "n",
+            "lemmas": [
+              "poultry"
+            ],
+            "definition": "flesh of chickens or turkeys or ducks or geese raised for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-hydina-n01789740::unimet-slk-hydina-n07644706": {
+          "source": "unimet-slk-hydina-n01789740",
+          "target": "unimet-slk-hydina-n07644706",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "impérium",
+      "all_senses": [
+        {
+          "id": "unimet-slk-impérium-n08052413",
+          "lemma": "impérium",
+          "word_id": "unimet-slk-impérium",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-slk-impérium-n08405723",
+          "lemma": "impérium",
+          "word_id": "unimet-slk-impérium",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        },
+        {
+          "id": "unimet-slk-impérium-n08557482",
+          "lemma": "impérium",
+          "word_id": "unimet-slk-impérium",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-impérium-n08052413",
+          "lemma": "impérium",
+          "word_id": "unimet-slk-impérium",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-slk-impérium-n08405723",
+          "lemma": "impérium",
+          "word_id": "unimet-slk-impérium",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-impérium-n08557482",
+          "lemma": "impérium",
+          "word_id": "unimet-slk-impérium",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-impérium-n08052413::unimet-slk-impérium-n08557482": {
+          "source": "unimet-slk-impérium-n08052413",
+          "target": "unimet-slk-impérium-n08557482",
+          "type": "metonymy"
+        },
+        "unimet-slk-impérium-n08405723::unimet-slk-impérium-n08557482": {
+          "source": "unimet-slk-impérium-n08405723",
+          "target": "unimet-slk-impérium-n08557482",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jahoda",
+      "all_senses": [
+        {
+          "id": "unimet-slk-jahoda-n07745940",
+          "lemma": "jahoda",
+          "word_id": "unimet-slk-jahoda",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-slk-jahoda-n12630144",
+          "lemma": "jahoda",
+          "word_id": "unimet-slk-jahoda",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        },
+        {
+          "id": "unimet-slk-jahoda-n12630999",
+          "lemma": "jahoda",
+          "word_id": "unimet-slk-jahoda",
+          "synset": {
+            "id": "omw-en-12630999-n",
+            "ili": "i103258",
+            "pos": "n",
+            "lemmas": [
+              "scarlet strawberry"
+            ],
+            "definition": "North American wild strawberry with sweet scarlet fruit; a source of many cultivated strawberries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-jahoda-n07745940",
+          "lemma": "jahoda",
+          "word_id": "unimet-slk-jahoda",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-jahoda-n12630144",
+          "lemma": "jahoda",
+          "word_id": "unimet-slk-jahoda",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        },
+        {
+          "id": "unimet-slk-jahoda-n12630999",
+          "lemma": "jahoda",
+          "word_id": "unimet-slk-jahoda",
+          "synset": {
+            "id": "omw-en-12630999-n",
+            "ili": "i103258",
+            "pos": "n",
+            "lemmas": [
+              "scarlet strawberry"
+            ],
+            "definition": "North American wild strawberry with sweet scarlet fruit; a source of many cultivated strawberries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-jahoda-n07745940::unimet-slk-jahoda-n12630144": {
+          "source": "unimet-slk-jahoda-n07745940",
+          "target": "unimet-slk-jahoda-n12630144",
+          "type": "metonymy"
+        },
+        "unimet-slk-jahoda-n07745940::unimet-slk-jahoda-n12630999": {
+          "source": "unimet-slk-jahoda-n07745940",
+          "target": "unimet-slk-jahoda-n12630999",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kameň",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kameň-n04326084",
+          "lemma": "kameň",
+          "word_id": "unimet-slk-kameň",
+          "synset": {
+            "id": "omw-en-04326084-n",
+            "ili": "i59621",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "building material consisting of a piece of rock hewn in a definite shape for a special purpose"
+          }
+        },
+        {
+          "id": "unimet-slk-kameň-n14696793",
+          "lemma": "kameň",
+          "word_id": "unimet-slk-kameň",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kameň-n14696793",
+          "lemma": "kameň",
+          "word_id": "unimet-slk-kameň",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kameň-n04326084",
+          "lemma": "kameň",
+          "word_id": "unimet-slk-kameň",
+          "synset": {
+            "id": "omw-en-04326084-n",
+            "ili": "i59621",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "building material consisting of a piece of rock hewn in a definite shape for a special purpose"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kameň-n14696793::unimet-slk-kameň-n04326084": {
+          "source": "unimet-slk-kameň-n14696793",
+          "target": "unimet-slk-kameň-n04326084",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kapacita",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kapacita-n05203397",
+          "lemma": "kapacita",
+          "word_id": "unimet-slk-kapacita",
+          "synset": {
+            "id": "omw-en-05203397-n",
+            "ili": "i64313",
+            "pos": "n",
+            "lemmas": [
+              "capacity"
+            ],
+            "definition": "ability to perform or produce"
+          }
+        },
+        {
+          "id": "unimet-slk-kapacita-n09762509",
+          "lemma": "kapacita",
+          "word_id": "unimet-slk-kapacita",
+          "synset": {
+            "id": "omw-en-09762509-n",
+            "ili": "i88056",
+            "pos": "n",
+            "lemmas": [
+              "sensation"
+            ],
+            "definition": "someone who is dazzlingly skilled in any field"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kapacita-n05203397",
+          "lemma": "kapacita",
+          "word_id": "unimet-slk-kapacita",
+          "synset": {
+            "id": "omw-en-05203397-n",
+            "ili": "i64313",
+            "pos": "n",
+            "lemmas": [
+              "capacity"
+            ],
+            "definition": "ability to perform or produce"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kapacita-n09762509",
+          "lemma": "kapacita",
+          "word_id": "unimet-slk-kapacita",
+          "synset": {
+            "id": "omw-en-09762509-n",
+            "ili": "i88056",
+            "pos": "n",
+            "lemmas": [
+              "sensation"
+            ],
+            "definition": "someone who is dazzlingly skilled in any field"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kapacita-n05203397::unimet-slk-kapacita-n09762509": {
+          "source": "unimet-slk-kapacita-n05203397",
+          "target": "unimet-slk-kapacita-n09762509",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kapusta",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kapusta-n07713895",
+          "lemma": "kapusta",
+          "word_id": "unimet-slk-kapusta",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-slk-kapusta-n11875523",
+          "lemma": "kapusta",
+          "word_id": "unimet-slk-kapusta",
+          "synset": {
+            "id": "omw-en-11875523-n",
+            "ili": "i99661",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea"
+            ],
+            "definition": "wild original of cultivated cabbages; common in western coastal Europe"
+          }
+        },
+        {
+          "id": "unimet-slk-kapusta-n11875691",
+          "lemma": "kapusta",
+          "word_id": "unimet-slk-kapusta",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kapusta-n11875523",
+          "lemma": "kapusta",
+          "word_id": "unimet-slk-kapusta",
+          "synset": {
+            "id": "omw-en-11875523-n",
+            "ili": "i99661",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea"
+            ],
+            "definition": "wild original of cultivated cabbages; common in western coastal Europe"
+          }
+        },
+        {
+          "id": "unimet-slk-kapusta-n11875691",
+          "lemma": "kapusta",
+          "word_id": "unimet-slk-kapusta",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kapusta-n07713895",
+          "lemma": "kapusta",
+          "word_id": "unimet-slk-kapusta",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kapusta-n11875523::unimet-slk-kapusta-n07713895": {
+          "source": "unimet-slk-kapusta-n11875523",
+          "target": "unimet-slk-kapusta-n07713895",
+          "type": "metonymy"
+        },
+        "unimet-slk-kapusta-n11875691::unimet-slk-kapusta-n07713895": {
+          "source": "unimet-slk-kapusta-n11875691",
+          "target": "unimet-slk-kapusta-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kniha",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kniha-n02870092",
+          "lemma": "kniha",
+          "word_id": "unimet-slk-kniha",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-slk-kniha-n06410904",
+          "lemma": "kniha",
+          "word_id": "unimet-slk-kniha",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kniha-n02870092",
+          "lemma": "kniha",
+          "word_id": "unimet-slk-kniha",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kniha-n06410904",
+          "lemma": "kniha",
+          "word_id": "unimet-slk-kniha",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kniha-n02870092::unimet-slk-kniha-n06410904": {
+          "source": "unimet-slk-kniha-n02870092",
+          "target": "unimet-slk-kniha-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "konzervatórium",
+      "all_senses": [
+        {
+          "id": "unimet-slk-konzervatórium-n03092314",
+          "lemma": "konzervatórium",
+          "word_id": "unimet-slk-konzervatórium",
+          "synset": {
+            "id": "omw-en-03092314-n",
+            "ili": "i52284",
+            "pos": "n",
+            "lemmas": [
+              "observatory"
+            ],
+            "definition": "a schoolhouse with special facilities for fine arts"
+          }
+        },
+        {
+          "id": "unimet-slk-konzervatórium-n08287436",
+          "lemma": "konzervatórium",
+          "word_id": "unimet-slk-konzervatórium",
+          "synset": {
+            "id": "omw-en-08287436-n",
+            "ili": "i80697",
+            "pos": "n",
+            "lemmas": [
+              "conservatory"
+            ],
+            "definition": "a music school for the study of music with greater emphasis on performance and composition"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-konzervatórium-n03092314",
+          "lemma": "konzervatórium",
+          "word_id": "unimet-slk-konzervatórium",
+          "synset": {
+            "id": "omw-en-03092314-n",
+            "ili": "i52284",
+            "pos": "n",
+            "lemmas": [
+              "observatory"
+            ],
+            "definition": "a schoolhouse with special facilities for fine arts"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-konzervatórium-n08287436",
+          "lemma": "konzervatórium",
+          "word_id": "unimet-slk-konzervatórium",
+          "synset": {
+            "id": "omw-en-08287436-n",
+            "ili": "i80697",
+            "pos": "n",
+            "lemmas": [
+              "conservatory"
+            ],
+            "definition": "a music school for the study of music with greater emphasis on performance and composition"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-konzervatórium-n03092314::unimet-slk-konzervatórium-n08287436": {
+          "source": "unimet-slk-konzervatórium-n03092314",
+          "target": "unimet-slk-konzervatórium-n08287436",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kožuch",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kožuch-n03404251",
+          "lemma": "kožuch",
+          "word_id": "unimet-slk-kožuch",
+          "synset": {
+            "id": "omw-en-03404251-n",
+            "ili": "i54104",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a coat made of fur"
+          }
+        },
+        {
+          "id": "unimet-slk-kožuch-n14764061",
+          "lemma": "kožuch",
+          "word_id": "unimet-slk-kožuch",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kožuch-n14764061",
+          "lemma": "kožuch",
+          "word_id": "unimet-slk-kožuch",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kožuch-n03404251",
+          "lemma": "kožuch",
+          "word_id": "unimet-slk-kožuch",
+          "synset": {
+            "id": "omw-en-03404251-n",
+            "ili": "i54104",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a coat made of fur"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kožuch-n14764061::unimet-slk-kožuch-n03404251": {
+          "source": "unimet-slk-kožuch-n14764061",
+          "target": "unimet-slk-kožuch-n03404251",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kožušina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kožušina-n03404149",
+          "lemma": "kožušina",
+          "word_id": "unimet-slk-kožušina",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        },
+        {
+          "id": "unimet-slk-kožušina-n14764061",
+          "lemma": "kožušina",
+          "word_id": "unimet-slk-kožušina",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kožušina-n14764061",
+          "lemma": "kožušina",
+          "word_id": "unimet-slk-kožušina",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kožušina-n03404149",
+          "lemma": "kožušina",
+          "word_id": "unimet-slk-kožušina",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kožušina-n14764061::unimet-slk-kožušina-n03404149": {
+          "source": "unimet-slk-kožušina-n14764061",
+          "target": "unimet-slk-kožušina-n03404149",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "krabica",
+      "all_senses": [
+        {
+          "id": "unimet-slk-krabica-n02883344",
+          "lemma": "krabica",
+          "word_id": "unimet-slk-krabica",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        },
+        {
+          "id": "unimet-slk-krabica-n13765624",
+          "lemma": "krabica",
+          "word_id": "unimet-slk-krabica",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-krabica-n02883344",
+          "lemma": "krabica",
+          "word_id": "unimet-slk-krabica",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-krabica-n13765624",
+          "lemma": "krabica",
+          "word_id": "unimet-slk-krabica",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-krabica-n02883344::unimet-slk-krabica-n13765624": {
+          "source": "unimet-slk-krabica-n02883344",
+          "target": "unimet-slk-krabica-n13765624",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "krajina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-krajina-n08166552",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-slk-krajina-n08168978",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-slk-krajina-n08497294",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-slk-krajina-n08544813",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-krajina-n08166552",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-slk-krajina-n08168978",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-krajina-n08497294",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-slk-krajina-n08544813",
+          "lemma": "krajina",
+          "word_id": "unimet-slk-krajina",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-krajina-n08166552::unimet-slk-krajina-n08497294": {
+          "source": "unimet-slk-krajina-n08166552",
+          "target": "unimet-slk-krajina-n08497294",
+          "type": "metonymy"
+        },
+        "unimet-slk-krajina-n08166552::unimet-slk-krajina-n08544813": {
+          "source": "unimet-slk-krajina-n08166552",
+          "target": "unimet-slk-krajina-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-slk-krajina-n08168978::unimet-slk-krajina-n08497294": {
+          "source": "unimet-slk-krajina-n08168978",
+          "target": "unimet-slk-krajina-n08497294",
+          "type": "metonymy"
+        },
+        "unimet-slk-krajina-n08168978::unimet-slk-krajina-n08544813": {
+          "source": "unimet-slk-krajina-n08168978",
+          "target": "unimet-slk-krajina-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kráľovstvo",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kráľovstvo-n08405603",
+          "lemma": "kráľovstvo",
+          "word_id": "unimet-slk-kráľovstvo",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-slk-kráľovstvo-n08558155",
+          "lemma": "kráľovstvo",
+          "word_id": "unimet-slk-kráľovstvo",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-slk-kráľovstvo-n08591269",
+          "lemma": "kráľovstvo",
+          "word_id": "unimet-slk-kráľovstvo",
+          "synset": {
+            "id": "omw-en-08591269-n",
+            "ili": "i82126",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a country with a king as head of state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kráľovstvo-n08405603",
+          "lemma": "kráľovstvo",
+          "word_id": "unimet-slk-kráľovstvo",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kráľovstvo-n08558155",
+          "lemma": "kráľovstvo",
+          "word_id": "unimet-slk-kráľovstvo",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-slk-kráľovstvo-n08591269",
+          "lemma": "kráľovstvo",
+          "word_id": "unimet-slk-kráľovstvo",
+          "synset": {
+            "id": "omw-en-08591269-n",
+            "ili": "i82126",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a country with a king as head of state"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kráľovstvo-n08405603::unimet-slk-kráľovstvo-n08558155": {
+          "source": "unimet-slk-kráľovstvo-n08405603",
+          "target": "unimet-slk-kráľovstvo-n08558155",
+          "type": "metonymy"
+        },
+        "unimet-slk-kráľovstvo-n08405603::unimet-slk-kráľovstvo-n08591269": {
+          "source": "unimet-slk-kráľovstvo-n08405603",
+          "target": "unimet-slk-kráľovstvo-n08591269",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kukurica",
+      "all_senses": [
+        {
+          "id": "unimet-slk-kukurica-n12143676",
+          "lemma": "kukurica",
+          "word_id": "unimet-slk-kukurica",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        },
+        {
+          "id": "unimet-slk-kukurica-n12144313",
+          "lemma": "kukurica",
+          "word_id": "unimet-slk-kukurica",
+          "synset": {
+            "id": "omw-en-12144313-n",
+            "ili": "i100969",
+            "pos": "n",
+            "lemmas": [
+              "mealie"
+            ],
+            "definition": "an ear of corn"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-kukurica-n12143676",
+          "lemma": "kukurica",
+          "word_id": "unimet-slk-kukurica",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-kukurica-n12144313",
+          "lemma": "kukurica",
+          "word_id": "unimet-slk-kukurica",
+          "synset": {
+            "id": "omw-en-12144313-n",
+            "ili": "i100969",
+            "pos": "n",
+            "lemmas": [
+              "mealie"
+            ],
+            "definition": "an ear of corn"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-kukurica-n12143676::unimet-slk-kukurica-n12144313": {
+          "source": "unimet-slk-kukurica-n12143676",
+          "target": "unimet-slk-kukurica-n12144313",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "láska",
+      "all_senses": [
+        {
+          "id": "unimet-slk-láska-n07543288",
+          "lemma": "láska",
+          "word_id": "unimet-slk-láska",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-slk-láska-n09849598",
+          "lemma": "láska",
+          "word_id": "unimet-slk-láska",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-láska-n07543288",
+          "lemma": "láska",
+          "word_id": "unimet-slk-láska",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-láska-n09849598",
+          "lemma": "láska",
+          "word_id": "unimet-slk-láska",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-láska-n07543288::unimet-slk-láska-n09849598": {
+          "source": "unimet-slk-láska-n07543288",
+          "target": "unimet-slk-láska-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mozog",
+      "all_senses": [
+        {
+          "id": "unimet-slk-mozog-n05481095",
+          "lemma": "mozog",
+          "word_id": "unimet-slk-mozog",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        },
+        {
+          "id": "unimet-slk-mozog-n05491993",
+          "lemma": "mozog",
+          "word_id": "unimet-slk-mozog",
+          "synset": {
+            "id": "omw-en-05491993-n",
+            "ili": "i65803",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "anterior portion of the brain consisting of two hemispheres; dominant part of the brain in humans"
+          }
+        },
+        {
+          "id": "unimet-slk-mozog-n10126926",
+          "lemma": "mozog",
+          "word_id": "unimet-slk-mozog",
+          "synset": {
+            "id": "omw-en-10126926-n",
+            "ili": "i90187",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "someone who has exceptional intellectual ability and originality"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-mozog-n05481095",
+          "lemma": "mozog",
+          "word_id": "unimet-slk-mozog",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        },
+        {
+          "id": "unimet-slk-mozog-n05491993",
+          "lemma": "mozog",
+          "word_id": "unimet-slk-mozog",
+          "synset": {
+            "id": "omw-en-05491993-n",
+            "ili": "i65803",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "anterior portion of the brain consisting of two hemispheres; dominant part of the brain in humans"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-mozog-n10126926",
+          "lemma": "mozog",
+          "word_id": "unimet-slk-mozog",
+          "synset": {
+            "id": "omw-en-10126926-n",
+            "ili": "i90187",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "someone who has exceptional intellectual ability and originality"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-mozog-n05481095::unimet-slk-mozog-n10126926": {
+          "source": "unimet-slk-mozog-n05481095",
+          "target": "unimet-slk-mozog-n10126926",
+          "type": "metonymy"
+        },
+        "unimet-slk-mozog-n05491993::unimet-slk-mozog-n10126926": {
+          "source": "unimet-slk-mozog-n05491993",
+          "target": "unimet-slk-mozog-n10126926",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "obava",
+      "all_senses": [
+        {
+          "id": "unimet-slk-obava-n05832264",
+          "lemma": "obava",
+          "word_id": "unimet-slk-obava",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-slk-obava-n07524529",
+          "lemma": "obava",
+          "word_id": "unimet-slk-obava",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-obava-n07524529",
+          "lemma": "obava",
+          "word_id": "unimet-slk-obava",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-obava-n05832264",
+          "lemma": "obava",
+          "word_id": "unimet-slk-obava",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-obava-n07524529::unimet-slk-obava-n05832264": {
+          "source": "unimet-slk-obava-n07524529",
+          "target": "unimet-slk-obava-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "obec",
+      "all_senses": [
+        {
+          "id": "unimet-slk-obec-n08223802",
+          "lemma": "obec",
+          "word_id": "unimet-slk-obec",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        },
+        {
+          "id": "unimet-slk-obec-n08226699",
+          "lemma": "obec",
+          "word_id": "unimet-slk-obec",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-slk-obec-n08672738",
+          "lemma": "obec",
+          "word_id": "unimet-slk-obec",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-obec-n08223802",
+          "lemma": "obec",
+          "word_id": "unimet-slk-obec",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        },
+        {
+          "id": "unimet-slk-obec-n08226699",
+          "lemma": "obec",
+          "word_id": "unimet-slk-obec",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-obec-n08672738",
+          "lemma": "obec",
+          "word_id": "unimet-slk-obec",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-obec-n08223802::unimet-slk-obec-n08672738": {
+          "source": "unimet-slk-obec-n08223802",
+          "target": "unimet-slk-obec-n08672738",
+          "type": "metonymy"
+        },
+        "unimet-slk-obec-n08226699::unimet-slk-obec-n08672738": {
+          "source": "unimet-slk-obec-n08226699",
+          "target": "unimet-slk-obec-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "okolie",
+      "all_senses": [
+        {
+          "id": "unimet-slk-okolie-n08225090",
+          "lemma": "okolie",
+          "word_id": "unimet-slk-okolie",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        },
+        {
+          "id": "unimet-slk-okolie-n08642331",
+          "lemma": "okolie",
+          "word_id": "unimet-slk-okolie",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-okolie-n08225090",
+          "lemma": "okolie",
+          "word_id": "unimet-slk-okolie",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-okolie-n08642331",
+          "lemma": "okolie",
+          "word_id": "unimet-slk-okolie",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-okolie-n08225090::unimet-slk-okolie-n08642331": {
+          "source": "unimet-slk-okolie-n08225090",
+          "target": "unimet-slk-okolie-n08642331",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "orech",
+      "all_senses": [
+        {
+          "id": "unimet-slk-orech-n13110915",
+          "lemma": "orech",
+          "word_id": "unimet-slk-orech",
+          "synset": {
+            "id": "omw-en-13110915-n",
+            "ili": "i105581",
+            "pos": "n",
+            "lemmas": [
+              "nut tree"
+            ],
+            "definition": "tree bearing edible nuts"
+          }
+        },
+        {
+          "id": "unimet-slk-orech-n13136556",
+          "lemma": "orech",
+          "word_id": "unimet-slk-orech",
+          "synset": {
+            "id": "omw-en-13136556-n",
+            "ili": "i105680",
+            "pos": "n",
+            "lemmas": [
+              "nut"
+            ],
+            "definition": "usually large hard-shelled seed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-orech-n13110915",
+          "lemma": "orech",
+          "word_id": "unimet-slk-orech",
+          "synset": {
+            "id": "omw-en-13110915-n",
+            "ili": "i105581",
+            "pos": "n",
+            "lemmas": [
+              "nut tree"
+            ],
+            "definition": "tree bearing edible nuts"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-orech-n13136556",
+          "lemma": "orech",
+          "word_id": "unimet-slk-orech",
+          "synset": {
+            "id": "omw-en-13136556-n",
+            "ili": "i105680",
+            "pos": "n",
+            "lemmas": [
+              "nut"
+            ],
+            "definition": "usually large hard-shelled seed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-orech-n13110915::unimet-slk-orech-n13136556": {
+          "source": "unimet-slk-orech-n13110915",
+          "target": "unimet-slk-orech-n13136556",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "osada",
+      "all_senses": [
+        {
+          "id": "unimet-slk-osada-n08226699",
+          "lemma": "osada",
+          "word_id": "unimet-slk-osada",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-slk-osada-n08672738",
+          "lemma": "osada",
+          "word_id": "unimet-slk-osada",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-osada-n08226699",
+          "lemma": "osada",
+          "word_id": "unimet-slk-osada",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-osada-n08672738",
+          "lemma": "osada",
+          "word_id": "unimet-slk-osada",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-osada-n08226699::unimet-slk-osada-n08672738": {
+          "source": "unimet-slk-osada-n08226699",
+          "target": "unimet-slk-osada-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "osobnosť",
+      "all_senses": [
+        {
+          "id": "unimet-slk-osobnosť-n04618921",
+          "lemma": "osobnosť",
+          "word_id": "unimet-slk-osobnosť",
+          "synset": {
+            "id": "omw-en-04618921-n",
+            "ili": "i61353",
+            "pos": "n",
+            "lemmas": [
+              "personableness"
+            ],
+            "definition": "the complex of attributes that make a person socially attractive"
+          }
+        },
+        {
+          "id": "unimet-slk-osobnosť-n09903153",
+          "lemma": "osobnosť",
+          "word_id": "unimet-slk-osobnosť",
+          "synset": {
+            "id": "omw-en-09903153-n",
+            "ili": "i88881",
+            "pos": "n",
+            "lemmas": [
+              "famous person"
+            ],
+            "definition": "a widely known person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-osobnosť-n04618921",
+          "lemma": "osobnosť",
+          "word_id": "unimet-slk-osobnosť",
+          "synset": {
+            "id": "omw-en-04618921-n",
+            "ili": "i61353",
+            "pos": "n",
+            "lemmas": [
+              "personableness"
+            ],
+            "definition": "the complex of attributes that make a person socially attractive"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-osobnosť-n09903153",
+          "lemma": "osobnosť",
+          "word_id": "unimet-slk-osobnosť",
+          "synset": {
+            "id": "omw-en-09903153-n",
+            "ili": "i88881",
+            "pos": "n",
+            "lemmas": [
+              "famous person"
+            ],
+            "definition": "a widely known person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-osobnosť-n04618921::unimet-slk-osobnosť-n09903153": {
+          "source": "unimet-slk-osobnosť-n04618921",
+          "target": "unimet-slk-osobnosť-n09903153",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "osud",
+      "all_senses": [
+        {
+          "id": "unimet-slk-osud-n09504915",
+          "lemma": "osud",
+          "word_id": "unimet-slk-osud",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        },
+        {
+          "id": "unimet-slk-osud-n14473222",
+          "lemma": "osud",
+          "word_id": "unimet-slk-osud",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-osud-n14473222",
+          "lemma": "osud",
+          "word_id": "unimet-slk-osud",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-osud-n09504915",
+          "lemma": "osud",
+          "word_id": "unimet-slk-osud",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-osud-n14473222::unimet-slk-osud-n09504915": {
+          "source": "unimet-slk-osud-n14473222",
+          "target": "unimet-slk-osud-n09504915",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "paprika",
+      "all_senses": [
+        {
+          "id": "unimet-slk-paprika-n07720442",
+          "lemma": "paprika",
+          "word_id": "unimet-slk-paprika",
+          "synset": {
+            "id": "omw-en-07720442-n",
+            "ili": "i77580",
+            "pos": "n",
+            "lemmas": [
+              "pepper"
+            ],
+            "definition": "sweet and hot varieties of fruits of plants of the genus Capsicum"
+          }
+        },
+        {
+          "id": "unimet-slk-paprika-n12900462",
+          "lemma": "paprika",
+          "word_id": "unimet-slk-paprika",
+          "synset": {
+            "id": "omw-en-12900462-n",
+            "ili": "i104563",
+            "pos": "n",
+            "lemmas": [
+              "capsicum pepper plant"
+            ],
+            "definition": "any of various tropical plants of the genus Capsicum bearing peppers"
+          }
+        },
+        {
+          "id": "unimet-slk-paprika-n12901724",
+          "lemma": "paprika",
+          "word_id": "unimet-slk-paprika",
+          "synset": {
+            "id": "omw-en-12901724-n",
+            "ili": "i104568",
+            "pos": "n",
+            "lemmas": [
+              "capsicum baccatum"
+            ],
+            "definition": "plant bearing very small and very hot oblong red fruits; includes wild forms native to tropical America; thought to be ancestral to the sweet pepper and many hot peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-paprika-n12900462",
+          "lemma": "paprika",
+          "word_id": "unimet-slk-paprika",
+          "synset": {
+            "id": "omw-en-12900462-n",
+            "ili": "i104563",
+            "pos": "n",
+            "lemmas": [
+              "capsicum pepper plant"
+            ],
+            "definition": "any of various tropical plants of the genus Capsicum bearing peppers"
+          }
+        },
+        {
+          "id": "unimet-slk-paprika-n12901724",
+          "lemma": "paprika",
+          "word_id": "unimet-slk-paprika",
+          "synset": {
+            "id": "omw-en-12901724-n",
+            "ili": "i104568",
+            "pos": "n",
+            "lemmas": [
+              "capsicum baccatum"
+            ],
+            "definition": "plant bearing very small and very hot oblong red fruits; includes wild forms native to tropical America; thought to be ancestral to the sweet pepper and many hot peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-paprika-n07720442",
+          "lemma": "paprika",
+          "word_id": "unimet-slk-paprika",
+          "synset": {
+            "id": "omw-en-07720442-n",
+            "ili": "i77580",
+            "pos": "n",
+            "lemmas": [
+              "pepper"
+            ],
+            "definition": "sweet and hot varieties of fruits of plants of the genus Capsicum"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-paprika-n12900462::unimet-slk-paprika-n07720442": {
+          "source": "unimet-slk-paprika-n12900462",
+          "target": "unimet-slk-paprika-n07720442",
+          "type": "metonymy"
+        },
+        "unimet-slk-paprika-n12901724::unimet-slk-paprika-n07720442": {
+          "source": "unimet-slk-paprika-n12901724",
+          "target": "unimet-slk-paprika-n07720442",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "paradajka",
+      "all_senses": [
+        {
+          "id": "unimet-slk-paradajka-n07734017",
+          "lemma": "paradajka",
+          "word_id": "unimet-slk-paradajka",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-slk-paradajka-n12905817",
+          "lemma": "paradajka",
+          "word_id": "unimet-slk-paradajka",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-paradajka-n12905817",
+          "lemma": "paradajka",
+          "word_id": "unimet-slk-paradajka",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-paradajka-n07734017",
+          "lemma": "paradajka",
+          "word_id": "unimet-slk-paradajka",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-paradajka-n12905817::unimet-slk-paradajka-n07734017": {
+          "source": "unimet-slk-paradajka-n12905817",
+          "target": "unimet-slk-paradajka-n07734017",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pohár",
+      "all_senses": [
+        {
+          "id": "unimet-slk-pohár-n03438257",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n03593526",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-03593526-n",
+            "ili": "i55236",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "a vessel (usually cylindrical) with a wide mouth and without handles"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n04119360",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-04119360-n",
+            "ili": "i58343",
+            "pos": "n",
+            "lemmas": [
+              "rummer"
+            ],
+            "definition": "a large drinking glass (ovoid bowl on a stem) for drinking toasts"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n04496872",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-04496872-n",
+            "ili": "i60631",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a glass with a flat bottom but no handle or stem; originally had a round bottom"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n13767239",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-13767239-n",
+            "ili": "i109237",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "the quantity a glass will hold"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n13767822",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-13767822-n",
+            "ili": "i109242",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "the quantity contained in a jar"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-pohár-n03438257",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n03593526",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-03593526-n",
+            "ili": "i55236",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "a vessel (usually cylindrical) with a wide mouth and without handles"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n04119360",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-04119360-n",
+            "ili": "i58343",
+            "pos": "n",
+            "lemmas": [
+              "rummer"
+            ],
+            "definition": "a large drinking glass (ovoid bowl on a stem) for drinking toasts"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n04496872",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-04496872-n",
+            "ili": "i60631",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a glass with a flat bottom but no handle or stem; originally had a round bottom"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-pohár-n13767239",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-13767239-n",
+            "ili": "i109237",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "the quantity a glass will hold"
+          }
+        },
+        {
+          "id": "unimet-slk-pohár-n13767822",
+          "lemma": "pohár",
+          "word_id": "unimet-slk-pohár",
+          "synset": {
+            "id": "omw-en-13767822-n",
+            "ili": "i109242",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "the quantity contained in a jar"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-pohár-n03438257::unimet-slk-pohár-n13767239": {
+          "source": "unimet-slk-pohár-n03438257",
+          "target": "unimet-slk-pohár-n13767239",
+          "type": "metonymy"
+        },
+        "unimet-slk-pohár-n03593526::unimet-slk-pohár-n13767822": {
+          "source": "unimet-slk-pohár-n03593526",
+          "target": "unimet-slk-pohár-n13767822",
+          "type": "metonymy"
+        },
+        "unimet-slk-pohár-n04119360::unimet-slk-pohár-n13767239": {
+          "source": "unimet-slk-pohár-n04119360",
+          "target": "unimet-slk-pohár-n13767239",
+          "type": "metonymy"
+        },
+        "unimet-slk-pohár-n04496872::unimet-slk-pohár-n13767239": {
+          "source": "unimet-slk-pohár-n04496872",
+          "target": "unimet-slk-pohár-n13767239",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "potešenie",
+      "all_senses": [
+        {
+          "id": "unimet-slk-potešenie-n05829782",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-slk-potešenie-n07490713",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-07490713-n",
+            "ili": "i76106",
+            "pos": "n",
+            "lemmas": [
+              "pleasance"
+            ],
+            "definition": "a fundamental feeling that is hard to define but that people desire to experience"
+          }
+        },
+        {
+          "id": "unimet-slk-potešenie-n07491038",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        },
+        {
+          "id": "unimet-slk-potešenie-n07527167",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-07527167-n",
+            "ili": "i76309",
+            "pos": "n",
+            "lemmas": [
+              "gladsomeness"
+            ],
+            "definition": "experiencing joy and pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-potešenie-n07490713",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-07490713-n",
+            "ili": "i76106",
+            "pos": "n",
+            "lemmas": [
+              "pleasance"
+            ],
+            "definition": "a fundamental feeling that is hard to define but that people desire to experience"
+          }
+        },
+        {
+          "id": "unimet-slk-potešenie-n07491038",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        },
+        {
+          "id": "unimet-slk-potešenie-n07527167",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-07527167-n",
+            "ili": "i76309",
+            "pos": "n",
+            "lemmas": [
+              "gladsomeness"
+            ],
+            "definition": "experiencing joy and pleasure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-potešenie-n05829782",
+          "lemma": "potešenie",
+          "word_id": "unimet-slk-potešenie",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-potešenie-n07490713::unimet-slk-potešenie-n05829782": {
+          "source": "unimet-slk-potešenie-n07490713",
+          "target": "unimet-slk-potešenie-n05829782",
+          "type": "metonymy"
+        },
+        "unimet-slk-potešenie-n07491038::unimet-slk-potešenie-n05829782": {
+          "source": "unimet-slk-potešenie-n07491038",
+          "target": "unimet-slk-potešenie-n05829782",
+          "type": "metonymy"
+        },
+        "unimet-slk-potešenie-n07527167::unimet-slk-potešenie-n05829782": {
+          "source": "unimet-slk-potešenie-n07527167",
+          "target": "unimet-slk-potešenie-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "párty",
+      "all_senses": [
+        {
+          "id": "unimet-slk-párty-n07447641",
+          "lemma": "párty",
+          "word_id": "unimet-slk-párty",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-slk-párty-n08252602",
+          "lemma": "párty",
+          "word_id": "unimet-slk-párty",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-párty-n07447641",
+          "lemma": "párty",
+          "word_id": "unimet-slk-párty",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-párty-n08252602",
+          "lemma": "párty",
+          "word_id": "unimet-slk-párty",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-párty-n07447641::unimet-slk-párty-n08252602": {
+          "source": "unimet-slk-párty-n07447641",
+          "target": "unimet-slk-párty-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "spoločenská udalosť",
+      "all_senses": [
+        {
+          "id": "unimet-slk-spoločenská udalosť-n07288639",
+          "lemma": "spoločenská udalosť",
+          "word_id": "unimet-slk-spoločenská udalosť",
+          "synset": {
+            "id": "omw-en-07288639-n",
+            "ili": "i74993",
+            "pos": "n",
+            "lemmas": [
+              "social event"
+            ],
+            "definition": "an event characteristic of persons forming groups"
+          }
+        },
+        {
+          "id": "unimet-slk-spoločenská udalosť-n07447261",
+          "lemma": "spoločenská udalosť",
+          "word_id": "unimet-slk-spoločenská udalosť",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-slk-spoločenská udalosť-n08252211",
+          "lemma": "spoločenská udalosť",
+          "word_id": "unimet-slk-spoločenská udalosť",
+          "synset": {
+            "id": "omw-en-08252211-n",
+            "ili": "i80498",
+            "pos": "n",
+            "lemmas": [
+              "social gathering"
+            ],
+            "definition": "a gathering for the purpose of promoting fellowship"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-spoločenská udalosť-n07288639",
+          "lemma": "spoločenská udalosť",
+          "word_id": "unimet-slk-spoločenská udalosť",
+          "synset": {
+            "id": "omw-en-07288639-n",
+            "ili": "i74993",
+            "pos": "n",
+            "lemmas": [
+              "social event"
+            ],
+            "definition": "an event characteristic of persons forming groups"
+          }
+        },
+        {
+          "id": "unimet-slk-spoločenská udalosť-n07447261",
+          "lemma": "spoločenská udalosť",
+          "word_id": "unimet-slk-spoločenská udalosť",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-spoločenská udalosť-n08252211",
+          "lemma": "spoločenská udalosť",
+          "word_id": "unimet-slk-spoločenská udalosť",
+          "synset": {
+            "id": "omw-en-08252211-n",
+            "ili": "i80498",
+            "pos": "n",
+            "lemmas": [
+              "social gathering"
+            ],
+            "definition": "a gathering for the purpose of promoting fellowship"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-spoločenská udalosť-n07288639::unimet-slk-spoločenská udalosť-n08252211": {
+          "source": "unimet-slk-spoločenská udalosť-n07288639",
+          "target": "unimet-slk-spoločenská udalosť-n08252211",
+          "type": "metonymy"
+        },
+        "unimet-slk-spoločenská udalosť-n07447261::unimet-slk-spoločenská udalosť-n08252211": {
+          "source": "unimet-slk-spoločenská udalosť-n07447261",
+          "target": "unimet-slk-spoločenská udalosť-n08252211",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "susedstvo",
+      "all_senses": [
+        {
+          "id": "unimet-slk-susedstvo-n08225090",
+          "lemma": "susedstvo",
+          "word_id": "unimet-slk-susedstvo",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        },
+        {
+          "id": "unimet-slk-susedstvo-n08642331",
+          "lemma": "susedstvo",
+          "word_id": "unimet-slk-susedstvo",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-susedstvo-n08225090",
+          "lemma": "susedstvo",
+          "word_id": "unimet-slk-susedstvo",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-susedstvo-n08642331",
+          "lemma": "susedstvo",
+          "word_id": "unimet-slk-susedstvo",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-susedstvo-n08225090::unimet-slk-susedstvo-n08642331": {
+          "source": "unimet-slk-susedstvo-n08225090",
+          "target": "unimet-slk-susedstvo-n08642331",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "telefón",
+      "all_senses": [
+        {
+          "id": "unimet-slk-telefón-n03488438",
+          "lemma": "telefón",
+          "word_id": "unimet-slk-telefón",
+          "synset": {
+            "id": "omw-en-03488438-n",
+            "ili": "i54624",
+            "pos": "n",
+            "lemmas": [
+              "receiver"
+            ],
+            "definition": "telephone set with the mouthpiece and earpiece mounted on a single handle"
+          }
+        },
+        {
+          "id": "unimet-slk-telefón-n04401088",
+          "lemma": "telefón",
+          "word_id": "unimet-slk-telefón",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-slk-telefón-n06272290",
+          "lemma": "telefón",
+          "word_id": "unimet-slk-telefón",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-telefón-n03488438",
+          "lemma": "telefón",
+          "word_id": "unimet-slk-telefón",
+          "synset": {
+            "id": "omw-en-03488438-n",
+            "ili": "i54624",
+            "pos": "n",
+            "lemmas": [
+              "receiver"
+            ],
+            "definition": "telephone set with the mouthpiece and earpiece mounted on a single handle"
+          }
+        },
+        {
+          "id": "unimet-slk-telefón-n04401088",
+          "lemma": "telefón",
+          "word_id": "unimet-slk-telefón",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-telefón-n06272290",
+          "lemma": "telefón",
+          "word_id": "unimet-slk-telefón",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-telefón-n03488438::unimet-slk-telefón-n06272290": {
+          "source": "unimet-slk-telefón-n03488438",
+          "target": "unimet-slk-telefón-n06272290",
+          "type": "metonymy"
+        },
+        "unimet-slk-telefón-n04401088::unimet-slk-telefón-n06272290": {
+          "source": "unimet-slk-telefón-n04401088",
+          "target": "unimet-slk-telefón-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "televízia",
+      "all_senses": [
+        {
+          "id": "unimet-slk-televízia-n04404412",
+          "lemma": "televízia",
+          "word_id": "unimet-slk-televízia",
+          "synset": {
+            "id": "omw-en-04404412-n",
+            "ili": "i60084",
+            "pos": "n",
+            "lemmas": [
+              "television system"
+            ],
+            "definition": "a telecommunication system that transmits images of objects (stationary or moving) between distant points"
+          }
+        },
+        {
+          "id": "unimet-slk-televízia-n04405907",
+          "lemma": "televízia",
+          "word_id": "unimet-slk-televízia",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        },
+        {
+          "id": "unimet-slk-televízia-n06277280",
+          "lemma": "televízia",
+          "word_id": "unimet-slk-televízia",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-televízia-n04404412",
+          "lemma": "televízia",
+          "word_id": "unimet-slk-televízia",
+          "synset": {
+            "id": "omw-en-04404412-n",
+            "ili": "i60084",
+            "pos": "n",
+            "lemmas": [
+              "television system"
+            ],
+            "definition": "a telecommunication system that transmits images of objects (stationary or moving) between distant points"
+          }
+        },
+        {
+          "id": "unimet-slk-televízia-n04405907",
+          "lemma": "televízia",
+          "word_id": "unimet-slk-televízia",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-televízia-n06277280",
+          "lemma": "televízia",
+          "word_id": "unimet-slk-televízia",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-televízia-n04404412::unimet-slk-televízia-n06277280": {
+          "source": "unimet-slk-televízia-n04404412",
+          "target": "unimet-slk-televízia-n06277280",
+          "type": "metonymy"
+        },
+        "unimet-slk-televízia-n04405907::unimet-slk-televízia-n06277280": {
+          "source": "unimet-slk-televízia-n04405907",
+          "target": "unimet-slk-televízia-n06277280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tkanina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-tkanina-n03309808",
+          "lemma": "tkanina",
+          "word_id": "unimet-slk-tkanina",
+          "synset": {
+            "id": "omw-en-03309808-n",
+            "ili": "i53547",
+            "pos": "n",
+            "lemmas": [
+              "mat"
+            ],
+            "definition": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers"
+          }
+        },
+        {
+          "id": "unimet-slk-tkanina-n14866889",
+          "lemma": "tkanina",
+          "word_id": "unimet-slk-tkanina",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-tkanina-n14866889",
+          "lemma": "tkanina",
+          "word_id": "unimet-slk-tkanina",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-tkanina-n03309808",
+          "lemma": "tkanina",
+          "word_id": "unimet-slk-tkanina",
+          "synset": {
+            "id": "omw-en-03309808-n",
+            "ili": "i53547",
+            "pos": "n",
+            "lemmas": [
+              "mat"
+            ],
+            "definition": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-tkanina-n14866889::unimet-slk-tkanina-n03309808": {
+          "source": "unimet-slk-tkanina-n14866889",
+          "target": "unimet-slk-tkanina-n03309808",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "večierok",
+      "all_senses": [
+        {
+          "id": "unimet-slk-večierok-n07447641",
+          "lemma": "večierok",
+          "word_id": "unimet-slk-večierok",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-slk-večierok-n08252602",
+          "lemma": "večierok",
+          "word_id": "unimet-slk-večierok",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-večierok-n07447641",
+          "lemma": "večierok",
+          "word_id": "unimet-slk-večierok",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-večierok-n08252602",
+          "lemma": "večierok",
+          "word_id": "unimet-slk-večierok",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-večierok-n07447641::unimet-slk-večierok-n08252602": {
+          "source": "unimet-slk-večierok-n07447641",
+          "target": "unimet-slk-večierok-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "veľvyslanectvo",
+      "all_senses": [
+        {
+          "id": "unimet-slk-veľvyslanectvo-n03282295",
+          "lemma": "veľvyslanectvo",
+          "word_id": "unimet-slk-veľvyslanectvo",
+          "synset": {
+            "id": "omw-en-03282295-n",
+            "ili": "i53393",
+            "pos": "n",
+            "lemmas": [
+              "embassy"
+            ],
+            "definition": "a diplomatic building where ambassadors live or work"
+          }
+        },
+        {
+          "id": "unimet-slk-veľvyslanectvo-n08402693",
+          "lemma": "veľvyslanectvo",
+          "word_id": "unimet-slk-veľvyslanectvo",
+          "synset": {
+            "id": "omw-en-08402693-n",
+            "ili": "i81256",
+            "pos": "n",
+            "lemmas": [
+              "diplomatic corps"
+            ],
+            "definition": "a mission serving diplomatic ends"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-veľvyslanectvo-n03282295",
+          "lemma": "veľvyslanectvo",
+          "word_id": "unimet-slk-veľvyslanectvo",
+          "synset": {
+            "id": "omw-en-03282295-n",
+            "ili": "i53393",
+            "pos": "n",
+            "lemmas": [
+              "embassy"
+            ],
+            "definition": "a diplomatic building where ambassadors live or work"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-veľvyslanectvo-n08402693",
+          "lemma": "veľvyslanectvo",
+          "word_id": "unimet-slk-veľvyslanectvo",
+          "synset": {
+            "id": "omw-en-08402693-n",
+            "ili": "i81256",
+            "pos": "n",
+            "lemmas": [
+              "diplomatic corps"
+            ],
+            "definition": "a mission serving diplomatic ends"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-veľvyslanectvo-n03282295::unimet-slk-veľvyslanectvo-n08402693": {
+          "source": "unimet-slk-veľvyslanectvo-n03282295",
+          "target": "unimet-slk-veľvyslanectvo-n08402693",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vlákno",
+      "all_senses": [
+        {
+          "id": "unimet-slk-vlákno-n04426788",
+          "lemma": "vlákno",
+          "word_id": "unimet-slk-vlákno",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-slk-vlákno-n14866889",
+          "lemma": "vlákno",
+          "word_id": "unimet-slk-vlákno",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-vlákno-n14866889",
+          "lemma": "vlákno",
+          "word_id": "unimet-slk-vlákno",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-vlákno-n04426788",
+          "lemma": "vlákno",
+          "word_id": "unimet-slk-vlákno",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-vlákno-n14866889::unimet-slk-vlákno-n04426788": {
+          "source": "unimet-slk-vlákno-n14866889",
+          "target": "unimet-slk-vlákno-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zelenina",
+      "all_senses": [
+        {
+          "id": "unimet-slk-zelenina-n07707451",
+          "lemma": "zelenina",
+          "word_id": "unimet-slk-zelenina",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-slk-zelenina-n07709333",
+          "lemma": "zelenina",
+          "word_id": "unimet-slk-zelenina",
+          "synset": {
+            "id": "omw-en-07709333-n",
+            "ili": "i77510",
+            "pos": "n",
+            "lemmas": [
+              "wild"
+            ],
+            "definition": "any of various leafy plants or their leaves and stems eaten as vegetables"
+          }
+        },
+        {
+          "id": "unimet-slk-zelenina-n12212361",
+          "lemma": "zelenina",
+          "word_id": "unimet-slk-zelenina",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-zelenina-n12212361",
+          "lemma": "zelenina",
+          "word_id": "unimet-slk-zelenina",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-zelenina-n07707451",
+          "lemma": "zelenina",
+          "word_id": "unimet-slk-zelenina",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-slk-zelenina-n07709333",
+          "lemma": "zelenina",
+          "word_id": "unimet-slk-zelenina",
+          "synset": {
+            "id": "omw-en-07709333-n",
+            "ili": "i77510",
+            "pos": "n",
+            "lemmas": [
+              "wild"
+            ],
+            "definition": "any of various leafy plants or their leaves and stems eaten as vegetables"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-zelenina-n12212361::unimet-slk-zelenina-n07707451": {
+          "source": "unimet-slk-zelenina-n12212361",
+          "target": "unimet-slk-zelenina-n07707451",
+          "type": "metonymy"
+        },
+        "unimet-slk-zelenina-n12212361::unimet-slk-zelenina-n07709333": {
+          "source": "unimet-slk-zelenina-n12212361",
+          "target": "unimet-slk-zelenina-n07709333",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "znepokojenie",
+      "all_senses": [
+        {
+          "id": "unimet-slk-znepokojenie-n05832264",
+          "lemma": "znepokojenie",
+          "word_id": "unimet-slk-znepokojenie",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-slk-znepokojenie-n07523905",
+          "lemma": "znepokojenie",
+          "word_id": "unimet-slk-znepokojenie",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-znepokojenie-n07523905",
+          "lemma": "znepokojenie",
+          "word_id": "unimet-slk-znepokojenie",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-znepokojenie-n05832264",
+          "lemma": "znepokojenie",
+          "word_id": "unimet-slk-znepokojenie",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-znepokojenie-n07523905::unimet-slk-znepokojenie-n05832264": {
+          "source": "unimet-slk-znepokojenie-n07523905",
+          "target": "unimet-slk-znepokojenie-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zármutok",
+      "all_senses": [
+        {
+          "id": "unimet-slk-zármutok-n05833683",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-slk-zármutok-n07534430",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-slk-zármutok-n07535010",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        },
+        {
+          "id": "unimet-slk-zármutok-n07535532",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-07535532-n",
+            "ili": "i76355",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "(poetry) painful grief"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-zármutok-n07534430",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-slk-zármutok-n07535010",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        },
+        {
+          "id": "unimet-slk-zármutok-n07535532",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-07535532-n",
+            "ili": "i76355",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "(poetry) painful grief"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-zármutok-n05833683",
+          "lemma": "zármutok",
+          "word_id": "unimet-slk-zármutok",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-zármutok-n07534430::unimet-slk-zármutok-n05833683": {
+          "source": "unimet-slk-zármutok-n07534430",
+          "target": "unimet-slk-zármutok-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-slk-zármutok-n07535010::unimet-slk-zármutok-n05833683": {
+          "source": "unimet-slk-zármutok-n07535010",
+          "target": "unimet-slk-zármutok-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-slk-zármutok-n07535532::unimet-slk-zármutok-n05833683": {
+          "source": "unimet-slk-zármutok-n07535532",
+          "target": "unimet-slk-zármutok-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "škatuľa",
+      "all_senses": [
+        {
+          "id": "unimet-slk-škatuľa-n02883344",
+          "lemma": "škatuľa",
+          "word_id": "unimet-slk-škatuľa",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        },
+        {
+          "id": "unimet-slk-škatuľa-n02971356",
+          "lemma": "škatuľa",
+          "word_id": "unimet-slk-škatuľa",
+          "synset": {
+            "id": "omw-en-02971356-n",
+            "ili": "i51569",
+            "pos": "n",
+            "lemmas": [
+              "carton"
+            ],
+            "definition": "a box made of cardboard; opens by flaps on top"
+          }
+        },
+        {
+          "id": "unimet-slk-škatuľa-n13765624",
+          "lemma": "škatuľa",
+          "word_id": "unimet-slk-škatuľa",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-škatuľa-n02883344",
+          "lemma": "škatuľa",
+          "word_id": "unimet-slk-škatuľa",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        },
+        {
+          "id": "unimet-slk-škatuľa-n02971356",
+          "lemma": "škatuľa",
+          "word_id": "unimet-slk-škatuľa",
+          "synset": {
+            "id": "omw-en-02971356-n",
+            "ili": "i51569",
+            "pos": "n",
+            "lemmas": [
+              "carton"
+            ],
+            "definition": "a box made of cardboard; opens by flaps on top"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-škatuľa-n13765624",
+          "lemma": "škatuľa",
+          "word_id": "unimet-slk-škatuľa",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-škatuľa-n02883344::unimet-slk-škatuľa-n13765624": {
+          "source": "unimet-slk-škatuľa-n02883344",
+          "target": "unimet-slk-škatuľa-n13765624",
+          "type": "metonymy"
+        },
+        "unimet-slk-škatuľa-n02971356::unimet-slk-škatuľa-n13765624": {
+          "source": "unimet-slk-škatuľa-n02971356",
+          "target": "unimet-slk-škatuľa-n13765624",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "štát",
+      "all_senses": [
+        {
+          "id": "unimet-slk-štát-n08166552",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08168978",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08178547",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08544813",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08654360",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-štát-n08166552",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08168978",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08178547",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-štát-n08544813",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-slk-štát-n08654360",
+          "lemma": "štát",
+          "word_id": "unimet-slk-štát",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-štát-n08166552::unimet-slk-štát-n08544813": {
+          "source": "unimet-slk-štát-n08166552",
+          "target": "unimet-slk-štát-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-slk-štát-n08168978::unimet-slk-štát-n08544813": {
+          "source": "unimet-slk-štát-n08168978",
+          "target": "unimet-slk-štát-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-slk-štát-n08168978::unimet-slk-štát-n08654360": {
+          "source": "unimet-slk-štát-n08168978",
+          "target": "unimet-slk-štát-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-slk-štát-n08178547::unimet-slk-štát-n08544813": {
+          "source": "unimet-slk-štát-n08178547",
+          "target": "unimet-slk-štát-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-slk-štát-n08178547::unimet-slk-štát-n08654360": {
+          "source": "unimet-slk-štát-n08178547",
+          "target": "unimet-slk-štát-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "žiaľ",
+      "all_senses": [
+        {
+          "id": "unimet-slk-žiaľ-n05833683",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-slk-žiaľ-n07534430",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-slk-žiaľ-n07535010",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        },
+        {
+          "id": "unimet-slk-žiaľ-n07535670",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-07535670-n",
+            "ili": "i76356",
+            "pos": "n",
+            "lemmas": [
+              "rue"
+            ],
+            "definition": "sadness associated with some wrong done or some disappointment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-slk-žiaľ-n07534430",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-slk-žiaľ-n07535010",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        },
+        {
+          "id": "unimet-slk-žiaľ-n07535670",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-07535670-n",
+            "ili": "i76356",
+            "pos": "n",
+            "lemmas": [
+              "rue"
+            ],
+            "definition": "sadness associated with some wrong done or some disappointment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-slk-žiaľ-n05833683",
+          "lemma": "žiaľ",
+          "word_id": "unimet-slk-žiaľ",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-slk-žiaľ-n07534430::unimet-slk-žiaľ-n05833683": {
+          "source": "unimet-slk-žiaľ-n07534430",
+          "target": "unimet-slk-žiaľ-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-slk-žiaľ-n07535010::unimet-slk-žiaľ-n05833683": {
+          "source": "unimet-slk-žiaľ-n07535010",
+          "target": "unimet-slk-žiaľ-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-slk-žiaľ-n07535670::unimet-slk-žiaľ-n05833683": {
+          "source": "unimet-slk-žiaľ-n07535670",
+          "target": "unimet-slk-žiaľ-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

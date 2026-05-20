@@ -1,0 +1,244 @@
+{
+  "id": "2bcd5a85335e16df",
+  "name": "unimet-Sardinian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "sro",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "arangiu",
+      "all_senses": [
+        {
+          "id": "unimet-sro-arangiu-n07747607",
+          "lemma": "arangiu",
+          "word_id": "unimet-sro-arangiu",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-sro-arangiu-n12708293",
+          "lemma": "arangiu",
+          "word_id": "unimet-sro-arangiu",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sro-arangiu-n07747607",
+          "lemma": "arangiu",
+          "word_id": "unimet-sro-arangiu",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sro-arangiu-n12708293",
+          "lemma": "arangiu",
+          "word_id": "unimet-sro-arangiu",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sro-arangiu-n07747607::unimet-sro-arangiu-n12708293": {
+          "source": "unimet-sro-arangiu-n07747607",
+          "target": "unimet-sro-arangiu-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "piricoccu",
+      "all_senses": [
+        {
+          "id": "unimet-sro-piricoccu-n07750872",
+          "lemma": "piricoccu",
+          "word_id": "unimet-sro-piricoccu",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-sro-piricoccu-n12640607",
+          "lemma": "piricoccu",
+          "word_id": "unimet-sro-piricoccu",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sro-piricoccu-n07750872",
+          "lemma": "piricoccu",
+          "word_id": "unimet-sro-piricoccu",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sro-piricoccu-n12640607",
+          "lemma": "piricoccu",
+          "word_id": "unimet-sro-piricoccu",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sro-piricoccu-n07750872::unimet-sro-piricoccu-n12640607": {
+          "source": "unimet-sro-piricoccu-n07750872",
+          "target": "unimet-sro-piricoccu-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "síndria",
+      "all_senses": [
+        {
+          "id": "unimet-sro-síndria-n07756951",
+          "lemma": "síndria",
+          "word_id": "unimet-sro-síndria",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-sro-síndria-n12164065",
+          "lemma": "síndria",
+          "word_id": "unimet-sro-síndria",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sro-síndria-n07756951",
+          "lemma": "síndria",
+          "word_id": "unimet-sro-síndria",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sro-síndria-n12164065",
+          "lemma": "síndria",
+          "word_id": "unimet-sro-síndria",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sro-síndria-n07756951::unimet-sro-síndria-n12164065": {
+          "source": "unimet-sro-síndria-n07756951",
+          "target": "unimet-sro-síndria-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

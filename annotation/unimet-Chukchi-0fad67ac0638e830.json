@@ -1,0 +1,92 @@
+{
+  "id": "0fad67ac0638e830",
+  "name": "unimet-Chukchi",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ckt",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "к’эргычьын",
+      "all_senses": [
+        {
+          "id": "unimet-ckt-к’эргычьын-n04587648",
+          "lemma": "к’эргычьын",
+          "word_id": "unimet-ckt-к’эргычьын",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "unimet-ckt-к’эргычьын-n14881303",
+          "lemma": "к’эргычьын",
+          "word_id": "unimet-ckt-к’эргычьын",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ckt-к’эргычьын-n14881303",
+          "lemma": "к’эргычьын",
+          "word_id": "unimet-ckt-к’эргычьын",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ckt-к’эргычьын-n04587648",
+          "lemma": "к’эргычьын",
+          "word_id": "unimet-ckt-к’эргычьын",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ckt-к’эргычьын-n14881303::unimet-ckt-к’эргычьын-n04587648": {
+          "source": "unimet-ckt-к’эргычьын-n14881303",
+          "target": "unimet-ckt-к’эргычьын-n04587648",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

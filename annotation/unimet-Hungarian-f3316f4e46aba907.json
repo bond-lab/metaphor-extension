@@ -1,0 +1,2319 @@
+{
+  "id": "f3316f4e46aba907",
+  "name": "unimet-Hungarian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "hun",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ananász",
+      "all_senses": [
+        {
+          "id": "unimet-hun-ananász-n07753275",
+          "lemma": "ananász",
+          "word_id": "unimet-hun-ananász",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-hun-ananász-n12607456",
+          "lemma": "ananász",
+          "word_id": "unimet-hun-ananász",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-ananász-n07753275",
+          "lemma": "ananász",
+          "word_id": "unimet-hun-ananász",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-ananász-n12607456",
+          "lemma": "ananász",
+          "word_id": "unimet-hun-ananász",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-ananász-n07753275::unimet-hun-ananász-n12607456": {
+          "source": "unimet-hun-ananász-n07753275",
+          "target": "unimet-hun-ananász-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "anomália",
+      "all_senses": [
+        {
+          "id": "unimet-hun-anomália-n09606527",
+          "lemma": "anomália",
+          "word_id": "unimet-hun-anomália",
+          "synset": {
+            "id": "omw-en-09606527-n",
+            "ili": "i87155",
+            "pos": "n",
+            "lemmas": [
+              "anomaly"
+            ],
+            "definition": "a person who is unusual"
+          }
+        },
+        {
+          "id": "unimet-hun-anomália-n14505821",
+          "lemma": "anomália",
+          "word_id": "unimet-hun-anomália",
+          "synset": {
+            "id": "omw-en-14505821-n",
+            "ili": "i113231",
+            "pos": "n",
+            "lemmas": [
+              "anomalousness"
+            ],
+            "definition": "deviation from the normal or common order or form or rule"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-anomália-n14505821",
+          "lemma": "anomália",
+          "word_id": "unimet-hun-anomália",
+          "synset": {
+            "id": "omw-en-14505821-n",
+            "ili": "i113231",
+            "pos": "n",
+            "lemmas": [
+              "anomalousness"
+            ],
+            "definition": "deviation from the normal or common order or form or rule"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-anomália-n09606527",
+          "lemma": "anomália",
+          "word_id": "unimet-hun-anomália",
+          "synset": {
+            "id": "omw-en-09606527-n",
+            "ili": "i87155",
+            "pos": "n",
+            "lemmas": [
+              "anomaly"
+            ],
+            "definition": "a person who is unusual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-anomália-n14505821::unimet-hun-anomália-n09606527": {
+          "source": "unimet-hun-anomália-n14505821",
+          "target": "unimet-hun-anomália-n09606527",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "birodalom",
+      "all_senses": [
+        {
+          "id": "unimet-hun-birodalom-n08052413",
+          "lemma": "birodalom",
+          "word_id": "unimet-hun-birodalom",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-hun-birodalom-n08558155",
+          "lemma": "birodalom",
+          "word_id": "unimet-hun-birodalom",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-birodalom-n08052413",
+          "lemma": "birodalom",
+          "word_id": "unimet-hun-birodalom",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-birodalom-n08558155",
+          "lemma": "birodalom",
+          "word_id": "unimet-hun-birodalom",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-birodalom-n08052413::unimet-hun-birodalom-n08558155": {
+          "source": "unimet-hun-birodalom-n08052413",
+          "target": "unimet-hun-birodalom-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "datolyaszilva",
+      "all_senses": [
+        {
+          "id": "unimet-hun-datolyaszilva-n07746186",
+          "lemma": "datolyaszilva",
+          "word_id": "unimet-hun-datolyaszilva",
+          "synset": {
+            "id": "omw-en-07746186-n",
+            "ili": "i77755",
+            "pos": "n",
+            "lemmas": [
+              "persimmon"
+            ],
+            "definition": "orange fruit resembling a plum; edible when fully ripe"
+          }
+        },
+        {
+          "id": "unimet-hun-datolyaszilva-n12771192",
+          "lemma": "datolyaszilva",
+          "word_id": "unimet-hun-datolyaszilva",
+          "synset": {
+            "id": "omw-en-12771192-n",
+            "ili": "i103941",
+            "pos": "n",
+            "lemmas": [
+              "persimmon tree"
+            ],
+            "definition": "any of several tropical trees of the genus Diospyros"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-datolyaszilva-n07746186",
+          "lemma": "datolyaszilva",
+          "word_id": "unimet-hun-datolyaszilva",
+          "synset": {
+            "id": "omw-en-07746186-n",
+            "ili": "i77755",
+            "pos": "n",
+            "lemmas": [
+              "persimmon"
+            ],
+            "definition": "orange fruit resembling a plum; edible when fully ripe"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-datolyaszilva-n12771192",
+          "lemma": "datolyaszilva",
+          "word_id": "unimet-hun-datolyaszilva",
+          "synset": {
+            "id": "omw-en-12771192-n",
+            "ili": "i103941",
+            "pos": "n",
+            "lemmas": [
+              "persimmon tree"
+            ],
+            "definition": "any of several tropical trees of the genus Diospyros"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-datolyaszilva-n07746186::unimet-hun-datolyaszilva-n12771192": {
+          "source": "unimet-hun-datolyaszilva-n07746186",
+          "target": "unimet-hun-datolyaszilva-n12771192",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "eper",
+      "all_senses": [
+        {
+          "id": "unimet-hun-eper-n07745940",
+          "lemma": "eper",
+          "word_id": "unimet-hun-eper",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-hun-eper-n12630144",
+          "lemma": "eper",
+          "word_id": "unimet-hun-eper",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-eper-n07745940",
+          "lemma": "eper",
+          "word_id": "unimet-hun-eper",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-eper-n12630144",
+          "lemma": "eper",
+          "word_id": "unimet-hun-eper",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-eper-n07745940::unimet-hun-eper-n12630144": {
+          "source": "unimet-hun-eper-n07745940",
+          "target": "unimet-hun-eper-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "falu",
+      "all_senses": [
+        {
+          "id": "unimet-hun-falu-n08226699",
+          "lemma": "falu",
+          "word_id": "unimet-hun-falu",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-hun-falu-n08672738",
+          "lemma": "falu",
+          "word_id": "unimet-hun-falu",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-falu-n08226699",
+          "lemma": "falu",
+          "word_id": "unimet-hun-falu",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-falu-n08672738",
+          "lemma": "falu",
+          "word_id": "unimet-hun-falu",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-falu-n08226699::unimet-hun-falu-n08672738": {
+          "source": "unimet-hun-falu-n08226699",
+          "target": "unimet-hun-falu-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fogoly",
+      "all_senses": [
+        {
+          "id": "unimet-hun-fogoly-n01807828",
+          "lemma": "fogoly",
+          "word_id": "unimet-hun-fogoly",
+          "synset": {
+            "id": "omw-en-01807828-n",
+            "ili": "i44813",
+            "pos": "n",
+            "lemmas": [
+              "perdix perdix"
+            ],
+            "definition": "common European partridge"
+          }
+        },
+        {
+          "id": "unimet-hun-fogoly-n07647496",
+          "lemma": "fogoly",
+          "word_id": "unimet-hun-fogoly",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-fogoly-n01807828",
+          "lemma": "fogoly",
+          "word_id": "unimet-hun-fogoly",
+          "synset": {
+            "id": "omw-en-01807828-n",
+            "ili": "i44813",
+            "pos": "n",
+            "lemmas": [
+              "perdix perdix"
+            ],
+            "definition": "common European partridge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-fogoly-n07647496",
+          "lemma": "fogoly",
+          "word_id": "unimet-hun-fogoly",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-fogoly-n01807828::unimet-hun-fogoly-n07647496": {
+          "source": "unimet-hun-fogoly-n01807828",
+          "target": "unimet-hun-fogoly-n07647496",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fonál",
+      "all_senses": [
+        {
+          "id": "unimet-hun-fonál-n04426788",
+          "lemma": "fonál",
+          "word_id": "unimet-hun-fonál",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-hun-fonál-n14866889",
+          "lemma": "fonál",
+          "word_id": "unimet-hun-fonál",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-fonál-n14866889",
+          "lemma": "fonál",
+          "word_id": "unimet-hun-fonál",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-fonál-n04426788",
+          "lemma": "fonál",
+          "word_id": "unimet-hun-fonál",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-fonál-n14866889::unimet-hun-fonál-n04426788": {
+          "source": "unimet-hun-fonál-n14866889",
+          "target": "unimet-hun-fonál-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "földieper",
+      "all_senses": [
+        {
+          "id": "unimet-hun-földieper-n07745940",
+          "lemma": "földieper",
+          "word_id": "unimet-hun-földieper",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-hun-földieper-n12630144",
+          "lemma": "földieper",
+          "word_id": "unimet-hun-földieper",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-földieper-n07745940",
+          "lemma": "földieper",
+          "word_id": "unimet-hun-földieper",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-földieper-n12630144",
+          "lemma": "földieper",
+          "word_id": "unimet-hun-földieper",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-földieper-n07745940::unimet-hun-földieper-n12630144": {
+          "source": "unimet-hun-földieper-n07745940",
+          "target": "unimet-hun-földieper-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gipsz",
+      "all_senses": [
+        {
+          "id": "unimet-hun-gipsz-n02979836",
+          "lemma": "gipsz",
+          "word_id": "unimet-hun-gipsz",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        },
+        {
+          "id": "unimet-hun-gipsz-n14677778",
+          "lemma": "gipsz",
+          "word_id": "unimet-hun-gipsz",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-gipsz-n14677778",
+          "lemma": "gipsz",
+          "word_id": "unimet-hun-gipsz",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-gipsz-n02979836",
+          "lemma": "gipsz",
+          "word_id": "unimet-hun-gipsz",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-gipsz-n14677778::unimet-hun-gipsz-n02979836": {
+          "source": "unimet-hun-gipsz-n14677778",
+          "target": "unimet-hun-gipsz-n02979836",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gomba",
+      "all_senses": [
+        {
+          "id": "unimet-hun-gomba-n07734744",
+          "lemma": "gomba",
+          "word_id": "unimet-hun-gomba",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-hun-gomba-n12992868",
+          "lemma": "gomba",
+          "word_id": "unimet-hun-gomba",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-gomba-n12992868",
+          "lemma": "gomba",
+          "word_id": "unimet-hun-gomba",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-gomba-n07734744",
+          "lemma": "gomba",
+          "word_id": "unimet-hun-gomba",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-gomba-n12992868::unimet-hun-gomba-n07734744": {
+          "source": "unimet-hun-gomba-n12992868",
+          "target": "unimet-hun-gomba-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gumi",
+      "all_senses": [
+        {
+          "id": "unimet-hun-gumi-n03088164",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-hun-gumi-n04116512",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-hun-gumi-n04440749",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-04440749-n",
+            "ili": "i60299",
+            "pos": "n",
+            "lemmas": [
+              "tire"
+            ],
+            "definition": "hoop that covers a wheel"
+          }
+        },
+        {
+          "id": "unimet-hun-gumi-n15006258",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-gumi-n15006258",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-gumi-n03088164",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-hun-gumi-n04116512",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-hun-gumi-n04440749",
+          "lemma": "gumi",
+          "word_id": "unimet-hun-gumi",
+          "synset": {
+            "id": "omw-en-04440749-n",
+            "ili": "i60299",
+            "pos": "n",
+            "lemmas": [
+              "tire"
+            ],
+            "definition": "hoop that covers a wheel"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-gumi-n15006258::unimet-hun-gumi-n03088164": {
+          "source": "unimet-hun-gumi-n15006258",
+          "target": "unimet-hun-gumi-n03088164",
+          "type": "metonymy"
+        },
+        "unimet-hun-gumi-n15006258::unimet-hun-gumi-n04116512": {
+          "source": "unimet-hun-gumi-n15006258",
+          "target": "unimet-hun-gumi-n04116512",
+          "type": "metonymy"
+        },
+        "unimet-hun-gumi-n15006258::unimet-hun-gumi-n04440749": {
+          "source": "unimet-hun-gumi-n15006258",
+          "target": "unimet-hun-gumi-n04440749",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gyapjú",
+      "all_senses": [
+        {
+          "id": "unimet-hun-gyapjú-n04599235",
+          "lemma": "gyapjú",
+          "word_id": "unimet-hun-gyapjú",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-hun-gyapjú-n15104217",
+          "lemma": "gyapjú",
+          "word_id": "unimet-hun-gyapjú",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        },
+        {
+          "id": "unimet-hun-gyapjú-n15104752",
+          "lemma": "gyapjú",
+          "word_id": "unimet-hun-gyapjú",
+          "synset": {
+            "id": "omw-en-15104752-n",
+            "ili": "i116583",
+            "pos": "n",
+            "lemmas": [
+              "fleece"
+            ],
+            "definition": "the wool of a sheep or similar animal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-gyapjú-n15104217",
+          "lemma": "gyapjú",
+          "word_id": "unimet-hun-gyapjú",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        },
+        {
+          "id": "unimet-hun-gyapjú-n15104752",
+          "lemma": "gyapjú",
+          "word_id": "unimet-hun-gyapjú",
+          "synset": {
+            "id": "omw-en-15104752-n",
+            "ili": "i116583",
+            "pos": "n",
+            "lemmas": [
+              "fleece"
+            ],
+            "definition": "the wool of a sheep or similar animal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-gyapjú-n04599235",
+          "lemma": "gyapjú",
+          "word_id": "unimet-hun-gyapjú",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-gyapjú-n15104217::unimet-hun-gyapjú-n04599235": {
+          "source": "unimet-hun-gyapjú-n15104217",
+          "target": "unimet-hun-gyapjú-n04599235",
+          "type": "metonymy"
+        },
+        "unimet-hun-gyapjú-n15104752::unimet-hun-gyapjú-n04599235": {
+          "source": "unimet-hun-gyapjú-n15104752",
+          "target": "unimet-hun-gyapjú-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kasmír",
+      "all_senses": [
+        {
+          "id": "unimet-hun-kasmír-n02977330",
+          "lemma": "kasmír",
+          "word_id": "unimet-hun-kasmír",
+          "synset": {
+            "id": "omw-en-02977330-n",
+            "ili": "i51604",
+            "pos": "n",
+            "lemmas": [
+              "cashmere"
+            ],
+            "definition": "a soft fabric made from the wool of the Cashmere goat"
+          }
+        },
+        {
+          "id": "unimet-hun-kasmír-n15104669",
+          "lemma": "kasmír",
+          "word_id": "unimet-hun-kasmír",
+          "synset": {
+            "id": "omw-en-15104669-n",
+            "ili": "i116582",
+            "pos": "n",
+            "lemmas": [
+              "cashmere"
+            ],
+            "definition": "the wool of the Kashmir goat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-kasmír-n15104669",
+          "lemma": "kasmír",
+          "word_id": "unimet-hun-kasmír",
+          "synset": {
+            "id": "omw-en-15104669-n",
+            "ili": "i116582",
+            "pos": "n",
+            "lemmas": [
+              "cashmere"
+            ],
+            "definition": "the wool of the Kashmir goat"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-kasmír-n02977330",
+          "lemma": "kasmír",
+          "word_id": "unimet-hun-kasmír",
+          "synset": {
+            "id": "omw-en-02977330-n",
+            "ili": "i51604",
+            "pos": "n",
+            "lemmas": [
+              "cashmere"
+            ],
+            "definition": "a soft fabric made from the wool of the Cashmere goat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-kasmír-n15104669::unimet-hun-kasmír-n02977330": {
+          "source": "unimet-hun-kasmír-n15104669",
+          "target": "unimet-hun-kasmír-n02977330",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "katalizátor",
+      "all_senses": [
+        {
+          "id": "unimet-hun-katalizátor-n02981321",
+          "lemma": "katalizátor",
+          "word_id": "unimet-hun-katalizátor",
+          "synset": {
+            "id": "omw-en-02981321-n",
+            "ili": "i51630",
+            "pos": "n",
+            "lemmas": [
+              "catalytic converter"
+            ],
+            "definition": "a converter that uses a platinum-iridium catalyst to oxidize pollutants and carbon monoxide into carbon dioxide and water; an antipollution device on an automotive exhaust system"
+          }
+        },
+        {
+          "id": "unimet-hun-katalizátor-n14723628",
+          "lemma": "katalizátor",
+          "word_id": "unimet-hun-katalizátor",
+          "synset": {
+            "id": "omw-en-14723628-n",
+            "ili": "i114375",
+            "pos": "n",
+            "lemmas": [
+              "catalyst"
+            ],
+            "definition": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-katalizátor-n14723628",
+          "lemma": "katalizátor",
+          "word_id": "unimet-hun-katalizátor",
+          "synset": {
+            "id": "omw-en-14723628-n",
+            "ili": "i114375",
+            "pos": "n",
+            "lemmas": [
+              "catalyst"
+            ],
+            "definition": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-katalizátor-n02981321",
+          "lemma": "katalizátor",
+          "word_id": "unimet-hun-katalizátor",
+          "synset": {
+            "id": "omw-en-02981321-n",
+            "ili": "i51630",
+            "pos": "n",
+            "lemmas": [
+              "catalytic converter"
+            ],
+            "definition": "a converter that uses a platinum-iridium catalyst to oxidize pollutants and carbon monoxide into carbon dioxide and water; an antipollution device on an automotive exhaust system"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-katalizátor-n14723628::unimet-hun-katalizátor-n02981321": {
+          "source": "unimet-hun-katalizátor-n14723628",
+          "target": "unimet-hun-katalizátor-n02981321",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kesudió",
+      "all_senses": [
+        {
+          "id": "unimet-hun-kesudió-n07772147",
+          "lemma": "kesudió",
+          "word_id": "unimet-hun-kesudió",
+          "synset": {
+            "id": "omw-en-07772147-n",
+            "ili": "i77922",
+            "pos": "n",
+            "lemmas": [
+              "cashew"
+            ],
+            "definition": "kidney-shaped nut edible only when roasted"
+          }
+        },
+        {
+          "id": "unimet-hun-kesudió-n12759273",
+          "lemma": "kesudió",
+          "word_id": "unimet-hun-kesudió",
+          "synset": {
+            "id": "omw-en-12759273-n",
+            "ili": "i103884",
+            "pos": "n",
+            "lemmas": [
+              "cashew tree"
+            ],
+            "definition": "tropical American evergreen tree bearing kidney-shaped nuts that are edible only when roasted"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-kesudió-n07772147",
+          "lemma": "kesudió",
+          "word_id": "unimet-hun-kesudió",
+          "synset": {
+            "id": "omw-en-07772147-n",
+            "ili": "i77922",
+            "pos": "n",
+            "lemmas": [
+              "cashew"
+            ],
+            "definition": "kidney-shaped nut edible only when roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-kesudió-n12759273",
+          "lemma": "kesudió",
+          "word_id": "unimet-hun-kesudió",
+          "synset": {
+            "id": "omw-en-12759273-n",
+            "ili": "i103884",
+            "pos": "n",
+            "lemmas": [
+              "cashew tree"
+            ],
+            "definition": "tropical American evergreen tree bearing kidney-shaped nuts that are edible only when roasted"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-kesudió-n07772147::unimet-hun-kesudió-n12759273": {
+          "source": "unimet-hun-kesudió-n07772147",
+          "target": "unimet-hun-kesudió-n12759273",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kristály",
+      "all_senses": [
+        {
+          "id": "unimet-hun-kristály-n03142834",
+          "lemma": "kristály",
+          "word_id": "unimet-hun-kristály",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-hun-kristály-n14883206",
+          "lemma": "kristály",
+          "word_id": "unimet-hun-kristály",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-kristály-n14883206",
+          "lemma": "kristály",
+          "word_id": "unimet-hun-kristály",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-kristály-n03142834",
+          "lemma": "kristály",
+          "word_id": "unimet-hun-kristály",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-kristály-n14883206::unimet-hun-kristály-n03142834": {
+          "source": "unimet-hun-kristály-n14883206",
+          "target": "unimet-hun-kristály-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mángold",
+      "all_senses": [
+        {
+          "id": "unimet-hun-mángold-n07720277",
+          "lemma": "mángold",
+          "word_id": "unimet-hun-mángold",
+          "synset": {
+            "id": "omw-en-07720277-n",
+            "ili": "i77579",
+            "pos": "n",
+            "lemmas": [
+              "chard"
+            ],
+            "definition": "long succulent whitish stalks with large green leaves"
+          }
+        },
+        {
+          "id": "unimet-hun-mángold-n11832671",
+          "lemma": "mángold",
+          "word_id": "unimet-hun-mángold",
+          "synset": {
+            "id": "omw-en-11832671-n",
+            "ili": "i99465",
+            "pos": "n",
+            "lemmas": [
+              "chard"
+            ],
+            "definition": "beet lacking swollen root; grown as a vegetable for its edible leaves and stalks"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-mángold-n11832671",
+          "lemma": "mángold",
+          "word_id": "unimet-hun-mángold",
+          "synset": {
+            "id": "omw-en-11832671-n",
+            "ili": "i99465",
+            "pos": "n",
+            "lemmas": [
+              "chard"
+            ],
+            "definition": "beet lacking swollen root; grown as a vegetable for its edible leaves and stalks"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-mángold-n07720277",
+          "lemma": "mángold",
+          "word_id": "unimet-hun-mángold",
+          "synset": {
+            "id": "omw-en-07720277-n",
+            "ili": "i77579",
+            "pos": "n",
+            "lemmas": [
+              "chard"
+            ],
+            "definition": "long succulent whitish stalks with large green leaves"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-mángold-n11832671::unimet-hun-mángold-n07720277": {
+          "source": "unimet-hun-mángold-n11832671",
+          "target": "unimet-hun-mángold-n07720277",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ország",
+      "all_senses": [
+        {
+          "id": "unimet-hun-ország-n08168978",
+          "lemma": "ország",
+          "word_id": "unimet-hun-ország",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-hun-ország-n08544813",
+          "lemma": "ország",
+          "word_id": "unimet-hun-ország",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-ország-n08168978",
+          "lemma": "ország",
+          "word_id": "unimet-hun-ország",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-ország-n08544813",
+          "lemma": "ország",
+          "word_id": "unimet-hun-ország",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-ország-n08168978::unimet-hun-ország-n08544813": {
+          "source": "unimet-hun-ország-n08168978",
+          "target": "unimet-hun-ország-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pamut",
+      "all_senses": [
+        {
+          "id": "unimet-hun-pamut-n03115180",
+          "lemma": "pamut",
+          "word_id": "unimet-hun-pamut",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-hun-pamut-n14870078",
+          "lemma": "pamut",
+          "word_id": "unimet-hun-pamut",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-pamut-n14870078",
+          "lemma": "pamut",
+          "word_id": "unimet-hun-pamut",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-pamut-n03115180",
+          "lemma": "pamut",
+          "word_id": "unimet-hun-pamut",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-pamut-n14870078::unimet-hun-pamut-n03115180": {
+          "source": "unimet-hun-pamut-n14870078",
+          "target": "unimet-hun-pamut-n03115180",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "saláta",
+      "all_senses": [
+        {
+          "id": "unimet-hun-saláta-n07723559",
+          "lemma": "saláta",
+          "word_id": "unimet-hun-saláta",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        },
+        {
+          "id": "unimet-hun-saláta-n11986306",
+          "lemma": "saláta",
+          "word_id": "unimet-hun-saláta",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-saláta-n11986306",
+          "lemma": "saláta",
+          "word_id": "unimet-hun-saláta",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-saláta-n07723559",
+          "lemma": "saláta",
+          "word_id": "unimet-hun-saláta",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-saláta-n11986306::unimet-hun-saláta-n07723559": {
+          "source": "unimet-hun-saláta-n11986306",
+          "target": "unimet-hun-saláta-n07723559",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "szamóca",
+      "all_senses": [
+        {
+          "id": "unimet-hun-szamóca-n07745940",
+          "lemma": "szamóca",
+          "word_id": "unimet-hun-szamóca",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-hun-szamóca-n12630641",
+          "lemma": "szamóca",
+          "word_id": "unimet-hun-szamóca",
+          "synset": {
+            "id": "omw-en-12630641-n",
+            "ili": "i103256",
+            "pos": "n",
+            "lemmas": [
+              "fragaria vesca"
+            ],
+            "definition": "Europe"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-szamóca-n07745940",
+          "lemma": "szamóca",
+          "word_id": "unimet-hun-szamóca",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-szamóca-n12630641",
+          "lemma": "szamóca",
+          "word_id": "unimet-hun-szamóca",
+          "synset": {
+            "id": "omw-en-12630641-n",
+            "ili": "i103256",
+            "pos": "n",
+            "lemmas": [
+              "fragaria vesca"
+            ],
+            "definition": "Europe"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-szamóca-n07745940::unimet-hun-szamóca-n12630641": {
+          "source": "unimet-hun-szamóca-n07745940",
+          "target": "unimet-hun-szamóca-n12630641",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "szeder",
+      "all_senses": [
+        {
+          "id": "unimet-hun-szeder-n07744811",
+          "lemma": "szeder",
+          "word_id": "unimet-hun-szeder",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-hun-szeder-n12653762",
+          "lemma": "szeder",
+          "word_id": "unimet-hun-szeder",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-szeder-n07744811",
+          "lemma": "szeder",
+          "word_id": "unimet-hun-szeder",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-szeder-n12653762",
+          "lemma": "szeder",
+          "word_id": "unimet-hun-szeder",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-szeder-n07744811::unimet-hun-szeder-n12653762": {
+          "source": "unimet-hun-szeder-n07744811",
+          "target": "unimet-hun-szeder-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "szoprán",
+      "all_senses": [
+        {
+          "id": "unimet-hun-szoprán-n04985930",
+          "lemma": "szoprán",
+          "word_id": "unimet-hun-szoprán",
+          "synset": {
+            "id": "omw-en-04985930-n",
+            "ili": "i63203",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "the pitch range of the highest female voice"
+          }
+        },
+        {
+          "id": "unimet-hun-szoprán-n10625546",
+          "lemma": "szoprán",
+          "word_id": "unimet-hun-szoprán",
+          "synset": {
+            "id": "omw-en-10625546-n",
+            "ili": "i93152",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "a female singer"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-szoprán-n04985930",
+          "lemma": "szoprán",
+          "word_id": "unimet-hun-szoprán",
+          "synset": {
+            "id": "omw-en-04985930-n",
+            "ili": "i63203",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "the pitch range of the highest female voice"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-szoprán-n10625546",
+          "lemma": "szoprán",
+          "word_id": "unimet-hun-szoprán",
+          "synset": {
+            "id": "omw-en-10625546-n",
+            "ili": "i93152",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "a female singer"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-szoprán-n04985930::unimet-hun-szoprán-n10625546": {
+          "source": "unimet-hun-szoprán-n04985930",
+          "target": "unimet-hun-szoprán-n10625546",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "szójabab",
+      "all_senses": [
+        {
+          "id": "unimet-hun-szójabab-n07729485",
+          "lemma": "szójabab",
+          "word_id": "unimet-hun-szójabab",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        },
+        {
+          "id": "unimet-hun-szójabab-n12532168",
+          "lemma": "szójabab",
+          "word_id": "unimet-hun-szójabab",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-szójabab-n12532168",
+          "lemma": "szójabab",
+          "word_id": "unimet-hun-szójabab",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-szójabab-n07729485",
+          "lemma": "szójabab",
+          "word_id": "unimet-hun-szójabab",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-szójabab-n12532168::unimet-hun-szójabab-n07729485": {
+          "source": "unimet-hun-szójabab-n12532168",
+          "target": "unimet-hun-szójabab-n07729485",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "álarcosbál",
+      "all_senses": [
+        {
+          "id": "unimet-hun-álarcosbál-n07449157",
+          "lemma": "álarcosbál",
+          "word_id": "unimet-hun-álarcosbál",
+          "synset": {
+            "id": "omw-en-07449157-n",
+            "ili": "i75859",
+            "pos": "n",
+            "lemmas": [
+              "masquerade"
+            ],
+            "definition": "a ball at which guests wear costumes and masks"
+          }
+        },
+        {
+          "id": "unimet-hun-álarcosbál-n08253450",
+          "lemma": "álarcosbál",
+          "word_id": "unimet-hun-álarcosbál",
+          "synset": {
+            "id": "omw-en-08253450-n",
+            "ili": "i80504",
+            "pos": "n",
+            "lemmas": [
+              "masquerade"
+            ],
+            "definition": "a party of guests wearing costumes and masks"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-álarcosbál-n07449157",
+          "lemma": "álarcosbál",
+          "word_id": "unimet-hun-álarcosbál",
+          "synset": {
+            "id": "omw-en-07449157-n",
+            "ili": "i75859",
+            "pos": "n",
+            "lemmas": [
+              "masquerade"
+            ],
+            "definition": "a ball at which guests wear costumes and masks"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-álarcosbál-n08253450",
+          "lemma": "álarcosbál",
+          "word_id": "unimet-hun-álarcosbál",
+          "synset": {
+            "id": "omw-en-08253450-n",
+            "ili": "i80504",
+            "pos": "n",
+            "lemmas": [
+              "masquerade"
+            ],
+            "definition": "a party of guests wearing costumes and masks"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-álarcosbál-n07449157::unimet-hun-álarcosbál-n08253450": {
+          "source": "unimet-hun-álarcosbál-n07449157",
+          "target": "unimet-hun-álarcosbál-n08253450",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "állam",
+      "all_senses": [
+        {
+          "id": "unimet-hun-állam-n08178547",
+          "lemma": "állam",
+          "word_id": "unimet-hun-állam",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-hun-állam-n08654360",
+          "lemma": "állam",
+          "word_id": "unimet-hun-állam",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-állam-n08178547",
+          "lemma": "állam",
+          "word_id": "unimet-hun-állam",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-állam-n08654360",
+          "lemma": "állam",
+          "word_id": "unimet-hun-állam",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-állam-n08178547::unimet-hun-állam-n08654360": {
+          "source": "unimet-hun-állam-n08178547",
+          "target": "unimet-hun-állam-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "öröm",
+      "all_senses": [
+        {
+          "id": "unimet-hun-öröm-n05829782",
+          "lemma": "öröm",
+          "word_id": "unimet-hun-öröm",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-hun-öröm-n07527352",
+          "lemma": "öröm",
+          "word_id": "unimet-hun-öröm",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-öröm-n07527352",
+          "lemma": "öröm",
+          "word_id": "unimet-hun-öröm",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-öröm-n05829782",
+          "lemma": "öröm",
+          "word_id": "unimet-hun-öröm",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-öröm-n07527352::unimet-hun-öröm-n05829782": {
+          "source": "unimet-hun-öröm-n07527352",
+          "target": "unimet-hun-öröm-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "üveg",
+      "all_senses": [
+        {
+          "id": "unimet-hun-üveg-n02876657",
+          "lemma": "üveg",
+          "word_id": "unimet-hun-üveg",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        },
+        {
+          "id": "unimet-hun-üveg-n14881303",
+          "lemma": "üveg",
+          "word_id": "unimet-hun-üveg",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hun-üveg-n14881303",
+          "lemma": "üveg",
+          "word_id": "unimet-hun-üveg",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hun-üveg-n02876657",
+          "lemma": "üveg",
+          "word_id": "unimet-hun-üveg",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hun-üveg-n14881303::unimet-hun-üveg-n02876657": {
+          "source": "unimet-hun-üveg-n14881303",
+          "target": "unimet-hun-üveg-n02876657",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

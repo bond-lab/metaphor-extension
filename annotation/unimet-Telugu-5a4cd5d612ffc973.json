@@ -1,0 +1,3102 @@
+{
+  "id": "5a4cd5d612ffc973",
+  "name": "unimet-Telugu",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tel",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "అద్దం",
+      "all_senses": [
+        {
+          "id": "unimet-tel-అద్దం-n03773035",
+          "lemma": "అద్దం",
+          "word_id": "unimet-tel-అద్దం",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-tel-అద్దం-n14881303",
+          "lemma": "అద్దం",
+          "word_id": "unimet-tel-అద్దం",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-అద్దం-n14881303",
+          "lemma": "అద్దం",
+          "word_id": "unimet-tel-అద్దం",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-అద్దం-n03773035",
+          "lemma": "అద్దం",
+          "word_id": "unimet-tel-అద్దం",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-అద్దం-n14881303::unimet-tel-అద్దం-n03773035": {
+          "source": "unimet-tel-అద్దం-n14881303",
+          "target": "unimet-tel-అద్దం-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "అనాధ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-అనాధ-n10384392",
+          "lemma": "అనాధ",
+          "word_id": "unimet-tel-అనాధ",
+          "synset": {
+            "id": "omw-en-10384392-n",
+            "ili": "i91775",
+            "pos": "n",
+            "lemmas": [
+              "orphan"
+            ],
+            "definition": "a child who has lost both parents"
+          }
+        },
+        {
+          "id": "unimet-tel-అనాధ-n14571181",
+          "lemma": "అనాధ",
+          "word_id": "unimet-tel-అనాధ",
+          "synset": {
+            "id": "omw-en-14571181-n",
+            "ili": "i113590",
+            "pos": "n",
+            "lemmas": [
+              "orphanhood"
+            ],
+            "definition": "the condition of being a child without living parents"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-అనాధ-n14571181",
+          "lemma": "అనాధ",
+          "word_id": "unimet-tel-అనాధ",
+          "synset": {
+            "id": "omw-en-14571181-n",
+            "ili": "i113590",
+            "pos": "n",
+            "lemmas": [
+              "orphanhood"
+            ],
+            "definition": "the condition of being a child without living parents"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-అనాధ-n10384392",
+          "lemma": "అనాధ",
+          "word_id": "unimet-tel-అనాధ",
+          "synset": {
+            "id": "omw-en-10384392-n",
+            "ili": "i91775",
+            "pos": "n",
+            "lemmas": [
+              "orphan"
+            ],
+            "definition": "a child who has lost both parents"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-అనాధ-n14571181::unimet-tel-అనాధ-n10384392": {
+          "source": "unimet-tel-అనాధ-n14571181",
+          "target": "unimet-tel-అనాధ-n10384392",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ఆకర్షణ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-ఆకర్షణ-n04688246",
+          "lemma": "ఆకర్షణ",
+          "word_id": "unimet-tel-ఆకర్షణ",
+          "synset": {
+            "id": "omw-en-04688246-n",
+            "ili": "i61690",
+            "pos": "n",
+            "lemmas": [
+              "attractiveness"
+            ],
+            "definition": "the quality of arousing interest; being attractive or something that attracts"
+          }
+        },
+        {
+          "id": "unimet-tel-ఆకర్షణ-n10032676",
+          "lemma": "ఆకర్షణ",
+          "word_id": "unimet-tel-ఆకర్షణ",
+          "synset": {
+            "id": "omw-en-10032676-n",
+            "ili": "i89616",
+            "pos": "n",
+            "lemmas": [
+              "attractor"
+            ],
+            "definition": "an entertainer who attracts large audiences"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-ఆకర్షణ-n04688246",
+          "lemma": "ఆకర్షణ",
+          "word_id": "unimet-tel-ఆకర్షణ",
+          "synset": {
+            "id": "omw-en-04688246-n",
+            "ili": "i61690",
+            "pos": "n",
+            "lemmas": [
+              "attractiveness"
+            ],
+            "definition": "the quality of arousing interest; being attractive or something that attracts"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-ఆకర్షణ-n10032676",
+          "lemma": "ఆకర్షణ",
+          "word_id": "unimet-tel-ఆకర్షణ",
+          "synset": {
+            "id": "omw-en-10032676-n",
+            "ili": "i89616",
+            "pos": "n",
+            "lemmas": [
+              "attractor"
+            ],
+            "definition": "an entertainer who attracts large audiences"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-ఆకర్షణ-n04688246::unimet-tel-ఆకర్షణ-n10032676": {
+          "source": "unimet-tel-ఆకర్షణ-n04688246",
+          "target": "unimet-tel-ఆకర్షణ-n10032676",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ఆటంకం",
+      "all_senses": [
+        {
+          "id": "unimet-tel-ఆటంకం-n10349243",
+          "lemma": "ఆటంకం",
+          "word_id": "unimet-tel-ఆటంకం",
+          "synset": {
+            "id": "omw-en-10349243-n",
+            "ili": "i91562",
+            "pos": "n",
+            "lemmas": [
+              "obstructer"
+            ],
+            "definition": "someone who systematically obstructs some action that others want to take"
+          }
+        },
+        {
+          "id": "unimet-tel-ఆటంకం-n14507951",
+          "lemma": "ఆటంకం",
+          "word_id": "unimet-tel-ఆటంకం",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-ఆటంకం-n14507951",
+          "lemma": "ఆటంకం",
+          "word_id": "unimet-tel-ఆటంకం",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-ఆటంకం-n10349243",
+          "lemma": "ఆటంకం",
+          "word_id": "unimet-tel-ఆటంకం",
+          "synset": {
+            "id": "omw-en-10349243-n",
+            "ili": "i91562",
+            "pos": "n",
+            "lemmas": [
+              "obstructer"
+            ],
+            "definition": "someone who systematically obstructs some action that others want to take"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-ఆటంకం-n14507951::unimet-tel-ఆటంకం-n10349243": {
+          "source": "unimet-tel-ఆటంకం-n14507951",
+          "target": "unimet-tel-ఆటంకం-n10349243",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ఆదర్శవాది",
+      "all_senses": [
+        {
+          "id": "unimet-tel-ఆదర్శవాది-n05152696",
+          "lemma": "ఆదర్శవాది",
+          "word_id": "unimet-tel-ఆదర్శవాది",
+          "synset": {
+            "id": "omw-en-05152696-n",
+            "ili": "i64059",
+            "pos": "n",
+            "lemmas": [
+              "idealism"
+            ],
+            "definition": "impracticality by virtue of thinking of things in their ideal form rather than as they really are"
+          }
+        },
+        {
+          "id": "unimet-tel-ఆదర్శవాది-n10196965",
+          "lemma": "ఆదర్శవాది",
+          "word_id": "unimet-tel-ఆదర్శవాది",
+          "synset": {
+            "id": "omw-en-10196965-n",
+            "ili": "i90648",
+            "pos": "n",
+            "lemmas": [
+              "dreamer"
+            ],
+            "definition": "someone guided more by ideals than by practical considerations"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-ఆదర్శవాది-n05152696",
+          "lemma": "ఆదర్శవాది",
+          "word_id": "unimet-tel-ఆదర్శవాది",
+          "synset": {
+            "id": "omw-en-05152696-n",
+            "ili": "i64059",
+            "pos": "n",
+            "lemmas": [
+              "idealism"
+            ],
+            "definition": "impracticality by virtue of thinking of things in their ideal form rather than as they really are"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-ఆదర్శవాది-n10196965",
+          "lemma": "ఆదర్శవాది",
+          "word_id": "unimet-tel-ఆదర్శవాది",
+          "synset": {
+            "id": "omw-en-10196965-n",
+            "ili": "i90648",
+            "pos": "n",
+            "lemmas": [
+              "dreamer"
+            ],
+            "definition": "someone guided more by ideals than by practical considerations"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-ఆదర్శవాది-n05152696::unimet-tel-ఆదర్శవాది-n10196965": {
+          "source": "unimet-tel-ఆదర్శవాది-n05152696",
+          "target": "unimet-tel-ఆదర్శవాది-n10196965",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "కంబలి చెట్టు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-కంబలి చెట్టు-n07767171",
+          "lemma": "కంబలి చెట్టు",
+          "word_id": "unimet-tel-కంబలి చెట్టు",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-tel-కంబలి చెట్టు-n12399132",
+          "lemma": "కంబలి చెట్టు",
+          "word_id": "unimet-tel-కంబలి చెట్టు",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-కంబలి చెట్టు-n07767171",
+          "lemma": "కంబలి చెట్టు",
+          "word_id": "unimet-tel-కంబలి చెట్టు",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-కంబలి చెట్టు-n12399132",
+          "lemma": "కంబలి చెట్టు",
+          "word_id": "unimet-tel-కంబలి చెట్టు",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-కంబలి చెట్టు-n07767171::unimet-tel-కంబలి చెట్టు-n12399132": {
+          "source": "unimet-tel-కంబలి చెట్టు-n07767171",
+          "target": "unimet-tel-కంబలి చెట్టు-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "కరంజ్",
+      "all_senses": [
+        {
+          "id": "unimet-tel-కరంజ్-n11689197",
+          "lemma": "కరంజ్",
+          "word_id": "unimet-tel-కరంజ్",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        },
+        {
+          "id": "unimet-tel-కరంజ్-n12488454",
+          "lemma": "కరంజ్",
+          "word_id": "unimet-tel-కరంజ్",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-కరంజ్-n11689197",
+          "lemma": "కరంజ్",
+          "word_id": "unimet-tel-కరంజ్",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-కరంజ్-n12488454",
+          "lemma": "కరంజ్",
+          "word_id": "unimet-tel-కరంజ్",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-కరంజ్-n11689197::unimet-tel-కరంజ్-n12488454": {
+          "source": "unimet-tel-కరంజ్-n11689197",
+          "target": "unimet-tel-కరంజ్-n12488454",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "కర్ర",
+      "all_senses": [
+        {
+          "id": "unimet-tel-కర్ర-n03250847",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-03250847-n",
+            "ili": "i53215",
+            "pos": "n",
+            "lemmas": [
+              "drumstick"
+            ],
+            "definition": "a stick used for playing a drum"
+          }
+        },
+        {
+          "id": "unimet-tel-కర్ర-n03715386",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-03715386-n",
+            "ili": "i55976",
+            "pos": "n",
+            "lemmas": [
+              "beetle"
+            ],
+            "definition": "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing"
+          }
+        },
+        {
+          "id": "unimet-tel-కర్ర-n04546194",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-04546194-n",
+            "ili": "i60925",
+            "pos": "n",
+            "lemmas": [
+              "walking stick"
+            ],
+            "definition": "a stick carried in the hand for support in walking"
+          }
+        },
+        {
+          "id": "unimet-tel-కర్ర-n15098161",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-కర్ర-n15098161",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-కర్ర-n03250847",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-03250847-n",
+            "ili": "i53215",
+            "pos": "n",
+            "lemmas": [
+              "drumstick"
+            ],
+            "definition": "a stick used for playing a drum"
+          }
+        },
+        {
+          "id": "unimet-tel-కర్ర-n03715386",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-03715386-n",
+            "ili": "i55976",
+            "pos": "n",
+            "lemmas": [
+              "beetle"
+            ],
+            "definition": "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing"
+          }
+        },
+        {
+          "id": "unimet-tel-కర్ర-n04546194",
+          "lemma": "కర్ర",
+          "word_id": "unimet-tel-కర్ర",
+          "synset": {
+            "id": "omw-en-04546194-n",
+            "ili": "i60925",
+            "pos": "n",
+            "lemmas": [
+              "walking stick"
+            ],
+            "definition": "a stick carried in the hand for support in walking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-కర్ర-n15098161::unimet-tel-కర్ర-n03250847": {
+          "source": "unimet-tel-కర్ర-n15098161",
+          "target": "unimet-tel-కర్ర-n03250847",
+          "type": "metonymy"
+        },
+        "unimet-tel-కర్ర-n15098161::unimet-tel-కర్ర-n03715386": {
+          "source": "unimet-tel-కర్ర-n15098161",
+          "target": "unimet-tel-కర్ర-n03715386",
+          "type": "metonymy"
+        },
+        "unimet-tel-కర్ర-n15098161::unimet-tel-కర్ర-n04546194": {
+          "source": "unimet-tel-కర్ర-n15098161",
+          "target": "unimet-tel-కర్ర-n04546194",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "కుట్టు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-కుట్టు-n14297870",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-14297870-n",
+            "ili": "i112100",
+            "pos": "n",
+            "lemmas": [
+              "insect bite"
+            ],
+            "definition": "a painful wound caused by the thrust of an insect's stinger into skin"
+          }
+        },
+        {
+          "id": "unimet-tel-కుట్టు-v01445407",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-01445407-v",
+            "ili": "i28954",
+            "pos": "v",
+            "lemmas": [
+              "bite"
+            ],
+            "definition": "deliver a sting to"
+          }
+        },
+        {
+          "id": "unimet-tel-కుట్టు-v01445932",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-01445932-v",
+            "ili": "i28957",
+            "pos": "v",
+            "lemmas": [
+              "seize with teeth"
+            ],
+            "definition": "to grip, cut off, or tear with or as if with the teeth or jaws"
+          }
+        },
+        {
+          "id": "unimet-tel-కుట్టు-v02120451",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-02120451-v",
+            "ili": "i32358",
+            "pos": "v",
+            "lemmas": [
+              "burn"
+            ],
+            "definition": "cause a sharp or stinging pain or discomfort"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-కుట్టు-v01445407",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-01445407-v",
+            "ili": "i28954",
+            "pos": "v",
+            "lemmas": [
+              "bite"
+            ],
+            "definition": "deliver a sting to"
+          }
+        },
+        {
+          "id": "unimet-tel-కుట్టు-v01445932",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-01445932-v",
+            "ili": "i28957",
+            "pos": "v",
+            "lemmas": [
+              "seize with teeth"
+            ],
+            "definition": "to grip, cut off, or tear with or as if with the teeth or jaws"
+          }
+        },
+        {
+          "id": "unimet-tel-కుట్టు-v02120451",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-02120451-v",
+            "ili": "i32358",
+            "pos": "v",
+            "lemmas": [
+              "burn"
+            ],
+            "definition": "cause a sharp or stinging pain or discomfort"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-కుట్టు-n14297870",
+          "lemma": "కుట్టు",
+          "word_id": "unimet-tel-కుట్టు",
+          "synset": {
+            "id": "omw-en-14297870-n",
+            "ili": "i112100",
+            "pos": "n",
+            "lemmas": [
+              "insect bite"
+            ],
+            "definition": "a painful wound caused by the thrust of an insect's stinger into skin"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-కుట్టు-v01445407::unimet-tel-కుట్టు-n14297870": {
+          "source": "unimet-tel-కుట్టు-v01445407",
+          "target": "unimet-tel-కుట్టు-n14297870",
+          "type": "metonymy"
+        },
+        "unimet-tel-కుట్టు-v01445932::unimet-tel-కుట్టు-n14297870": {
+          "source": "unimet-tel-కుట్టు-v01445932",
+          "target": "unimet-tel-కుట్టు-n14297870",
+          "type": "metonymy"
+        },
+        "unimet-tel-కుట్టు-v02120451::unimet-tel-కుట్టు-n14297870": {
+          "source": "unimet-tel-కుట్టు-v02120451",
+          "target": "unimet-tel-కుట్టు-n14297870",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "కొయ్య",
+      "all_senses": [
+        {
+          "id": "unimet-tel-కొయ్య-n03715386",
+          "lemma": "కొయ్య",
+          "word_id": "unimet-tel-కొయ్య",
+          "synset": {
+            "id": "omw-en-03715386-n",
+            "ili": "i55976",
+            "pos": "n",
+            "lemmas": [
+              "beetle"
+            ],
+            "definition": "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing"
+          }
+        },
+        {
+          "id": "unimet-tel-కొయ్య-n03976657",
+          "lemma": "కొయ్య",
+          "word_id": "unimet-tel-కొయ్య",
+          "synset": {
+            "id": "omw-en-03976657-n",
+            "ili": "i57505",
+            "pos": "n",
+            "lemmas": [
+              "pole"
+            ],
+            "definition": "a long (usually round) rod of wood or metal or plastic"
+          }
+        },
+        {
+          "id": "unimet-tel-కొయ్య-n15098161",
+          "lemma": "కొయ్య",
+          "word_id": "unimet-tel-కొయ్య",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-కొయ్య-n15098161",
+          "lemma": "కొయ్య",
+          "word_id": "unimet-tel-కొయ్య",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-కొయ్య-n03715386",
+          "lemma": "కొయ్య",
+          "word_id": "unimet-tel-కొయ్య",
+          "synset": {
+            "id": "omw-en-03715386-n",
+            "ili": "i55976",
+            "pos": "n",
+            "lemmas": [
+              "beetle"
+            ],
+            "definition": "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing"
+          }
+        },
+        {
+          "id": "unimet-tel-కొయ్య-n03976657",
+          "lemma": "కొయ్య",
+          "word_id": "unimet-tel-కొయ్య",
+          "synset": {
+            "id": "omw-en-03976657-n",
+            "ili": "i57505",
+            "pos": "n",
+            "lemmas": [
+              "pole"
+            ],
+            "definition": "a long (usually round) rod of wood or metal or plastic"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-కొయ్య-n15098161::unimet-tel-కొయ్య-n03715386": {
+          "source": "unimet-tel-కొయ్య-n15098161",
+          "target": "unimet-tel-కొయ్య-n03715386",
+          "type": "metonymy"
+        },
+        "unimet-tel-కొయ్య-n15098161::unimet-tel-కొయ్య-n03976657": {
+          "source": "unimet-tel-కొయ్య-n15098161",
+          "target": "unimet-tel-కొయ్య-n03976657",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ఖైదీ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-ఖైదీ-n10476086",
+          "lemma": "ఖైదీ",
+          "word_id": "unimet-tel-ఖైదీ",
+          "synset": {
+            "id": "omw-en-10476086-n",
+            "ili": "i92258",
+            "pos": "n",
+            "lemmas": [
+              "captive"
+            ],
+            "definition": "a person who is confined; especially a prisoner of war"
+          }
+        },
+        {
+          "id": "unimet-tel-ఖైదీ-n13999663",
+          "lemma": "ఖైదీ",
+          "word_id": "unimet-tel-ఖైదీ",
+          "synset": {
+            "id": "omw-en-13999663-n",
+            "ili": "i110504",
+            "pos": "n",
+            "lemmas": [
+              "detainment"
+            ],
+            "definition": "a state of being confined (usually for a short time)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-ఖైదీ-n13999663",
+          "lemma": "ఖైదీ",
+          "word_id": "unimet-tel-ఖైదీ",
+          "synset": {
+            "id": "omw-en-13999663-n",
+            "ili": "i110504",
+            "pos": "n",
+            "lemmas": [
+              "detainment"
+            ],
+            "definition": "a state of being confined (usually for a short time)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-ఖైదీ-n10476086",
+          "lemma": "ఖైదీ",
+          "word_id": "unimet-tel-ఖైదీ",
+          "synset": {
+            "id": "omw-en-10476086-n",
+            "ili": "i92258",
+            "pos": "n",
+            "lemmas": [
+              "captive"
+            ],
+            "definition": "a person who is confined; especially a prisoner of war"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-ఖైదీ-n13999663::unimet-tel-ఖైదీ-n10476086": {
+          "source": "unimet-tel-ఖైదీ-n13999663",
+          "target": "unimet-tel-ఖైదీ-n10476086",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "జీవం",
+      "all_senses": [
+        {
+          "id": "unimet-tel-జీవం-n04632157",
+          "lemma": "జీవం",
+          "word_id": "unimet-tel-జీవం",
+          "synset": {
+            "id": "omw-en-04632157-n",
+            "ili": "i61417",
+            "pos": "n",
+            "lemmas": [
+              "alacrity"
+            ],
+            "definition": "animation and energy in action or expression"
+          }
+        },
+        {
+          "id": "unimet-tel-జీవం-n10636598",
+          "lemma": "జీవం",
+          "word_id": "unimet-tel-జీవం",
+          "synset": {
+            "id": "omw-en-10636598-n",
+            "ili": "i93206",
+            "pos": "n",
+            "lemmas": [
+              "spirit"
+            ],
+            "definition": "the vital principle or animating force within living things"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-జీవం-n04632157",
+          "lemma": "జీవం",
+          "word_id": "unimet-tel-జీవం",
+          "synset": {
+            "id": "omw-en-04632157-n",
+            "ili": "i61417",
+            "pos": "n",
+            "lemmas": [
+              "alacrity"
+            ],
+            "definition": "animation and energy in action or expression"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-జీవం-n10636598",
+          "lemma": "జీవం",
+          "word_id": "unimet-tel-జీవం",
+          "synset": {
+            "id": "omw-en-10636598-n",
+            "ili": "i93206",
+            "pos": "n",
+            "lemmas": [
+              "spirit"
+            ],
+            "definition": "the vital principle or animating force within living things"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-జీవం-n04632157::unimet-tel-జీవం-n10636598": {
+          "source": "unimet-tel-జీవం-n04632157",
+          "target": "unimet-tel-జీవం-n10636598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "టెలిఫోన్",
+      "all_senses": [
+        {
+          "id": "unimet-tel-టెలిఫోన్-n04401088",
+          "lemma": "టెలిఫోన్",
+          "word_id": "unimet-tel-టెలిఫోన్",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-tel-టెలిఫోన్-n06272290",
+          "lemma": "టెలిఫోన్",
+          "word_id": "unimet-tel-టెలిఫోన్",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-టెలిఫోన్-n04401088",
+          "lemma": "టెలిఫోన్",
+          "word_id": "unimet-tel-టెలిఫోన్",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-టెలిఫోన్-n06272290",
+          "lemma": "టెలిఫోన్",
+          "word_id": "unimet-tel-టెలిఫోన్",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-టెలిఫోన్-n04401088::unimet-tel-టెలిఫోన్-n06272290": {
+          "source": "unimet-tel-టెలిఫోన్-n04401088",
+          "target": "unimet-tel-టెలిఫోన్-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "దేశము",
+      "all_senses": [
+        {
+          "id": "unimet-tel-దేశము-n08168978",
+          "lemma": "దేశము",
+          "word_id": "unimet-tel-దేశము",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-tel-దేశము-n08544813",
+          "lemma": "దేశము",
+          "word_id": "unimet-tel-దేశము",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-దేశము-n08168978",
+          "lemma": "దేశము",
+          "word_id": "unimet-tel-దేశము",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-దేశము-n08544813",
+          "lemma": "దేశము",
+          "word_id": "unimet-tel-దేశము",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-దేశము-n08168978::unimet-tel-దేశము-n08544813": {
+          "source": "unimet-tel-దేశము-n08168978",
+          "target": "unimet-tel-దేశము-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "నారింజ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-నారింజ-n07747607",
+          "lemma": "నారింజ",
+          "word_id": "unimet-tel-నారింజ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-tel-నారింజ-n12708293",
+          "lemma": "నారింజ",
+          "word_id": "unimet-tel-నారింజ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-నారింజ-n07747607",
+          "lemma": "నారింజ",
+          "word_id": "unimet-tel-నారింజ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-నారింజ-n12708293",
+          "lemma": "నారింజ",
+          "word_id": "unimet-tel-నారింజ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-నారింజ-n07747607::unimet-tel-నారింజ-n12708293": {
+          "source": "unimet-tel-నారింజ-n07747607",
+          "target": "unimet-tel-నారింజ-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "నిమ్మకాయ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-నిమ్మకాయ-n07749582",
+          "lemma": "నిమ్మకాయ",
+          "word_id": "unimet-tel-నిమ్మకాయ",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-tel-నిమ్మకాయ-n12711596",
+          "lemma": "నిమ్మకాయ",
+          "word_id": "unimet-tel-నిమ్మకాయ",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-నిమ్మకాయ-n07749582",
+          "lemma": "నిమ్మకాయ",
+          "word_id": "unimet-tel-నిమ్మకాయ",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-నిమ్మకాయ-n12711596",
+          "lemma": "నిమ్మకాయ",
+          "word_id": "unimet-tel-నిమ్మకాయ",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-నిమ్మకాయ-n07749582::unimet-tel-నిమ్మకాయ-n12711596": {
+          "source": "unimet-tel-నిమ్మకాయ-n07749582",
+          "target": "unimet-tel-నిమ్మకాయ-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "పనసపండు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-పనసపండు-n07754684",
+          "lemma": "పనసపండు",
+          "word_id": "unimet-tel-పనసపండు",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        },
+        {
+          "id": "unimet-tel-పనసపండు-n12400720",
+          "lemma": "పనసపండు",
+          "word_id": "unimet-tel-పనసపండు",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-పనసపండు-n07754684",
+          "lemma": "పనసపండు",
+          "word_id": "unimet-tel-పనసపండు",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-పనసపండు-n12400720",
+          "lemma": "పనసపండు",
+          "word_id": "unimet-tel-పనసపండు",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-పనసపండు-n07754684::unimet-tel-పనసపండు-n12400720": {
+          "source": "unimet-tel-పనసపండు-n07754684",
+          "target": "unimet-tel-పనసపండు-n12400720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "పల్లెటూరు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-పల్లెటూరు-n08226699",
+          "lemma": "పల్లెటూరు",
+          "word_id": "unimet-tel-పల్లెటూరు",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-tel-పల్లెటూరు-n08672738",
+          "lemma": "పల్లెటూరు",
+          "word_id": "unimet-tel-పల్లెటూరు",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-పల్లెటూరు-n08226699",
+          "lemma": "పల్లెటూరు",
+          "word_id": "unimet-tel-పల్లెటూరు",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-పల్లెటూరు-n08672738",
+          "lemma": "పల్లెటూరు",
+          "word_id": "unimet-tel-పల్లెటూరు",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-పల్లెటూరు-n08226699::unimet-tel-పల్లెటూరు-n08672738": {
+          "source": "unimet-tel-పల్లెటూరు-n08226699",
+          "target": "unimet-tel-పల్లెటూరు-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "పాఠశాల",
+      "all_senses": [
+        {
+          "id": "unimet-tel-పాఠశాల-n04146050",
+          "lemma": "పాఠశాల",
+          "word_id": "unimet-tel-పాఠశాల",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-tel-పాఠశాల-n08276720",
+          "lemma": "పాఠశాల",
+          "word_id": "unimet-tel-పాఠశాల",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-పాఠశాల-n04146050",
+          "lemma": "పాఠశాల",
+          "word_id": "unimet-tel-పాఠశాల",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-పాఠశాల-n08276720",
+          "lemma": "పాఠశాల",
+          "word_id": "unimet-tel-పాఠశాల",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-పాఠశాల-n04146050::unimet-tel-పాఠశాల-n08276720": {
+          "source": "unimet-tel-పాఠశాల-n04146050",
+          "target": "unimet-tel-పాఠశాల-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "పిస్తా",
+      "all_senses": [
+        {
+          "id": "unimet-tel-పిస్తా-n07775050",
+          "lemma": "పిస్తా",
+          "word_id": "unimet-tel-పిస్తా",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        },
+        {
+          "id": "unimet-tel-పిస్తా-n12761702",
+          "lemma": "పిస్తా",
+          "word_id": "unimet-tel-పిస్తా",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-పిస్తా-n07775050",
+          "lemma": "పిస్తా",
+          "word_id": "unimet-tel-పిస్తా",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-పిస్తా-n12761702",
+          "lemma": "పిస్తా",
+          "word_id": "unimet-tel-పిస్తా",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-పిస్తా-n07775050::unimet-tel-పిస్తా-n12761702": {
+          "source": "unimet-tel-పిస్తా-n07775050",
+          "target": "unimet-tel-పిస్తా-n12761702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "పుచ్చకాయ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-పుచ్చకాయ-n07756951",
+          "lemma": "పుచ్చకాయ",
+          "word_id": "unimet-tel-పుచ్చకాయ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-tel-పుచ్చకాయ-n12164065",
+          "lemma": "పుచ్చకాయ",
+          "word_id": "unimet-tel-పుచ్చకాయ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        },
+        {
+          "id": "unimet-tel-పుచ్చకాయ-n12164363",
+          "lemma": "పుచ్చకాయ",
+          "word_id": "unimet-tel-పుచ్చకాయ",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-పుచ్చకాయ-n07756951",
+          "lemma": "పుచ్చకాయ",
+          "word_id": "unimet-tel-పుచ్చకాయ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-పుచ్చకాయ-n12164065",
+          "lemma": "పుచ్చకాయ",
+          "word_id": "unimet-tel-పుచ్చకాయ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        },
+        {
+          "id": "unimet-tel-పుచ్చకాయ-n12164363",
+          "lemma": "పుచ్చకాయ",
+          "word_id": "unimet-tel-పుచ్చకాయ",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-పుచ్చకాయ-n07756951::unimet-tel-పుచ్చకాయ-n12164065": {
+          "source": "unimet-tel-పుచ్చకాయ-n07756951",
+          "target": "unimet-tel-పుచ్చకాయ-n12164065",
+          "type": "metonymy"
+        },
+        "unimet-tel-పుచ్చకాయ-n07756951::unimet-tel-పుచ్చకాయ-n12164363": {
+          "source": "unimet-tel-పుచ్చకాయ-n07756951",
+          "target": "unimet-tel-పుచ్చకాయ-n12164363",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "బుడమదోసకాయ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-బుడమదోసకాయ-n07718472",
+          "lemma": "బుడమదోసకాయ",
+          "word_id": "unimet-tel-బుడమదోసకాయ",
+          "synset": {
+            "id": "omw-en-07718472-n",
+            "ili": "i77565",
+            "pos": "n",
+            "lemmas": [
+              "gorge"
+            ],
+            "definition": "cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons"
+          }
+        },
+        {
+          "id": "unimet-tel-బుడమదోసకాయ-n12165384",
+          "lemma": "బుడమదోసకాయ",
+          "word_id": "unimet-tel-బుడమదోసకాయ",
+          "synset": {
+            "id": "omw-en-12165384-n",
+            "ili": "i101074",
+            "pos": "n",
+            "lemmas": [
+              "cucumis sativus"
+            ],
+            "definition": "a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-బుడమదోసకాయ-n12165384",
+          "lemma": "బుడమదోసకాయ",
+          "word_id": "unimet-tel-బుడమదోసకాయ",
+          "synset": {
+            "id": "omw-en-12165384-n",
+            "ili": "i101074",
+            "pos": "n",
+            "lemmas": [
+              "cucumis sativus"
+            ],
+            "definition": "a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-బుడమదోసకాయ-n07718472",
+          "lemma": "బుడమదోసకాయ",
+          "word_id": "unimet-tel-బుడమదోసకాయ",
+          "synset": {
+            "id": "omw-en-07718472-n",
+            "ili": "i77565",
+            "pos": "n",
+            "lemmas": [
+              "gorge"
+            ],
+            "definition": "cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-బుడమదోసకాయ-n12165384::unimet-tel-బుడమదోసకాయ-n07718472": {
+          "source": "unimet-tel-బుడమదోసకాయ-n12165384",
+          "target": "unimet-tel-బుడమదోసకాయ-n07718472",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "బెండకాయ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-బెండకాయ-n12171966",
+          "lemma": "బెండకాయ",
+          "word_id": "unimet-tel-బెండకాయ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-tel-బెండకాయ-n12172364",
+          "lemma": "బెండకాయ",
+          "word_id": "unimet-tel-బెండకాయ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-బెండకాయ-n12171966",
+          "lemma": "బెండకాయ",
+          "word_id": "unimet-tel-బెండకాయ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-బెండకాయ-n12172364",
+          "lemma": "బెండకాయ",
+          "word_id": "unimet-tel-బెండకాయ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-బెండకాయ-n12171966::unimet-tel-బెండకాయ-n12172364": {
+          "source": "unimet-tel-బెండకాయ-n12171966",
+          "target": "unimet-tel-బెండకాయ-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "మల్బరి చెట్టు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-మల్బరి చెట్టు-n07767171",
+          "lemma": "మల్బరి చెట్టు",
+          "word_id": "unimet-tel-మల్బరి చెట్టు",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-tel-మల్బరి చెట్టు-n12399132",
+          "lemma": "మల్బరి చెట్టు",
+          "word_id": "unimet-tel-మల్బరి చెట్టు",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-మల్బరి చెట్టు-n07767171",
+          "lemma": "మల్బరి చెట్టు",
+          "word_id": "unimet-tel-మల్బరి చెట్టు",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-మల్బరి చెట్టు-n12399132",
+          "lemma": "మల్బరి చెట్టు",
+          "word_id": "unimet-tel-మల్బరి చెట్టు",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-మల్బరి చెట్టు-n07767171::unimet-tel-మల్బరి చెట్టు-n12399132": {
+          "source": "unimet-tel-మల్బరి చెట్టు-n07767171",
+          "target": "unimet-tel-మల్బరి చెట్టు-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ముల్లంగి",
+      "all_senses": [
+        {
+          "id": "unimet-tel-ముల్లంగి-n07735687",
+          "lemma": "ముల్లంగి",
+          "word_id": "unimet-tel-ముల్లంగి",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-tel-ముల్లంగి-n11894327",
+          "lemma": "ముల్లంగి",
+          "word_id": "unimet-tel-ముల్లంగి",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-ముల్లంగి-n11894327",
+          "lemma": "ముల్లంగి",
+          "word_id": "unimet-tel-ముల్లంగి",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-ముల్లంగి-n07735687",
+          "lemma": "ముల్లంగి",
+          "word_id": "unimet-tel-ముల్లంగి",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-ముల్లంగి-n11894327::unimet-tel-ముల్లంగి-n07735687": {
+          "source": "unimet-tel-ముల్లంగి-n11894327",
+          "target": "unimet-tel-ముల్లంగి-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "మొక్కజొన్న",
+      "all_senses": [
+        {
+          "id": "unimet-tel-మొక్కజొన్న-n12143676",
+          "lemma": "మొక్కజొన్న",
+          "word_id": "unimet-tel-మొక్కజొన్న",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        },
+        {
+          "id": "unimet-tel-మొక్కజొన్న-n12144580",
+          "lemma": "మొక్కజొన్న",
+          "word_id": "unimet-tel-మొక్కజొన్న",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-మొక్కజొన్న-n12143676",
+          "lemma": "మొక్కజొన్న",
+          "word_id": "unimet-tel-మొక్కజొన్న",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-మొక్కజొన్న-n12144580",
+          "lemma": "మొక్కజొన్న",
+          "word_id": "unimet-tel-మొక్కజొన్న",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-మొక్కజొన్న-n12143676::unimet-tel-మొక్కజొన్న-n12144580": {
+          "source": "unimet-tel-మొక్కజొన్న-n12143676",
+          "target": "unimet-tel-మొక్కజొన్న-n12144580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "రబ్బరు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-రబ్బరు-n04116512",
+          "lemma": "రబ్బరు",
+          "word_id": "unimet-tel-రబ్బరు",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-tel-రబ్బరు-n15006258",
+          "lemma": "రబ్బరు",
+          "word_id": "unimet-tel-రబ్బరు",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-రబ్బరు-n15006258",
+          "lemma": "రబ్బరు",
+          "word_id": "unimet-tel-రబ్బరు",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-రబ్బరు-n04116512",
+          "lemma": "రబ్బరు",
+          "word_id": "unimet-tel-రబ్బరు",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-రబ్బరు-n15006258::unimet-tel-రబ్బరు-n04116512": {
+          "source": "unimet-tel-రబ్బరు-n15006258",
+          "target": "unimet-tel-రబ్బరు-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "రసభరీ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-రసభరీ-n07744430",
+          "lemma": "రసభరీ",
+          "word_id": "unimet-tel-రసభరీ",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        },
+        {
+          "id": "unimet-tel-రసభరీ-n12911079",
+          "lemma": "రసభరీ",
+          "word_id": "unimet-tel-రసభరీ",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-రసభరీ-n07744430",
+          "lemma": "రసభరీ",
+          "word_id": "unimet-tel-రసభరీ",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-రసభరీ-n12911079",
+          "lemma": "రసభరీ",
+          "word_id": "unimet-tel-రసభరీ",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-రసభరీ-n07744430::unimet-tel-రసభరీ-n12911079": {
+          "source": "unimet-tel-రసభరీ-n07744430",
+          "target": "unimet-tel-రసభరీ-n12911079",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "లీచీ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-లీచీ-n07766173",
+          "lemma": "లీచీ",
+          "word_id": "unimet-tel-లీచీ",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-tel-లీచీ-n12744387",
+          "lemma": "లీచీ",
+          "word_id": "unimet-tel-లీచీ",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-లీచీ-n07766173",
+          "lemma": "లీచీ",
+          "word_id": "unimet-tel-లీచీ",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-లీచీ-n12744387",
+          "lemma": "లీచీ",
+          "word_id": "unimet-tel-లీచీ",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-లీచీ-n07766173::unimet-tel-లీచీ-n12744387": {
+          "source": "unimet-tel-లీచీ-n07766173",
+          "target": "unimet-tel-లీచీ-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "వంకాయ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-వంకాయ-n07713074",
+          "lemma": "వంకాయ",
+          "word_id": "unimet-tel-వంకాయ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-tel-వంకాయ-n12896000",
+          "lemma": "వంకాయ",
+          "word_id": "unimet-tel-వంకాయ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-వంకాయ-n12896000",
+          "lemma": "వంకాయ",
+          "word_id": "unimet-tel-వంకాయ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-వంకాయ-n07713074",
+          "lemma": "వంకాయ",
+          "word_id": "unimet-tel-వంకాయ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-వంకాయ-n12896000::unimet-tel-వంకాయ-n07713074": {
+          "source": "unimet-tel-వంకాయ-n12896000",
+          "target": "unimet-tel-వంకాయ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "విందు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-విందు-n07578093",
+          "lemma": "విందు",
+          "word_id": "unimet-tel-విందు",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-tel-విందు-n08253640",
+          "lemma": "విందు",
+          "word_id": "unimet-tel-విందు",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-విందు-n07578093",
+          "lemma": "విందు",
+          "word_id": "unimet-tel-విందు",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-విందు-n08253640",
+          "lemma": "విందు",
+          "word_id": "unimet-tel-విందు",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-విందు-n07578093::unimet-tel-విందు-n08253640": {
+          "source": "unimet-tel-విందు-n07578093",
+          "target": "unimet-tel-విందు-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "విరోధి",
+      "all_senses": [
+        {
+          "id": "unimet-tel-విరోధి-n07547805",
+          "lemma": "విరోధి",
+          "word_id": "unimet-tel-విరోధి",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-tel-విరోధి-n09773245",
+          "lemma": "విరోధి",
+          "word_id": "unimet-tel-విరోధి",
+          "synset": {
+            "id": "omw-en-09773245-n",
+            "ili": "i88097",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "someone who offers opposition"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-విరోధి-n07547805",
+          "lemma": "విరోధి",
+          "word_id": "unimet-tel-విరోధి",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-విరోధి-n09773245",
+          "lemma": "విరోధి",
+          "word_id": "unimet-tel-విరోధి",
+          "synset": {
+            "id": "omw-en-09773245-n",
+            "ili": "i88097",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "someone who offers opposition"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-విరోధి-n07547805::unimet-tel-విరోధి-n09773245": {
+          "source": "unimet-tel-విరోధి-n07547805",
+          "target": "unimet-tel-విరోధి-n09773245",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "శత్రువు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-శత్రువు-n07547805",
+          "lemma": "శత్రువు",
+          "word_id": "unimet-tel-శత్రువు",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-tel-శత్రువు-n10098710",
+          "lemma": "శత్రువు",
+          "word_id": "unimet-tel-శత్రువు",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-శత్రువు-n07547805",
+          "lemma": "శత్రువు",
+          "word_id": "unimet-tel-శత్రువు",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-శత్రువు-n10098710",
+          "lemma": "శత్రువు",
+          "word_id": "unimet-tel-శత్రువు",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-శత్రువు-n07547805::unimet-tel-శత్రువు-n10098710": {
+          "source": "unimet-tel-శత్రువు-n07547805",
+          "target": "unimet-tel-శత్రువు-n10098710",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "శనగలు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-శనగలు-n07726095",
+          "lemma": "శనగలు",
+          "word_id": "unimet-tel-శనగలు",
+          "synset": {
+            "id": "omw-en-07726095-n",
+            "ili": "i77619",
+            "pos": "n",
+            "lemmas": [
+              "chickpea"
+            ],
+            "definition": "large white roundish Asiatic legume; usually dried"
+          }
+        },
+        {
+          "id": "unimet-tel-శనగలు-n12515711",
+          "lemma": "శనగలు",
+          "word_id": "unimet-tel-శనగలు",
+          "synset": {
+            "id": "omw-en-12515711-n",
+            "ili": "i102699",
+            "pos": "n",
+            "lemmas": [
+              "chickpea plant"
+            ],
+            "definition": "Asiatic herb cultivated for its short pods with one or two edible seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-శనగలు-n12515711",
+          "lemma": "శనగలు",
+          "word_id": "unimet-tel-శనగలు",
+          "synset": {
+            "id": "omw-en-12515711-n",
+            "ili": "i102699",
+            "pos": "n",
+            "lemmas": [
+              "chickpea plant"
+            ],
+            "definition": "Asiatic herb cultivated for its short pods with one or two edible seeds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-శనగలు-n07726095",
+          "lemma": "శనగలు",
+          "word_id": "unimet-tel-శనగలు",
+          "synset": {
+            "id": "omw-en-07726095-n",
+            "ili": "i77619",
+            "pos": "n",
+            "lemmas": [
+              "chickpea"
+            ],
+            "definition": "large white roundish Asiatic legume; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-శనగలు-n12515711::unimet-tel-శనగలు-n07726095": {
+          "source": "unimet-tel-శనగలు-n12515711",
+          "target": "unimet-tel-శనగలు-n07726095",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "సంతోషం",
+      "all_senses": [
+        {
+          "id": "unimet-tel-సంతోషం-n05829782",
+          "lemma": "సంతోషం",
+          "word_id": "unimet-tel-సంతోషం",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-tel-సంతోషం-n07527352",
+          "lemma": "సంతోషం",
+          "word_id": "unimet-tel-సంతోషం",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-సంతోషం-n07527352",
+          "lemma": "సంతోషం",
+          "word_id": "unimet-tel-సంతోషం",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-సంతోషం-n05829782",
+          "lemma": "సంతోషం",
+          "word_id": "unimet-tel-సంతోషం",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-సంతోషం-n07527352::unimet-tel-సంతోషం-n05829782": {
+          "source": "unimet-tel-సంతోషం-n07527352",
+          "target": "unimet-tel-సంతోషం-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "సీతాఫలం",
+      "all_senses": [
+        {
+          "id": "unimet-tel-సీతాఫలం-n07760859",
+          "lemma": "సీతాఫలం",
+          "word_id": "unimet-tel-సీతాఫలం",
+          "synset": {
+            "id": "omw-en-07760859-n",
+            "ili": "i77850",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "the fruit of any of several tropical American trees of the genus Annona having soft edible pulp"
+          }
+        },
+        {
+          "id": "unimet-tel-సీతాఫలం-n11693981",
+          "lemma": "సీతాఫలం",
+          "word_id": "unimet-tel-సీతాఫలం",
+          "synset": {
+            "id": "omw-en-11693981-n",
+            "ili": "i98799",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "any of several tropical American trees bearing fruit with soft edible pulp"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-సీతాఫలం-n07760859",
+          "lemma": "సీతాఫలం",
+          "word_id": "unimet-tel-సీతాఫలం",
+          "synset": {
+            "id": "omw-en-07760859-n",
+            "ili": "i77850",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "the fruit of any of several tropical American trees of the genus Annona having soft edible pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-సీతాఫలం-n11693981",
+          "lemma": "సీతాఫలం",
+          "word_id": "unimet-tel-సీతాఫలం",
+          "synset": {
+            "id": "omw-en-11693981-n",
+            "ili": "i98799",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "any of several tropical American trees bearing fruit with soft edible pulp"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-సీతాఫలం-n07760859::unimet-tel-సీతాఫలం-n11693981": {
+          "source": "unimet-tel-సీతాఫలం-n07760859",
+          "target": "unimet-tel-సీతాఫలం-n11693981",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "సీమరేగుపండు",
+      "all_senses": [
+        {
+          "id": "unimet-tel-సీమరేగుపండు-n07739125",
+          "lemma": "సీమరేగుపండు",
+          "word_id": "unimet-tel-సీమరేగుపండు",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-tel-సీమరేగుపండు-n12633994",
+          "lemma": "సీమరేగుపండు",
+          "word_id": "unimet-tel-సీమరేగుపండు",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-సీమరేగుపండు-n07739125",
+          "lemma": "సీమరేగుపండు",
+          "word_id": "unimet-tel-సీమరేగుపండు",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-సీమరేగుపండు-n12633994",
+          "lemma": "సీమరేగుపండు",
+          "word_id": "unimet-tel-సీమరేగుపండు",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-సీమరేగుపండు-n07739125::unimet-tel-సీమరేగుపండు-n12633994": {
+          "source": "unimet-tel-సీమరేగుపండు-n07739125",
+          "target": "unimet-tel-సీమరేగుపండు-n12633994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "సొరకాయ",
+      "all_senses": [
+        {
+          "id": "unimet-tel-సొరకాయ-n12158031",
+          "lemma": "సొరకాయ",
+          "word_id": "unimet-tel-సొరకాయ",
+          "synset": {
+            "id": "omw-en-12158031-n",
+            "ili": "i101041",
+            "pos": "n",
+            "lemmas": [
+              "gourd"
+            ],
+            "definition": "any of numerous inedible fruits with hard rinds"
+          }
+        },
+        {
+          "id": "unimet-tel-సొరకాయ-n12166128",
+          "lemma": "సొరకాయ",
+          "word_id": "unimet-tel-సొరకాయ",
+          "synset": {
+            "id": "omw-en-12166128-n",
+            "ili": "i101078",
+            "pos": "n",
+            "lemmas": [
+              "lagenaria siceraria"
+            ],
+            "definition": "Old World climbing plant with hard-shelled bottle-shaped gourds as fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tel-సొరకాయ-n12158031",
+          "lemma": "సొరకాయ",
+          "word_id": "unimet-tel-సొరకాయ",
+          "synset": {
+            "id": "omw-en-12158031-n",
+            "ili": "i101041",
+            "pos": "n",
+            "lemmas": [
+              "gourd"
+            ],
+            "definition": "any of numerous inedible fruits with hard rinds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tel-సొరకాయ-n12166128",
+          "lemma": "సొరకాయ",
+          "word_id": "unimet-tel-సొరకాయ",
+          "synset": {
+            "id": "omw-en-12166128-n",
+            "ili": "i101078",
+            "pos": "n",
+            "lemmas": [
+              "lagenaria siceraria"
+            ],
+            "definition": "Old World climbing plant with hard-shelled bottle-shaped gourds as fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tel-సొరకాయ-n12158031::unimet-tel-సొరకాయ-n12166128": {
+          "source": "unimet-tel-సొరకాయ-n12158031",
+          "target": "unimet-tel-సొరకాయ-n12166128",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

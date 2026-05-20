@@ -1,0 +1,1592 @@
+{
+  "id": "bd46e92ded12f31a",
+  "name": "unimet-Bulgarian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "bul",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "банкет",
+      "all_senses": [
+        {
+          "id": "unimet-bul-банкет-n07578093",
+          "lemma": "банкет",
+          "word_id": "unimet-bul-банкет",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-bul-банкет-n08253640",
+          "lemma": "банкет",
+          "word_id": "unimet-bul-банкет",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-банкет-n07578093",
+          "lemma": "банкет",
+          "word_id": "unimet-bul-банкет",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-банкет-n08253640",
+          "lemma": "банкет",
+          "word_id": "unimet-bul-банкет",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-банкет-n07578093::unimet-bul-банкет-n08253640": {
+          "source": "unimet-bul-банкет-n07578093",
+          "target": "unimet-bul-банкет-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "власт",
+      "all_senses": [
+        {
+          "id": "unimet-bul-власт-n09824609",
+          "lemma": "власт",
+          "word_id": "unimet-bul-власт",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        },
+        {
+          "id": "unimet-bul-власт-n14442933",
+          "lemma": "власт",
+          "word_id": "unimet-bul-власт",
+          "synset": {
+            "id": "omw-en-14442933-n",
+            "ili": "i112906",
+            "pos": "n",
+            "lemmas": [
+              "rule"
+            ],
+            "definition": "dominance or power through legal authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-власт-n14442933",
+          "lemma": "власт",
+          "word_id": "unimet-bul-власт",
+          "synset": {
+            "id": "omw-en-14442933-n",
+            "ili": "i112906",
+            "pos": "n",
+            "lemmas": [
+              "rule"
+            ],
+            "definition": "dominance or power through legal authority"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-власт-n09824609",
+          "lemma": "власт",
+          "word_id": "unimet-bul-власт",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-власт-n14442933::unimet-bul-власт-n09824609": {
+          "source": "unimet-bul-власт-n14442933",
+          "target": "unimet-bul-власт-n09824609",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "връзка",
+      "all_senses": [
+        {
+          "id": "unimet-bul-връзка-n09956147",
+          "lemma": "връзка",
+          "word_id": "unimet-bul-връзка",
+          "synset": {
+            "id": "omw-en-09956147-n",
+            "ili": "i89173",
+            "pos": "n",
+            "lemmas": [
+              "connection"
+            ],
+            "definition": "(usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)"
+          }
+        },
+        {
+          "id": "unimet-bul-връзка-n13928388",
+          "lemma": "връзка",
+          "word_id": "unimet-bul-връзка",
+          "synset": {
+            "id": "omw-en-13928388-n",
+            "ili": "i110138",
+            "pos": "n",
+            "lemmas": [
+              "relationship"
+            ],
+            "definition": "a state of connectedness between people (especially an emotional connection)"
+          }
+        },
+        {
+          "id": "unimet-bul-връзка-n14419164",
+          "lemma": "връзка",
+          "word_id": "unimet-bul-връзка",
+          "synset": {
+            "id": "omw-en-14419164-n",
+            "ili": "i112780",
+            "pos": "n",
+            "lemmas": [
+              "link"
+            ],
+            "definition": "the state of being connected"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-връзка-n14419164",
+          "lemma": "връзка",
+          "word_id": "unimet-bul-връзка",
+          "synset": {
+            "id": "omw-en-14419164-n",
+            "ili": "i112780",
+            "pos": "n",
+            "lemmas": [
+              "link"
+            ],
+            "definition": "the state of being connected"
+          }
+        },
+        {
+          "id": "unimet-bul-връзка-n13928388",
+          "lemma": "връзка",
+          "word_id": "unimet-bul-връзка",
+          "synset": {
+            "id": "omw-en-13928388-n",
+            "ili": "i110138",
+            "pos": "n",
+            "lemmas": [
+              "relationship"
+            ],
+            "definition": "a state of connectedness between people (especially an emotional connection)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-връзка-n09956147",
+          "lemma": "връзка",
+          "word_id": "unimet-bul-връзка",
+          "synset": {
+            "id": "omw-en-09956147-n",
+            "ili": "i89173",
+            "pos": "n",
+            "lemmas": [
+              "connection"
+            ],
+            "definition": "(usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-връзка-n14419164::unimet-bul-връзка-n09956147": {
+          "source": "unimet-bul-връзка-n14419164",
+          "target": "unimet-bul-връзка-n09956147",
+          "type": "metonymy"
+        },
+        "unimet-bul-връзка-n13928388::unimet-bul-връзка-n09956147": {
+          "source": "unimet-bul-връзка-n13928388",
+          "target": "unimet-bul-връзка-n09956147",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "вълна",
+      "all_senses": [
+        {
+          "id": "unimet-bul-вълна-n04599235",
+          "lemma": "вълна",
+          "word_id": "unimet-bul-вълна",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-bul-вълна-n14764061",
+          "lemma": "вълна",
+          "word_id": "unimet-bul-вълна",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        },
+        {
+          "id": "unimet-bul-вълна-n15104217",
+          "lemma": "вълна",
+          "word_id": "unimet-bul-вълна",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-вълна-n14764061",
+          "lemma": "вълна",
+          "word_id": "unimet-bul-вълна",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        },
+        {
+          "id": "unimet-bul-вълна-n15104217",
+          "lemma": "вълна",
+          "word_id": "unimet-bul-вълна",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-вълна-n04599235",
+          "lemma": "вълна",
+          "word_id": "unimet-bul-вълна",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-вълна-n14764061::unimet-bul-вълна-n04599235": {
+          "source": "unimet-bul-вълна-n14764061",
+          "target": "unimet-bul-вълна-n04599235",
+          "type": "metonymy"
+        },
+        "unimet-bul-вълна-n15104217::unimet-bul-вълна-n04599235": {
+          "source": "unimet-bul-вълна-n15104217",
+          "target": "unimet-bul-вълна-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "дом",
+      "all_senses": [
+        {
+          "id": "unimet-bul-дом-n08078020",
+          "lemma": "дом",
+          "word_id": "unimet-bul-дом",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-bul-дом-n08559508",
+          "lemma": "дом",
+          "word_id": "unimet-bul-дом",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-дом-n08078020",
+          "lemma": "дом",
+          "word_id": "unimet-bul-дом",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-дом-n08559508",
+          "lemma": "дом",
+          "word_id": "unimet-bul-дом",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-дом-n08078020::unimet-bul-дом-n08559508": {
+          "source": "unimet-bul-дом-n08078020",
+          "target": "unimet-bul-дом-n08559508",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "дърво",
+      "all_senses": [
+        {
+          "id": "unimet-bul-дърво-n14943580",
+          "lemma": "дърво",
+          "word_id": "unimet-bul-дърво",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        },
+        {
+          "id": "unimet-bul-дърво-n15098161",
+          "lemma": "дърво",
+          "word_id": "unimet-bul-дърво",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-дърво-n14943580",
+          "lemma": "дърво",
+          "word_id": "unimet-bul-дърво",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-дърво-n15098161",
+          "lemma": "дърво",
+          "word_id": "unimet-bul-дърво",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-дърво-n14943580::unimet-bul-дърво-n15098161": {
+          "source": "unimet-bul-дърво-n14943580",
+          "target": "unimet-bul-дърво-n15098161",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "държава",
+      "all_senses": [
+        {
+          "id": "unimet-bul-държава-n08168978",
+          "lemma": "държава",
+          "word_id": "unimet-bul-държава",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-bul-държава-n08654360",
+          "lemma": "държава",
+          "word_id": "unimet-bul-държава",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-държава-n08168978",
+          "lemma": "държава",
+          "word_id": "unimet-bul-държава",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-държава-n08654360",
+          "lemma": "държава",
+          "word_id": "unimet-bul-държава",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-държава-n08168978::unimet-bul-държава-n08654360": {
+          "source": "unimet-bul-държава-n08168978",
+          "target": "unimet-bul-държава-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "живот",
+      "all_senses": [
+        {
+          "id": "unimet-bul-живот-n10260706",
+          "lemma": "живот",
+          "word_id": "unimet-bul-живот",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        },
+        {
+          "id": "unimet-bul-живот-n13961399",
+          "lemma": "живот",
+          "word_id": "unimet-bul-живот",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        },
+        {
+          "id": "unimet-bul-живот-n13963192",
+          "lemma": "живот",
+          "word_id": "unimet-bul-живот",
+          "synset": {
+            "id": "omw-en-13963192-n",
+            "ili": "i110312",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a characteristic state or mode of living"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-живот-n13961399",
+          "lemma": "живот",
+          "word_id": "unimet-bul-живот",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        },
+        {
+          "id": "unimet-bul-живот-n13963192",
+          "lemma": "живот",
+          "word_id": "unimet-bul-живот",
+          "synset": {
+            "id": "omw-en-13963192-n",
+            "ili": "i110312",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a characteristic state or mode of living"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-живот-n10260706",
+          "lemma": "живот",
+          "word_id": "unimet-bul-живот",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-живот-n13961399::unimet-bul-живот-n10260706": {
+          "source": "unimet-bul-живот-n13961399",
+          "target": "unimet-bul-живот-n10260706",
+          "type": "metonymy"
+        },
+        "unimet-bul-живот-n13963192::unimet-bul-живот-n10260706": {
+          "source": "unimet-bul-живот-n13963192",
+          "target": "unimet-bul-живот-n10260706",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "книга",
+      "all_senses": [
+        {
+          "id": "unimet-bul-книга-n02870092",
+          "lemma": "книга",
+          "word_id": "unimet-bul-книга",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-bul-книга-n06410904",
+          "lemma": "книга",
+          "word_id": "unimet-bul-книга",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-книга-n02870092",
+          "lemma": "книга",
+          "word_id": "unimet-bul-книга",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-книга-n06410904",
+          "lemma": "книга",
+          "word_id": "unimet-bul-книга",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-книга-n02870092::unimet-bul-книга-n06410904": {
+          "source": "unimet-bul-книга-n02870092",
+          "target": "unimet-bul-книга-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кристал",
+      "all_senses": [
+        {
+          "id": "unimet-bul-кристал-n03142834",
+          "lemma": "кристал",
+          "word_id": "unimet-bul-кристал",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-bul-кристал-n14879750",
+          "lemma": "кристал",
+          "word_id": "unimet-bul-кристал",
+          "synset": {
+            "id": "omw-en-14879750-n",
+            "ili": "i115263",
+            "pos": "n",
+            "lemmas": [
+              "quartz"
+            ],
+            "definition": "colorless glass made of almost pure silica"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-кристал-n14879750",
+          "lemma": "кристал",
+          "word_id": "unimet-bul-кристал",
+          "synset": {
+            "id": "omw-en-14879750-n",
+            "ili": "i115263",
+            "pos": "n",
+            "lemmas": [
+              "quartz"
+            ],
+            "definition": "colorless glass made of almost pure silica"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-кристал-n03142834",
+          "lemma": "кристал",
+          "word_id": "unimet-bul-кристал",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-кристал-n14879750::unimet-bul-кристал-n03142834": {
+          "source": "unimet-bul-кристал-n14879750",
+          "target": "unimet-bul-кристал-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "нишка",
+      "all_senses": [
+        {
+          "id": "unimet-bul-нишка-n04426788",
+          "lemma": "нишка",
+          "word_id": "unimet-bul-нишка",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-bul-нишка-n14866889",
+          "lemma": "нишка",
+          "word_id": "unimet-bul-нишка",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-нишка-n14866889",
+          "lemma": "нишка",
+          "word_id": "unimet-bul-нишка",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-нишка-n04426788",
+          "lemma": "нишка",
+          "word_id": "unimet-bul-нишка",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-нишка-n14866889::unimet-bul-нишка-n04426788": {
+          "source": "unimet-bul-нишка-n14866889",
+          "target": "unimet-bul-нишка-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "село",
+      "all_senses": [
+        {
+          "id": "unimet-bul-село-n08226699",
+          "lemma": "село",
+          "word_id": "unimet-bul-село",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-bul-село-n08644722",
+          "lemma": "село",
+          "word_id": "unimet-bul-село",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-bul-село-n08672738",
+          "lemma": "село",
+          "word_id": "unimet-bul-село",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-село-n08226699",
+          "lemma": "село",
+          "word_id": "unimet-bul-село",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-село-n08644722",
+          "lemma": "село",
+          "word_id": "unimet-bul-село",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-bul-село-n08672738",
+          "lemma": "село",
+          "word_id": "unimet-bul-село",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-село-n08226699::unimet-bul-село-n08644722": {
+          "source": "unimet-bul-село-n08226699",
+          "target": "unimet-bul-село-n08644722",
+          "type": "metonymy"
+        },
+        "unimet-bul-село-n08226699::unimet-bul-село-n08672738": {
+          "source": "unimet-bul-село-n08226699",
+          "target": "unimet-bul-село-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "сила",
+      "all_senses": [
+        {
+          "id": "unimet-bul-сила-n05194578",
+          "lemma": "сила",
+          "word_id": "unimet-bul-сила",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        },
+        {
+          "id": "unimet-bul-сила-n10461424",
+          "lemma": "сила",
+          "word_id": "unimet-bul-сила",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-сила-n05194578",
+          "lemma": "сила",
+          "word_id": "unimet-bul-сила",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-сила-n10461424",
+          "lemma": "сила",
+          "word_id": "unimet-bul-сила",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-сила-n05194578::unimet-bul-сила-n10461424": {
+          "source": "unimet-bul-сила-n05194578",
+          "target": "unimet-bul-сила-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "сребро",
+      "all_senses": [
+        {
+          "id": "unimet-bul-сребро-n03361837",
+          "lemma": "сребро",
+          "word_id": "unimet-bul-сребро",
+          "synset": {
+            "id": "omw-en-03361837-n",
+            "ili": "i53841",
+            "pos": "n",
+            "lemmas": [
+              "flatware"
+            ],
+            "definition": "silverware eating utensils"
+          }
+        },
+        {
+          "id": "unimet-bul-сребро-n14654954",
+          "lemma": "сребро",
+          "word_id": "unimet-bul-сребро",
+          "synset": {
+            "id": "omw-en-14654954-n",
+            "ili": "i114005",
+            "pos": "n",
+            "lemmas": [
+              "silver"
+            ],
+            "definition": "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-сребро-n14654954",
+          "lemma": "сребро",
+          "word_id": "unimet-bul-сребро",
+          "synset": {
+            "id": "omw-en-14654954-n",
+            "ili": "i114005",
+            "pos": "n",
+            "lemmas": [
+              "silver"
+            ],
+            "definition": "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-сребро-n03361837",
+          "lemma": "сребро",
+          "word_id": "unimet-bul-сребро",
+          "synset": {
+            "id": "omw-en-03361837-n",
+            "ili": "i53841",
+            "pos": "n",
+            "lemmas": [
+              "flatware"
+            ],
+            "definition": "silverware eating utensils"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-сребро-n14654954::unimet-bul-сребро-n03361837": {
+          "source": "unimet-bul-сребро-n14654954",
+          "target": "unimet-bul-сребро-n03361837",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "страна",
+      "all_senses": [
+        {
+          "id": "unimet-bul-страна-n08168978",
+          "lemma": "страна",
+          "word_id": "unimet-bul-страна",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-bul-страна-n08544813",
+          "lemma": "страна",
+          "word_id": "unimet-bul-страна",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-страна-n08168978",
+          "lemma": "страна",
+          "word_id": "unimet-bul-страна",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-страна-n08544813",
+          "lemma": "страна",
+          "word_id": "unimet-bul-страна",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-страна-n08168978::unimet-bul-страна-n08544813": {
+          "source": "unimet-bul-страна-n08168978",
+          "target": "unimet-bul-страна-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "том",
+      "all_senses": [
+        {
+          "id": "unimet-bul-том-n02870092",
+          "lemma": "том",
+          "word_id": "unimet-bul-том",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-bul-том-n06413666",
+          "lemma": "том",
+          "word_id": "unimet-bul-том",
+          "synset": {
+            "id": "omw-en-06413666-n",
+            "ili": "i70194",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "a publication that is one of a set of several similar publications"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-том-n02870092",
+          "lemma": "том",
+          "word_id": "unimet-bul-том",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-том-n06413666",
+          "lemma": "том",
+          "word_id": "unimet-bul-том",
+          "synset": {
+            "id": "omw-en-06413666-n",
+            "ili": "i70194",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "a publication that is one of a set of several similar publications"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-том-n02870092::unimet-bul-том-n06413666": {
+          "source": "unimet-bul-том-n02870092",
+          "target": "unimet-bul-том-n06413666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "тъга",
+      "all_senses": [
+        {
+          "id": "unimet-bul-тъга-n05833683",
+          "lemma": "тъга",
+          "word_id": "unimet-bul-тъга",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-bul-тъга-n07535010",
+          "lemma": "тъга",
+          "word_id": "unimet-bul-тъга",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-тъга-n07535010",
+          "lemma": "тъга",
+          "word_id": "unimet-bul-тъга",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-тъга-n05833683",
+          "lemma": "тъга",
+          "word_id": "unimet-bul-тъга",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-тъга-n07535010::unimet-bul-тъга-n05833683": {
+          "source": "unimet-bul-тъга-n07535010",
+          "target": "unimet-bul-тъга-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "тържество",
+      "all_senses": [
+        {
+          "id": "unimet-bul-тържество-n07447261",
+          "lemma": "тържество",
+          "word_id": "unimet-bul-тържество",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-bul-тържество-n08252602",
+          "lemma": "тържество",
+          "word_id": "unimet-bul-тържество",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-тържество-n07447261",
+          "lemma": "тържество",
+          "word_id": "unimet-bul-тържество",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-тържество-n08252602",
+          "lemma": "тържество",
+          "word_id": "unimet-bul-тържество",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-тържество-n07447261::unimet-bul-тържество-n08252602": {
+          "source": "unimet-bul-тържество-n07447261",
+          "target": "unimet-bul-тържество-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "филм",
+      "all_senses": [
+        {
+          "id": "unimet-bul-филм-n03338821",
+          "lemma": "филм",
+          "word_id": "unimet-bul-филм",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        },
+        {
+          "id": "unimet-bul-филм-n06262567",
+          "lemma": "филм",
+          "word_id": "unimet-bul-филм",
+          "synset": {
+            "id": "omw-en-06262567-n",
+            "ili": "i69416",
+            "pos": "n",
+            "lemmas": [
+              "cinema"
+            ],
+            "definition": "a medium that disseminates moving pictures"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bul-филм-n03338821",
+          "lemma": "филм",
+          "word_id": "unimet-bul-филм",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bul-филм-n06262567",
+          "lemma": "филм",
+          "word_id": "unimet-bul-филм",
+          "synset": {
+            "id": "omw-en-06262567-n",
+            "ili": "i69416",
+            "pos": "n",
+            "lemmas": [
+              "cinema"
+            ],
+            "definition": "a medium that disseminates moving pictures"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bul-филм-n03338821::unimet-bul-филм-n06262567": {
+          "source": "unimet-bul-филм-n03338821",
+          "target": "unimet-bul-филм-n06262567",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

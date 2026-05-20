@@ -1,0 +1,766 @@
+{
+  "id": "180e843f11c71f18",
+  "name": "unimet-Esperanto",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "epo",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "brasiko",
+      "all_senses": [
+        {
+          "id": "unimet-epo-brasiko-n07713895",
+          "lemma": "brasiko",
+          "word_id": "unimet-epo-brasiko",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-epo-brasiko-n11875691",
+          "lemma": "brasiko",
+          "word_id": "unimet-epo-brasiko",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-brasiko-n11875691",
+          "lemma": "brasiko",
+          "word_id": "unimet-epo-brasiko",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-brasiko-n07713895",
+          "lemma": "brasiko",
+          "word_id": "unimet-epo-brasiko",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-brasiko-n11875691::unimet-epo-brasiko-n07713895": {
+          "source": "unimet-epo-brasiko-n11875691",
+          "target": "unimet-epo-brasiko-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "koko",
+      "all_senses": [
+        {
+          "id": "unimet-epo-koko-n01792158",
+          "lemma": "koko",
+          "word_id": "unimet-epo-koko",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-epo-koko-n07644967",
+          "lemma": "koko",
+          "word_id": "unimet-epo-koko",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-koko-n01792158",
+          "lemma": "koko",
+          "word_id": "unimet-epo-koko",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-koko-n07644967",
+          "lemma": "koko",
+          "word_id": "unimet-epo-koko",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-koko-n01792158::unimet-epo-koko-n07644967": {
+          "source": "unimet-epo-koko-n01792158",
+          "target": "unimet-epo-koko-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kokoso",
+      "all_senses": [
+        {
+          "id": "unimet-epo-kokoso-n07772935",
+          "lemma": "kokoso",
+          "word_id": "unimet-epo-kokoso",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-epo-kokoso-n07773238",
+          "lemma": "kokoso",
+          "word_id": "unimet-epo-kokoso",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        },
+        {
+          "id": "unimet-epo-kokoso-n12587803",
+          "lemma": "kokoso",
+          "word_id": "unimet-epo-kokoso",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-kokoso-n07772935",
+          "lemma": "kokoso",
+          "word_id": "unimet-epo-kokoso",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-kokoso-n12587803",
+          "lemma": "kokoso",
+          "word_id": "unimet-epo-kokoso",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        },
+        {
+          "id": "unimet-epo-kokoso-n07773238",
+          "lemma": "kokoso",
+          "word_id": "unimet-epo-kokoso",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-kokoso-n07772935::unimet-epo-kokoso-n12587803": {
+          "source": "unimet-epo-kokoso-n07772935",
+          "target": "unimet-epo-kokoso-n12587803",
+          "type": "metonymy"
+        },
+        "unimet-epo-kokoso-n12587803::unimet-epo-kokoso-n07773238": {
+          "source": "unimet-epo-kokoso-n12587803",
+          "target": "unimet-epo-kokoso-n07773238",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kristalo",
+      "all_senses": [
+        {
+          "id": "unimet-epo-kristalo-n03142834",
+          "lemma": "kristalo",
+          "word_id": "unimet-epo-kristalo",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-epo-kristalo-n14883206",
+          "lemma": "kristalo",
+          "word_id": "unimet-epo-kristalo",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-kristalo-n14883206",
+          "lemma": "kristalo",
+          "word_id": "unimet-epo-kristalo",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-kristalo-n03142834",
+          "lemma": "kristalo",
+          "word_id": "unimet-epo-kristalo",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-kristalo-n14883206::unimet-epo-kristalo-n03142834": {
+          "source": "unimet-epo-kristalo-n14883206",
+          "target": "unimet-epo-kristalo-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "laktuko",
+      "all_senses": [
+        {
+          "id": "unimet-epo-laktuko-n07723559",
+          "lemma": "laktuko",
+          "word_id": "unimet-epo-laktuko",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        },
+        {
+          "id": "unimet-epo-laktuko-n11986306",
+          "lemma": "laktuko",
+          "word_id": "unimet-epo-laktuko",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-laktuko-n11986306",
+          "lemma": "laktuko",
+          "word_id": "unimet-epo-laktuko",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-laktuko-n07723559",
+          "lemma": "laktuko",
+          "word_id": "unimet-epo-laktuko",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-laktuko-n11986306::unimet-epo-laktuko-n07723559": {
+          "source": "unimet-epo-laktuko-n11986306",
+          "target": "unimet-epo-laktuko-n07723559",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lando",
+      "all_senses": [
+        {
+          "id": "unimet-epo-lando-n08168978",
+          "lemma": "lando",
+          "word_id": "unimet-epo-lando",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-epo-lando-n08178547",
+          "lemma": "lando",
+          "word_id": "unimet-epo-lando",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-epo-lando-n08544813",
+          "lemma": "lando",
+          "word_id": "unimet-epo-lando",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-lando-n08168978",
+          "lemma": "lando",
+          "word_id": "unimet-epo-lando",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-epo-lando-n08178547",
+          "lemma": "lando",
+          "word_id": "unimet-epo-lando",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-lando-n08544813",
+          "lemma": "lando",
+          "word_id": "unimet-epo-lando",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-lando-n08168978::unimet-epo-lando-n08544813": {
+          "source": "unimet-epo-lando-n08168978",
+          "target": "unimet-epo-lando-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-epo-lando-n08178547::unimet-epo-lando-n08544813": {
+          "source": "unimet-epo-lando-n08178547",
+          "target": "unimet-epo-lando-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lento",
+      "all_senses": [
+        {
+          "id": "unimet-epo-lento-n07725255",
+          "lemma": "lento",
+          "word_id": "unimet-epo-lento",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-epo-lento-n12544240",
+          "lemma": "lento",
+          "word_id": "unimet-epo-lento",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-lento-n12544240",
+          "lemma": "lento",
+          "word_id": "unimet-epo-lento",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-lento-n07725255",
+          "lemma": "lento",
+          "word_id": "unimet-epo-lento",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-lento-n12544240::unimet-epo-lento-n07725255": {
+          "source": "unimet-epo-lento-n12544240",
+          "target": "unimet-epo-lento-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "malĝojo",
+      "all_senses": [
+        {
+          "id": "unimet-epo-malĝojo-n05833683",
+          "lemma": "malĝojo",
+          "word_id": "unimet-epo-malĝojo",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-epo-malĝojo-n07532440",
+          "lemma": "malĝojo",
+          "word_id": "unimet-epo-malĝojo",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-malĝojo-n07532440",
+          "lemma": "malĝojo",
+          "word_id": "unimet-epo-malĝojo",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-malĝojo-n05833683",
+          "lemma": "malĝojo",
+          "word_id": "unimet-epo-malĝojo",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-malĝojo-n07532440::unimet-epo-malĝojo-n05833683": {
+          "source": "unimet-epo-malĝojo-n07532440",
+          "target": "unimet-epo-malĝojo-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ŝtato",
+      "all_senses": [
+        {
+          "id": "unimet-epo-ŝtato-n08178547",
+          "lemma": "ŝtato",
+          "word_id": "unimet-epo-ŝtato",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-epo-ŝtato-n08654360",
+          "lemma": "ŝtato",
+          "word_id": "unimet-epo-ŝtato",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-epo-ŝtato-n08178547",
+          "lemma": "ŝtato",
+          "word_id": "unimet-epo-ŝtato",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-epo-ŝtato-n08654360",
+          "lemma": "ŝtato",
+          "word_id": "unimet-epo-ŝtato",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-epo-ŝtato-n08178547::unimet-epo-ŝtato-n08654360": {
+          "source": "unimet-epo-ŝtato-n08178547",
+          "target": "unimet-epo-ŝtato-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "db0499fb7968ed08",
+  "name": "unimet-Southern Sotho",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "sot",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "kgalase",
+      "all_senses": [
+        {
+          "id": "unimet-sot-kgalase-n03438257",
+          "lemma": "kgalase",
+          "word_id": "unimet-sot-kgalase",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-sot-kgalase-n14881303",
+          "lemma": "kgalase",
+          "word_id": "unimet-sot-kgalase",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sot-kgalase-n14881303",
+          "lemma": "kgalase",
+          "word_id": "unimet-sot-kgalase",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sot-kgalase-n03438257",
+          "lemma": "kgalase",
+          "word_id": "unimet-sot-kgalase",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sot-kgalase-n14881303::unimet-sot-kgalase-n03438257": {
+          "source": "unimet-sot-kgalase-n14881303",
+          "target": "unimet-sot-kgalase-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kwepere",
+      "all_senses": [
+        {
+          "id": "unimet-sot-kwepere-n07769584",
+          "lemma": "kwepere",
+          "word_id": "unimet-sot-kwepere",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-sot-kwepere-n12628986",
+          "lemma": "kwepere",
+          "word_id": "unimet-sot-kwepere",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sot-kwepere-n07769584",
+          "lemma": "kwepere",
+          "word_id": "unimet-sot-kwepere",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sot-kwepere-n12628986",
+          "lemma": "kwepere",
+          "word_id": "unimet-sot-kwepere",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sot-kwepere-n07769584::unimet-sot-kwepere-n12628986": {
+          "source": "unimet-sot-kwepere-n07769584",
+          "target": "unimet-sot-kwepere-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lehapu",
+      "all_senses": [
+        {
+          "id": "unimet-sot-lehapu-n07756951",
+          "lemma": "lehapu",
+          "word_id": "unimet-sot-lehapu",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-sot-lehapu-n12164065",
+          "lemma": "lehapu",
+          "word_id": "unimet-sot-lehapu",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sot-lehapu-n07756951",
+          "lemma": "lehapu",
+          "word_id": "unimet-sot-lehapu",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sot-lehapu-n12164065",
+          "lemma": "lehapu",
+          "word_id": "unimet-sot-lehapu",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sot-lehapu-n07756951::unimet-sot-lehapu-n12164065": {
+          "source": "unimet-sot-lehapu-n07756951",
+          "target": "unimet-sot-lehapu-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,6281 @@
+{
+  "id": "c1cdcf82c182c7a0",
+  "name": "unimet-Eastern Panjabi",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "pan",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ਅਨੰਦ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਅਨੰਦ-n05829782",
+          "lemma": "ਅਨੰਦ",
+          "word_id": "unimet-pan-ਅਨੰਦ",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-pan-ਅਨੰਦ-n07491038",
+          "lemma": "ਅਨੰਦ",
+          "word_id": "unimet-pan-ਅਨੰਦ",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਅਨੰਦ-n07491038",
+          "lemma": "ਅਨੰਦ",
+          "word_id": "unimet-pan-ਅਨੰਦ",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਅਨੰਦ-n05829782",
+          "lemma": "ਅਨੰਦ",
+          "word_id": "unimet-pan-ਅਨੰਦ",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਅਨੰਦ-n07491038::unimet-pan-ਅਨੰਦ-n05829782": {
+          "source": "unimet-pan-ਅਨੰਦ-n07491038",
+          "target": "unimet-pan-ਅਨੰਦ-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਅੜਚਨ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਅੜਚਨ-n10349243",
+          "lemma": "ਅੜਚਨ",
+          "word_id": "unimet-pan-ਅੜਚਨ",
+          "synset": {
+            "id": "omw-en-10349243-n",
+            "ili": "i91562",
+            "pos": "n",
+            "lemmas": [
+              "obstructer"
+            ],
+            "definition": "someone who systematically obstructs some action that others want to take"
+          }
+        },
+        {
+          "id": "unimet-pan-ਅੜਚਨ-n14507951",
+          "lemma": "ਅੜਚਨ",
+          "word_id": "unimet-pan-ਅੜਚਨ",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਅੜਚਨ-n14507951",
+          "lemma": "ਅੜਚਨ",
+          "word_id": "unimet-pan-ਅੜਚਨ",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਅੜਚਨ-n10349243",
+          "lemma": "ਅੜਚਨ",
+          "word_id": "unimet-pan-ਅੜਚਨ",
+          "synset": {
+            "id": "omw-en-10349243-n",
+            "ili": "i91562",
+            "pos": "n",
+            "lemmas": [
+              "obstructer"
+            ],
+            "definition": "someone who systematically obstructs some action that others want to take"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਅੜਚਨ-n14507951::unimet-pan-ਅੜਚਨ-n10349243": {
+          "source": "unimet-pan-ਅੜਚਨ-n14507951",
+          "target": "unimet-pan-ਅੜਚਨ-n10349243",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕਟਲ-ਬਡਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕਟਲ-ਬਡਰ-n07754684",
+          "lemma": "ਕਟਲ-ਬਡਰ",
+          "word_id": "unimet-pan-ਕਟਲ-ਬਡਰ",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕਟਲ-ਬਡਰ-n12400720",
+          "lemma": "ਕਟਲ-ਬਡਰ",
+          "word_id": "unimet-pan-ਕਟਲ-ਬਡਰ",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕਟਲ-ਬਡਰ-n07754684",
+          "lemma": "ਕਟਲ-ਬਡਰ",
+          "word_id": "unimet-pan-ਕਟਲ-ਬਡਰ",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕਟਲ-ਬਡਰ-n12400720",
+          "lemma": "ਕਟਲ-ਬਡਰ",
+          "word_id": "unimet-pan-ਕਟਲ-ਬਡਰ",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕਟਲ-ਬਡਰ-n07754684::unimet-pan-ਕਟਲ-ਬਡਰ-n12400720": {
+          "source": "unimet-pan-ਕਟਲ-ਬਡਰ-n07754684",
+          "target": "unimet-pan-ਕਟਲ-ਬਡਰ-n12400720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕਰਕੰਦ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕਰਕੰਦ-n07712063",
+          "lemma": "ਕਰਕੰਦ",
+          "word_id": "unimet-pan-ਕਰਕੰਦ",
+          "synset": {
+            "id": "omw-en-07712063-n",
+            "ili": "i77525",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "the edible tuberous root of the sweet potato vine which is grown widely in warm regions of the United States"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕਰਕੰਦ-n12827684",
+          "lemma": "ਕਰਕੰਦ",
+          "word_id": "unimet-pan-ਕਰਕੰਦ",
+          "synset": {
+            "id": "omw-en-12827684-n",
+            "ili": "i104212",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "pantropical vine widely cultivated in several varieties for its large sweet tuberous root with orange flesh"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕਰਕੰਦ-n12827684",
+          "lemma": "ਕਰਕੰਦ",
+          "word_id": "unimet-pan-ਕਰਕੰਦ",
+          "synset": {
+            "id": "omw-en-12827684-n",
+            "ili": "i104212",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "pantropical vine widely cultivated in several varieties for its large sweet tuberous root with orange flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕਰਕੰਦ-n07712063",
+          "lemma": "ਕਰਕੰਦ",
+          "word_id": "unimet-pan-ਕਰਕੰਦ",
+          "synset": {
+            "id": "omw-en-07712063-n",
+            "ili": "i77525",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "the edible tuberous root of the sweet potato vine which is grown widely in warm regions of the United States"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕਰਕੰਦ-n12827684::unimet-pan-ਕਰਕੰਦ-n07712063": {
+          "source": "unimet-pan-ਕਰਕੰਦ-n12827684",
+          "target": "unimet-pan-ਕਰਕੰਦ-n07712063",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕਲਿੰਗ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕਲਿੰਗ-n07756951",
+          "lemma": "ਕਲਿੰਗ",
+          "word_id": "unimet-pan-ਕਲਿੰਗ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕਲਿੰਗ-n12164065",
+          "lemma": "ਕਲਿੰਗ",
+          "word_id": "unimet-pan-ਕਲਿੰਗ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕਲਿੰਗ-n07756951",
+          "lemma": "ਕਲਿੰਗ",
+          "word_id": "unimet-pan-ਕਲਿੰਗ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕਲਿੰਗ-n12164065",
+          "lemma": "ਕਲਿੰਗ",
+          "word_id": "unimet-pan-ਕਲਿੰਗ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕਲਿੰਗ-n07756951::unimet-pan-ਕਲਿੰਗ-n12164065": {
+          "source": "unimet-pan-ਕਲਿੰਗ-n07756951",
+          "target": "unimet-pan-ਕਲਿੰਗ-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕਾਫੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕਾਫੀ-n07929351",
+          "lemma": "ਕਾਫੀ",
+          "word_id": "unimet-pan-ਕਾਫੀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕਾਫੀ-n12662772",
+          "lemma": "ਕਾਫੀ",
+          "word_id": "unimet-pan-ਕਾਫੀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕਾਫੀ-n07929351",
+          "lemma": "ਕਾਫੀ",
+          "word_id": "unimet-pan-ਕਾਫੀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕਾਫੀ-n12662772",
+          "lemma": "ਕਾਫੀ",
+          "word_id": "unimet-pan-ਕਾਫੀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕਾਫੀ-n07929351::unimet-pan-ਕਾਫੀ-n12662772": {
+          "source": "unimet-pan-ਕਾਫੀ-n07929351",
+          "target": "unimet-pan-ਕਾਫੀ-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕਾੱਫ਼ੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕਾੱਫ਼ੀ-n07929351",
+          "lemma": "ਕਾੱਫ਼ੀ",
+          "word_id": "unimet-pan-ਕਾੱਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕਾੱਫ਼ੀ-n12662772",
+          "lemma": "ਕਾੱਫ਼ੀ",
+          "word_id": "unimet-pan-ਕਾੱਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕਾੱਫ਼ੀ-n07929351",
+          "lemma": "ਕਾੱਫ਼ੀ",
+          "word_id": "unimet-pan-ਕਾੱਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕਾੱਫ਼ੀ-n12662772",
+          "lemma": "ਕਾੱਫ਼ੀ",
+          "word_id": "unimet-pan-ਕਾੱਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕਾੱਫ਼ੀ-n07929351::unimet-pan-ਕਾੱਫ਼ੀ-n12662772": {
+          "source": "unimet-pan-ਕਾੱਫ਼ੀ-n07929351",
+          "target": "unimet-pan-ਕਾੱਫ਼ੀ-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕੂਲ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕੂਲ-n04146050",
+          "lemma": "ਕੂਲ",
+          "word_id": "unimet-pan-ਕੂਲ",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕੂਲ-n08275185",
+          "lemma": "ਕੂਲ",
+          "word_id": "unimet-pan-ਕੂਲ",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕੂਲ-n04146050",
+          "lemma": "ਕੂਲ",
+          "word_id": "unimet-pan-ਕੂਲ",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕੂਲ-n08275185",
+          "lemma": "ਕੂਲ",
+          "word_id": "unimet-pan-ਕੂਲ",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕੂਲ-n04146050::unimet-pan-ਕੂਲ-n08275185": {
+          "source": "unimet-pan-ਕੂਲ-n04146050",
+          "target": "unimet-pan-ਕੂਲ-n08275185",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਕੰਜਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਕੰਜਾ-n11689197",
+          "lemma": "ਕੰਜਾ",
+          "word_id": "unimet-pan-ਕੰਜਾ",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        },
+        {
+          "id": "unimet-pan-ਕੰਜਾ-n12488454",
+          "lemma": "ਕੰਜਾ",
+          "word_id": "unimet-pan-ਕੰਜਾ",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਕੰਜਾ-n11689197",
+          "lemma": "ਕੰਜਾ",
+          "word_id": "unimet-pan-ਕੰਜਾ",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਕੰਜਾ-n12488454",
+          "lemma": "ਕੰਜਾ",
+          "word_id": "unimet-pan-ਕੰਜਾ",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਕੰਜਾ-n11689197::unimet-pan-ਕੰਜਾ-n12488454": {
+          "source": "unimet-pan-ਕੰਜਾ-n11689197",
+          "target": "unimet-pan-ਕੰਜਾ-n12488454",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਘੀਆ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਘੀਆ-n07735510",
+          "lemma": "ਘੀਆ",
+          "word_id": "unimet-pan-ਘੀਆ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-pan-ਘੀਆ-n12158443",
+          "lemma": "ਘੀਆ",
+          "word_id": "unimet-pan-ਘੀਆ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਘੀਆ-n12158443",
+          "lemma": "ਘੀਆ",
+          "word_id": "unimet-pan-ਘੀਆ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਘੀਆ-n07735510",
+          "lemma": "ਘੀਆ",
+          "word_id": "unimet-pan-ਘੀਆ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਘੀਆ-n12158443::unimet-pan-ਘੀਆ-n07735510": {
+          "source": "unimet-pan-ਘੀਆ-n12158443",
+          "target": "unimet-pan-ਘੀਆ-n07735510",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਟਨਾਸ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਟਨਾਸ-n07724943",
+          "lemma": "ਟਨਾਸ",
+          "word_id": "unimet-pan-ਟਨਾਸ",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        },
+        {
+          "id": "unimet-pan-ਟਨਾਸ-n12537569",
+          "lemma": "ਟਨਾਸ",
+          "word_id": "unimet-pan-ਟਨਾਸ",
+          "synset": {
+            "id": "omw-en-12537569-n",
+            "ili": "i102803",
+            "pos": "n",
+            "lemmas": [
+              "egyptian bean"
+            ],
+            "definition": "perennial twining vine of Old World tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the Indian subcontinent; sometimes placed in genus Dolichos"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਟਨਾਸ-n12537569",
+          "lemma": "ਟਨਾਸ",
+          "word_id": "unimet-pan-ਟਨਾਸ",
+          "synset": {
+            "id": "omw-en-12537569-n",
+            "ili": "i102803",
+            "pos": "n",
+            "lemmas": [
+              "egyptian bean"
+            ],
+            "definition": "perennial twining vine of Old World tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the Indian subcontinent; sometimes placed in genus Dolichos"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਟਨਾਸ-n07724943",
+          "lemma": "ਟਨਾਸ",
+          "word_id": "unimet-pan-ਟਨਾਸ",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਟਨਾਸ-n12537569::unimet-pan-ਟਨਾਸ-n07724943": {
+          "source": "unimet-pan-ਟਨਾਸ-n12537569",
+          "target": "unimet-pan-ਟਨਾਸ-n07724943",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਟਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਟਰ-n12560016",
+          "lemma": "ਟਰ",
+          "word_id": "unimet-pan-ਟਰ",
+          "synset": {
+            "id": "omw-en-12560016-n",
+            "ili": "i102906",
+            "pos": "n",
+            "lemmas": [
+              "pea plant"
+            ],
+            "definition": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds"
+          }
+        },
+        {
+          "id": "unimet-pan-ਟਰ-n12560282",
+          "lemma": "ਟਰ",
+          "word_id": "unimet-pan-ਟਰ",
+          "synset": {
+            "id": "omw-en-12560282-n",
+            "ili": "i102907",
+            "pos": "n",
+            "lemmas": [
+              "pea"
+            ],
+            "definition": "the fruit or seed of a pea plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਟਰ-n12560016",
+          "lemma": "ਟਰ",
+          "word_id": "unimet-pan-ਟਰ",
+          "synset": {
+            "id": "omw-en-12560016-n",
+            "ili": "i102906",
+            "pos": "n",
+            "lemmas": [
+              "pea plant"
+            ],
+            "definition": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਟਰ-n12560282",
+          "lemma": "ਟਰ",
+          "word_id": "unimet-pan-ਟਰ",
+          "synset": {
+            "id": "omw-en-12560282-n",
+            "ili": "i102907",
+            "pos": "n",
+            "lemmas": [
+              "pea"
+            ],
+            "definition": "the fruit or seed of a pea plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਟਰ-n12560016::unimet-pan-ਟਰ-n12560282": {
+          "source": "unimet-pan-ਟਰ-n12560016",
+          "target": "unimet-pan-ਟਰ-n12560282",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਟਰਾਬੇਰੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਟਰਾਬੇਰੀ-n07745940",
+          "lemma": "ਟਰਾਬੇਰੀ",
+          "word_id": "unimet-pan-ਟਰਾਬੇਰੀ",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-pan-ਟਰਾਬੇਰੀ-n12630144",
+          "lemma": "ਟਰਾਬੇਰੀ",
+          "word_id": "unimet-pan-ਟਰਾਬੇਰੀ",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਟਰਾਬੇਰੀ-n07745940",
+          "lemma": "ਟਰਾਬੇਰੀ",
+          "word_id": "unimet-pan-ਟਰਾਬੇਰੀ",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਟਰਾਬੇਰੀ-n12630144",
+          "lemma": "ਟਰਾਬੇਰੀ",
+          "word_id": "unimet-pan-ਟਰਾਬੇਰੀ",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਟਰਾਬੇਰੀ-n07745940::unimet-pan-ਟਰਾਬੇਰੀ-n12630144": {
+          "source": "unimet-pan-ਟਰਾਬੇਰੀ-n07745940",
+          "target": "unimet-pan-ਟਰਾਬੇਰੀ-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਟਲ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਟਲ-n07754684",
+          "lemma": "ਟਲ",
+          "word_id": "unimet-pan-ਟਲ",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        },
+        {
+          "id": "unimet-pan-ਟਲ-n12400720",
+          "lemma": "ਟਲ",
+          "word_id": "unimet-pan-ਟਲ",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਟਲ-n07754684",
+          "lemma": "ਟਲ",
+          "word_id": "unimet-pan-ਟਲ",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਟਲ-n12400720",
+          "lemma": "ਟਲ",
+          "word_id": "unimet-pan-ਟਲ",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਟਲ-n07754684::unimet-pan-ਟਲ-n12400720": {
+          "source": "unimet-pan-ਟਲ-n07754684",
+          "target": "unimet-pan-ਟਲ-n12400720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਟੀਨ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਟੀਨ-n04438897",
+          "lemma": "ਟੀਨ",
+          "word_id": "unimet-pan-ਟੀਨ",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        },
+        {
+          "id": "unimet-pan-ਟੀਨ-n13765990",
+          "lemma": "ਟੀਨ",
+          "word_id": "unimet-pan-ਟੀਨ",
+          "synset": {
+            "id": "omw-en-13765990-n",
+            "ili": "i109225",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "the quantity contained in a can"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਟੀਨ-n04438897",
+          "lemma": "ਟੀਨ",
+          "word_id": "unimet-pan-ਟੀਨ",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਟੀਨ-n13765990",
+          "lemma": "ਟੀਨ",
+          "word_id": "unimet-pan-ਟੀਨ",
+          "synset": {
+            "id": "omw-en-13765990-n",
+            "ili": "i109225",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "the quantity contained in a can"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਟੀਨ-n04438897::unimet-pan-ਟੀਨ-n13765990": {
+          "source": "unimet-pan-ਟੀਨ-n04438897",
+          "target": "unimet-pan-ਟੀਨ-n13765990",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਤਰਬੁਜ਼",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼-n07756951",
+          "lemma": "ਤਰਬੁਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼-n12164065",
+          "lemma": "ਤਰਬੁਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼-n07756951",
+          "lemma": "ਤਰਬੁਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼-n12164065",
+          "lemma": "ਤਰਬੁਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਤਰਬੁਜ਼-n07756951::unimet-pan-ਤਰਬੁਜ਼-n12164065": {
+          "source": "unimet-pan-ਤਰਬੁਜ਼-n07756951",
+          "target": "unimet-pan-ਤਰਬੁਜ਼-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਤਰਬੁਜ਼ਹ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼ਹ-n07756951",
+          "lemma": "ਤਰਬੁਜ਼ਹ",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼ਹ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼ਹ-n12164065",
+          "lemma": "ਤਰਬੁਜ਼ਹ",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼ਹ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼ਹ-n07756951",
+          "lemma": "ਤਰਬੁਜ਼ਹ",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼ਹ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੁਜ਼ਹ-n12164065",
+          "lemma": "ਤਰਬੁਜ਼ਹ",
+          "word_id": "unimet-pan-ਤਰਬੁਜ਼ਹ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਤਰਬੁਜ਼ਹ-n07756951::unimet-pan-ਤਰਬੁਜ਼ਹ-n12164065": {
+          "source": "unimet-pan-ਤਰਬੁਜ਼ਹ-n07756951",
+          "target": "unimet-pan-ਤਰਬੁਜ਼ਹ-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਤਰਬੂਜ਼",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੂਜ਼-n07756951",
+          "lemma": "ਤਰਬੂਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੂਜ਼",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਤਰਬੂਜ਼-n12164065",
+          "lemma": "ਤਰਬੂਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੂਜ਼",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੂਜ਼-n07756951",
+          "lemma": "ਤਰਬੂਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੂਜ਼",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਤਰਬੂਜ਼-n12164065",
+          "lemma": "ਤਰਬੂਜ਼",
+          "word_id": "unimet-pan-ਤਰਬੂਜ਼",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਤਰਬੂਜ਼-n07756951::unimet-pan-ਤਰਬੂਜ਼-n12164065": {
+          "source": "unimet-pan-ਤਰਬੂਜ਼-n07756951",
+          "target": "unimet-pan-ਤਰਬੂਜ਼-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਤਾਲੂ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਤਾਲੂ-n07711907",
+          "lemma": "ਤਾਲੂ",
+          "word_id": "unimet-pan-ਤਾਲੂ",
+          "synset": {
+            "id": "omw-en-07711907-n",
+            "ili": "i77524",
+            "pos": "n",
+            "lemmas": [
+              "yam"
+            ],
+            "definition": "edible tuberous root of various yam plants of the genus Dioscorea grown in the tropics world-wide for food"
+          }
+        },
+        {
+          "id": "unimet-pan-ਤਾਲੂ-n12087961",
+          "lemma": "ਤਾਲੂ",
+          "word_id": "unimet-pan-ਤਾਲੂ",
+          "synset": {
+            "id": "omw-en-12087961-n",
+            "ili": "i100678",
+            "pos": "n",
+            "lemmas": [
+              "yam"
+            ],
+            "definition": "any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਤਾਲੂ-n12087961",
+          "lemma": "ਤਾਲੂ",
+          "word_id": "unimet-pan-ਤਾਲੂ",
+          "synset": {
+            "id": "omw-en-12087961-n",
+            "ili": "i100678",
+            "pos": "n",
+            "lemmas": [
+              "yam"
+            ],
+            "definition": "any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਤਾਲੂ-n07711907",
+          "lemma": "ਤਾਲੂ",
+          "word_id": "unimet-pan-ਤਾਲੂ",
+          "synset": {
+            "id": "omw-en-07711907-n",
+            "ili": "i77524",
+            "pos": "n",
+            "lemmas": [
+              "yam"
+            ],
+            "definition": "edible tuberous root of various yam plants of the genus Dioscorea grown in the tropics world-wide for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਤਾਲੂ-n12087961::unimet-pan-ਤਾਲੂ-n07711907": {
+          "source": "unimet-pan-ਤਾਲੂ-n12087961",
+          "target": "unimet-pan-ਤਾਲੂ-n07711907",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਦਾੜਿਮ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਦਾੜਿਮ-n07768694",
+          "lemma": "ਦਾੜਿਮ",
+          "word_id": "unimet-pan-ਦਾੜਿਮ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-pan-ਦਾੜਿਮ-n12345280",
+          "lemma": "ਦਾੜਿਮ",
+          "word_id": "unimet-pan-ਦਾੜਿਮ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਦਾੜਿਮ-n07768694",
+          "lemma": "ਦਾੜਿਮ",
+          "word_id": "unimet-pan-ਦਾੜਿਮ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਦਾੜਿਮ-n12345280",
+          "lemma": "ਦਾੜਿਮ",
+          "word_id": "unimet-pan-ਦਾੜਿਮ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਦਾੜਿਮ-n07768694::unimet-pan-ਦਾੜਿਮ-n12345280": {
+          "source": "unimet-pan-ਦਾੜਿਮ-n07768694",
+          "target": "unimet-pan-ਦਾੜਿਮ-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਦਾੜੂ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਦਾੜੂ-n07768694",
+          "lemma": "ਦਾੜੂ",
+          "word_id": "unimet-pan-ਦਾੜੂ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-pan-ਦਾੜੂ-n12345280",
+          "lemma": "ਦਾੜੂ",
+          "word_id": "unimet-pan-ਦਾੜੂ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਦਾੜੂ-n07768694",
+          "lemma": "ਦਾੜੂ",
+          "word_id": "unimet-pan-ਦਾੜੂ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਦਾੜੂ-n12345280",
+          "lemma": "ਦਾੜੂ",
+          "word_id": "unimet-pan-ਦਾੜੂ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਦਾੜੂ-n07768694::unimet-pan-ਦਾੜੂ-n12345280": {
+          "source": "unimet-pan-ਦਾੜੂ-n07768694",
+          "target": "unimet-pan-ਦਾੜੂ-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਦ੍ਰਮਸਾਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਦ੍ਰਮਸਾਰ-n07768694",
+          "lemma": "ਦ੍ਰਮਸਾਰ",
+          "word_id": "unimet-pan-ਦ੍ਰਮਸਾਰ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-pan-ਦ੍ਰਮਸਾਰ-n12345280",
+          "lemma": "ਦ੍ਰਮਸਾਰ",
+          "word_id": "unimet-pan-ਦ੍ਰਮਸਾਰ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਦ੍ਰਮਸਾਰ-n07768694",
+          "lemma": "ਦ੍ਰਮਸਾਰ",
+          "word_id": "unimet-pan-ਦ੍ਰਮਸਾਰ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਦ੍ਰਮਸਾਰ-n12345280",
+          "lemma": "ਦ੍ਰਮਸਾਰ",
+          "word_id": "unimet-pan-ਦ੍ਰਮਸਾਰ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਦ੍ਰਮਸਾਰ-n07768694::unimet-pan-ਦ੍ਰਮਸਾਰ-n12345280": {
+          "source": "unimet-pan-ਦ੍ਰਮਸਾਰ-n07768694",
+          "target": "unimet-pan-ਦ੍ਰਮਸਾਰ-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਨਾਖ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਨਾਖ-n07767847",
+          "lemma": "ਨਾਖ",
+          "word_id": "unimet-pan-ਨਾਖ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-pan-ਨਾਖ-n12651611",
+          "lemma": "ਨਾਖ",
+          "word_id": "unimet-pan-ਨਾਖ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਨਾਖ-n07767847",
+          "lemma": "ਨਾਖ",
+          "word_id": "unimet-pan-ਨਾਖ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਨਾਖ-n12651611",
+          "lemma": "ਨਾਖ",
+          "word_id": "unimet-pan-ਨਾਖ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਨਾਖ-n07767847::unimet-pan-ਨਾਖ-n12651611": {
+          "source": "unimet-pan-ਨਾਖ-n07767847",
+          "target": "unimet-pan-ਨਾਖ-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਨਾਨਾਸ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਨਾਨਾਸ-n07753275",
+          "lemma": "ਨਾਨਾਸ",
+          "word_id": "unimet-pan-ਨਾਨਾਸ",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-pan-ਨਾਨਾਸ-n12607456",
+          "lemma": "ਨਾਨਾਸ",
+          "word_id": "unimet-pan-ਨਾਨਾਸ",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਨਾਨਾਸ-n07753275",
+          "lemma": "ਨਾਨਾਸ",
+          "word_id": "unimet-pan-ਨਾਨਾਸ",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਨਾਨਾਸ-n12607456",
+          "lemma": "ਨਾਨਾਸ",
+          "word_id": "unimet-pan-ਨਾਨਾਸ",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਨਾਨਾਸ-n07753275::unimet-pan-ਨਾਨਾਸ-n12607456": {
+          "source": "unimet-pan-ਨਾਨਾਸ-n07753275",
+          "target": "unimet-pan-ਨਾਨਾਸ-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਨਾਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਨਾਰ-n07768694",
+          "lemma": "ਨਾਰ",
+          "word_id": "unimet-pan-ਨਾਰ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-pan-ਨਾਰ-n12345280",
+          "lemma": "ਨਾਰ",
+          "word_id": "unimet-pan-ਨਾਰ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਨਾਰ-n07768694",
+          "lemma": "ਨਾਰ",
+          "word_id": "unimet-pan-ਨਾਰ",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਨਾਰ-n12345280",
+          "lemma": "ਨਾਰ",
+          "word_id": "unimet-pan-ਨਾਰ",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਨਾਰ-n07768694::unimet-pan-ਨਾਰ-n12345280": {
+          "source": "unimet-pan-ਨਾਰ-n07768694",
+          "target": "unimet-pan-ਨਾਰ-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਪਪਾਇਆ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਪਪਾਇਆ-n07762244",
+          "lemma": "ਪਪਾਇਆ",
+          "word_id": "unimet-pan-ਪਪਾਇਆ",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-pan-ਪਪਾਇਆ-n12373100",
+          "lemma": "ਪਪਾਇਆ",
+          "word_id": "unimet-pan-ਪਪਾਇਆ",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਪਪਾਇਆ-n07762244",
+          "lemma": "ਪਪਾਇਆ",
+          "word_id": "unimet-pan-ਪਪਾਇਆ",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਪਪਾਇਆ-n12373100",
+          "lemma": "ਪਪਾਇਆ",
+          "word_id": "unimet-pan-ਪਪਾਇਆ",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਪਪਾਇਆ-n07762244::unimet-pan-ਪਪਾਇਆ-n12373100": {
+          "source": "unimet-pan-ਪਪਾਇਆ-n07762244",
+          "target": "unimet-pan-ਪਪਾਇਆ-n12373100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਪਿਆਜ਼",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਪਿਆਜ਼-n07722217",
+          "lemma": "ਪਿਆਜ਼",
+          "word_id": "unimet-pan-ਪਿਆਜ਼",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-pan-ਪਿਆਜ਼-n12432808",
+          "lemma": "ਪਿਆਜ਼",
+          "word_id": "unimet-pan-ਪਿਆਜ਼",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਪਿਆਜ਼-n12432808",
+          "lemma": "ਪਿਆਜ਼",
+          "word_id": "unimet-pan-ਪਿਆਜ਼",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਪਿਆਜ਼-n07722217",
+          "lemma": "ਪਿਆਜ਼",
+          "word_id": "unimet-pan-ਪਿਆਜ਼",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਪਿਆਜ਼-n12432808::unimet-pan-ਪਿਆਜ਼-n07722217": {
+          "source": "unimet-pan-ਪਿਆਜ਼-n12432808",
+          "target": "unimet-pan-ਪਿਆਜ਼-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਪੀਤਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਪੀਤਾ-n07762244",
+          "lemma": "ਪੀਤਾ",
+          "word_id": "unimet-pan-ਪੀਤਾ",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-pan-ਪੀਤਾ-n12373100",
+          "lemma": "ਪੀਤਾ",
+          "word_id": "unimet-pan-ਪੀਤਾ",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਪੀਤਾ-n07762244",
+          "lemma": "ਪੀਤਾ",
+          "word_id": "unimet-pan-ਪੀਤਾ",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਪੀਤਾ-n12373100",
+          "lemma": "ਪੀਤਾ",
+          "word_id": "unimet-pan-ਪੀਤਾ",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਪੀਤਾ-n07762244::unimet-pan-ਪੀਤਾ-n12373100": {
+          "source": "unimet-pan-ਪੀਤਾ-n07762244",
+          "target": "unimet-pan-ਪੀਤਾ-n12373100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਫੁੱਲ-ਗੋਭੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n07715103",
+          "lemma": "ਫੁੱਲ-ਗੋਭੀ",
+          "word_id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n11876634",
+          "lemma": "ਫੁੱਲ-ਗੋਭੀ",
+          "word_id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n11876634",
+          "lemma": "ਫੁੱਲ-ਗੋਭੀ",
+          "word_id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n07715103",
+          "lemma": "ਫੁੱਲ-ਗੋਭੀ",
+          "word_id": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n11876634::unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n07715103": {
+          "source": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n11876634",
+          "target": "unimet-pan-ਫੁੱਲ-ਗੋਭੀ-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਬੂਤਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਬੂਤਰ-n01811909",
+          "lemma": "ਬੂਤਰ",
+          "word_id": "unimet-pan-ਬੂਤਰ",
+          "synset": {
+            "id": "omw-en-01811909-n",
+            "ili": "i44837",
+            "pos": "n",
+            "lemmas": [
+              "jonah"
+            ],
+            "definition": "wild and domesticated birds having a heavy body and short legs"
+          }
+        },
+        {
+          "id": "unimet-pan-ਬੂਤਰ-n07646403",
+          "lemma": "ਬੂਤਰ",
+          "word_id": "unimet-pan-ਬੂਤਰ",
+          "synset": {
+            "id": "omw-en-07646403-n",
+            "ili": "i77075",
+            "pos": "n",
+            "lemmas": [
+              "squab"
+            ],
+            "definition": "flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਬੂਤਰ-n01811909",
+          "lemma": "ਬੂਤਰ",
+          "word_id": "unimet-pan-ਬੂਤਰ",
+          "synset": {
+            "id": "omw-en-01811909-n",
+            "ili": "i44837",
+            "pos": "n",
+            "lemmas": [
+              "jonah"
+            ],
+            "definition": "wild and domesticated birds having a heavy body and short legs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਬੂਤਰ-n07646403",
+          "lemma": "ਬੂਤਰ",
+          "word_id": "unimet-pan-ਬੂਤਰ",
+          "synset": {
+            "id": "omw-en-07646403-n",
+            "ili": "i77075",
+            "pos": "n",
+            "lemmas": [
+              "squab"
+            ],
+            "definition": "flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਬੂਤਰ-n01811909::unimet-pan-ਬੂਤਰ-n07646403": {
+          "source": "unimet-pan-ਬੂਤਰ-n01811909",
+          "target": "unimet-pan-ਬੂਤਰ-n07646403",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਬੈਗਣ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਬੈਗਣ-n07713074",
+          "lemma": "ਬੈਗਣ",
+          "word_id": "unimet-pan-ਬੈਗਣ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-pan-ਬੈਗਣ-n12896000",
+          "lemma": "ਬੈਗਣ",
+          "word_id": "unimet-pan-ਬੈਗਣ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਬੈਗਣ-n12896000",
+          "lemma": "ਬੈਗਣ",
+          "word_id": "unimet-pan-ਬੈਗਣ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਬੈਗਣ-n07713074",
+          "lemma": "ਬੈਗਣ",
+          "word_id": "unimet-pan-ਬੈਗਣ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਬੈਗਣ-n12896000::unimet-pan-ਬੈਗਣ-n07713074": {
+          "source": "unimet-pan-ਬੈਗਣ-n12896000",
+          "target": "unimet-pan-ਬੈਗਣ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਬੜ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਬੜ-n04116512",
+          "lemma": "ਬੜ",
+          "word_id": "unimet-pan-ਬੜ",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-pan-ਬੜ-n15006258",
+          "lemma": "ਬੜ",
+          "word_id": "unimet-pan-ਬੜ",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਬੜ-n15006258",
+          "lemma": "ਬੜ",
+          "word_id": "unimet-pan-ਬੜ",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਬੜ-n04116512",
+          "lemma": "ਬੜ",
+          "word_id": "unimet-pan-ਬੜ",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਬੜ-n15006258::unimet-pan-ਬੜ-n04116512": {
+          "source": "unimet-pan-ਬੜ-n15006258",
+          "target": "unimet-pan-ਬੜ-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਭਿੰਡੀ ਤੋਰੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12171966",
+          "lemma": "ਭਿੰਡੀ ਤੋਰੀ",
+          "word_id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12172364",
+          "lemma": "ਭਿੰਡੀ ਤੋਰੀ",
+          "word_id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12171966",
+          "lemma": "ਭਿੰਡੀ ਤੋਰੀ",
+          "word_id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12172364",
+          "lemma": "ਭਿੰਡੀ ਤੋਰੀ",
+          "word_id": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12171966::unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12172364": {
+          "source": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12171966",
+          "target": "unimet-pan-ਭਿੰਡੀ ਤੋਰੀ-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮਤੀਰਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮਤੀਰਾ-n07756951",
+          "lemma": "ਮਤੀਰਾ",
+          "word_id": "unimet-pan-ਮਤੀਰਾ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮਤੀਰਾ-n12164065",
+          "lemma": "ਮਤੀਰਾ",
+          "word_id": "unimet-pan-ਮਤੀਰਾ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮਤੀਰਾ-n07756951",
+          "lemma": "ਮਤੀਰਾ",
+          "word_id": "unimet-pan-ਮਤੀਰਾ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮਤੀਰਾ-n12164065",
+          "lemma": "ਮਤੀਰਾ",
+          "word_id": "unimet-pan-ਮਤੀਰਾ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮਤੀਰਾ-n07756951::unimet-pan-ਮਤੀਰਾ-n12164065": {
+          "source": "unimet-pan-ਮਤੀਰਾ-n07756951",
+          "target": "unimet-pan-ਮਤੀਰਾ-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮਰਖ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮਰਖ-n07746551",
+          "lemma": "ਮਰਖ",
+          "word_id": "unimet-pan-ਮਰਖ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮਰਖ-n12704343",
+          "lemma": "ਮਰਖ",
+          "word_id": "unimet-pan-ਮਰਖ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮਰਖ-n07746551",
+          "lemma": "ਮਰਖ",
+          "word_id": "unimet-pan-ਮਰਖ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮਰਖ-n12704343",
+          "lemma": "ਮਰਖ",
+          "word_id": "unimet-pan-ਮਰਖ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮਰਖ-n07746551::unimet-pan-ਮਰਖ-n12704343": {
+          "source": "unimet-pan-ਮਰਖ-n07746551",
+          "target": "unimet-pan-ਮਰਖ-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮਰੂਦ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮਰੂਦ-n07765361",
+          "lemma": "ਮਰੂਦ",
+          "word_id": "unimet-pan-ਮਰੂਦ",
+          "synset": {
+            "id": "omw-en-07765361-n",
+            "ili": "i77876",
+            "pos": "n",
+            "lemmas": [
+              "guava"
+            ],
+            "definition": "tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮਰੂਦ-n12333771",
+          "lemma": "ਮਰੂਦ",
+          "word_id": "unimet-pan-ਮਰੂਦ",
+          "synset": {
+            "id": "omw-en-12333771-n",
+            "ili": "i101848",
+            "pos": "n",
+            "lemmas": [
+              "psidium littorale"
+            ],
+            "definition": "small tropical shrubby tree bearing small yellowish fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮਰੂਦ-n07765361",
+          "lemma": "ਮਰੂਦ",
+          "word_id": "unimet-pan-ਮਰੂਦ",
+          "synset": {
+            "id": "omw-en-07765361-n",
+            "ili": "i77876",
+            "pos": "n",
+            "lemmas": [
+              "guava"
+            ],
+            "definition": "tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮਰੂਦ-n12333771",
+          "lemma": "ਮਰੂਦ",
+          "word_id": "unimet-pan-ਮਰੂਦ",
+          "synset": {
+            "id": "omw-en-12333771-n",
+            "ili": "i101848",
+            "pos": "n",
+            "lemmas": [
+              "psidium littorale"
+            ],
+            "definition": "small tropical shrubby tree bearing small yellowish fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮਰੂਦ-n07765361::unimet-pan-ਮਰੂਦ-n12333771": {
+          "source": "unimet-pan-ਮਰੂਦ-n07765361",
+          "target": "unimet-pan-ਮਰੂਦ-n12333771",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮਲੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮਲੀ-n07764630",
+          "lemma": "ਮਲੀ",
+          "word_id": "unimet-pan-ਮਲੀ",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮਲੀ-n12501202",
+          "lemma": "ਮਲੀ",
+          "word_id": "unimet-pan-ਮਲੀ",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮਲੀ-n07764630",
+          "lemma": "ਮਲੀ",
+          "word_id": "unimet-pan-ਮਲੀ",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮਲੀ-n12501202",
+          "lemma": "ਮਲੀ",
+          "word_id": "unimet-pan-ਮਲੀ",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮਲੀ-n07764630::unimet-pan-ਮਲੀ-n12501202": {
+          "source": "unimet-pan-ਮਲੀ-n07764630",
+          "target": "unimet-pan-ਮਲੀ-n12501202",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮਾਟਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮਾਟਰ-n07734017",
+          "lemma": "ਮਾਟਰ",
+          "word_id": "unimet-pan-ਮਾਟਰ",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮਾਟਰ-n12905817",
+          "lemma": "ਮਾਟਰ",
+          "word_id": "unimet-pan-ਮਾਟਰ",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮਾਟਰ-n12905817",
+          "lemma": "ਮਾਟਰ",
+          "word_id": "unimet-pan-ਮਾਟਰ",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮਾਟਰ-n07734017",
+          "lemma": "ਮਾਟਰ",
+          "word_id": "unimet-pan-ਮਾਟਰ",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮਾਟਰ-n12905817::unimet-pan-ਮਾਟਰ-n07734017": {
+          "source": "unimet-pan-ਮਾਟਰ-n12905817",
+          "target": "unimet-pan-ਮਾਟਰ-n07734017",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮੁੱਖ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮੁੱਖ-n05302499",
+          "lemma": "ਮੁੱਖ",
+          "word_id": "unimet-pan-ਮੁੱਖ",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮੁੱਖ-n10335679",
+          "lemma": "ਮੁੱਖ",
+          "word_id": "unimet-pan-ਮੁੱਖ",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮੁੱਖ-n05302499",
+          "lemma": "ਮੁੱਖ",
+          "word_id": "unimet-pan-ਮੁੱਖ",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮੁੱਖ-n10335679",
+          "lemma": "ਮੁੱਖ",
+          "word_id": "unimet-pan-ਮੁੱਖ",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮੁੱਖ-n05302499::unimet-pan-ਮੁੱਖ-n10335679": {
+          "source": "unimet-pan-ਮੁੱਖ-n05302499",
+          "target": "unimet-pan-ਮੁੱਖ-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਮੂਫਲੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਮੂਫਲੀ-n07737745",
+          "lemma": "ਮੂਫਲੀ",
+          "word_id": "unimet-pan-ਮੂਫਲੀ",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        },
+        {
+          "id": "unimet-pan-ਮੂਫਲੀ-n11748501",
+          "lemma": "ਮੂਫਲੀ",
+          "word_id": "unimet-pan-ਮੂਫਲੀ",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਮੂਫਲੀ-n07737745",
+          "lemma": "ਮੂਫਲੀ",
+          "word_id": "unimet-pan-ਮੂਫਲੀ",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਮੂਫਲੀ-n11748501",
+          "lemma": "ਮੂਫਲੀ",
+          "word_id": "unimet-pan-ਮੂਫਲੀ",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਮੂਫਲੀ-n07737745::unimet-pan-ਮੂਫਲੀ-n11748501": {
+          "source": "unimet-pan-ਮੂਫਲੀ-n07737745",
+          "target": "unimet-pan-ਮੂਫਲੀ-n11748501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਰਗੋਸ਼",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਰਗੋਸ਼-n02324045",
+          "lemma": "ਰਗੋਸ਼",
+          "word_id": "unimet-pan-ਰਗੋਸ਼",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        },
+        {
+          "id": "unimet-pan-ਰਗੋਸ਼-n07666521",
+          "lemma": "ਰਗੋਸ਼",
+          "word_id": "unimet-pan-ਰਗੋਸ਼",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਰਗੋਸ਼-n02324045",
+          "lemma": "ਰਗੋਸ਼",
+          "word_id": "unimet-pan-ਰਗੋਸ਼",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਰਗੋਸ਼-n07666521",
+          "lemma": "ਰਗੋਸ਼",
+          "word_id": "unimet-pan-ਰਗੋਸ਼",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਰਗੋਸ਼-n02324045::unimet-pan-ਰਗੋਸ਼-n07666521": {
+          "source": "unimet-pan-ਰਗੋਸ਼-n02324045",
+          "target": "unimet-pan-ਰਗੋਸ਼-n07666521",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਰਬਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਰਬਰ-n04116512",
+          "lemma": "ਰਬਰ",
+          "word_id": "unimet-pan-ਰਬਰ",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-pan-ਰਬਰ-n15006258",
+          "lemma": "ਰਬਰ",
+          "word_id": "unimet-pan-ਰਬਰ",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਰਬਰ-n15006258",
+          "lemma": "ਰਬਰ",
+          "word_id": "unimet-pan-ਰਬਰ",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਰਬਰ-n04116512",
+          "lemma": "ਰਬਰ",
+          "word_id": "unimet-pan-ਰਬਰ",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਰਬਰ-n15006258::unimet-pan-ਰਬਰ-n04116512": {
+          "source": "unimet-pan-ਰਬਰ-n15006258",
+          "target": "unimet-pan-ਰਬਰ-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਰਬੂਜ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਰਬੂਜ-n07756951",
+          "lemma": "ਰਬੂਜ",
+          "word_id": "unimet-pan-ਰਬੂਜ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਰਬੂਜ-n12164065",
+          "lemma": "ਰਬੂਜ",
+          "word_id": "unimet-pan-ਰਬੂਜ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਰਬੂਜ-n07756951",
+          "lemma": "ਰਬੂਜ",
+          "word_id": "unimet-pan-ਰਬੂਜ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਰਬੂਜ-n12164065",
+          "lemma": "ਰਬੂਜ",
+          "word_id": "unimet-pan-ਰਬੂਜ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਰਬੂਜ-n07756951::unimet-pan-ਰਬੂਜ-n12164065": {
+          "source": "unimet-pan-ਰਬੂਜ-n07756951",
+          "target": "unimet-pan-ਰਬੂਜ-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਰੰਜ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਰੰਜ-n11689197",
+          "lemma": "ਰੰਜ",
+          "word_id": "unimet-pan-ਰੰਜ",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        },
+        {
+          "id": "unimet-pan-ਰੰਜ-n12488454",
+          "lemma": "ਰੰਜ",
+          "word_id": "unimet-pan-ਰੰਜ",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਰੰਜ-n11689197",
+          "lemma": "ਰੰਜ",
+          "word_id": "unimet-pan-ਰੰਜ",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਰੰਜ-n12488454",
+          "lemma": "ਰੰਜ",
+          "word_id": "unimet-pan-ਰੰਜ",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਰੰਜ-n11689197::unimet-pan-ਰੰਜ-n12488454": {
+          "source": "unimet-pan-ਰੰਜ-n11689197",
+          "target": "unimet-pan-ਰੰਜ-n12488454",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਲਸੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਲਸੀ-n12486574",
+          "lemma": "ਲਸੀ",
+          "word_id": "unimet-pan-ਲਸੀ",
+          "synset": {
+            "id": "omw-en-12486574-n",
+            "ili": "i102575",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "plant of the genus Linum that is cultivated for its seeds and for the fibers of its stem"
+          }
+        },
+        {
+          "id": "unimet-pan-ਲਸੀ-n15086247",
+          "lemma": "ਲਸੀ",
+          "word_id": "unimet-pan-ਲਸੀ",
+          "synset": {
+            "id": "omw-en-15086247-n",
+            "ili": "i116478",
+            "pos": "n",
+            "lemmas": [
+              "linseed"
+            ],
+            "definition": "the seed of flax used as a source of oil"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਲਸੀ-n15086247",
+          "lemma": "ਲਸੀ",
+          "word_id": "unimet-pan-ਲਸੀ",
+          "synset": {
+            "id": "omw-en-15086247-n",
+            "ili": "i116478",
+            "pos": "n",
+            "lemmas": [
+              "linseed"
+            ],
+            "definition": "the seed of flax used as a source of oil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਲਸੀ-n12486574",
+          "lemma": "ਲਸੀ",
+          "word_id": "unimet-pan-ਲਸੀ",
+          "synset": {
+            "id": "omw-en-12486574-n",
+            "ili": "i102575",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "plant of the genus Linum that is cultivated for its seeds and for the fibers of its stem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਲਸੀ-n15086247::unimet-pan-ਲਸੀ-n12486574": {
+          "source": "unimet-pan-ਲਸੀ-n15086247",
+          "target": "unimet-pan-ਲਸੀ-n12486574",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਲੂ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਲੂ-n07710616",
+          "lemma": "ਲੂ",
+          "word_id": "unimet-pan-ਲੂ",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        },
+        {
+          "id": "unimet-pan-ਲੂ-n12897493",
+          "lemma": "ਲੂ",
+          "word_id": "unimet-pan-ਲੂ",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਲੂ-n12897493",
+          "lemma": "ਲੂ",
+          "word_id": "unimet-pan-ਲੂ",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਲੂ-n07710616",
+          "lemma": "ਲੂ",
+          "word_id": "unimet-pan-ਲੂ",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਲੂ-n12897493::unimet-pan-ਲੂ-n07710616": {
+          "source": "unimet-pan-ਲੂ-n12897493",
+          "target": "unimet-pan-ਲੂ-n07710616",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਲੋਕਾਟ ਰੁੱਖ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n07763792",
+          "lemma": "ਲੋਕਾਟ ਰੁੱਖ",
+          "word_id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        },
+        {
+          "id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n12629666",
+          "lemma": "ਲੋਕਾਟ ਰੁੱਖ",
+          "word_id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n07763792",
+          "lemma": "ਲੋਕਾਟ ਰੁੱਖ",
+          "word_id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n12629666",
+          "lemma": "ਲੋਕਾਟ ਰੁੱਖ",
+          "word_id": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n07763792::unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n12629666": {
+          "source": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n07763792",
+          "target": "unimet-pan-ਲੋਕਾਟ ਰੁੱਖ-n12629666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਸ਼ਹਿਤੂਤ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਸ਼ਹਿਤੂਤ-n07767171",
+          "lemma": "ਸ਼ਹਿਤੂਤ",
+          "word_id": "unimet-pan-ਸ਼ਹਿਤੂਤ",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-pan-ਸ਼ਹਿਤੂਤ-n12399132",
+          "lemma": "ਸ਼ਹਿਤੂਤ",
+          "word_id": "unimet-pan-ਸ਼ਹਿਤੂਤ",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਸ਼ਹਿਤੂਤ-n07767171",
+          "lemma": "ਸ਼ਹਿਤੂਤ",
+          "word_id": "unimet-pan-ਸ਼ਹਿਤੂਤ",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਸ਼ਹਿਤੂਤ-n12399132",
+          "lemma": "ਸ਼ਹਿਤੂਤ",
+          "word_id": "unimet-pan-ਸ਼ਹਿਤੂਤ",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਸ਼ਹਿਤੂਤ-n07767171::unimet-pan-ਸ਼ਹਿਤੂਤ-n12399132": {
+          "source": "unimet-pan-ਸ਼ਹਿਤੂਤ-n07767171",
+          "target": "unimet-pan-ਸ਼ਹਿਤੂਤ-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਸਬਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਸਬਾ-n08226514",
+          "lemma": "ਸਬਾ",
+          "word_id": "unimet-pan-ਸਬਾ",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        },
+        {
+          "id": "unimet-pan-ਸਬਾ-n08665504",
+          "lemma": "ਸਬਾ",
+          "word_id": "unimet-pan-ਸਬਾ",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਸਬਾ-n08226514",
+          "lemma": "ਸਬਾ",
+          "word_id": "unimet-pan-ਸਬਾ",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਸਬਾ-n08665504",
+          "lemma": "ਸਬਾ",
+          "word_id": "unimet-pan-ਸਬਾ",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਸਬਾ-n08226514::unimet-pan-ਸਬਾ-n08665504": {
+          "source": "unimet-pan-ਸਬਾ-n08226514",
+          "target": "unimet-pan-ਸਬਾ-n08665504",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਸਭਰੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਸਭਰੀ-n07744430",
+          "lemma": "ਸਭਰੀ",
+          "word_id": "unimet-pan-ਸਭਰੀ",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        },
+        {
+          "id": "unimet-pan-ਸਭਰੀ-n12911079",
+          "lemma": "ਸਭਰੀ",
+          "word_id": "unimet-pan-ਸਭਰੀ",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਸਭਰੀ-n07744430",
+          "lemma": "ਸਭਰੀ",
+          "word_id": "unimet-pan-ਸਭਰੀ",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਸਭਰੀ-n12911079",
+          "lemma": "ਸਭਰੀ",
+          "word_id": "unimet-pan-ਸਭਰੀ",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਸਭਰੀ-n07744430::unimet-pan-ਸਭਰੀ-n12911079": {
+          "source": "unimet-pan-ਸਭਰੀ-n07744430",
+          "target": "unimet-pan-ਸਭਰੀ-n12911079",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਹਿਦਵਾਣਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਹਿਦਵਾਣਾ-n07756951",
+          "lemma": "ਹਿਦਵਾਣਾ",
+          "word_id": "unimet-pan-ਹਿਦਵਾਣਾ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-pan-ਹਿਦਵਾਣਾ-n12164065",
+          "lemma": "ਹਿਦਵਾਣਾ",
+          "word_id": "unimet-pan-ਹਿਦਵਾਣਾ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਹਿਦਵਾਣਾ-n07756951",
+          "lemma": "ਹਿਦਵਾਣਾ",
+          "word_id": "unimet-pan-ਹਿਦਵਾਣਾ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਹਿਦਵਾਣਾ-n12164065",
+          "lemma": "ਹਿਦਵਾਣਾ",
+          "word_id": "unimet-pan-ਹਿਦਵਾਣਾ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਹਿਦਵਾਣਾ-n07756951::unimet-pan-ਹਿਦਵਾਣਾ-n12164065": {
+          "source": "unimet-pan-ਹਿਦਵਾਣਾ-n07756951",
+          "target": "unimet-pan-ਹਿਦਵਾਣਾ-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਾਜ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਾਜ-n08405603",
+          "lemma": "ਾਜ",
+          "word_id": "unimet-pan-ਾਜ",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-pan-ਾਜ-n08558155",
+          "lemma": "ਾਜ",
+          "word_id": "unimet-pan-ਾਜ",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਾਜ-n08405603",
+          "lemma": "ਾਜ",
+          "word_id": "unimet-pan-ਾਜ",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਾਜ-n08558155",
+          "lemma": "ਾਜ",
+          "word_id": "unimet-pan-ਾਜ",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਾਜ-n08405603::unimet-pan-ਾਜ-n08558155": {
+          "source": "unimet-pan-ਾਜ-n08405603",
+          "target": "unimet-pan-ਾਜ-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਾਜਮਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਾਜਮਾ-n07727048",
+          "lemma": "ਾਜਮਾ",
+          "word_id": "unimet-pan-ਾਜਮਾ",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        },
+        {
+          "id": "unimet-pan-ਾਜਮਾ-n12557064",
+          "lemma": "ਾਜਮਾ",
+          "word_id": "unimet-pan-ਾਜਮਾ",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਾਜਮਾ-n12557064",
+          "lemma": "ਾਜਮਾ",
+          "word_id": "unimet-pan-ਾਜਮਾ",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਾਜਮਾ-n07727048",
+          "lemma": "ਾਜਮਾ",
+          "word_id": "unimet-pan-ਾਜਮਾ",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਾਜਮਾ-n12557064::unimet-pan-ਾਜਮਾ-n07727048": {
+          "source": "unimet-pan-ਾਜਮਾ-n12557064",
+          "target": "unimet-pan-ਾਜਮਾ-n07727048",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਾਸ਼ਪਾਤੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਾਸ਼ਪਾਤੀ-n07767847",
+          "lemma": "ਾਸ਼ਪਾਤੀ",
+          "word_id": "unimet-pan-ਾਸ਼ਪਾਤੀ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-pan-ਾਸ਼ਪਾਤੀ-n12651611",
+          "lemma": "ਾਸ਼ਪਾਤੀ",
+          "word_id": "unimet-pan-ਾਸ਼ਪਾਤੀ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਾਸ਼ਪਾਤੀ-n07767847",
+          "lemma": "ਾਸ਼ਪਾਤੀ",
+          "word_id": "unimet-pan-ਾਸ਼ਪਾਤੀ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਾਸ਼ਪਾਤੀ-n12651611",
+          "lemma": "ਾਸ਼ਪਾਤੀ",
+          "word_id": "unimet-pan-ਾਸ਼ਪਾਤੀ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਾਸ਼ਪਾਤੀ-n07767847::unimet-pan-ਾਸ਼ਪਾਤੀ-n12651611": {
+          "source": "unimet-pan-ਾਸ਼ਪਾਤੀ-n07767847",
+          "target": "unimet-pan-ਾਸ਼ਪਾਤੀ-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਾਫ਼ੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਾਫ਼ੀ-n07929351",
+          "lemma": "ਾਫ਼ੀ",
+          "word_id": "unimet-pan-ਾਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-pan-ਾਫ਼ੀ-n12662772",
+          "lemma": "ਾਫ਼ੀ",
+          "word_id": "unimet-pan-ਾਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਾਫ਼ੀ-n07929351",
+          "lemma": "ਾਫ਼ੀ",
+          "word_id": "unimet-pan-ਾਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਾਫ਼ੀ-n12662772",
+          "lemma": "ਾਫ਼ੀ",
+          "word_id": "unimet-pan-ਾਫ਼ੀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਾਫ਼ੀ-n07929351::unimet-pan-ਾਫ਼ੀ-n12662772": {
+          "source": "unimet-pan-ਾਫ਼ੀ-n07929351",
+          "target": "unimet-pan-ਾਫ਼ੀ-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਿਆਜ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਿਆਜ-n07722217",
+          "lemma": "ਿਆਜ",
+          "word_id": "unimet-pan-ਿਆਜ",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-pan-ਿਆਜ-n12432808",
+          "lemma": "ਿਆਜ",
+          "word_id": "unimet-pan-ਿਆਜ",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਿਆਜ-n12432808",
+          "lemma": "ਿਆਜ",
+          "word_id": "unimet-pan-ਿਆਜ",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਿਆਜ-n07722217",
+          "lemma": "ਿਆਜ",
+          "word_id": "unimet-pan-ਿਆਜ",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਿਆਜ-n12432808::unimet-pan-ਿਆਜ-n07722217": {
+          "source": "unimet-pan-ਿਆਜ-n12432808",
+          "target": "unimet-pan-ਿਆਜ-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਿਮਲਾ ਮਿਰਚ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n07720875",
+          "lemma": "ਿਮਲਾ ਮਿਰਚ",
+          "word_id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        },
+        {
+          "id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n12901264",
+          "lemma": "ਿਮਲਾ ਮਿਰਚ",
+          "word_id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n12901264",
+          "lemma": "ਿਮਲਾ ਮਿਰਚ",
+          "word_id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n07720875",
+          "lemma": "ਿਮਲਾ ਮਿਰਚ",
+          "word_id": "unimet-pan-ਿਮਲਾ ਮਿਰਚ",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n12901264::unimet-pan-ਿਮਲਾ ਮਿਰਚ-n07720875": {
+          "source": "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n12901264",
+          "target": "unimet-pan-ਿਮਲਾ ਮਿਰਚ-n07720875",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਿਸਤਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਿਸਤਾ-n07775050",
+          "lemma": "ਿਸਤਾ",
+          "word_id": "unimet-pan-ਿਸਤਾ",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        },
+        {
+          "id": "unimet-pan-ਿਸਤਾ-n12761702",
+          "lemma": "ਿਸਤਾ",
+          "word_id": "unimet-pan-ਿਸਤਾ",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਿਸਤਾ-n07775050",
+          "lemma": "ਿਸਤਾ",
+          "word_id": "unimet-pan-ਿਸਤਾ",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਿਸਤਾ-n12761702",
+          "lemma": "ਿਸਤਾ",
+          "word_id": "unimet-pan-ਿਸਤਾ",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਿਸਤਾ-n07775050::unimet-pan-ਿਸਤਾ-n12761702": {
+          "source": "unimet-pan-ਿਸਤਾ-n07775050",
+          "target": "unimet-pan-ਿਸਤਾ-n12761702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਿਹੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਿਹੀ-n07769584",
+          "lemma": "ਿਹੀ",
+          "word_id": "unimet-pan-ਿਹੀ",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-pan-ਿਹੀ-n12628986",
+          "lemma": "ਿਹੀ",
+          "word_id": "unimet-pan-ਿਹੀ",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਿਹੀ-n07769584",
+          "lemma": "ਿਹੀ",
+          "word_id": "unimet-pan-ਿਹੀ",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਿਹੀ-n12628986",
+          "lemma": "ਿਹੀ",
+          "word_id": "unimet-pan-ਿਹੀ",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਿਹੀ-n07769584::unimet-pan-ਿਹੀ-n12628986": {
+          "source": "unimet-pan-ਿਹੀ-n07769584",
+          "target": "unimet-pan-ਿਹੀ-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਿੰਡੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਿੰਡੀ-n12171966",
+          "lemma": "ਿੰਡੀ",
+          "word_id": "unimet-pan-ਿੰਡੀ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-pan-ਿੰਡੀ-n12172364",
+          "lemma": "ਿੰਡੀ",
+          "word_id": "unimet-pan-ਿੰਡੀ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਿੰਡੀ-n12171966",
+          "lemma": "ਿੰਡੀ",
+          "word_id": "unimet-pan-ਿੰਡੀ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਿੰਡੀ-n12172364",
+          "lemma": "ਿੰਡੀ",
+          "word_id": "unimet-pan-ਿੰਡੀ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਿੰਡੀ-n12171966::unimet-pan-ਿੰਡੀ-n12172364": {
+          "source": "unimet-pan-ਿੰਡੀ-n12171966",
+          "target": "unimet-pan-ਿੰਡੀ-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਿੰਬੂ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਿੰਬੂ-n07749582",
+          "lemma": "ਿੰਬੂ",
+          "word_id": "unimet-pan-ਿੰਬੂ",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-pan-ਿੰਬੂ-n12711596",
+          "lemma": "ਿੰਬੂ",
+          "word_id": "unimet-pan-ਿੰਬੂ",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਿੰਬੂ-n07749582",
+          "lemma": "ਿੰਬੂ",
+          "word_id": "unimet-pan-ਿੰਬੂ",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਿੰਬੂ-n12711596",
+          "lemma": "ਿੰਬੂ",
+          "word_id": "unimet-pan-ਿੰਬੂ",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਿੰਬੂ-n07749582::unimet-pan-ਿੰਬੂ-n12711596": {
+          "source": "unimet-pan-ਿੰਬੂ-n07749582",
+          "target": "unimet-pan-ਿੰਬੂ-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੀਚੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੀਚੀ-n07766173",
+          "lemma": "ੀਚੀ",
+          "word_id": "unimet-pan-ੀਚੀ",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-pan-ੀਚੀ-n12744387",
+          "lemma": "ੀਚੀ",
+          "word_id": "unimet-pan-ੀਚੀ",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੀਚੀ-n07766173",
+          "lemma": "ੀਚੀ",
+          "word_id": "unimet-pan-ੀਚੀ",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੀਚੀ-n12744387",
+          "lemma": "ੀਚੀ",
+          "word_id": "unimet-pan-ੀਚੀ",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੀਚੀ-n07766173::unimet-pan-ੀਚੀ-n12744387": {
+          "source": "unimet-pan-ੀਚੀ-n07766173",
+          "target": "unimet-pan-ੀਚੀ-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੀਪਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੀਪਾ-n04438897",
+          "lemma": "ੀਪਾ",
+          "word_id": "unimet-pan-ੀਪਾ",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        },
+        {
+          "id": "unimet-pan-ੀਪਾ-n13765990",
+          "lemma": "ੀਪਾ",
+          "word_id": "unimet-pan-ੀਪਾ",
+          "synset": {
+            "id": "omw-en-13765990-n",
+            "ili": "i109225",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "the quantity contained in a can"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੀਪਾ-n04438897",
+          "lemma": "ੀਪਾ",
+          "word_id": "unimet-pan-ੀਪਾ",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੀਪਾ-n13765990",
+          "lemma": "ੀਪਾ",
+          "word_id": "unimet-pan-ੀਪਾ",
+          "synset": {
+            "id": "omw-en-13765990-n",
+            "ili": "i109225",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "the quantity contained in a can"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੀਪਾ-n04438897::unimet-pan-ੀਪਾ-n13765990": {
+          "source": "unimet-pan-ੀਪਾ-n04438897",
+          "target": "unimet-pan-ੀਪਾ-n13765990",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੀਵੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੀਵੀ-n07763629",
+          "lemma": "ੀਵੀ",
+          "word_id": "unimet-pan-ੀਵੀ",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        },
+        {
+          "id": "unimet-pan-ੀਵੀ-n12371439",
+          "lemma": "ੀਵੀ",
+          "word_id": "unimet-pan-ੀਵੀ",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੀਵੀ-n07763629",
+          "lemma": "ੀਵੀ",
+          "word_id": "unimet-pan-ੀਵੀ",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੀਵੀ-n12371439",
+          "lemma": "ੀਵੀ",
+          "word_id": "unimet-pan-ੀਵੀ",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੀਵੀ-n07763629::unimet-pan-ੀਵੀ-n12371439": {
+          "source": "unimet-pan-ੀਵੀ-n07763629",
+          "target": "unimet-pan-ੀਵੀ-n12371439",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੀਸ਼ਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੀਸ਼ਾ-n03773035",
+          "lemma": "ੀਸ਼ਾ",
+          "word_id": "unimet-pan-ੀਸ਼ਾ",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-pan-ੀਸ਼ਾ-n14881303",
+          "lemma": "ੀਸ਼ਾ",
+          "word_id": "unimet-pan-ੀਸ਼ਾ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੀਸ਼ਾ-n14881303",
+          "lemma": "ੀਸ਼ਾ",
+          "word_id": "unimet-pan-ੀਸ਼ਾ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੀਸ਼ਾ-n03773035",
+          "lemma": "ੀਸ਼ਾ",
+          "word_id": "unimet-pan-ੀਸ਼ਾ",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੀਸ਼ਾ-n14881303::unimet-pan-ੀਸ਼ਾ-n03773035": {
+          "source": "unimet-pan-ੀਸ਼ਾ-n14881303",
+          "target": "unimet-pan-ੀਸ਼ਾ-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੁਕੰਦਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੁਕੰਦਰ-n07719839",
+          "lemma": "ੁਕੰਦਰ",
+          "word_id": "unimet-pan-ੁਕੰਦਰ",
+          "synset": {
+            "id": "omw-en-07719839-n",
+            "ili": "i77575",
+            "pos": "n",
+            "lemmas": [
+              "beet"
+            ],
+            "definition": "round red root vegetable"
+          }
+        },
+        {
+          "id": "unimet-pan-ੁਕੰਦਰ-n11832480",
+          "lemma": "ੁਕੰਦਰ",
+          "word_id": "unimet-pan-ੁਕੰਦਰ",
+          "synset": {
+            "id": "omw-en-11832480-n",
+            "ili": "i99464",
+            "pos": "n",
+            "lemmas": [
+              "beetroot"
+            ],
+            "definition": "beet having a massively swollen red root; widely grown for human consumption"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੁਕੰਦਰ-n11832480",
+          "lemma": "ੁਕੰਦਰ",
+          "word_id": "unimet-pan-ੁਕੰਦਰ",
+          "synset": {
+            "id": "omw-en-11832480-n",
+            "ili": "i99464",
+            "pos": "n",
+            "lemmas": [
+              "beetroot"
+            ],
+            "definition": "beet having a massively swollen red root; widely grown for human consumption"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੁਕੰਦਰ-n07719839",
+          "lemma": "ੁਕੰਦਰ",
+          "word_id": "unimet-pan-ੁਕੰਦਰ",
+          "synset": {
+            "id": "omw-en-07719839-n",
+            "ili": "i77575",
+            "pos": "n",
+            "lemmas": [
+              "beet"
+            ],
+            "definition": "round red root vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੁਕੰਦਰ-n11832480::unimet-pan-ੁਕੰਦਰ-n07719839": {
+          "source": "unimet-pan-ੁਕੰਦਰ-n11832480",
+          "target": "unimet-pan-ੁਕੰਦਰ-n07719839",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੁਪਾਰੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੁਪਾਰੀ-n07770869",
+          "lemma": "ੁਪਾਰੀ",
+          "word_id": "unimet-pan-ੁਪਾਰੀ",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-pan-ੁਪਾਰੀ-n12584365",
+          "lemma": "ੁਪਾਰੀ",
+          "word_id": "unimet-pan-ੁਪਾਰੀ",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੁਪਾਰੀ-n07770869",
+          "lemma": "ੁਪਾਰੀ",
+          "word_id": "unimet-pan-ੁਪਾਰੀ",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੁਪਾਰੀ-n12584365",
+          "lemma": "ੁਪਾਰੀ",
+          "word_id": "unimet-pan-ੁਪਾਰੀ",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੁਪਾਰੀ-n07770869::unimet-pan-ੁਪਾਰੀ-n12584365": {
+          "source": "unimet-pan-ੁਪਾਰੀ-n07770869",
+          "target": "unimet-pan-ੁਪਾਰੀ-n12584365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੁਰਗਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੁਰਗਾ-n01792158",
+          "lemma": "ੁਰਗਾ",
+          "word_id": "unimet-pan-ੁਰਗਾ",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-pan-ੁਰਗਾ-n07645384",
+          "lemma": "ੁਰਗਾ",
+          "word_id": "unimet-pan-ੁਰਗਾ",
+          "synset": {
+            "id": "omw-en-07645384-n",
+            "ili": "i77067",
+            "pos": "n",
+            "lemmas": [
+              "capon"
+            ],
+            "definition": "flesh of a castrated male chicken"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੁਰਗਾ-n01792158",
+          "lemma": "ੁਰਗਾ",
+          "word_id": "unimet-pan-ੁਰਗਾ",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੁਰਗਾ-n07645384",
+          "lemma": "ੁਰਗਾ",
+          "word_id": "unimet-pan-ੁਰਗਾ",
+          "synset": {
+            "id": "omw-en-07645384-n",
+            "ili": "i77067",
+            "pos": "n",
+            "lemmas": [
+              "capon"
+            ],
+            "definition": "flesh of a castrated male chicken"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੁਰਗਾ-n01792158::unimet-pan-ੁਰਗਾ-n07645384": {
+          "source": "unimet-pan-ੁਰਗਾ-n01792158",
+          "target": "unimet-pan-ੁਰਗਾ-n07645384",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੁਰਗੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੁਰਗੀ-n01792640",
+          "lemma": "ੁਰਗੀ",
+          "word_id": "unimet-pan-ੁਰਗੀ",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-pan-ੁਰਗੀ-n07646067",
+          "lemma": "ੁਰਗੀ",
+          "word_id": "unimet-pan-ੁਰਗੀ",
+          "synset": {
+            "id": "omw-en-07646067-n",
+            "ili": "i77072",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "flesh of an older chicken suitable for stewing"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੁਰਗੀ-n01792640",
+          "lemma": "ੁਰਗੀ",
+          "word_id": "unimet-pan-ੁਰਗੀ",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੁਰਗੀ-n07646067",
+          "lemma": "ੁਰਗੀ",
+          "word_id": "unimet-pan-ੁਰਗੀ",
+          "synset": {
+            "id": "omw-en-07646067-n",
+            "ili": "i77072",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "flesh of an older chicken suitable for stewing"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੁਰਗੀ-n01792640::unimet-pan-ੁਰਗੀ-n07646067": {
+          "source": "unimet-pan-ੁਰਗੀ-n01792640",
+          "target": "unimet-pan-ੁਰਗੀ-n07646067",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੂਲੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੂਲੀ-n07735687",
+          "lemma": "ੂਲੀ",
+          "word_id": "unimet-pan-ੂਲੀ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-pan-ੂਲੀ-n11894327",
+          "lemma": "ੂਲੀ",
+          "word_id": "unimet-pan-ੂਲੀ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੂਲੀ-n11894327",
+          "lemma": "ੂਲੀ",
+          "word_id": "unimet-pan-ੂਲੀ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੂਲੀ-n07735687",
+          "lemma": "ੂਲੀ",
+          "word_id": "unimet-pan-ੂਲੀ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੂਲੀ-n11894327::unimet-pan-ੂਲੀ-n07735687": {
+          "source": "unimet-pan-ੂਲੀ-n11894327",
+          "target": "unimet-pan-ੂਲੀ-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੂੰਗਫਲੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੂੰਗਫਲੀ-n07737745",
+          "lemma": "ੂੰਗਫਲੀ",
+          "word_id": "unimet-pan-ੂੰਗਫਲੀ",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        },
+        {
+          "id": "unimet-pan-ੂੰਗਫਲੀ-n11748501",
+          "lemma": "ੂੰਗਫਲੀ",
+          "word_id": "unimet-pan-ੂੰਗਫਲੀ",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੂੰਗਫਲੀ-n07737745",
+          "lemma": "ੂੰਗਫਲੀ",
+          "word_id": "unimet-pan-ੂੰਗਫਲੀ",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੂੰਗਫਲੀ-n11748501",
+          "lemma": "ੂੰਗਫਲੀ",
+          "word_id": "unimet-pan-ੂੰਗਫਲੀ",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੂੰਗਫਲੀ-n07737745::unimet-pan-ੂੰਗਫਲੀ-n11748501": {
+          "source": "unimet-pan-ੂੰਗਫਲੀ-n07737745",
+          "target": "unimet-pan-ੂੰਗਫਲੀ-n11748501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੂੰਹ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੂੰਹ-n05301908",
+          "lemma": "ੂੰਹ",
+          "word_id": "unimet-pan-ੂੰਹ",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-pan-ੂੰਹ-n05302499",
+          "lemma": "ੂੰਹ",
+          "word_id": "unimet-pan-ੂੰਹ",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-pan-ੂੰਹ-n10335679",
+          "lemma": "ੂੰਹ",
+          "word_id": "unimet-pan-ੂੰਹ",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੂੰਹ-n05301908",
+          "lemma": "ੂੰਹ",
+          "word_id": "unimet-pan-ੂੰਹ",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-pan-ੂੰਹ-n05302499",
+          "lemma": "ੂੰਹ",
+          "word_id": "unimet-pan-ੂੰਹ",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੂੰਹ-n10335679",
+          "lemma": "ੂੰਹ",
+          "word_id": "unimet-pan-ੂੰਹ",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੂੰਹ-n05301908::unimet-pan-ੂੰਹ-n10335679": {
+          "source": "unimet-pan-ੂੰਹ-n05301908",
+          "target": "unimet-pan-ੂੰਹ-n10335679",
+          "type": "metonymy"
+        },
+        "unimet-pan-ੂੰਹ-n05302499::unimet-pan-ੂੰਹ-n10335679": {
+          "source": "unimet-pan-ੂੰਹ-n05302499",
+          "target": "unimet-pan-ੂੰਹ-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੇਠਾ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੇਠਾ-n07756096",
+          "lemma": "ੇਠਾ",
+          "word_id": "unimet-pan-ੇਠਾ",
+          "synset": {
+            "id": "omw-en-07756096-n",
+            "ili": "i77818",
+            "pos": "n",
+            "lemmas": [
+              "winter melon"
+            ],
+            "definition": "the fruit of the winter melon vine; a green melon with pale green to orange flesh that keeps well"
+          }
+        },
+        {
+          "id": "unimet-pan-ੇਠਾ-n12164881",
+          "lemma": "ੇਠਾ",
+          "word_id": "unimet-pan-ੇਠਾ",
+          "synset": {
+            "id": "omw-en-12164881-n",
+            "ili": "i101072",
+            "pos": "n",
+            "lemmas": [
+              "winter melon vine"
+            ],
+            "definition": "any of a variety of muskmelon vines having fruit with a smooth white rind and white or greenish flesh that does not have a musky smell"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੇਠਾ-n07756096",
+          "lemma": "ੇਠਾ",
+          "word_id": "unimet-pan-ੇਠਾ",
+          "synset": {
+            "id": "omw-en-07756096-n",
+            "ili": "i77818",
+            "pos": "n",
+            "lemmas": [
+              "winter melon"
+            ],
+            "definition": "the fruit of the winter melon vine; a green melon with pale green to orange flesh that keeps well"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੇਠਾ-n12164881",
+          "lemma": "ੇਠਾ",
+          "word_id": "unimet-pan-ੇਠਾ",
+          "synset": {
+            "id": "omw-en-12164881-n",
+            "ili": "i101072",
+            "pos": "n",
+            "lemmas": [
+              "winter melon vine"
+            ],
+            "definition": "any of a variety of muskmelon vines having fruit with a smooth white rind and white or greenish flesh that does not have a musky smell"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੇਠਾ-n07756096::unimet-pan-ੇਠਾ-n12164881": {
+          "source": "unimet-pan-ੇਠਾ-n07756096",
+          "target": "unimet-pan-ੇਠਾ-n12164881",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੈਂਗਣ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੈਂਗਣ-n07713074",
+          "lemma": "ੈਂਗਣ",
+          "word_id": "unimet-pan-ੈਂਗਣ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-pan-ੈਂਗਣ-n12896000",
+          "lemma": "ੈਂਗਣ",
+          "word_id": "unimet-pan-ੈਂਗਣ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੈਂਗਣ-n12896000",
+          "lemma": "ੈਂਗਣ",
+          "word_id": "unimet-pan-ੈਂਗਣ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੈਂਗਣ-n07713074",
+          "lemma": "ੈਂਗਣ",
+          "word_id": "unimet-pan-ੈਂਗਣ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੈਂਗਣ-n12896000::unimet-pan-ੈਂਗਣ-n07713074": {
+          "source": "unimet-pan-ੈਂਗਣ-n12896000",
+          "target": "unimet-pan-ੈਂਗਣ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੈਰੀ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੈਰੀ-n07757132",
+          "lemma": "ੈਰੀ",
+          "word_id": "unimet-pan-ੈਰੀ",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-pan-ੈਰੀ-n12641413",
+          "lemma": "ੈਰੀ",
+          "word_id": "unimet-pan-ੈਰੀ",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੈਰੀ-n07757132",
+          "lemma": "ੈਰੀ",
+          "word_id": "unimet-pan-ੈਰੀ",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੈਰੀ-n12641413",
+          "lemma": "ੈਰੀ",
+          "word_id": "unimet-pan-ੈਰੀ",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੈਰੀ-n07757132::unimet-pan-ੈਰੀ-n12641413": {
+          "source": "unimet-pan-ੈਰੀ-n07757132",
+          "target": "unimet-pan-ੈਰੀ-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੋਇਆਬੀਨ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੋਇਆਬੀਨ-n12532168",
+          "lemma": "ੋਇਆਬੀਨ",
+          "word_id": "unimet-pan-ੋਇਆਬੀਨ",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        },
+        {
+          "id": "unimet-pan-ੋਇਆਬੀਨ-n12532564",
+          "lemma": "ੋਇਆਬੀਨ",
+          "word_id": "unimet-pan-ੋਇਆਬੀਨ",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੋਇਆਬੀਨ-n12532168",
+          "lemma": "ੋਇਆਬੀਨ",
+          "word_id": "unimet-pan-ੋਇਆਬੀਨ",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੋਇਆਬੀਨ-n12532564",
+          "lemma": "ੋਇਆਬੀਨ",
+          "word_id": "unimet-pan-ੋਇਆਬੀਨ",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੋਇਆਬੀਨ-n12532168::unimet-pan-ੋਇਆਬੀਨ-n12532564": {
+          "source": "unimet-pan-ੋਇਆਬੀਨ-n12532168",
+          "target": "unimet-pan-ੋਇਆਬੀਨ-n12532564",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੋਕਾਟ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੋਕਾਟ-n07763792",
+          "lemma": "ੋਕਾਟ",
+          "word_id": "unimet-pan-ੋਕਾਟ",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        },
+        {
+          "id": "unimet-pan-ੋਕਾਟ-n12629666",
+          "lemma": "ੋਕਾਟ",
+          "word_id": "unimet-pan-ੋਕਾਟ",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੋਕਾਟ-n07763792",
+          "lemma": "ੋਕਾਟ",
+          "word_id": "unimet-pan-ੋਕਾਟ",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੋਕਾਟ-n12629666",
+          "lemma": "ੋਕਾਟ",
+          "word_id": "unimet-pan-ੋਕਾਟ",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੋਕਾਟ-n07763792::unimet-pan-ੋਕਾਟ-n12629666": {
+          "source": "unimet-pan-ੋਕਾਟ-n07763792",
+          "target": "unimet-pan-ੋਕਾਟ-n12629666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੜੂ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੜੂ-n07751004",
+          "lemma": "ੜੂ",
+          "word_id": "unimet-pan-ੜੂ",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-pan-ੜੂ-n12648045",
+          "lemma": "ੜੂ",
+          "word_id": "unimet-pan-ੜੂ",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੜੂ-n07751004",
+          "lemma": "ੜੂ",
+          "word_id": "unimet-pan-ੜੂ",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੜੂ-n12648045",
+          "lemma": "ੜੂ",
+          "word_id": "unimet-pan-ੜੂ",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੜੂ-n07751004::unimet-pan-ੜੂ-n12648045": {
+          "source": "unimet-pan-ੜੂ-n07751004",
+          "target": "unimet-pan-ੜੂ-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ਫ਼ੋਨ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ਫ਼ੋਨ-n04401088",
+          "lemma": "ਫ਼ੋਨ",
+          "word_id": "unimet-pan-ਫ਼ੋਨ",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-pan-ਫ਼ੋਨ-n06272290",
+          "lemma": "ਫ਼ੋਨ",
+          "word_id": "unimet-pan-ਫ਼ੋਨ",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ਫ਼ੋਨ-n04401088",
+          "lemma": "ਫ਼ੋਨ",
+          "word_id": "unimet-pan-ਫ਼ੋਨ",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ਫ਼ੋਨ-n06272290",
+          "lemma": "ਫ਼ੋਨ",
+          "word_id": "unimet-pan-ਫ਼ੋਨ",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ਫ਼ੋਨ-n04401088::unimet-pan-ਫ਼ੋਨ-n06272290": {
+          "source": "unimet-pan-ਫ਼ੋਨ-n04401088",
+          "target": "unimet-pan-ਫ਼ੋਨ-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੰਜੀਰ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੰਜੀਰ-n07753113",
+          "lemma": "ੰਜੀਰ",
+          "word_id": "unimet-pan-ੰਜੀਰ",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        },
+        {
+          "id": "unimet-pan-ੰਜੀਰ-n12401684",
+          "lemma": "ੰਜੀਰ",
+          "word_id": "unimet-pan-ੰਜੀਰ",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੰਜੀਰ-n07753113",
+          "lemma": "ੰਜੀਰ",
+          "word_id": "unimet-pan-ੰਜੀਰ",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੰਜੀਰ-n12401684",
+          "lemma": "ੰਜੀਰ",
+          "word_id": "unimet-pan-ੰਜੀਰ",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੰਜੀਰ-n07753113::unimet-pan-ੰਜੀਰ-n12401684": {
+          "source": "unimet-pan-ੰਜੀਰ-n07753113",
+          "target": "unimet-pan-ੰਜੀਰ-n12401684",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੱਤਕ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੱਤਕ-n01846331",
+          "lemma": "ੱਤਕ",
+          "word_id": "unimet-pan-ੱਤਕ",
+          "synset": {
+            "id": "omw-en-01846331-n",
+            "ili": "i45045",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+          }
+        },
+        {
+          "id": "unimet-pan-ੱਤਕ-n07646578",
+          "lemma": "ੱਤਕ",
+          "word_id": "unimet-pan-ੱਤਕ",
+          "synset": {
+            "id": "omw-en-07646578-n",
+            "ili": "i77076",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "flesh of a duck (domestic or wild)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੱਤਕ-n01846331",
+          "lemma": "ੱਤਕ",
+          "word_id": "unimet-pan-ੱਤਕ",
+          "synset": {
+            "id": "omw-en-01846331-n",
+            "ili": "i45045",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੱਤਕ-n07646578",
+          "lemma": "ੱਤਕ",
+          "word_id": "unimet-pan-ੱਤਕ",
+          "synset": {
+            "id": "omw-en-07646578-n",
+            "ili": "i77076",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "flesh of a duck (domestic or wild)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੱਤਕ-n01846331::unimet-pan-ੱਤਕ-n07646578": {
+          "source": "unimet-pan-ੱਤਕ-n01846331",
+          "target": "unimet-pan-ੱਤਕ-n07646578",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ੱਦੂ",
+      "all_senses": [
+        {
+          "id": "unimet-pan-ੱਦੂ-n07735510",
+          "lemma": "ੱਦੂ",
+          "word_id": "unimet-pan-ੱਦੂ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-pan-ੱਦੂ-n12158443",
+          "lemma": "ੱਦੂ",
+          "word_id": "unimet-pan-ੱਦੂ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-pan-ੱਦੂ-n12158443",
+          "lemma": "ੱਦੂ",
+          "word_id": "unimet-pan-ੱਦੂ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-pan-ੱਦੂ-n07735510",
+          "lemma": "ੱਦੂ",
+          "word_id": "unimet-pan-ੱਦੂ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        }
+      ],
+      "links": {
+        "unimet-pan-ੱਦੂ-n12158443::unimet-pan-ੱਦੂ-n07735510": {
+          "source": "unimet-pan-ੱਦੂ-n12158443",
+          "target": "unimet-pan-ੱਦੂ-n07735510",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

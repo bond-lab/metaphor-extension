@@ -1,0 +1,3188 @@
+{
+  "id": "f3dc9ef1e6ad09b8",
+  "name": "unimet-Swedish",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "swe",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "amma",
+      "all_senses": [
+        {
+          "id": "unimet-swe-amma-n10774870",
+          "lemma": "amma",
+          "word_id": "unimet-swe-amma",
+          "synset": {
+            "id": "omw-en-10774870-n",
+            "ili": "i94085",
+            "pos": "n",
+            "lemmas": [
+              "wet-nurse"
+            ],
+            "definition": "a woman hired to suckle a child of someone else"
+          }
+        },
+        {
+          "id": "unimet-swe-amma-v01186428",
+          "lemma": "amma",
+          "word_id": "unimet-swe-amma",
+          "synset": {
+            "id": "omw-en-01186428-v",
+            "ili": "i27550",
+            "pos": "v",
+            "lemmas": [
+              "bottle-feed"
+            ],
+            "definition": "give suck to"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-amma-n10774870",
+          "lemma": "amma",
+          "word_id": "unimet-swe-amma",
+          "synset": {
+            "id": "omw-en-10774870-n",
+            "ili": "i94085",
+            "pos": "n",
+            "lemmas": [
+              "wet-nurse"
+            ],
+            "definition": "a woman hired to suckle a child of someone else"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-amma-v01186428",
+          "lemma": "amma",
+          "word_id": "unimet-swe-amma",
+          "synset": {
+            "id": "omw-en-01186428-v",
+            "ili": "i27550",
+            "pos": "v",
+            "lemmas": [
+              "bottle-feed"
+            ],
+            "definition": "give suck to"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-amma-n10774870::unimet-swe-amma-v01186428": {
+          "source": "unimet-swe-amma-n10774870",
+          "target": "unimet-swe-amma-v01186428",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ananas",
+      "all_senses": [
+        {
+          "id": "unimet-swe-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-swe-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-swe-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-swe-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-swe-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-swe-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-ananas-n07753275::unimet-swe-ananas-n12607456": {
+          "source": "unimet-swe-ananas-n07753275",
+          "target": "unimet-swe-ananas-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "björnbär",
+      "all_senses": [
+        {
+          "id": "unimet-swe-björnbär-n07744811",
+          "lemma": "björnbär",
+          "word_id": "unimet-swe-björnbär",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-swe-björnbär-n12653762",
+          "lemma": "björnbär",
+          "word_id": "unimet-swe-björnbär",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-björnbär-n07744811",
+          "lemma": "björnbär",
+          "word_id": "unimet-swe-björnbär",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-björnbär-n12653762",
+          "lemma": "björnbär",
+          "word_id": "unimet-swe-björnbär",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-björnbär-n07744811::unimet-swe-björnbär-n12653762": {
+          "source": "unimet-swe-björnbär-n07744811",
+          "target": "unimet-swe-björnbär-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "by",
+      "all_senses": [
+        {
+          "id": "unimet-swe-by-n08226699",
+          "lemma": "by",
+          "word_id": "unimet-swe-by",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-swe-by-n08672738",
+          "lemma": "by",
+          "word_id": "unimet-swe-by",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-by-n08226699",
+          "lemma": "by",
+          "word_id": "unimet-swe-by",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-by-n08672738",
+          "lemma": "by",
+          "word_id": "unimet-swe-by",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-by-n08226699::unimet-swe-by-n08672738": {
+          "source": "unimet-swe-by-n08226699",
+          "target": "unimet-swe-by-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "citron",
+      "all_senses": [
+        {
+          "id": "unimet-swe-citron-n07749582",
+          "lemma": "citron",
+          "word_id": "unimet-swe-citron",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-swe-citron-n12711596",
+          "lemma": "citron",
+          "word_id": "unimet-swe-citron",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-citron-n07749582",
+          "lemma": "citron",
+          "word_id": "unimet-swe-citron",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-citron-n12711596",
+          "lemma": "citron",
+          "word_id": "unimet-swe-citron",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-citron-n07749582::unimet-swe-citron-n12711596": {
+          "source": "unimet-swe-citron-n07749582",
+          "target": "unimet-swe-citron-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "diamant",
+      "all_senses": [
+        {
+          "id": "unimet-swe-diamant-n13371958",
+          "lemma": "diamant",
+          "word_id": "unimet-swe-diamant",
+          "synset": {
+            "id": "omw-en-13371958-n",
+            "ili": "i106984",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem"
+          }
+        },
+        {
+          "id": "unimet-swe-diamant-n14834563",
+          "lemma": "diamant",
+          "word_id": "unimet-swe-diamant",
+          "synset": {
+            "id": "omw-en-14834563-n",
+            "ili": "i115004",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "very hard native crystalline carbon valued as a gem"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-diamant-n14834563",
+          "lemma": "diamant",
+          "word_id": "unimet-swe-diamant",
+          "synset": {
+            "id": "omw-en-14834563-n",
+            "ili": "i115004",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "very hard native crystalline carbon valued as a gem"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-diamant-n13371958",
+          "lemma": "diamant",
+          "word_id": "unimet-swe-diamant",
+          "synset": {
+            "id": "omw-en-13371958-n",
+            "ili": "i106984",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-diamant-n14834563::unimet-swe-diamant-n13371958": {
+          "source": "unimet-swe-diamant-n14834563",
+          "target": "unimet-swe-diamant-n13371958",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dricka",
+      "all_senses": [
+        {
+          "id": "unimet-swe-dricka-n07881800",
+          "lemma": "dricka",
+          "word_id": "unimet-swe-dricka",
+          "synset": {
+            "id": "omw-en-07881800-n",
+            "ili": "i78658",
+            "pos": "n",
+            "lemmas": [
+              "drink"
+            ],
+            "definition": "any liquid suitable for drinking"
+          }
+        },
+        {
+          "id": "unimet-swe-dricka-v01170052",
+          "lemma": "dricka",
+          "word_id": "unimet-swe-dricka",
+          "synset": {
+            "id": "omw-en-01170052-v",
+            "ili": "i27466",
+            "pos": "v",
+            "lemmas": [
+              "imbibe"
+            ],
+            "definition": "take in liquids"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-dricka-v01170052",
+          "lemma": "dricka",
+          "word_id": "unimet-swe-dricka",
+          "synset": {
+            "id": "omw-en-01170052-v",
+            "ili": "i27466",
+            "pos": "v",
+            "lemmas": [
+              "imbibe"
+            ],
+            "definition": "take in liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-dricka-n07881800",
+          "lemma": "dricka",
+          "word_id": "unimet-swe-dricka",
+          "synset": {
+            "id": "omw-en-07881800-n",
+            "ili": "i78658",
+            "pos": "n",
+            "lemmas": [
+              "drink"
+            ],
+            "definition": "any liquid suitable for drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-dricka-v01170052::unimet-swe-dricka-n07881800": {
+          "source": "unimet-swe-dricka-v01170052",
+          "target": "unimet-swe-dricka-n07881800",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "film",
+      "all_senses": [
+        {
+          "id": "unimet-swe-film-n03338821",
+          "lemma": "film",
+          "word_id": "unimet-swe-film",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        },
+        {
+          "id": "unimet-swe-film-n06262567",
+          "lemma": "film",
+          "word_id": "unimet-swe-film",
+          "synset": {
+            "id": "omw-en-06262567-n",
+            "ili": "i69416",
+            "pos": "n",
+            "lemmas": [
+              "cinema"
+            ],
+            "definition": "a medium that disseminates moving pictures"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-film-n03338821",
+          "lemma": "film",
+          "word_id": "unimet-swe-film",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-film-n06262567",
+          "lemma": "film",
+          "word_id": "unimet-swe-film",
+          "synset": {
+            "id": "omw-en-06262567-n",
+            "ili": "i69416",
+            "pos": "n",
+            "lemmas": [
+              "cinema"
+            ],
+            "definition": "a medium that disseminates moving pictures"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-film-n03338821::unimet-swe-film-n06262567": {
+          "source": "unimet-swe-film-n03338821",
+          "target": "unimet-swe-film-n06262567",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fäll",
+      "all_senses": [
+        {
+          "id": "unimet-swe-fäll-n03404149",
+          "lemma": "fäll",
+          "word_id": "unimet-swe-fäll",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        },
+        {
+          "id": "unimet-swe-fäll-n14759275",
+          "lemma": "fäll",
+          "word_id": "unimet-swe-fäll",
+          "synset": {
+            "id": "omw-en-14759275-n",
+            "ili": "i114550",
+            "pos": "n",
+            "lemmas": [
+              "fell"
+            ],
+            "definition": "the dressed skin of an animal (especially a large animal)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-fäll-n14759275",
+          "lemma": "fäll",
+          "word_id": "unimet-swe-fäll",
+          "synset": {
+            "id": "omw-en-14759275-n",
+            "ili": "i114550",
+            "pos": "n",
+            "lemmas": [
+              "fell"
+            ],
+            "definition": "the dressed skin of an animal (especially a large animal)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-fäll-n03404149",
+          "lemma": "fäll",
+          "word_id": "unimet-swe-fäll",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-fäll-n14759275::unimet-swe-fäll-n03404149": {
+          "source": "unimet-swe-fäll-n14759275",
+          "target": "unimet-swe-fäll-n03404149",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "föda",
+      "all_senses": [
+        {
+          "id": "unimet-swe-föda-n00021734",
+          "lemma": "föda",
+          "word_id": "unimet-swe-föda",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        },
+        {
+          "id": "unimet-swe-föda-v01180206",
+          "lemma": "föda",
+          "word_id": "unimet-swe-föda",
+          "synset": {
+            "id": "omw-en-01180206-v",
+            "ili": "i27519",
+            "pos": "v",
+            "lemmas": [
+              "feed"
+            ],
+            "definition": "serve as food for; be the food for"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-föda-v01180206",
+          "lemma": "föda",
+          "word_id": "unimet-swe-föda",
+          "synset": {
+            "id": "omw-en-01180206-v",
+            "ili": "i27519",
+            "pos": "v",
+            "lemmas": [
+              "feed"
+            ],
+            "definition": "serve as food for; be the food for"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-föda-n00021734",
+          "lemma": "föda",
+          "word_id": "unimet-swe-föda",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-föda-v01180206::unimet-swe-föda-n00021734": {
+          "source": "unimet-swe-föda-v01180206",
+          "target": "unimet-swe-föda-n00021734",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "församling",
+      "all_senses": [
+        {
+          "id": "unimet-swe-församling-n08223688",
+          "lemma": "församling",
+          "word_id": "unimet-swe-församling",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        },
+        {
+          "id": "unimet-swe-församling-n08615001",
+          "lemma": "församling",
+          "word_id": "unimet-swe-församling",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-församling-n08223688",
+          "lemma": "församling",
+          "word_id": "unimet-swe-församling",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-församling-n08615001",
+          "lemma": "församling",
+          "word_id": "unimet-swe-församling",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-församling-n08223688::unimet-swe-församling-n08615001": {
+          "source": "unimet-swe-församling-n08223688",
+          "target": "unimet-swe-församling-n08615001",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gips",
+      "all_senses": [
+        {
+          "id": "unimet-swe-gips-n02979836",
+          "lemma": "gips",
+          "word_id": "unimet-swe-gips",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        },
+        {
+          "id": "unimet-swe-gips-n14677778",
+          "lemma": "gips",
+          "word_id": "unimet-swe-gips",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        },
+        {
+          "id": "unimet-swe-gips-n14992613",
+          "lemma": "gips",
+          "word_id": "unimet-swe-gips",
+          "synset": {
+            "id": "omw-en-14992613-n",
+            "ili": "i115932",
+            "pos": "n",
+            "lemmas": [
+              "plaster of paris"
+            ],
+            "definition": "any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-gips-n14677778",
+          "lemma": "gips",
+          "word_id": "unimet-swe-gips",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        },
+        {
+          "id": "unimet-swe-gips-n14992613",
+          "lemma": "gips",
+          "word_id": "unimet-swe-gips",
+          "synset": {
+            "id": "omw-en-14992613-n",
+            "ili": "i115932",
+            "pos": "n",
+            "lemmas": [
+              "plaster of paris"
+            ],
+            "definition": "any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-gips-n02979836",
+          "lemma": "gips",
+          "word_id": "unimet-swe-gips",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-gips-n14677778::unimet-swe-gips-n02979836": {
+          "source": "unimet-swe-gips-n14677778",
+          "target": "unimet-swe-gips-n02979836",
+          "type": "metonymy"
+        },
+        "unimet-swe-gips-n14992613::unimet-swe-gips-n02979836": {
+          "source": "unimet-swe-gips-n14992613",
+          "target": "unimet-swe-gips-n02979836",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-swe-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-swe-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-swe-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-swe-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-swe-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-swe-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-glas-n14881303::unimet-swe-glas-n03438257": {
+          "source": "unimet-swe-glas-n14881303",
+          "target": "unimet-swe-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gummi",
+      "all_senses": [
+        {
+          "id": "unimet-swe-gummi-n03088164",
+          "lemma": "gummi",
+          "word_id": "unimet-swe-gummi",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-swe-gummi-n04116512",
+          "lemma": "gummi",
+          "word_id": "unimet-swe-gummi",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-swe-gummi-n15006258",
+          "lemma": "gummi",
+          "word_id": "unimet-swe-gummi",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-gummi-n15006258",
+          "lemma": "gummi",
+          "word_id": "unimet-swe-gummi",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-gummi-n03088164",
+          "lemma": "gummi",
+          "word_id": "unimet-swe-gummi",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-swe-gummi-n04116512",
+          "lemma": "gummi",
+          "word_id": "unimet-swe-gummi",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-gummi-n15006258::unimet-swe-gummi-n03088164": {
+          "source": "unimet-swe-gummi-n15006258",
+          "target": "unimet-swe-gummi-n03088164",
+          "type": "metonymy"
+        },
+        "unimet-swe-gummi-n15006258::unimet-swe-gummi-n04116512": {
+          "source": "unimet-swe-gummi-n15006258",
+          "target": "unimet-swe-gummi-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "höna",
+      "all_senses": [
+        {
+          "id": "unimet-swe-höna-n01792640",
+          "lemma": "höna",
+          "word_id": "unimet-swe-höna",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-swe-höna-n07644967",
+          "lemma": "höna",
+          "word_id": "unimet-swe-höna",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-höna-n01792640",
+          "lemma": "höna",
+          "word_id": "unimet-swe-höna",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-höna-n07644967",
+          "lemma": "höna",
+          "word_id": "unimet-swe-höna",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-höna-n01792640::unimet-swe-höna-n07644967": {
+          "source": "unimet-swe-höna-n01792640",
+          "target": "unimet-swe-höna-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kalv",
+      "all_senses": [
+        {
+          "id": "unimet-swe-kalv-n01887896",
+          "lemma": "kalv",
+          "word_id": "unimet-swe-kalv",
+          "synset": {
+            "id": "omw-en-01887896-n",
+            "ili": "i45234",
+            "pos": "n",
+            "lemmas": [
+              "calf"
+            ],
+            "definition": "young of domestic cattle"
+          }
+        },
+        {
+          "id": "unimet-swe-kalv-n07665308",
+          "lemma": "kalv",
+          "word_id": "unimet-swe-kalv",
+          "synset": {
+            "id": "omw-en-07665308-n",
+            "ili": "i77210",
+            "pos": "n",
+            "lemmas": [
+              "veal"
+            ],
+            "definition": "meat from a calf"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-kalv-n01887896",
+          "lemma": "kalv",
+          "word_id": "unimet-swe-kalv",
+          "synset": {
+            "id": "omw-en-01887896-n",
+            "ili": "i45234",
+            "pos": "n",
+            "lemmas": [
+              "calf"
+            ],
+            "definition": "young of domestic cattle"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-kalv-n07665308",
+          "lemma": "kalv",
+          "word_id": "unimet-swe-kalv",
+          "synset": {
+            "id": "omw-en-07665308-n",
+            "ili": "i77210",
+            "pos": "n",
+            "lemmas": [
+              "veal"
+            ],
+            "definition": "meat from a calf"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-kalv-n01887896::unimet-swe-kalv-n07665308": {
+          "source": "unimet-swe-kalv-n01887896",
+          "target": "unimet-swe-kalv-n07665308",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kokosnöt",
+      "all_senses": [
+        {
+          "id": "unimet-swe-kokosnöt-n07772935",
+          "lemma": "kokosnöt",
+          "word_id": "unimet-swe-kokosnöt",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-swe-kokosnöt-n12587803",
+          "lemma": "kokosnöt",
+          "word_id": "unimet-swe-kokosnöt",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-kokosnöt-n07772935",
+          "lemma": "kokosnöt",
+          "word_id": "unimet-swe-kokosnöt",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-kokosnöt-n12587803",
+          "lemma": "kokosnöt",
+          "word_id": "unimet-swe-kokosnöt",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-kokosnöt-n07772935::unimet-swe-kokosnöt-n12587803": {
+          "source": "unimet-swe-kokosnöt-n07772935",
+          "target": "unimet-swe-kokosnöt-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kristall",
+      "all_senses": [
+        {
+          "id": "unimet-swe-kristall-n03142834",
+          "lemma": "kristall",
+          "word_id": "unimet-swe-kristall",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-swe-kristall-n14883206",
+          "lemma": "kristall",
+          "word_id": "unimet-swe-kristall",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-kristall-n14883206",
+          "lemma": "kristall",
+          "word_id": "unimet-swe-kristall",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-kristall-n03142834",
+          "lemma": "kristall",
+          "word_id": "unimet-swe-kristall",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-kristall-n14883206::unimet-swe-kristall-n03142834": {
+          "source": "unimet-swe-kristall-n14883206",
+          "target": "unimet-swe-kristall-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "körsbär",
+      "all_senses": [
+        {
+          "id": "unimet-swe-körsbär-n07757132",
+          "lemma": "körsbär",
+          "word_id": "unimet-swe-körsbär",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-swe-körsbär-n12641413",
+          "lemma": "körsbär",
+          "word_id": "unimet-swe-körsbär",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-körsbär-n07757132",
+          "lemma": "körsbär",
+          "word_id": "unimet-swe-körsbär",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-körsbär-n12641413",
+          "lemma": "körsbär",
+          "word_id": "unimet-swe-körsbär",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-körsbär-n07757132::unimet-swe-körsbär-n12641413": {
+          "source": "unimet-swe-körsbär-n07757132",
+          "target": "unimet-swe-körsbär-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lamm",
+      "all_senses": [
+        {
+          "id": "unimet-swe-lamm-n02412440",
+          "lemma": "lamm",
+          "word_id": "unimet-swe-lamm",
+          "synset": {
+            "id": "omw-en-02412440-n",
+            "ili": "i48296",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "young sheep"
+          }
+        },
+        {
+          "id": "unimet-swe-lamm-n07667151",
+          "lemma": "lamm",
+          "word_id": "unimet-swe-lamm",
+          "synset": {
+            "id": "omw-en-07667151-n",
+            "ili": "i77225",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "the flesh of a young domestic sheep eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-lamm-n02412440",
+          "lemma": "lamm",
+          "word_id": "unimet-swe-lamm",
+          "synset": {
+            "id": "omw-en-02412440-n",
+            "ili": "i48296",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "young sheep"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-lamm-n07667151",
+          "lemma": "lamm",
+          "word_id": "unimet-swe-lamm",
+          "synset": {
+            "id": "omw-en-07667151-n",
+            "ili": "i77225",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "the flesh of a young domestic sheep eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-lamm-n02412440::unimet-swe-lamm-n07667151": {
+          "source": "unimet-swe-lamm-n02412440",
+          "target": "unimet-swe-lamm-n07667151",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-swe-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-swe-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-swe-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-swe-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-swe-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-swe-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-land-n08168978::unimet-swe-land-n08544813": {
+          "source": "unimet-swe-land-n08168978",
+          "target": "unimet-swe-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lins",
+      "all_senses": [
+        {
+          "id": "unimet-swe-lins-n07725255",
+          "lemma": "lins",
+          "word_id": "unimet-swe-lins",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-swe-lins-n12544240",
+          "lemma": "lins",
+          "word_id": "unimet-swe-lins",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-lins-n12544240",
+          "lemma": "lins",
+          "word_id": "unimet-swe-lins",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-lins-n07725255",
+          "lemma": "lins",
+          "word_id": "unimet-swe-lins",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-lins-n12544240::unimet-swe-lins-n07725255": {
+          "source": "unimet-swe-lins-n12544240",
+          "target": "unimet-swe-lins-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "oskuld",
+      "all_senses": [
+        {
+          "id": "unimet-swe-oskuld-n10755257",
+          "lemma": "oskuld",
+          "word_id": "unimet-swe-oskuld",
+          "synset": {
+            "id": "omw-en-10755257-n",
+            "ili": "i93947",
+            "pos": "n",
+            "lemmas": [
+              "virgin"
+            ],
+            "definition": "a person who has never had sex"
+          }
+        },
+        {
+          "id": "unimet-swe-oskuld-n13967581",
+          "lemma": "oskuld",
+          "word_id": "unimet-swe-oskuld",
+          "synset": {
+            "id": "omw-en-13967581-n",
+            "ili": "i110336",
+            "pos": "n",
+            "lemmas": [
+              "virginity"
+            ],
+            "definition": "the condition or quality of being a virgin"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-oskuld-n13967581",
+          "lemma": "oskuld",
+          "word_id": "unimet-swe-oskuld",
+          "synset": {
+            "id": "omw-en-13967581-n",
+            "ili": "i110336",
+            "pos": "n",
+            "lemmas": [
+              "virginity"
+            ],
+            "definition": "the condition or quality of being a virgin"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-oskuld-n10755257",
+          "lemma": "oskuld",
+          "word_id": "unimet-swe-oskuld",
+          "synset": {
+            "id": "omw-en-10755257-n",
+            "ili": "i93947",
+            "pos": "n",
+            "lemmas": [
+              "virgin"
+            ],
+            "definition": "a person who has never had sex"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-oskuld-n13967581::unimet-swe-oskuld-n10755257": {
+          "source": "unimet-swe-oskuld-n13967581",
+          "target": "unimet-swe-oskuld-n10755257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "persika",
+      "all_senses": [
+        {
+          "id": "unimet-swe-persika-n07751004",
+          "lemma": "persika",
+          "word_id": "unimet-swe-persika",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-swe-persika-n12648045",
+          "lemma": "persika",
+          "word_id": "unimet-swe-persika",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-persika-n07751004",
+          "lemma": "persika",
+          "word_id": "unimet-swe-persika",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-persika-n12648045",
+          "lemma": "persika",
+          "word_id": "unimet-swe-persika",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-persika-n07751004::unimet-swe-persika-n12648045": {
+          "source": "unimet-swe-persika-n07751004",
+          "target": "unimet-swe-persika-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "rädisa",
+      "all_senses": [
+        {
+          "id": "unimet-swe-rädisa-n07735687",
+          "lemma": "rädisa",
+          "word_id": "unimet-swe-rädisa",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-swe-rädisa-n11894327",
+          "lemma": "rädisa",
+          "word_id": "unimet-swe-rädisa",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-rädisa-n11894327",
+          "lemma": "rädisa",
+          "word_id": "unimet-swe-rädisa",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-rädisa-n07735687",
+          "lemma": "rädisa",
+          "word_id": "unimet-swe-rädisa",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-rädisa-n11894327::unimet-swe-rädisa-n07735687": {
+          "source": "unimet-swe-rädisa-n11894327",
+          "target": "unimet-swe-rädisa-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skada",
+      "all_senses": [
+        {
+          "id": "unimet-swe-skada-n14285662",
+          "lemma": "skada",
+          "word_id": "unimet-swe-skada",
+          "synset": {
+            "id": "omw-en-14285662-n",
+            "ili": "i112025",
+            "pos": "n",
+            "lemmas": [
+              "injury"
+            ],
+            "definition": "any physical damage to the body caused by violence or accident or fracture etc."
+          }
+        },
+        {
+          "id": "unimet-swe-skada-v00069879",
+          "lemma": "skada",
+          "word_id": "unimet-swe-skada",
+          "synset": {
+            "id": "omw-en-00069879-v",
+            "ili": "i22125",
+            "pos": "v",
+            "lemmas": [
+              "injure"
+            ],
+            "definition": "cause injuries or bodily harm to"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-skada-v00069879",
+          "lemma": "skada",
+          "word_id": "unimet-swe-skada",
+          "synset": {
+            "id": "omw-en-00069879-v",
+            "ili": "i22125",
+            "pos": "v",
+            "lemmas": [
+              "injure"
+            ],
+            "definition": "cause injuries or bodily harm to"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-skada-n14285662",
+          "lemma": "skada",
+          "word_id": "unimet-swe-skada",
+          "synset": {
+            "id": "omw-en-14285662-n",
+            "ili": "i112025",
+            "pos": "n",
+            "lemmas": [
+              "injury"
+            ],
+            "definition": "any physical damage to the body caused by violence or accident or fracture etc."
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-skada-v00069879::unimet-swe-skada-n14285662": {
+          "source": "unimet-swe-skada-v00069879",
+          "target": "unimet-swe-skada-n14285662",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skida",
+      "all_senses": [
+        {
+          "id": "unimet-swe-skida-n04228054",
+          "lemma": "skida",
+          "word_id": "unimet-swe-skida",
+          "synset": {
+            "id": "omw-en-04228054-n",
+            "ili": "i58996",
+            "pos": "n",
+            "lemmas": [
+              "ski"
+            ],
+            "definition": "narrow wood or metal or plastic runners used in pairs for gliding over snow"
+          }
+        },
+        {
+          "id": "unimet-swe-skida-v01938426",
+          "lemma": "skida",
+          "word_id": "unimet-swe-skida",
+          "synset": {
+            "id": "omw-en-01938426-v",
+            "ili": "i31411",
+            "pos": "v",
+            "lemmas": [
+              "ski"
+            ],
+            "definition": "move along on skis"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-skida-n04228054",
+          "lemma": "skida",
+          "word_id": "unimet-swe-skida",
+          "synset": {
+            "id": "omw-en-04228054-n",
+            "ili": "i58996",
+            "pos": "n",
+            "lemmas": [
+              "ski"
+            ],
+            "definition": "narrow wood or metal or plastic runners used in pairs for gliding over snow"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-skida-v01938426",
+          "lemma": "skida",
+          "word_id": "unimet-swe-skida",
+          "synset": {
+            "id": "omw-en-01938426-v",
+            "ili": "i31411",
+            "pos": "v",
+            "lemmas": [
+              "ski"
+            ],
+            "definition": "move along on skis"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-skida-n04228054::unimet-swe-skida-v01938426": {
+          "source": "unimet-swe-skida-n04228054",
+          "target": "unimet-swe-skida-v01938426",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skola",
+      "all_senses": [
+        {
+          "id": "unimet-swe-skola-n04146050",
+          "lemma": "skola",
+          "word_id": "unimet-swe-skola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-swe-skola-n08276720",
+          "lemma": "skola",
+          "word_id": "unimet-swe-skola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-skola-n04146050",
+          "lemma": "skola",
+          "word_id": "unimet-swe-skola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-skola-n08276720",
+          "lemma": "skola",
+          "word_id": "unimet-swe-skola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-skola-n04146050::unimet-swe-skola-n08276720": {
+          "source": "unimet-swe-skola-n04146050",
+          "target": "unimet-swe-skola-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "smärta",
+      "all_senses": [
+        {
+          "id": "unimet-swe-smärta-n14322699",
+          "lemma": "smärta",
+          "word_id": "unimet-swe-smärta",
+          "synset": {
+            "id": "omw-en-14322699-n",
+            "ili": "i112218",
+            "pos": "n",
+            "lemmas": [
+              "pain"
+            ],
+            "definition": "a symptom of some physical hurt or disorder"
+          }
+        },
+        {
+          "id": "unimet-swe-smärta-v02122164",
+          "lemma": "smärta",
+          "word_id": "unimet-swe-smärta",
+          "synset": {
+            "id": "omw-en-02122164-v",
+            "ili": "i32368",
+            "pos": "v",
+            "lemmas": [
+              "hurt"
+            ],
+            "definition": "be the source of pain"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-smärta-v02122164",
+          "lemma": "smärta",
+          "word_id": "unimet-swe-smärta",
+          "synset": {
+            "id": "omw-en-02122164-v",
+            "ili": "i32368",
+            "pos": "v",
+            "lemmas": [
+              "hurt"
+            ],
+            "definition": "be the source of pain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-smärta-n14322699",
+          "lemma": "smärta",
+          "word_id": "unimet-swe-smärta",
+          "synset": {
+            "id": "omw-en-14322699-n",
+            "ili": "i112218",
+            "pos": "n",
+            "lemmas": [
+              "pain"
+            ],
+            "definition": "a symptom of some physical hurt or disorder"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-smärta-v02122164::unimet-swe-smärta-n14322699": {
+          "source": "unimet-swe-smärta-v02122164",
+          "target": "unimet-swe-smärta-n14322699",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sojaböna",
+      "all_senses": [
+        {
+          "id": "unimet-swe-sojaböna-n07729485",
+          "lemma": "sojaböna",
+          "word_id": "unimet-swe-sojaböna",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        },
+        {
+          "id": "unimet-swe-sojaböna-n12532168",
+          "lemma": "sojaböna",
+          "word_id": "unimet-swe-sojaböna",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-sojaböna-n12532168",
+          "lemma": "sojaböna",
+          "word_id": "unimet-swe-sojaböna",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-sojaböna-n07729485",
+          "lemma": "sojaböna",
+          "word_id": "unimet-swe-sojaböna",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-sojaböna-n12532168::unimet-swe-sojaböna-n07729485": {
+          "source": "unimet-swe-sojaböna-n12532168",
+          "target": "unimet-swe-sojaböna-n07729485",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sopran",
+      "all_senses": [
+        {
+          "id": "unimet-swe-sopran-n04985930",
+          "lemma": "sopran",
+          "word_id": "unimet-swe-sopran",
+          "synset": {
+            "id": "omw-en-04985930-n",
+            "ili": "i63203",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "the pitch range of the highest female voice"
+          }
+        },
+        {
+          "id": "unimet-swe-sopran-n10625546",
+          "lemma": "sopran",
+          "word_id": "unimet-swe-sopran",
+          "synset": {
+            "id": "omw-en-10625546-n",
+            "ili": "i93152",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "a female singer"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-sopran-n04985930",
+          "lemma": "sopran",
+          "word_id": "unimet-swe-sopran",
+          "synset": {
+            "id": "omw-en-04985930-n",
+            "ili": "i63203",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "the pitch range of the highest female voice"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-sopran-n10625546",
+          "lemma": "sopran",
+          "word_id": "unimet-swe-sopran",
+          "synset": {
+            "id": "omw-en-10625546-n",
+            "ili": "i93152",
+            "pos": "n",
+            "lemmas": [
+              "soprano"
+            ],
+            "definition": "a female singer"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-sopran-n04985930::unimet-swe-sopran-n10625546": {
+          "source": "unimet-swe-sopran-n04985930",
+          "target": "unimet-swe-sopran-n10625546",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sorg",
+      "all_senses": [
+        {
+          "id": "unimet-swe-sorg-n05833683",
+          "lemma": "sorg",
+          "word_id": "unimet-swe-sorg",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-swe-sorg-n07533877",
+          "lemma": "sorg",
+          "word_id": "unimet-swe-sorg",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-sorg-n07533877",
+          "lemma": "sorg",
+          "word_id": "unimet-swe-sorg",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-sorg-n05833683",
+          "lemma": "sorg",
+          "word_id": "unimet-swe-sorg",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-sorg-n07533877::unimet-swe-sorg-n05833683": {
+          "source": "unimet-swe-sorg-n07533877",
+          "target": "unimet-swe-sorg-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stat",
+      "all_senses": [
+        {
+          "id": "unimet-swe-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-swe-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-swe-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-swe-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-swe-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-swe-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-stat-n08178547::unimet-swe-stat-n08654360": {
+          "source": "unimet-swe-stat-n08178547",
+          "target": "unimet-swe-stat-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stötta",
+      "all_senses": [
+        {
+          "id": "unimet-swe-stötta-n04360501",
+          "lemma": "stötta",
+          "word_id": "unimet-swe-stötta",
+          "synset": {
+            "id": "omw-en-04360501-n",
+            "ili": "i59817",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "supporting structure that holds up or provides a foundation"
+          }
+        },
+        {
+          "id": "unimet-swe-stötta-v01217043",
+          "lemma": "stötta",
+          "word_id": "unimet-swe-stötta",
+          "synset": {
+            "id": "omw-en-01217043-v",
+            "ili": "i27707",
+            "pos": "v",
+            "lemmas": [
+              "hold up"
+            ],
+            "definition": "be the physical support of; carry the weight of"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-stötta-v01217043",
+          "lemma": "stötta",
+          "word_id": "unimet-swe-stötta",
+          "synset": {
+            "id": "omw-en-01217043-v",
+            "ili": "i27707",
+            "pos": "v",
+            "lemmas": [
+              "hold up"
+            ],
+            "definition": "be the physical support of; carry the weight of"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-stötta-n04360501",
+          "lemma": "stötta",
+          "word_id": "unimet-swe-stötta",
+          "synset": {
+            "id": "omw-en-04360501-n",
+            "ili": "i59817",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "supporting structure that holds up or provides a foundation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-stötta-v01217043::unimet-swe-stötta-n04360501": {
+          "source": "unimet-swe-stötta-v01217043",
+          "target": "unimet-swe-stötta-n04360501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "svamp",
+      "all_senses": [
+        {
+          "id": "unimet-swe-svamp-n07734744",
+          "lemma": "svamp",
+          "word_id": "unimet-swe-svamp",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-swe-svamp-n12992868",
+          "lemma": "svamp",
+          "word_id": "unimet-swe-svamp",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-svamp-n12992868",
+          "lemma": "svamp",
+          "word_id": "unimet-swe-svamp",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-svamp-n07734744",
+          "lemma": "svamp",
+          "word_id": "unimet-swe-svamp",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-svamp-n12992868::unimet-swe-svamp-n07734744": {
+          "source": "unimet-swe-svamp-n12992868",
+          "target": "unimet-swe-svamp-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ull",
+      "all_senses": [
+        {
+          "id": "unimet-swe-ull-n04599235",
+          "lemma": "ull",
+          "word_id": "unimet-swe-ull",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-swe-ull-n15104217",
+          "lemma": "ull",
+          "word_id": "unimet-swe-ull",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-ull-n15104217",
+          "lemma": "ull",
+          "word_id": "unimet-swe-ull",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-ull-n04599235",
+          "lemma": "ull",
+          "word_id": "unimet-swe-ull",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-ull-n15104217::unimet-swe-ull-n04599235": {
+          "source": "unimet-swe-ull-n15104217",
+          "target": "unimet-swe-ull-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vattenmelon",
+      "all_senses": [
+        {
+          "id": "unimet-swe-vattenmelon-n07756951",
+          "lemma": "vattenmelon",
+          "word_id": "unimet-swe-vattenmelon",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-swe-vattenmelon-n12164065",
+          "lemma": "vattenmelon",
+          "word_id": "unimet-swe-vattenmelon",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-vattenmelon-n07756951",
+          "lemma": "vattenmelon",
+          "word_id": "unimet-swe-vattenmelon",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-vattenmelon-n12164065",
+          "lemma": "vattenmelon",
+          "word_id": "unimet-swe-vattenmelon",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-vattenmelon-n07756951::unimet-swe-vattenmelon-n12164065": {
+          "source": "unimet-swe-vattenmelon-n07756951",
+          "target": "unimet-swe-vattenmelon-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vitkål",
+      "all_senses": [
+        {
+          "id": "unimet-swe-vitkål-n07713895",
+          "lemma": "vitkål",
+          "word_id": "unimet-swe-vitkål",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-swe-vitkål-n11875691",
+          "lemma": "vitkål",
+          "word_id": "unimet-swe-vitkål",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-vitkål-n11875691",
+          "lemma": "vitkål",
+          "word_id": "unimet-swe-vitkål",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-vitkål-n07713895",
+          "lemma": "vitkål",
+          "word_id": "unimet-swe-vitkål",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-vitkål-n11875691::unimet-swe-vitkål-n07713895": {
+          "source": "unimet-swe-vitkål-n11875691",
+          "target": "unimet-swe-vitkål-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zucchini",
+      "all_senses": [
+        {
+          "id": "unimet-swe-zucchini-n07715561",
+          "lemma": "zucchini",
+          "word_id": "unimet-swe-zucchini",
+          "synset": {
+            "id": "omw-en-07715561-n",
+            "ili": "i77548",
+            "pos": "n",
+            "lemmas": [
+              "squash"
+            ],
+            "definition": "edible fruit of a squash plant; eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-swe-zucchini-n07716504",
+          "lemma": "zucchini",
+          "word_id": "unimet-swe-zucchini",
+          "synset": {
+            "id": "omw-en-07716504-n",
+            "ili": "i77553",
+            "pos": "n",
+            "lemmas": [
+              "marrow"
+            ],
+            "definition": "large elongated squash with creamy to deep green skins"
+          }
+        },
+        {
+          "id": "unimet-swe-zucchini-n12159804",
+          "lemma": "zucchini",
+          "word_id": "unimet-swe-zucchini",
+          "synset": {
+            "id": "omw-en-12159804-n",
+            "ili": "i101048",
+            "pos": "n",
+            "lemmas": [
+              "courgette"
+            ],
+            "definition": "marrow squash plant whose fruit are eaten when small"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-zucchini-n12159804",
+          "lemma": "zucchini",
+          "word_id": "unimet-swe-zucchini",
+          "synset": {
+            "id": "omw-en-12159804-n",
+            "ili": "i101048",
+            "pos": "n",
+            "lemmas": [
+              "courgette"
+            ],
+            "definition": "marrow squash plant whose fruit are eaten when small"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-zucchini-n07715561",
+          "lemma": "zucchini",
+          "word_id": "unimet-swe-zucchini",
+          "synset": {
+            "id": "omw-en-07715561-n",
+            "ili": "i77548",
+            "pos": "n",
+            "lemmas": [
+              "squash"
+            ],
+            "definition": "edible fruit of a squash plant; eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-swe-zucchini-n07716504",
+          "lemma": "zucchini",
+          "word_id": "unimet-swe-zucchini",
+          "synset": {
+            "id": "omw-en-07716504-n",
+            "ili": "i77553",
+            "pos": "n",
+            "lemmas": [
+              "marrow"
+            ],
+            "definition": "large elongated squash with creamy to deep green skins"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-zucchini-n12159804::unimet-swe-zucchini-n07715561": {
+          "source": "unimet-swe-zucchini-n12159804",
+          "target": "unimet-swe-zucchini-n07715561",
+          "type": "metonymy"
+        },
+        "unimet-swe-zucchini-n12159804::unimet-swe-zucchini-n07716504": {
+          "source": "unimet-swe-zucchini-n12159804",
+          "target": "unimet-swe-zucchini-n07716504",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ädelsten",
+      "all_senses": [
+        {
+          "id": "unimet-swe-ädelsten-n03596787",
+          "lemma": "ädelsten",
+          "word_id": "unimet-swe-ädelsten",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-swe-ädelsten-n14696793",
+          "lemma": "ädelsten",
+          "word_id": "unimet-swe-ädelsten",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        },
+        {
+          "id": "unimet-swe-ädelsten-n14699752",
+          "lemma": "ädelsten",
+          "word_id": "unimet-swe-ädelsten",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swe-ädelsten-n14696793",
+          "lemma": "ädelsten",
+          "word_id": "unimet-swe-ädelsten",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        },
+        {
+          "id": "unimet-swe-ädelsten-n14699752",
+          "lemma": "ädelsten",
+          "word_id": "unimet-swe-ädelsten",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swe-ädelsten-n03596787",
+          "lemma": "ädelsten",
+          "word_id": "unimet-swe-ädelsten",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swe-ädelsten-n14696793::unimet-swe-ädelsten-n03596787": {
+          "source": "unimet-swe-ädelsten-n14696793",
+          "target": "unimet-swe-ädelsten-n03596787",
+          "type": "metonymy"
+        },
+        "unimet-swe-ädelsten-n14699752::unimet-swe-ädelsten-n03596787": {
+          "source": "unimet-swe-ädelsten-n14699752",
+          "target": "unimet-swe-ädelsten-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

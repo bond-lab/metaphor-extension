@@ -1,0 +1,244 @@
+{
+  "id": "cd0a10861e1f2c80",
+  "name": "unimet-Volapük",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "vol",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "brasid",
+      "all_senses": [
+        {
+          "id": "unimet-vol-brasid-n07713895",
+          "lemma": "brasid",
+          "word_id": "unimet-vol-brasid",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-vol-brasid-n11875691",
+          "lemma": "brasid",
+          "word_id": "unimet-vol-brasid",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vol-brasid-n11875691",
+          "lemma": "brasid",
+          "word_id": "unimet-vol-brasid",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vol-brasid-n07713895",
+          "lemma": "brasid",
+          "word_id": "unimet-vol-brasid",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vol-brasid-n11875691::unimet-vol-brasid-n07713895": {
+          "source": "unimet-vol-brasid-n11875691",
+          "target": "unimet-vol-brasid-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jigok",
+      "all_senses": [
+        {
+          "id": "unimet-vol-jigok-n01792640",
+          "lemma": "jigok",
+          "word_id": "unimet-vol-jigok",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-vol-jigok-n07644967",
+          "lemma": "jigok",
+          "word_id": "unimet-vol-jigok",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vol-jigok-n01792640",
+          "lemma": "jigok",
+          "word_id": "unimet-vol-jigok",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vol-jigok-n07644967",
+          "lemma": "jigok",
+          "word_id": "unimet-vol-jigok",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vol-jigok-n01792640::unimet-vol-jigok-n07644967": {
+          "source": "unimet-vol-jigok-n01792640",
+          "target": "unimet-vol-jigok-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "räf",
+      "all_senses": [
+        {
+          "id": "unimet-vol-räf-n07735687",
+          "lemma": "räf",
+          "word_id": "unimet-vol-räf",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-vol-räf-n11894327",
+          "lemma": "räf",
+          "word_id": "unimet-vol-räf",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-vol-räf-n11894327",
+          "lemma": "räf",
+          "word_id": "unimet-vol-räf",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-vol-räf-n07735687",
+          "lemma": "räf",
+          "word_id": "unimet-vol-räf",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-vol-räf-n11894327::unimet-vol-räf-n07735687": {
+          "source": "unimet-vol-räf-n11894327",
+          "target": "unimet-vol-räf-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

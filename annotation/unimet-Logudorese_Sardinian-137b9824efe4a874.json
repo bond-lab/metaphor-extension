@@ -1,0 +1,92 @@
+{
+  "id": "137b9824efe4a874",
+  "name": "unimet-Logudorese Sardinian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "src",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "barracocco",
+      "all_senses": [
+        {
+          "id": "unimet-src-barracocco-n07750872",
+          "lemma": "barracocco",
+          "word_id": "unimet-src-barracocco",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-src-barracocco-n12640607",
+          "lemma": "barracocco",
+          "word_id": "unimet-src-barracocco",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-src-barracocco-n07750872",
+          "lemma": "barracocco",
+          "word_id": "unimet-src-barracocco",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-src-barracocco-n12640607",
+          "lemma": "barracocco",
+          "word_id": "unimet-src-barracocco",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-src-barracocco-n07750872::unimet-src-barracocco-n12640607": {
+          "source": "unimet-src-barracocco-n07750872",
+          "target": "unimet-src-barracocco-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

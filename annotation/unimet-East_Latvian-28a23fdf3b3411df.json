@@ -1,0 +1,168 @@
+{
+  "id": "28a23fdf3b3411df",
+  "name": "unimet-East Latvian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ltg",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "sola",
+      "all_senses": [
+        {
+          "id": "unimet-ltg-sola-n08226699",
+          "lemma": "sola",
+          "word_id": "unimet-ltg-sola",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-ltg-sola-n08644722",
+          "lemma": "sola",
+          "word_id": "unimet-ltg-sola",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ltg-sola-n08226699",
+          "lemma": "sola",
+          "word_id": "unimet-ltg-sola",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ltg-sola-n08644722",
+          "lemma": "sola",
+          "word_id": "unimet-ltg-sola",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ltg-sola-n08226699::unimet-ltg-sola-n08644722": {
+          "source": "unimet-ltg-sola-n08226699",
+          "target": "unimet-ltg-sola-n08644722",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vīšne",
+      "all_senses": [
+        {
+          "id": "unimet-ltg-vīšne-n07757132",
+          "lemma": "vīšne",
+          "word_id": "unimet-ltg-vīšne",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-ltg-vīšne-n12641413",
+          "lemma": "vīšne",
+          "word_id": "unimet-ltg-vīšne",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ltg-vīšne-n07757132",
+          "lemma": "vīšne",
+          "word_id": "unimet-ltg-vīšne",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ltg-vīšne-n12641413",
+          "lemma": "vīšne",
+          "word_id": "unimet-ltg-vīšne",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ltg-vīšne-n07757132::unimet-ltg-vīšne-n12641413": {
+          "source": "unimet-ltg-vīšne-n07757132",
+          "target": "unimet-ltg-vīšne-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

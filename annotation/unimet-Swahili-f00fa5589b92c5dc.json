@@ -1,0 +1,3606 @@
+{
+  "id": "f00fa5589b92c5dc",
+  "name": "unimet-Swahili",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "swa",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "bendeji",
+      "all_senses": [
+        {
+          "id": "unimet-swa-bendeji-n02785648",
+          "lemma": "bendeji",
+          "word_id": "unimet-swa-bendeji",
+          "synset": {
+            "id": "omw-en-02785648-n",
+            "ili": "i50428",
+            "pos": "n",
+            "lemmas": [
+              "bandage"
+            ],
+            "definition": "a piece of soft material that covers and protects an injured part of the body"
+          }
+        },
+        {
+          "id": "unimet-swa-bendeji-v00083124",
+          "lemma": "bendeji",
+          "word_id": "unimet-swa-bendeji",
+          "synset": {
+            "id": "omw-en-00083124-v",
+            "ili": "i22186",
+            "pos": "v",
+            "lemmas": [
+              "bandage"
+            ],
+            "definition": "dress by covering or binding"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-bendeji-n02785648",
+          "lemma": "bendeji",
+          "word_id": "unimet-swa-bendeji",
+          "synset": {
+            "id": "omw-en-02785648-n",
+            "ili": "i50428",
+            "pos": "n",
+            "lemmas": [
+              "bandage"
+            ],
+            "definition": "a piece of soft material that covers and protects an injured part of the body"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-bendeji-v00083124",
+          "lemma": "bendeji",
+          "word_id": "unimet-swa-bendeji",
+          "synset": {
+            "id": "omw-en-00083124-v",
+            "ili": "i22186",
+            "pos": "v",
+            "lemmas": [
+              "bandage"
+            ],
+            "definition": "dress by covering or binding"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-bendeji-n02785648::unimet-swa-bendeji-v00083124": {
+          "source": "unimet-swa-bendeji-n02785648",
+          "target": "unimet-swa-bendeji-v00083124",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bingwa",
+      "all_senses": [
+        {
+          "id": "unimet-swa-bingwa-n09906538",
+          "lemma": "bingwa",
+          "word_id": "unimet-swa-bingwa",
+          "synset": {
+            "id": "omw-en-09906538-n",
+            "ili": "i88902",
+            "pos": "n",
+            "lemmas": [
+              "champion"
+            ],
+            "definition": "someone who fights for a cause"
+          }
+        },
+        {
+          "id": "unimet-swa-bingwa-v01149138",
+          "lemma": "bingwa",
+          "word_id": "unimet-swa-bingwa",
+          "synset": {
+            "id": "omw-en-01149138-v",
+            "ili": "i27370",
+            "pos": "v",
+            "lemmas": [
+              "champion"
+            ],
+            "definition": "protect or fight for as a champion"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-bingwa-n09906538",
+          "lemma": "bingwa",
+          "word_id": "unimet-swa-bingwa",
+          "synset": {
+            "id": "omw-en-09906538-n",
+            "ili": "i88902",
+            "pos": "n",
+            "lemmas": [
+              "champion"
+            ],
+            "definition": "someone who fights for a cause"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-bingwa-v01149138",
+          "lemma": "bingwa",
+          "word_id": "unimet-swa-bingwa",
+          "synset": {
+            "id": "omw-en-01149138-v",
+            "ili": "i27370",
+            "pos": "v",
+            "lemmas": [
+              "champion"
+            ],
+            "definition": "protect or fight for as a champion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-bingwa-n09906538::unimet-swa-bingwa-v01149138": {
+          "source": "unimet-swa-bingwa-n09906538",
+          "target": "unimet-swa-bingwa-v01149138",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "chichimua",
+      "all_senses": [
+        {
+          "id": "unimet-swa-chichimua-n14314850",
+          "lemma": "chichimua",
+          "word_id": "unimet-swa-chichimua",
+          "synset": {
+            "id": "omw-en-14314850-n",
+            "ili": "i112172",
+            "pos": "n",
+            "lemmas": [
+              "sternutation"
+            ],
+            "definition": "a symptom consisting of the involuntary expulsion of air from the nose"
+          }
+        },
+        {
+          "id": "unimet-swa-chichimua-v00004819",
+          "lemma": "chichimua",
+          "word_id": "unimet-swa-chichimua",
+          "synset": {
+            "id": "omw-en-00004819-v",
+            "ili": "i21792",
+            "pos": "v",
+            "lemmas": [
+              "sneeze"
+            ],
+            "definition": "exhale spasmodically, as when an irritant entered one's nose"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-chichimua-v00004819",
+          "lemma": "chichimua",
+          "word_id": "unimet-swa-chichimua",
+          "synset": {
+            "id": "omw-en-00004819-v",
+            "ili": "i21792",
+            "pos": "v",
+            "lemmas": [
+              "sneeze"
+            ],
+            "definition": "exhale spasmodically, as when an irritant entered one's nose"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-chichimua-n14314850",
+          "lemma": "chichimua",
+          "word_id": "unimet-swa-chichimua",
+          "synset": {
+            "id": "omw-en-14314850-n",
+            "ili": "i112172",
+            "pos": "n",
+            "lemmas": [
+              "sternutation"
+            ],
+            "definition": "a symptom consisting of the involuntary expulsion of air from the nose"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-chichimua-v00004819::unimet-swa-chichimua-n14314850": {
+          "source": "unimet-swa-chichimua-v00004819",
+          "target": "unimet-swa-chichimua-n14314850",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "daktari",
+      "all_senses": [
+        {
+          "id": "unimet-swa-daktari-n10020890",
+          "lemma": "daktari",
+          "word_id": "unimet-swa-daktari",
+          "synset": {
+            "id": "omw-en-10020890-n",
+            "ili": "i89560",
+            "pos": "n",
+            "lemmas": [
+              "doc"
+            ],
+            "definition": "a licensed medical practitioner"
+          }
+        },
+        {
+          "id": "unimet-swa-daktari-v00080304",
+          "lemma": "daktari",
+          "word_id": "unimet-swa-daktari",
+          "synset": {
+            "id": "omw-en-00080304-v",
+            "ili": "i22172",
+            "pos": "v",
+            "lemmas": [
+              "doctor"
+            ],
+            "definition": "give medical treatment to"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-daktari-n10020890",
+          "lemma": "daktari",
+          "word_id": "unimet-swa-daktari",
+          "synset": {
+            "id": "omw-en-10020890-n",
+            "ili": "i89560",
+            "pos": "n",
+            "lemmas": [
+              "doc"
+            ],
+            "definition": "a licensed medical practitioner"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-daktari-v00080304",
+          "lemma": "daktari",
+          "word_id": "unimet-swa-daktari",
+          "synset": {
+            "id": "omw-en-00080304-v",
+            "ili": "i22172",
+            "pos": "v",
+            "lemmas": [
+              "doctor"
+            ],
+            "definition": "give medical treatment to"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-daktari-n10020890::unimet-swa-daktari-v00080304": {
+          "source": "unimet-swa-daktari-n10020890",
+          "target": "unimet-swa-daktari-v00080304",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "damu",
+      "all_senses": [
+        {
+          "id": "unimet-swa-damu-n05399847",
+          "lemma": "damu",
+          "word_id": "unimet-swa-damu",
+          "synset": {
+            "id": "omw-en-05399847-n",
+            "ili": "i65349",
+            "pos": "n",
+            "lemmas": [
+              "blood"
+            ],
+            "definition": "the fluid (red in vertebrates) that is pumped by the heart"
+          }
+        },
+        {
+          "id": "unimet-swa-damu-v01233642",
+          "lemma": "damu",
+          "word_id": "unimet-swa-damu",
+          "synset": {
+            "id": "omw-en-01233642-v",
+            "ili": "i27792",
+            "pos": "v",
+            "lemmas": [
+              "blood"
+            ],
+            "definition": "smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-damu-n05399847",
+          "lemma": "damu",
+          "word_id": "unimet-swa-damu",
+          "synset": {
+            "id": "omw-en-05399847-n",
+            "ili": "i65349",
+            "pos": "n",
+            "lemmas": [
+              "blood"
+            ],
+            "definition": "the fluid (red in vertebrates) that is pumped by the heart"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-damu-v01233642",
+          "lemma": "damu",
+          "word_id": "unimet-swa-damu",
+          "synset": {
+            "id": "omw-en-01233642-v",
+            "ili": "i27792",
+            "pos": "v",
+            "lemmas": [
+              "blood"
+            ],
+            "definition": "smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-damu-n05399847::unimet-swa-damu-v01233642": {
+          "source": "unimet-swa-damu-n05399847",
+          "target": "unimet-swa-damu-v01233642",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "deki",
+      "all_senses": [
+        {
+          "id": "unimet-swa-deki-n04367480",
+          "lemma": "deki",
+          "word_id": "unimet-swa-deki",
+          "synset": {
+            "id": "omw-en-04367480-n",
+            "ili": "i59856",
+            "pos": "n",
+            "lemmas": [
+              "swob"
+            ],
+            "definition": "cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors"
+          }
+        },
+        {
+          "id": "unimet-swa-deki-v01393339",
+          "lemma": "deki",
+          "word_id": "unimet-swa-deki",
+          "synset": {
+            "id": "omw-en-01393339-v",
+            "ili": "i28684",
+            "pos": "v",
+            "lemmas": [
+              "wipe up"
+            ],
+            "definition": "to wash or wipe with or as if with a mop"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-deki-n04367480",
+          "lemma": "deki",
+          "word_id": "unimet-swa-deki",
+          "synset": {
+            "id": "omw-en-04367480-n",
+            "ili": "i59856",
+            "pos": "n",
+            "lemmas": [
+              "swob"
+            ],
+            "definition": "cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-deki-v01393339",
+          "lemma": "deki",
+          "word_id": "unimet-swa-deki",
+          "synset": {
+            "id": "omw-en-01393339-v",
+            "ili": "i28684",
+            "pos": "v",
+            "lemmas": [
+              "wipe up"
+            ],
+            "definition": "to wash or wipe with or as if with a mop"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-deki-n04367480::unimet-swa-deki-v01393339": {
+          "source": "unimet-swa-deki-n04367480",
+          "target": "unimet-swa-deki-v01393339",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dunia",
+      "all_senses": [
+        {
+          "id": "unimet-swa-dunia-n14844414",
+          "lemma": "dunia",
+          "word_id": "unimet-swa-dunia",
+          "synset": {
+            "id": "omw-en-14844414-n",
+            "ili": "i115064",
+            "pos": "n",
+            "lemmas": [
+              "earth"
+            ],
+            "definition": "once thought to be one of four elements composing the universe (Empedocles)"
+          }
+        },
+        {
+          "id": "unimet-swa-dunia-v01292727",
+          "lemma": "dunia",
+          "word_id": "unimet-swa-dunia",
+          "synset": {
+            "id": "omw-en-01292727-v",
+            "ili": "i28137",
+            "pos": "v",
+            "lemmas": [
+              "earth"
+            ],
+            "definition": "connect to the earth"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-dunia-n14844414",
+          "lemma": "dunia",
+          "word_id": "unimet-swa-dunia",
+          "synset": {
+            "id": "omw-en-14844414-n",
+            "ili": "i115064",
+            "pos": "n",
+            "lemmas": [
+              "earth"
+            ],
+            "definition": "once thought to be one of four elements composing the universe (Empedocles)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-dunia-v01292727",
+          "lemma": "dunia",
+          "word_id": "unimet-swa-dunia",
+          "synset": {
+            "id": "omw-en-01292727-v",
+            "ili": "i28137",
+            "pos": "v",
+            "lemmas": [
+              "earth"
+            ],
+            "definition": "connect to the earth"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-dunia-n14844414::unimet-swa-dunia-v01292727": {
+          "source": "unimet-swa-dunia-n14844414",
+          "target": "unimet-swa-dunia-v01292727",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "faksi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-faksi-n03316105",
+          "lemma": "faksi",
+          "word_id": "unimet-swa-faksi",
+          "synset": {
+            "id": "omw-en-03316105-n",
+            "ili": "i53562",
+            "pos": "n",
+            "lemmas": [
+              "facsimile"
+            ],
+            "definition": "duplicator that transmits the copy by wire or radio"
+          }
+        },
+        {
+          "id": "unimet-swa-faksi-v01007676",
+          "lemma": "faksi",
+          "word_id": "unimet-swa-faksi",
+          "synset": {
+            "id": "omw-en-01007676-v",
+            "ili": "i26624",
+            "pos": "v",
+            "lemmas": [
+              "telefax"
+            ],
+            "definition": "send something via a facsimile machine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-faksi-n03316105",
+          "lemma": "faksi",
+          "word_id": "unimet-swa-faksi",
+          "synset": {
+            "id": "omw-en-03316105-n",
+            "ili": "i53562",
+            "pos": "n",
+            "lemmas": [
+              "facsimile"
+            ],
+            "definition": "duplicator that transmits the copy by wire or radio"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-faksi-v01007676",
+          "lemma": "faksi",
+          "word_id": "unimet-swa-faksi",
+          "synset": {
+            "id": "omw-en-01007676-v",
+            "ili": "i26624",
+            "pos": "v",
+            "lemmas": [
+              "telefax"
+            ],
+            "definition": "send something via a facsimile machine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-faksi-n03316105::unimet-swa-faksi-v01007676": {
+          "source": "unimet-swa-faksi-n03316105",
+          "target": "unimet-swa-faksi-v01007676",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fitina",
+      "all_senses": [
+        {
+          "id": "unimet-swa-fitina-n10139347",
+          "lemma": "fitina",
+          "word_id": "unimet-swa-fitina",
+          "synset": {
+            "id": "omw-en-10139347-n",
+            "ili": "i90266",
+            "pos": "n",
+            "lemmas": [
+              "newsmonger"
+            ],
+            "definition": "a person given to gossiping and divulging personal information about others"
+          }
+        },
+        {
+          "id": "unimet-swa-fitina-v01041954",
+          "lemma": "fitina",
+          "word_id": "unimet-swa-fitina",
+          "synset": {
+            "id": "omw-en-01041954-v",
+            "ili": "i26780",
+            "pos": "v",
+            "lemmas": [
+              "gossip"
+            ],
+            "definition": "wag one's tongue; speak about others and reveal secrets or intimacies"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-fitina-n10139347",
+          "lemma": "fitina",
+          "word_id": "unimet-swa-fitina",
+          "synset": {
+            "id": "omw-en-10139347-n",
+            "ili": "i90266",
+            "pos": "n",
+            "lemmas": [
+              "newsmonger"
+            ],
+            "definition": "a person given to gossiping and divulging personal information about others"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-fitina-v01041954",
+          "lemma": "fitina",
+          "word_id": "unimet-swa-fitina",
+          "synset": {
+            "id": "omw-en-01041954-v",
+            "ili": "i26780",
+            "pos": "v",
+            "lemmas": [
+              "gossip"
+            ],
+            "definition": "wag one's tongue; speak about others and reveal secrets or intimacies"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-fitina-n10139347::unimet-swa-fitina-v01041954": {
+          "source": "unimet-swa-fitina-n10139347",
+          "target": "unimet-swa-fitina-v01041954",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ganda",
+      "all_senses": [
+        {
+          "id": "unimet-swa-ganda-n07738353",
+          "lemma": "ganda",
+          "word_id": "unimet-swa-ganda",
+          "synset": {
+            "id": "omw-en-07738353-n",
+            "ili": "i77703",
+            "pos": "n",
+            "lemmas": [
+              "skin"
+            ],
+            "definition": "the rind of a fruit or vegetable"
+          }
+        },
+        {
+          "id": "unimet-swa-ganda-v01262936",
+          "lemma": "ganda",
+          "word_id": "unimet-swa-ganda",
+          "synset": {
+            "id": "omw-en-01262936-v",
+            "ili": "i27964",
+            "pos": "v",
+            "lemmas": [
+              "peel"
+            ],
+            "definition": "strip the skin off"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-ganda-n07738353",
+          "lemma": "ganda",
+          "word_id": "unimet-swa-ganda",
+          "synset": {
+            "id": "omw-en-07738353-n",
+            "ili": "i77703",
+            "pos": "n",
+            "lemmas": [
+              "skin"
+            ],
+            "definition": "the rind of a fruit or vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-ganda-v01262936",
+          "lemma": "ganda",
+          "word_id": "unimet-swa-ganda",
+          "synset": {
+            "id": "omw-en-01262936-v",
+            "ili": "i27964",
+            "pos": "v",
+            "lemmas": [
+              "peel"
+            ],
+            "definition": "strip the skin off"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-ganda-n07738353::unimet-swa-ganda-v01262936": {
+          "source": "unimet-swa-ganda-n07738353",
+          "target": "unimet-swa-ganda-v01262936",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glasi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-glasi-n03438257",
+          "lemma": "glasi",
+          "word_id": "unimet-swa-glasi",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-swa-glasi-n14881303",
+          "lemma": "glasi",
+          "word_id": "unimet-swa-glasi",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-glasi-n14881303",
+          "lemma": "glasi",
+          "word_id": "unimet-swa-glasi",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-glasi-n03438257",
+          "lemma": "glasi",
+          "word_id": "unimet-swa-glasi",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-glasi-n14881303::unimet-swa-glasi-n03438257": {
+          "source": "unimet-swa-glasi-n14881303",
+          "target": "unimet-swa-glasi-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gundi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-gundi-n14702875",
+          "lemma": "gundi",
+          "word_id": "unimet-swa-gundi",
+          "synset": {
+            "id": "omw-en-14702875-n",
+            "ili": "i114258",
+            "pos": "n",
+            "lemmas": [
+              "gum"
+            ],
+            "definition": "cement consisting of a sticky substance that is used as an adhesive"
+          }
+        },
+        {
+          "id": "unimet-swa-gundi-v01332205",
+          "lemma": "gundi",
+          "word_id": "unimet-swa-gundi",
+          "synset": {
+            "id": "omw-en-01332205-v",
+            "ili": "i28349",
+            "pos": "v",
+            "lemmas": [
+              "glue"
+            ],
+            "definition": "join or attach with or as if with glue"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-gundi-n14702875",
+          "lemma": "gundi",
+          "word_id": "unimet-swa-gundi",
+          "synset": {
+            "id": "omw-en-14702875-n",
+            "ili": "i114258",
+            "pos": "n",
+            "lemmas": [
+              "gum"
+            ],
+            "definition": "cement consisting of a sticky substance that is used as an adhesive"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-gundi-v01332205",
+          "lemma": "gundi",
+          "word_id": "unimet-swa-gundi",
+          "synset": {
+            "id": "omw-en-01332205-v",
+            "ili": "i28349",
+            "pos": "v",
+            "lemmas": [
+              "glue"
+            ],
+            "definition": "join or attach with or as if with glue"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-gundi-n14702875::unimet-swa-gundi-v01332205": {
+          "source": "unimet-swa-gundi-n14702875",
+          "target": "unimet-swa-gundi-v01332205",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gura",
+      "all_senses": [
+        {
+          "id": "unimet-swa-gura-n15292069",
+          "lemma": "gura",
+          "word_id": "unimet-swa-gura",
+          "synset": {
+            "id": "omw-en-15292069-n",
+            "ili": "i117610",
+            "pos": "n",
+            "lemmas": [
+              "go"
+            ],
+            "definition": "a time for working (after which you will be relieved by someone else)"
+          }
+        },
+        {
+          "id": "unimet-swa-gura-v01835496",
+          "lemma": "gura",
+          "word_id": "unimet-swa-gura",
+          "synset": {
+            "id": "omw-en-01835496-v",
+            "ili": "i30898",
+            "pos": "v",
+            "lemmas": [
+              "locomote"
+            ],
+            "definition": "change location; move, travel, or proceed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-gura-v01835496",
+          "lemma": "gura",
+          "word_id": "unimet-swa-gura",
+          "synset": {
+            "id": "omw-en-01835496-v",
+            "ili": "i30898",
+            "pos": "v",
+            "lemmas": [
+              "locomote"
+            ],
+            "definition": "change location; move, travel, or proceed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-gura-n15292069",
+          "lemma": "gura",
+          "word_id": "unimet-swa-gura",
+          "synset": {
+            "id": "omw-en-15292069-n",
+            "ili": "i117610",
+            "pos": "n",
+            "lemmas": [
+              "go"
+            ],
+            "definition": "a time for working (after which you will be relieved by someone else)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-gura-v01835496::unimet-swa-gura-n15292069": {
+          "source": "unimet-swa-gura-v01835496",
+          "target": "unimet-swa-gura-n15292069",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jiwe",
+      "all_senses": [
+        {
+          "id": "unimet-swa-jiwe-n14696793",
+          "lemma": "jiwe",
+          "word_id": "unimet-swa-jiwe",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        },
+        {
+          "id": "unimet-swa-jiwe-v01323518",
+          "lemma": "jiwe",
+          "word_id": "unimet-swa-jiwe",
+          "synset": {
+            "id": "omw-en-01323518-v",
+            "ili": "i28304",
+            "pos": "v",
+            "lemmas": [
+              "lapidate"
+            ],
+            "definition": "kill by throwing stones at"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-jiwe-n14696793",
+          "lemma": "jiwe",
+          "word_id": "unimet-swa-jiwe",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-jiwe-v01323518",
+          "lemma": "jiwe",
+          "word_id": "unimet-swa-jiwe",
+          "synset": {
+            "id": "omw-en-01323518-v",
+            "ili": "i28304",
+            "pos": "v",
+            "lemmas": [
+              "lapidate"
+            ],
+            "definition": "kill by throwing stones at"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-jiwe-n14696793::unimet-swa-jiwe-v01323518": {
+          "source": "unimet-swa-jiwe-n14696793",
+          "target": "unimet-swa-jiwe-v01323518",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kambi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kambi-n02944826",
+          "lemma": "kambi",
+          "word_id": "unimet-swa-kambi",
+          "synset": {
+            "id": "omw-en-02944826-n",
+            "ili": "i51413",
+            "pos": "n",
+            "lemmas": [
+              "barrack"
+            ],
+            "definition": "temporary living quarters specially built by the army for soldiers"
+          }
+        },
+        {
+          "id": "unimet-swa-kambi-v02653996",
+          "lemma": "kambi",
+          "word_id": "unimet-swa-kambi",
+          "synset": {
+            "id": "omw-en-02653996-v",
+            "ili": "i34938",
+            "pos": "v",
+            "lemmas": [
+              "encamp"
+            ],
+            "definition": "live in or as if in a tent"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kambi-n02944826",
+          "lemma": "kambi",
+          "word_id": "unimet-swa-kambi",
+          "synset": {
+            "id": "omw-en-02944826-n",
+            "ili": "i51413",
+            "pos": "n",
+            "lemmas": [
+              "barrack"
+            ],
+            "definition": "temporary living quarters specially built by the army for soldiers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kambi-v02653996",
+          "lemma": "kambi",
+          "word_id": "unimet-swa-kambi",
+          "synset": {
+            "id": "omw-en-02653996-v",
+            "ili": "i34938",
+            "pos": "v",
+            "lemmas": [
+              "encamp"
+            ],
+            "definition": "live in or as if in a tent"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kambi-n02944826::unimet-swa-kambi-v02653996": {
+          "source": "unimet-swa-kambi-n02944826",
+          "target": "unimet-swa-kambi-v02653996",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kiandarua",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kiandarua-n03819994",
+          "lemma": "kiandarua",
+          "word_id": "unimet-swa-kiandarua",
+          "synset": {
+            "id": "omw-en-03819994-n",
+            "ili": "i56569",
+            "pos": "n",
+            "lemmas": [
+              "net"
+            ],
+            "definition": "a trap made of netting to catch fish or birds or insects"
+          }
+        },
+        {
+          "id": "unimet-swa-kiandarua-v01365945",
+          "lemma": "kiandarua",
+          "word_id": "unimet-swa-kiandarua",
+          "synset": {
+            "id": "omw-en-01365945-v",
+            "ili": "i28533",
+            "pos": "v",
+            "lemmas": [
+              "nett"
+            ],
+            "definition": "catch with a net"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kiandarua-n03819994",
+          "lemma": "kiandarua",
+          "word_id": "unimet-swa-kiandarua",
+          "synset": {
+            "id": "omw-en-03819994-n",
+            "ili": "i56569",
+            "pos": "n",
+            "lemmas": [
+              "net"
+            ],
+            "definition": "a trap made of netting to catch fish or birds or insects"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kiandarua-v01365945",
+          "lemma": "kiandarua",
+          "word_id": "unimet-swa-kiandarua",
+          "synset": {
+            "id": "omw-en-01365945-v",
+            "ili": "i28533",
+            "pos": "v",
+            "lemmas": [
+              "nett"
+            ],
+            "definition": "catch with a net"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kiandarua-n03819994::unimet-swa-kiandarua-v01365945": {
+          "source": "unimet-swa-kiandarua-n03819994",
+          "target": "unimet-swa-kiandarua-v01365945",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kifutio",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kifutio-n03088164",
+          "lemma": "kifutio",
+          "word_id": "unimet-swa-kifutio",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-swa-kifutio-n04116512",
+          "lemma": "kifutio",
+          "word_id": "unimet-swa-kifutio",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-swa-kifutio-n15006258",
+          "lemma": "kifutio",
+          "word_id": "unimet-swa-kifutio",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kifutio-n15006258",
+          "lemma": "kifutio",
+          "word_id": "unimet-swa-kifutio",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kifutio-n03088164",
+          "lemma": "kifutio",
+          "word_id": "unimet-swa-kifutio",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-swa-kifutio-n04116512",
+          "lemma": "kifutio",
+          "word_id": "unimet-swa-kifutio",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kifutio-n15006258::unimet-swa-kifutio-n03088164": {
+          "source": "unimet-swa-kifutio-n15006258",
+          "target": "unimet-swa-kifutio-n03088164",
+          "type": "metonymy"
+        },
+        "unimet-swa-kifutio-n15006258::unimet-swa-kifutio-n04116512": {
+          "source": "unimet-swa-kifutio-n15006258",
+          "target": "unimet-swa-kifutio-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kitabu",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kitabu-n02870526",
+          "lemma": "kitabu",
+          "word_id": "unimet-swa-kitabu",
+          "synset": {
+            "id": "omw-en-02870526-n",
+            "ili": "i50954",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge"
+          }
+        },
+        {
+          "id": "unimet-swa-kitabu-n06410904",
+          "lemma": "kitabu",
+          "word_id": "unimet-swa-kitabu",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kitabu-n02870526",
+          "lemma": "kitabu",
+          "word_id": "unimet-swa-kitabu",
+          "synset": {
+            "id": "omw-en-02870526-n",
+            "ili": "i50954",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kitabu-n06410904",
+          "lemma": "kitabu",
+          "word_id": "unimet-swa-kitabu",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kitabu-n02870526::unimet-swa-kitabu-n06410904": {
+          "source": "unimet-swa-kitabu-n02870526",
+          "target": "unimet-swa-kitabu-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kitufe",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kitufe-n02928608",
+          "lemma": "kitufe",
+          "word_id": "unimet-swa-kitufe",
+          "synset": {
+            "id": "omw-en-02928608-n",
+            "ili": "i51314",
+            "pos": "n",
+            "lemmas": [
+              "button"
+            ],
+            "definition": "a round fastener sewn to shirts and coats etc to fit through buttonholes"
+          }
+        },
+        {
+          "id": "unimet-swa-kitufe-v01367862",
+          "lemma": "kitufe",
+          "word_id": "unimet-swa-kitufe",
+          "synset": {
+            "id": "omw-en-01367862-v",
+            "ili": "i28546",
+            "pos": "v",
+            "lemmas": [
+              "button"
+            ],
+            "definition": "fasten with buttons"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kitufe-n02928608",
+          "lemma": "kitufe",
+          "word_id": "unimet-swa-kitufe",
+          "synset": {
+            "id": "omw-en-02928608-n",
+            "ili": "i51314",
+            "pos": "n",
+            "lemmas": [
+              "button"
+            ],
+            "definition": "a round fastener sewn to shirts and coats etc to fit through buttonholes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kitufe-v01367862",
+          "lemma": "kitufe",
+          "word_id": "unimet-swa-kitufe",
+          "synset": {
+            "id": "omw-en-01367862-v",
+            "ili": "i28546",
+            "pos": "v",
+            "lemmas": [
+              "button"
+            ],
+            "definition": "fasten with buttons"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kitufe-n02928608::unimet-swa-kitufe-v01367862": {
+          "source": "unimet-swa-kitufe-n02928608",
+          "target": "unimet-swa-kitufe-v01367862",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kiungo",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kiungo-n07812184",
+          "lemma": "kiungo",
+          "word_id": "unimet-swa-kiungo",
+          "synset": {
+            "id": "omw-en-07812184-n",
+            "ili": "i78170",
+            "pos": "n",
+            "lemmas": [
+              "spice"
+            ],
+            "definition": "any of a variety of pungent aromatic vegetable substances used for flavoring food"
+          }
+        },
+        {
+          "id": "unimet-swa-kiungo-v02192570",
+          "lemma": "kiungo",
+          "word_id": "unimet-swa-kiungo",
+          "synset": {
+            "id": "omw-en-02192570-v",
+            "ili": "i32717",
+            "pos": "v",
+            "lemmas": [
+              "spice"
+            ],
+            "definition": "add herbs or spices to"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kiungo-n07812184",
+          "lemma": "kiungo",
+          "word_id": "unimet-swa-kiungo",
+          "synset": {
+            "id": "omw-en-07812184-n",
+            "ili": "i78170",
+            "pos": "n",
+            "lemmas": [
+              "spice"
+            ],
+            "definition": "any of a variety of pungent aromatic vegetable substances used for flavoring food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kiungo-v02192570",
+          "lemma": "kiungo",
+          "word_id": "unimet-swa-kiungo",
+          "synset": {
+            "id": "omw-en-02192570-v",
+            "ili": "i32717",
+            "pos": "v",
+            "lemmas": [
+              "spice"
+            ],
+            "definition": "add herbs or spices to"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kiungo-n07812184::unimet-swa-kiungo-v02192570": {
+          "source": "unimet-swa-kiungo-n07812184",
+          "target": "unimet-swa-kiungo-v02192570",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kocha",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kocha-n09931640",
+          "lemma": "kocha",
+          "word_id": "unimet-swa-kocha",
+          "synset": {
+            "id": "omw-en-09931640-n",
+            "ili": "i89039",
+            "pos": "n",
+            "lemmas": [
+              "manager"
+            ],
+            "definition": "(sports) someone in charge of training an athlete or a team"
+          }
+        },
+        {
+          "id": "unimet-swa-kocha-v00833702",
+          "lemma": "kocha",
+          "word_id": "unimet-swa-kocha",
+          "synset": {
+            "id": "omw-en-00833702-v",
+            "ili": "i25819",
+            "pos": "v",
+            "lemmas": [
+              "coach"
+            ],
+            "definition": "teach and supervise (someone); act as a trainer or coach (to), as in sports"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kocha-n09931640",
+          "lemma": "kocha",
+          "word_id": "unimet-swa-kocha",
+          "synset": {
+            "id": "omw-en-09931640-n",
+            "ili": "i89039",
+            "pos": "n",
+            "lemmas": [
+              "manager"
+            ],
+            "definition": "(sports) someone in charge of training an athlete or a team"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kocha-v00833702",
+          "lemma": "kocha",
+          "word_id": "unimet-swa-kocha",
+          "synset": {
+            "id": "omw-en-00833702-v",
+            "ili": "i25819",
+            "pos": "v",
+            "lemmas": [
+              "coach"
+            ],
+            "definition": "teach and supervise (someone); act as a trainer or coach (to), as in sports"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kocha-n09931640::unimet-swa-kocha-v00833702": {
+          "source": "unimet-swa-kocha-n09931640",
+          "target": "unimet-swa-kocha-v00833702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kuku",
+      "all_senses": [
+        {
+          "id": "unimet-swa-kuku-n01792640",
+          "lemma": "kuku",
+          "word_id": "unimet-swa-kuku",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-swa-kuku-n07644967",
+          "lemma": "kuku",
+          "word_id": "unimet-swa-kuku",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-kuku-n01792640",
+          "lemma": "kuku",
+          "word_id": "unimet-swa-kuku",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-kuku-n07644967",
+          "lemma": "kuku",
+          "word_id": "unimet-swa-kuku",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-kuku-n01792640::unimet-swa-kuku-n07644967": {
+          "source": "unimet-swa-kuku-n01792640",
+          "target": "unimet-swa-kuku-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "maziwa",
+      "all_senses": [
+        {
+          "id": "unimet-swa-maziwa-n07844042",
+          "lemma": "maziwa",
+          "word_id": "unimet-swa-maziwa",
+          "synset": {
+            "id": "omw-en-07844042-n",
+            "ili": "i78383",
+            "pos": "n",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "a white nutritious liquid secreted by mammals and used as food by human beings"
+          }
+        },
+        {
+          "id": "unimet-swa-maziwa-v00194170",
+          "lemma": "maziwa",
+          "word_id": "unimet-swa-maziwa",
+          "synset": {
+            "id": "omw-en-00194170-v",
+            "ili": "i22689",
+            "pos": "v",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "take milk from female mammals"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-maziwa-n07844042",
+          "lemma": "maziwa",
+          "word_id": "unimet-swa-maziwa",
+          "synset": {
+            "id": "omw-en-07844042-n",
+            "ili": "i78383",
+            "pos": "n",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "a white nutritious liquid secreted by mammals and used as food by human beings"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-maziwa-v00194170",
+          "lemma": "maziwa",
+          "word_id": "unimet-swa-maziwa",
+          "synset": {
+            "id": "omw-en-00194170-v",
+            "ili": "i22689",
+            "pos": "v",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "take milk from female mammals"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-maziwa-n07844042::unimet-swa-maziwa-v00194170": {
+          "source": "unimet-swa-maziwa-n07844042",
+          "target": "unimet-swa-maziwa-v00194170",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mboga",
+      "all_senses": [
+        {
+          "id": "unimet-swa-mboga-n07707451",
+          "lemma": "mboga",
+          "word_id": "unimet-swa-mboga",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-swa-mboga-n12212361",
+          "lemma": "mboga",
+          "word_id": "unimet-swa-mboga",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-mboga-n12212361",
+          "lemma": "mboga",
+          "word_id": "unimet-swa-mboga",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-mboga-n07707451",
+          "lemma": "mboga",
+          "word_id": "unimet-swa-mboga",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-mboga-n12212361::unimet-swa-mboga-n07707451": {
+          "source": "unimet-swa-mboga-n12212361",
+          "target": "unimet-swa-mboga-n07707451",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mboleya",
+      "all_senses": [
+        {
+          "id": "unimet-swa-mboleya-n14863521",
+          "lemma": "mboleya",
+          "word_id": "unimet-swa-mboleya",
+          "synset": {
+            "id": "omw-en-14863521-n",
+            "ili": "i115168",
+            "pos": "n",
+            "lemmas": [
+              "manure"
+            ],
+            "definition": "any animal or plant material used to fertilize land especially animal excreta usually with litter material"
+          }
+        },
+        {
+          "id": "unimet-swa-mboleya-v02083087",
+          "lemma": "mboleya",
+          "word_id": "unimet-swa-mboleya",
+          "synset": {
+            "id": "omw-en-02083087-v",
+            "ili": "i32160",
+            "pos": "v",
+            "lemmas": [
+              "muck"
+            ],
+            "definition": "spread manure, as for fertilization"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-mboleya-n14863521",
+          "lemma": "mboleya",
+          "word_id": "unimet-swa-mboleya",
+          "synset": {
+            "id": "omw-en-14863521-n",
+            "ili": "i115168",
+            "pos": "n",
+            "lemmas": [
+              "manure"
+            ],
+            "definition": "any animal or plant material used to fertilize land especially animal excreta usually with litter material"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-mboleya-v02083087",
+          "lemma": "mboleya",
+          "word_id": "unimet-swa-mboleya",
+          "synset": {
+            "id": "omw-en-02083087-v",
+            "ili": "i32160",
+            "pos": "v",
+            "lemmas": [
+              "muck"
+            ],
+            "definition": "spread manure, as for fertilization"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-mboleya-n14863521::unimet-swa-mboleya-v02083087": {
+          "source": "unimet-swa-mboleya-n14863521",
+          "target": "unimet-swa-mboleya-v02083087",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mdundo",
+      "all_senses": [
+        {
+          "id": "unimet-swa-mdundo-n14287408",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-14287408-n",
+            "ili": "i112033",
+            "pos": "n",
+            "lemmas": [
+              "bite"
+            ],
+            "definition": "a wound resulting from biting by an animal or a person"
+          }
+        },
+        {
+          "id": "unimet-swa-mdundo-n14297870",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-14297870-n",
+            "ili": "i112100",
+            "pos": "n",
+            "lemmas": [
+              "insect bite"
+            ],
+            "definition": "a painful wound caused by the thrust of an insect's stinger into skin"
+          }
+        },
+        {
+          "id": "unimet-swa-mdundo-v01445407",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-01445407-v",
+            "ili": "i28954",
+            "pos": "v",
+            "lemmas": [
+              "bite"
+            ],
+            "definition": "deliver a sting to"
+          }
+        },
+        {
+          "id": "unimet-swa-mdundo-v01445932",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-01445932-v",
+            "ili": "i28957",
+            "pos": "v",
+            "lemmas": [
+              "seize with teeth"
+            ],
+            "definition": "to grip, cut off, or tear with or as if with the teeth or jaws"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-mdundo-v01445407",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-01445407-v",
+            "ili": "i28954",
+            "pos": "v",
+            "lemmas": [
+              "bite"
+            ],
+            "definition": "deliver a sting to"
+          }
+        },
+        {
+          "id": "unimet-swa-mdundo-v01445932",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-01445932-v",
+            "ili": "i28957",
+            "pos": "v",
+            "lemmas": [
+              "seize with teeth"
+            ],
+            "definition": "to grip, cut off, or tear with or as if with the teeth or jaws"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-mdundo-n14287408",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-14287408-n",
+            "ili": "i112033",
+            "pos": "n",
+            "lemmas": [
+              "bite"
+            ],
+            "definition": "a wound resulting from biting by an animal or a person"
+          }
+        },
+        {
+          "id": "unimet-swa-mdundo-n14297870",
+          "lemma": "mdundo",
+          "word_id": "unimet-swa-mdundo",
+          "synset": {
+            "id": "omw-en-14297870-n",
+            "ili": "i112100",
+            "pos": "n",
+            "lemmas": [
+              "insect bite"
+            ],
+            "definition": "a painful wound caused by the thrust of an insect's stinger into skin"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-mdundo-v01445407::unimet-swa-mdundo-n14287408": {
+          "source": "unimet-swa-mdundo-v01445407",
+          "target": "unimet-swa-mdundo-n14287408",
+          "type": "metonymy"
+        },
+        "unimet-swa-mdundo-v01445932::unimet-swa-mdundo-n14287408": {
+          "source": "unimet-swa-mdundo-v01445932",
+          "target": "unimet-swa-mdundo-n14287408",
+          "type": "metonymy"
+        },
+        "unimet-swa-mdundo-v01445407::unimet-swa-mdundo-n14297870": {
+          "source": "unimet-swa-mdundo-v01445407",
+          "target": "unimet-swa-mdundo-n14297870",
+          "type": "metonymy"
+        },
+        "unimet-swa-mdundo-v01445932::unimet-swa-mdundo-n14297870": {
+          "source": "unimet-swa-mdundo-v01445932",
+          "target": "unimet-swa-mdundo-n14297870",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mkono",
+      "all_senses": [
+        {
+          "id": "unimet-swa-mkono-n04565375",
+          "lemma": "mkono",
+          "word_id": "unimet-swa-mkono",
+          "synset": {
+            "id": "omw-en-04565375-n",
+            "ili": "i61038",
+            "pos": "n",
+            "lemmas": [
+              "artillery"
+            ],
+            "definition": "any instrument or instrumentality used in fighting or hunting"
+          }
+        },
+        {
+          "id": "unimet-swa-mkono-v02334867",
+          "lemma": "mkono",
+          "word_id": "unimet-swa-mkono",
+          "synset": {
+            "id": "omw-en-02334867-v",
+            "ili": "i33408",
+            "pos": "v",
+            "lemmas": [
+              "arm"
+            ],
+            "definition": "supply with arms"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-mkono-n04565375",
+          "lemma": "mkono",
+          "word_id": "unimet-swa-mkono",
+          "synset": {
+            "id": "omw-en-04565375-n",
+            "ili": "i61038",
+            "pos": "n",
+            "lemmas": [
+              "artillery"
+            ],
+            "definition": "any instrument or instrumentality used in fighting or hunting"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-mkono-v02334867",
+          "lemma": "mkono",
+          "word_id": "unimet-swa-mkono",
+          "synset": {
+            "id": "omw-en-02334867-v",
+            "ili": "i33408",
+            "pos": "v",
+            "lemmas": [
+              "arm"
+            ],
+            "definition": "supply with arms"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-mkono-n04565375::unimet-swa-mkono-v02334867": {
+          "source": "unimet-swa-mkono-n04565375",
+          "target": "unimet-swa-mkono-v02334867",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "msumeno",
+      "all_senses": [
+        {
+          "id": "unimet-swa-msumeno-n04140064",
+          "lemma": "msumeno",
+          "word_id": "unimet-swa-msumeno",
+          "synset": {
+            "id": "omw-en-04140064-n",
+            "ili": "i58480",
+            "pos": "n",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "hand tool having a toothed blade for cutting"
+          }
+        },
+        {
+          "id": "unimet-swa-msumeno-v01559590",
+          "lemma": "msumeno",
+          "word_id": "unimet-swa-msumeno",
+          "synset": {
+            "id": "omw-en-01559590-v",
+            "ili": "i29527",
+            "pos": "v",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "cut with a saw"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-msumeno-n04140064",
+          "lemma": "msumeno",
+          "word_id": "unimet-swa-msumeno",
+          "synset": {
+            "id": "omw-en-04140064-n",
+            "ili": "i58480",
+            "pos": "n",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "hand tool having a toothed blade for cutting"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-msumeno-v01559590",
+          "lemma": "msumeno",
+          "word_id": "unimet-swa-msumeno",
+          "synset": {
+            "id": "omw-en-01559590-v",
+            "ili": "i29527",
+            "pos": "v",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "cut with a saw"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-msumeno-n04140064::unimet-swa-msumeno-v01559590": {
+          "source": "unimet-swa-msumeno-n04140064",
+          "target": "unimet-swa-msumeno-v01559590",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mzambarau",
+      "all_senses": [
+        {
+          "id": "unimet-swa-mzambarau-n07751451",
+          "lemma": "mzambarau",
+          "word_id": "unimet-swa-mzambarau",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-swa-mzambarau-n12638218",
+          "lemma": "mzambarau",
+          "word_id": "unimet-swa-mzambarau",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-mzambarau-n07751451",
+          "lemma": "mzambarau",
+          "word_id": "unimet-swa-mzambarau",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-mzambarau-n12638218",
+          "lemma": "mzambarau",
+          "word_id": "unimet-swa-mzambarau",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-mzambarau-n07751451::unimet-swa-mzambarau-n12638218": {
+          "source": "unimet-swa-mzambarau-n07751451",
+          "target": "unimet-swa-mzambarau-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "nchi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-nchi-n08178547",
+          "lemma": "nchi",
+          "word_id": "unimet-swa-nchi",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-swa-nchi-n08544813",
+          "lemma": "nchi",
+          "word_id": "unimet-swa-nchi",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-swa-nchi-n08654360",
+          "lemma": "nchi",
+          "word_id": "unimet-swa-nchi",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-nchi-n08178547",
+          "lemma": "nchi",
+          "word_id": "unimet-swa-nchi",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-nchi-n08544813",
+          "lemma": "nchi",
+          "word_id": "unimet-swa-nchi",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-swa-nchi-n08654360",
+          "lemma": "nchi",
+          "word_id": "unimet-swa-nchi",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-nchi-n08178547::unimet-swa-nchi-n08544813": {
+          "source": "unimet-swa-nchi-n08178547",
+          "target": "unimet-swa-nchi-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-swa-nchi-n08178547::unimet-swa-nchi-n08654360": {
+          "source": "unimet-swa-nchi-n08178547",
+          "target": "unimet-swa-nchi-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ndizi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-ndizi-n07753592",
+          "lemma": "ndizi",
+          "word_id": "unimet-swa-ndizi",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        },
+        {
+          "id": "unimet-swa-ndizi-n12352287",
+          "lemma": "ndizi",
+          "word_id": "unimet-swa-ndizi",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-ndizi-n07753592",
+          "lemma": "ndizi",
+          "word_id": "unimet-swa-ndizi",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-ndizi-n12352287",
+          "lemma": "ndizi",
+          "word_id": "unimet-swa-ndizi",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-ndizi-n07753592::unimet-swa-ndizi-n12352287": {
+          "source": "unimet-swa-ndizi-n07753592",
+          "target": "unimet-swa-ndizi-n12352287",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "njaa",
+      "all_senses": [
+        {
+          "id": "unimet-swa-njaa-n14039534",
+          "lemma": "njaa",
+          "word_id": "unimet-swa-njaa",
+          "synset": {
+            "id": "omw-en-14039534-n",
+            "ili": "i110708",
+            "pos": "n",
+            "lemmas": [
+              "hunger"
+            ],
+            "definition": "a physiological need for food; the consequence of food deprivation"
+          }
+        },
+        {
+          "id": "unimet-swa-njaa-v01188144",
+          "lemma": "njaa",
+          "word_id": "unimet-swa-njaa",
+          "synset": {
+            "id": "omw-en-01188144-v",
+            "ili": "i27558",
+            "pos": "v",
+            "lemmas": [
+              "starve"
+            ],
+            "definition": "be hungry; go without food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-njaa-v01188144",
+          "lemma": "njaa",
+          "word_id": "unimet-swa-njaa",
+          "synset": {
+            "id": "omw-en-01188144-v",
+            "ili": "i27558",
+            "pos": "v",
+            "lemmas": [
+              "starve"
+            ],
+            "definition": "be hungry; go without food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-njaa-n14039534",
+          "lemma": "njaa",
+          "word_id": "unimet-swa-njaa",
+          "synset": {
+            "id": "omw-en-14039534-n",
+            "ili": "i110708",
+            "pos": "n",
+            "lemmas": [
+              "hunger"
+            ],
+            "definition": "a physiological need for food; the consequence of food deprivation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-njaa-v01188144::unimet-swa-njaa-n14039534": {
+          "source": "unimet-swa-njaa-v01188144",
+          "target": "unimet-swa-njaa-n14039534",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pazia",
+      "all_senses": [
+        {
+          "id": "unimet-swa-pazia-n03151077",
+          "lemma": "pazia",
+          "word_id": "unimet-swa-pazia",
+          "synset": {
+            "id": "omw-en-03151077-n",
+            "ili": "i52633",
+            "pos": "n",
+            "lemmas": [
+              "drape"
+            ],
+            "definition": "hanging cloth used as a blind (especially for a window)"
+          }
+        },
+        {
+          "id": "unimet-swa-pazia-v02353537",
+          "lemma": "pazia",
+          "word_id": "unimet-swa-pazia",
+          "synset": {
+            "id": "omw-en-02353537-v",
+            "ili": "i33513",
+            "pos": "v",
+            "lemmas": [
+              "curtain"
+            ],
+            "definition": "provide with drapery"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-pazia-n03151077",
+          "lemma": "pazia",
+          "word_id": "unimet-swa-pazia",
+          "synset": {
+            "id": "omw-en-03151077-n",
+            "ili": "i52633",
+            "pos": "n",
+            "lemmas": [
+              "drape"
+            ],
+            "definition": "hanging cloth used as a blind (especially for a window)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-pazia-v02353537",
+          "lemma": "pazia",
+          "word_id": "unimet-swa-pazia",
+          "synset": {
+            "id": "omw-en-02353537-v",
+            "ili": "i33513",
+            "pos": "v",
+            "lemmas": [
+              "curtain"
+            ],
+            "definition": "provide with drapery"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-pazia-n03151077::unimet-swa-pazia-v02353537": {
+          "source": "unimet-swa-pazia-n03151077",
+          "target": "unimet-swa-pazia-v02353537",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "randa",
+      "all_senses": [
+        {
+          "id": "unimet-swa-randa-n03955296",
+          "lemma": "randa",
+          "word_id": "unimet-swa-randa",
+          "synset": {
+            "id": "omw-en-03955296-n",
+            "ili": "i57388",
+            "pos": "n",
+            "lemmas": [
+              "sander"
+            ],
+            "definition": "a power tool for smoothing or shaping wood"
+          }
+        },
+        {
+          "id": "unimet-swa-randa-v01307389",
+          "lemma": "randa",
+          "word_id": "unimet-swa-randa",
+          "synset": {
+            "id": "omw-en-01307389-v",
+            "ili": "i28221",
+            "pos": "v",
+            "lemmas": [
+              "plane"
+            ],
+            "definition": "make even or smooth, with or as with a carpenter's plane"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-randa-n03955296",
+          "lemma": "randa",
+          "word_id": "unimet-swa-randa",
+          "synset": {
+            "id": "omw-en-03955296-n",
+            "ili": "i57388",
+            "pos": "n",
+            "lemmas": [
+              "sander"
+            ],
+            "definition": "a power tool for smoothing or shaping wood"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-randa-v01307389",
+          "lemma": "randa",
+          "word_id": "unimet-swa-randa",
+          "synset": {
+            "id": "omw-en-01307389-v",
+            "ili": "i28221",
+            "pos": "v",
+            "lemmas": [
+              "plane"
+            ],
+            "definition": "make even or smooth, with or as with a carpenter's plane"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-randa-n03955296::unimet-swa-randa-v01307389": {
+          "source": "unimet-swa-randa-n03955296",
+          "target": "unimet-swa-randa-v01307389",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "safirisha",
+      "all_senses": [
+        {
+          "id": "unimet-swa-safirisha-n03100490",
+          "lemma": "safirisha",
+          "word_id": "unimet-swa-safirisha",
+          "synset": {
+            "id": "omw-en-03100490-n",
+            "ili": "i52319",
+            "pos": "n",
+            "lemmas": [
+              "conveyance"
+            ],
+            "definition": "something that serves as a means of transportation"
+          }
+        },
+        {
+          "id": "unimet-swa-safirisha-v01953810",
+          "lemma": "safirisha",
+          "word_id": "unimet-swa-safirisha",
+          "synset": {
+            "id": "omw-en-01953810-v",
+            "ili": "i31497",
+            "pos": "v",
+            "lemmas": [
+              "transport"
+            ],
+            "definition": "move something or somebody around; usually over long distances"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-safirisha-v01953810",
+          "lemma": "safirisha",
+          "word_id": "unimet-swa-safirisha",
+          "synset": {
+            "id": "omw-en-01953810-v",
+            "ili": "i31497",
+            "pos": "v",
+            "lemmas": [
+              "transport"
+            ],
+            "definition": "move something or somebody around; usually over long distances"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-safirisha-n03100490",
+          "lemma": "safirisha",
+          "word_id": "unimet-swa-safirisha",
+          "synset": {
+            "id": "omw-en-03100490-n",
+            "ili": "i52319",
+            "pos": "n",
+            "lemmas": [
+              "conveyance"
+            ],
+            "definition": "something that serves as a means of transportation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-safirisha-v01953810::unimet-swa-safirisha-n03100490": {
+          "source": "unimet-swa-safirisha-v01953810",
+          "target": "unimet-swa-safirisha-n03100490",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sajili",
+      "all_senses": [
+        {
+          "id": "unimet-swa-sajili-n10512372",
+          "lemma": "sajili",
+          "word_id": "unimet-swa-sajili",
+          "synset": {
+            "id": "omw-en-10512372-n",
+            "ili": "i92478",
+            "pos": "n",
+            "lemmas": [
+              "recruit"
+            ],
+            "definition": "a recently enlisted soldier"
+          }
+        },
+        {
+          "id": "unimet-swa-sajili-v01098452",
+          "lemma": "sajili",
+          "word_id": "unimet-swa-sajili",
+          "synset": {
+            "id": "omw-en-01098452-v",
+            "ili": "i27084",
+            "pos": "v",
+            "lemmas": [
+              "levy"
+            ],
+            "definition": "cause to assemble or enlist in the military"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-sajili-v01098452",
+          "lemma": "sajili",
+          "word_id": "unimet-swa-sajili",
+          "synset": {
+            "id": "omw-en-01098452-v",
+            "ili": "i27084",
+            "pos": "v",
+            "lemmas": [
+              "levy"
+            ],
+            "definition": "cause to assemble or enlist in the military"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-sajili-n10512372",
+          "lemma": "sajili",
+          "word_id": "unimet-swa-sajili",
+          "synset": {
+            "id": "omw-en-10512372-n",
+            "ili": "i92478",
+            "pos": "n",
+            "lemmas": [
+              "recruit"
+            ],
+            "definition": "a recently enlisted soldier"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-sajili-v01098452::unimet-swa-sajili-n10512372": {
+          "source": "unimet-swa-sajili-v01098452",
+          "target": "unimet-swa-sajili-n10512372",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shabiki",
+      "all_senses": [
+        {
+          "id": "unimet-swa-shabiki-n03320046",
+          "lemma": "shabiki",
+          "word_id": "unimet-swa-shabiki",
+          "synset": {
+            "id": "omw-en-03320046-n",
+            "ili": "i53588",
+            "pos": "n",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "a device for creating a current of air by movement of a surface or surfaces"
+          }
+        },
+        {
+          "id": "unimet-swa-shabiki-v01885580",
+          "lemma": "shabiki",
+          "word_id": "unimet-swa-shabiki",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-shabiki-n03320046",
+          "lemma": "shabiki",
+          "word_id": "unimet-swa-shabiki",
+          "synset": {
+            "id": "omw-en-03320046-n",
+            "ili": "i53588",
+            "pos": "n",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "a device for creating a current of air by movement of a surface or surfaces"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-shabiki-v01885580",
+          "lemma": "shabiki",
+          "word_id": "unimet-swa-shabiki",
+          "synset": {
+            "id": "omw-en-01885580-v",
+            "ili": "i31132",
+            "pos": "v",
+            "lemmas": [
+              "fan"
+            ],
+            "definition": "agitate the air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-shabiki-n03320046::unimet-swa-shabiki-v01885580": {
+          "source": "unimet-swa-shabiki-n03320046",
+          "target": "unimet-swa-shabiki-v01885580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shule",
+      "all_senses": [
+        {
+          "id": "unimet-swa-shule-n04146050",
+          "lemma": "shule",
+          "word_id": "unimet-swa-shule",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-swa-shule-n08276720",
+          "lemma": "shule",
+          "word_id": "unimet-swa-shule",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-shule-n04146050",
+          "lemma": "shule",
+          "word_id": "unimet-swa-shule",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-shule-n08276720",
+          "lemma": "shule",
+          "word_id": "unimet-swa-shule",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-shule-n04146050::unimet-swa-shule-n08276720": {
+          "source": "unimet-swa-shule-n04146050",
+          "target": "unimet-swa-shule-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ua",
+      "all_senses": [
+        {
+          "id": "unimet-swa-ua-n03327234",
+          "lemma": "ua",
+          "word_id": "unimet-swa-ua",
+          "synset": {
+            "id": "omw-en-03327234-n",
+            "ili": "i53632",
+            "pos": "n",
+            "lemmas": [
+              "fence"
+            ],
+            "definition": "a barrier that serves to enclose an area"
+          }
+        },
+        {
+          "id": "unimet-swa-ua-v01588134",
+          "lemma": "ua",
+          "word_id": "unimet-swa-ua",
+          "synset": {
+            "id": "omw-en-01588134-v",
+            "ili": "i29670",
+            "pos": "v",
+            "lemmas": [
+              "fence"
+            ],
+            "definition": "enclose with a fence"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-ua-n03327234",
+          "lemma": "ua",
+          "word_id": "unimet-swa-ua",
+          "synset": {
+            "id": "omw-en-03327234-n",
+            "ili": "i53632",
+            "pos": "n",
+            "lemmas": [
+              "fence"
+            ],
+            "definition": "a barrier that serves to enclose an area"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-ua-v01588134",
+          "lemma": "ua",
+          "word_id": "unimet-swa-ua",
+          "synset": {
+            "id": "omw-en-01588134-v",
+            "ili": "i29670",
+            "pos": "v",
+            "lemmas": [
+              "fence"
+            ],
+            "definition": "enclose with a fence"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-ua-n03327234::unimet-swa-ua-v01588134": {
+          "source": "unimet-swa-ua-n03327234",
+          "target": "unimet-swa-ua-v01588134",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ukumbi",
+      "all_senses": [
+        {
+          "id": "unimet-swa-ukumbi-n04296562",
+          "lemma": "ukumbi",
+          "word_id": "unimet-swa-ukumbi",
+          "synset": {
+            "id": "omw-en-04296562-n",
+            "ili": "i59439",
+            "pos": "n",
+            "lemmas": [
+              "stage"
+            ],
+            "definition": "a large platform on which people can stand and can be seen by an audience"
+          }
+        },
+        {
+          "id": "unimet-swa-ukumbi-v01711445",
+          "lemma": "ukumbi",
+          "word_id": "unimet-swa-ukumbi",
+          "synset": {
+            "id": "omw-en-01711445-v",
+            "ili": "i30302",
+            "pos": "v",
+            "lemmas": [
+              "represent"
+            ],
+            "definition": "perform (a play), especially on a stage"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-ukumbi-n04296562",
+          "lemma": "ukumbi",
+          "word_id": "unimet-swa-ukumbi",
+          "synset": {
+            "id": "omw-en-04296562-n",
+            "ili": "i59439",
+            "pos": "n",
+            "lemmas": [
+              "stage"
+            ],
+            "definition": "a large platform on which people can stand and can be seen by an audience"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-ukumbi-v01711445",
+          "lemma": "ukumbi",
+          "word_id": "unimet-swa-ukumbi",
+          "synset": {
+            "id": "omw-en-01711445-v",
+            "ili": "i30302",
+            "pos": "v",
+            "lemmas": [
+              "represent"
+            ],
+            "definition": "perform (a play), especially on a stage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-ukumbi-n04296562::unimet-swa-ukumbi-v01711445": {
+          "source": "unimet-swa-ukumbi-n04296562",
+          "target": "unimet-swa-ukumbi-v01711445",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "umri",
+      "all_senses": [
+        {
+          "id": "unimet-swa-umri-n15153787",
+          "lemma": "umri",
+          "word_id": "unimet-swa-umri",
+          "synset": {
+            "id": "omw-en-15153787-n",
+            "ili": "i116852",
+            "pos": "n",
+            "lemmas": [
+              "years"
+            ],
+            "definition": "a late time of life"
+          }
+        },
+        {
+          "id": "unimet-swa-umri-v00248026",
+          "lemma": "umri",
+          "word_id": "unimet-swa-umri",
+          "synset": {
+            "id": "omw-en-00248026-v",
+            "ili": "i22958",
+            "pos": "v",
+            "lemmas": [
+              "get on"
+            ],
+            "definition": "grow old or older"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-umri-n15153787",
+          "lemma": "umri",
+          "word_id": "unimet-swa-umri",
+          "synset": {
+            "id": "omw-en-15153787-n",
+            "ili": "i116852",
+            "pos": "n",
+            "lemmas": [
+              "years"
+            ],
+            "definition": "a late time of life"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-umri-v00248026",
+          "lemma": "umri",
+          "word_id": "unimet-swa-umri",
+          "synset": {
+            "id": "omw-en-00248026-v",
+            "ili": "i22958",
+            "pos": "v",
+            "lemmas": [
+              "get on"
+            ],
+            "definition": "grow old or older"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-umri-n15153787::unimet-swa-umri-v00248026": {
+          "source": "unimet-swa-umri-n15153787",
+          "target": "unimet-swa-umri-v00248026",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "unenge",
+      "all_senses": [
+        {
+          "id": "unimet-swa-unenge-n14039534",
+          "lemma": "unenge",
+          "word_id": "unimet-swa-unenge",
+          "synset": {
+            "id": "omw-en-14039534-n",
+            "ili": "i110708",
+            "pos": "n",
+            "lemmas": [
+              "hunger"
+            ],
+            "definition": "a physiological need for food; the consequence of food deprivation"
+          }
+        },
+        {
+          "id": "unimet-swa-unenge-v01188144",
+          "lemma": "unenge",
+          "word_id": "unimet-swa-unenge",
+          "synset": {
+            "id": "omw-en-01188144-v",
+            "ili": "i27558",
+            "pos": "v",
+            "lemmas": [
+              "starve"
+            ],
+            "definition": "be hungry; go without food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-unenge-v01188144",
+          "lemma": "unenge",
+          "word_id": "unimet-swa-unenge",
+          "synset": {
+            "id": "omw-en-01188144-v",
+            "ili": "i27558",
+            "pos": "v",
+            "lemmas": [
+              "starve"
+            ],
+            "definition": "be hungry; go without food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-unenge-n14039534",
+          "lemma": "unenge",
+          "word_id": "unimet-swa-unenge",
+          "synset": {
+            "id": "omw-en-14039534-n",
+            "ili": "i110708",
+            "pos": "n",
+            "lemmas": [
+              "hunger"
+            ],
+            "definition": "a physiological need for food; the consequence of food deprivation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-unenge-v01188144::unimet-swa-unenge-n14039534": {
+          "source": "unimet-swa-unenge-v01188144",
+          "target": "unimet-swa-unenge-n14039534",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "upendo",
+      "all_senses": [
+        {
+          "id": "unimet-swa-upendo-n07543288",
+          "lemma": "upendo",
+          "word_id": "unimet-swa-upendo",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-swa-upendo-n09849598",
+          "lemma": "upendo",
+          "word_id": "unimet-swa-upendo",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-upendo-n07543288",
+          "lemma": "upendo",
+          "word_id": "unimet-swa-upendo",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-upendo-n09849598",
+          "lemma": "upendo",
+          "word_id": "unimet-swa-upendo",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-upendo-n07543288::unimet-swa-upendo-n09849598": {
+          "source": "unimet-swa-upendo-n07543288",
+          "target": "unimet-swa-upendo-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "wino",
+      "all_senses": [
+        {
+          "id": "unimet-swa-wino-n05404598",
+          "lemma": "wino",
+          "word_id": "unimet-swa-wino",
+          "synset": {
+            "id": "omw-en-05404598-n",
+            "ili": "i65373",
+            "pos": "n",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "dark protective fluid ejected into the water by cuttlefish and other cephalopods"
+          }
+        },
+        {
+          "id": "unimet-swa-wino-n14917635",
+          "lemma": "wino",
+          "word_id": "unimet-swa-wino",
+          "synset": {
+            "id": "omw-en-14917635-n",
+            "ili": "i115490",
+            "pos": "n",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "a liquid used for printing or writing or drawing"
+          }
+        },
+        {
+          "id": "unimet-swa-wino-v00509100",
+          "lemma": "wino",
+          "word_id": "unimet-swa-wino",
+          "synset": {
+            "id": "omw-en-00509100-v",
+            "ili": "i24258",
+            "pos": "v",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "fill with ink"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-wino-n05404598",
+          "lemma": "wino",
+          "word_id": "unimet-swa-wino",
+          "synset": {
+            "id": "omw-en-05404598-n",
+            "ili": "i65373",
+            "pos": "n",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "dark protective fluid ejected into the water by cuttlefish and other cephalopods"
+          }
+        },
+        {
+          "id": "unimet-swa-wino-n14917635",
+          "lemma": "wino",
+          "word_id": "unimet-swa-wino",
+          "synset": {
+            "id": "omw-en-14917635-n",
+            "ili": "i115490",
+            "pos": "n",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "a liquid used for printing or writing or drawing"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-wino-v00509100",
+          "lemma": "wino",
+          "word_id": "unimet-swa-wino",
+          "synset": {
+            "id": "omw-en-00509100-v",
+            "ili": "i24258",
+            "pos": "v",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "fill with ink"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-wino-n05404598::unimet-swa-wino-v00509100": {
+          "source": "unimet-swa-wino-n05404598",
+          "target": "unimet-swa-wino-v00509100",
+          "type": "metonymy"
+        },
+        "unimet-swa-wino-n14917635::unimet-swa-wino-v00509100": {
+          "source": "unimet-swa-wino-n14917635",
+          "target": "unimet-swa-wino-v00509100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "yai",
+      "all_senses": [
+        {
+          "id": "unimet-swa-yai-n07840804",
+          "lemma": "yai",
+          "word_id": "unimet-swa-yai",
+          "synset": {
+            "id": "omw-en-07840804-n",
+            "ili": "i78362",
+            "pos": "n",
+            "lemmas": [
+              "new"
+            ],
+            "definition": "oval reproductive body of a fowl (especially a hen) used as food"
+          }
+        },
+        {
+          "id": "unimet-swa-yai-v01508268",
+          "lemma": "yai",
+          "word_id": "unimet-swa-yai",
+          "synset": {
+            "id": "omw-en-01508268-v",
+            "ili": "i29264",
+            "pos": "v",
+            "lemmas": [
+              "egg"
+            ],
+            "definition": "throw eggs at"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-swa-yai-n07840804",
+          "lemma": "yai",
+          "word_id": "unimet-swa-yai",
+          "synset": {
+            "id": "omw-en-07840804-n",
+            "ili": "i78362",
+            "pos": "n",
+            "lemmas": [
+              "new"
+            ],
+            "definition": "oval reproductive body of a fowl (especially a hen) used as food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-swa-yai-v01508268",
+          "lemma": "yai",
+          "word_id": "unimet-swa-yai",
+          "synset": {
+            "id": "omw-en-01508268-v",
+            "ili": "i29264",
+            "pos": "v",
+            "lemmas": [
+              "egg"
+            ],
+            "definition": "throw eggs at"
+          }
+        }
+      ],
+      "links": {
+        "unimet-swa-yai-n07840804::unimet-swa-yai-v01508268": {
+          "source": "unimet-swa-yai-n07840804",
+          "target": "unimet-swa-yai-v01508268",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

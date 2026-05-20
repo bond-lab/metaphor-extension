@@ -1,0 +1,624 @@
+{
+  "id": "cfb97e3e95f238f2",
+  "name": "unimet-Scots",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "sco",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "brakfast",
+      "all_senses": [
+        {
+          "id": "unimet-sco-brakfast-n07574602",
+          "lemma": "brakfast",
+          "word_id": "unimet-sco-brakfast",
+          "synset": {
+            "id": "omw-en-07574602-n",
+            "ili": "i76564",
+            "pos": "n",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "the first meal of the day (usually in the morning)"
+          }
+        },
+        {
+          "id": "unimet-sco-brakfast-v01185740",
+          "lemma": "brakfast",
+          "word_id": "unimet-sco-brakfast",
+          "synset": {
+            "id": "omw-en-01185740-v",
+            "ili": "i27546",
+            "pos": "v",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "eat an early morning meal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-brakfast-n07574602",
+          "lemma": "brakfast",
+          "word_id": "unimet-sco-brakfast",
+          "synset": {
+            "id": "omw-en-07574602-n",
+            "ili": "i76564",
+            "pos": "n",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "the first meal of the day (usually in the morning)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-brakfast-v01185740",
+          "lemma": "brakfast",
+          "word_id": "unimet-sco-brakfast",
+          "synset": {
+            "id": "omw-en-01185740-v",
+            "ili": "i27546",
+            "pos": "v",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "eat an early morning meal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-brakfast-n07574602::unimet-sco-brakfast-v01185740": {
+          "source": "unimet-sco-brakfast-n07574602",
+          "target": "unimet-sco-brakfast-v01185740",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "coch",
+      "all_senses": [
+        {
+          "id": "unimet-sco-coch-n14359174",
+          "lemma": "coch",
+          "word_id": "unimet-sco-coch",
+          "synset": {
+            "id": "omw-en-14359174-n",
+            "ili": "i112455",
+            "pos": "n",
+            "lemmas": [
+              "coughing"
+            ],
+            "definition": "sudden expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis"
+          }
+        },
+        {
+          "id": "unimet-sco-coch-v00005815",
+          "lemma": "coch",
+          "word_id": "unimet-sco-coch",
+          "synset": {
+            "id": "omw-en-00005815-v",
+            "ili": "i21795",
+            "pos": "v",
+            "lemmas": [
+              "cough"
+            ],
+            "definition": "exhale abruptly, as when one has a chest cold or congestion"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-coch-v00005815",
+          "lemma": "coch",
+          "word_id": "unimet-sco-coch",
+          "synset": {
+            "id": "omw-en-00005815-v",
+            "ili": "i21795",
+            "pos": "v",
+            "lemmas": [
+              "cough"
+            ],
+            "definition": "exhale abruptly, as when one has a chest cold or congestion"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-coch-n14359174",
+          "lemma": "coch",
+          "word_id": "unimet-sco-coch",
+          "synset": {
+            "id": "omw-en-14359174-n",
+            "ili": "i112455",
+            "pos": "n",
+            "lemmas": [
+              "coughing"
+            ],
+            "definition": "sudden expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-coch-v00005815::unimet-sco-coch-n14359174": {
+          "source": "unimet-sco-coch-v00005815",
+          "target": "unimet-sco-coch-n14359174",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "disjune",
+      "all_senses": [
+        {
+          "id": "unimet-sco-disjune-n07574602",
+          "lemma": "disjune",
+          "word_id": "unimet-sco-disjune",
+          "synset": {
+            "id": "omw-en-07574602-n",
+            "ili": "i76564",
+            "pos": "n",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "the first meal of the day (usually in the morning)"
+          }
+        },
+        {
+          "id": "unimet-sco-disjune-v01185740",
+          "lemma": "disjune",
+          "word_id": "unimet-sco-disjune",
+          "synset": {
+            "id": "omw-en-01185740-v",
+            "ili": "i27546",
+            "pos": "v",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "eat an early morning meal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-disjune-n07574602",
+          "lemma": "disjune",
+          "word_id": "unimet-sco-disjune",
+          "synset": {
+            "id": "omw-en-07574602-n",
+            "ili": "i76564",
+            "pos": "n",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "the first meal of the day (usually in the morning)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-disjune-v01185740",
+          "lemma": "disjune",
+          "word_id": "unimet-sco-disjune",
+          "synset": {
+            "id": "omw-en-01185740-v",
+            "ili": "i27546",
+            "pos": "v",
+            "lemmas": [
+              "breakfast"
+            ],
+            "definition": "eat an early morning meal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-disjune-n07574602::unimet-sco-disjune-v01185740": {
+          "source": "unimet-sco-disjune-n07574602",
+          "target": "unimet-sco-disjune-v01185740",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "peer",
+      "all_senses": [
+        {
+          "id": "unimet-sco-peer-n07767847",
+          "lemma": "peer",
+          "word_id": "unimet-sco-peer",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-sco-peer-n12651611",
+          "lemma": "peer",
+          "word_id": "unimet-sco-peer",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-peer-n07767847",
+          "lemma": "peer",
+          "word_id": "unimet-sco-peer",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-peer-n12651611",
+          "lemma": "peer",
+          "word_id": "unimet-sco-peer",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-peer-n07767847::unimet-sco-peer-n12651611": {
+          "source": "unimet-sco-peer-n07767847",
+          "target": "unimet-sco-peer-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ploom",
+      "all_senses": [
+        {
+          "id": "unimet-sco-ploom-n07751451",
+          "lemma": "ploom",
+          "word_id": "unimet-sco-ploom",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-sco-ploom-n12638218",
+          "lemma": "ploom",
+          "word_id": "unimet-sco-ploom",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-ploom-n07751451",
+          "lemma": "ploom",
+          "word_id": "unimet-sco-ploom",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-ploom-n12638218",
+          "lemma": "ploom",
+          "word_id": "unimet-sco-ploom",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-ploom-n07751451::unimet-sco-ploom-n12638218": {
+          "source": "unimet-sco-ploom-n07751451",
+          "target": "unimet-sco-ploom-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ploum",
+      "all_senses": [
+        {
+          "id": "unimet-sco-ploum-n07751451",
+          "lemma": "ploum",
+          "word_id": "unimet-sco-ploum",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-sco-ploum-n12638218",
+          "lemma": "ploum",
+          "word_id": "unimet-sco-ploum",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-ploum-n07751451",
+          "lemma": "ploum",
+          "word_id": "unimet-sco-ploum",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-ploum-n12638218",
+          "lemma": "ploum",
+          "word_id": "unimet-sco-ploum",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-ploum-n07751451::unimet-sco-ploum-n12638218": {
+          "source": "unimet-sco-ploum-n07751451",
+          "target": "unimet-sco-ploum-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pushion",
+      "all_senses": [
+        {
+          "id": "unimet-sco-pushion-n15032376",
+          "lemma": "pushion",
+          "word_id": "unimet-sco-pushion",
+          "synset": {
+            "id": "omw-en-15032376-n",
+            "ili": "i116156",
+            "pos": "n",
+            "lemmas": [
+              "poison"
+            ],
+            "definition": "any substance that causes injury or illness or death of a living organism"
+          }
+        },
+        {
+          "id": "unimet-sco-pushion-v01323338",
+          "lemma": "pushion",
+          "word_id": "unimet-sco-pushion",
+          "synset": {
+            "id": "omw-en-01323338-v",
+            "ili": "i28303",
+            "pos": "v",
+            "lemmas": [
+              "poison"
+            ],
+            "definition": "kill with poison"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-pushion-n15032376",
+          "lemma": "pushion",
+          "word_id": "unimet-sco-pushion",
+          "synset": {
+            "id": "omw-en-15032376-n",
+            "ili": "i116156",
+            "pos": "n",
+            "lemmas": [
+              "poison"
+            ],
+            "definition": "any substance that causes injury or illness or death of a living organism"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-pushion-v01323338",
+          "lemma": "pushion",
+          "word_id": "unimet-sco-pushion",
+          "synset": {
+            "id": "omw-en-01323338-v",
+            "ili": "i28303",
+            "pos": "v",
+            "lemmas": [
+              "poison"
+            ],
+            "definition": "kill with poison"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-pushion-n15032376::unimet-sco-pushion-v01323338": {
+          "source": "unimet-sco-pushion-n15032376",
+          "target": "unimet-sco-pushion-v01323338",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stookie",
+      "all_senses": [
+        {
+          "id": "unimet-sco-stookie-n02979836",
+          "lemma": "stookie",
+          "word_id": "unimet-sco-stookie",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        },
+        {
+          "id": "unimet-sco-stookie-n14992613",
+          "lemma": "stookie",
+          "word_id": "unimet-sco-stookie",
+          "synset": {
+            "id": "omw-en-14992613-n",
+            "ili": "i115932",
+            "pos": "n",
+            "lemmas": [
+              "plaster of paris"
+            ],
+            "definition": "any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sco-stookie-n14992613",
+          "lemma": "stookie",
+          "word_id": "unimet-sco-stookie",
+          "synset": {
+            "id": "omw-en-14992613-n",
+            "ili": "i115932",
+            "pos": "n",
+            "lemmas": [
+              "plaster of paris"
+            ],
+            "definition": "any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sco-stookie-n02979836",
+          "lemma": "stookie",
+          "word_id": "unimet-sco-stookie",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sco-stookie-n14992613::unimet-sco-stookie-n02979836": {
+          "source": "unimet-sco-stookie-n14992613",
+          "target": "unimet-sco-stookie-n02979836",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

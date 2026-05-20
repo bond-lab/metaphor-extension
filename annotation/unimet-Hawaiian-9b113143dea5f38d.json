@@ -1,0 +1,168 @@
+{
+  "id": "9b113143dea5f38d",
+  "name": "unimet-Hawaiian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "haw",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "pōhaku aʻiaʻi",
+      "all_senses": [
+        {
+          "id": "unimet-haw-pōhaku aʻiaʻi-n03142834",
+          "lemma": "pōhaku aʻiaʻi",
+          "word_id": "unimet-haw-pōhaku aʻiaʻi",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-haw-pōhaku aʻiaʻi-n14883206",
+          "lemma": "pōhaku aʻiaʻi",
+          "word_id": "unimet-haw-pōhaku aʻiaʻi",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-haw-pōhaku aʻiaʻi-n14883206",
+          "lemma": "pōhaku aʻiaʻi",
+          "word_id": "unimet-haw-pōhaku aʻiaʻi",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-haw-pōhaku aʻiaʻi-n03142834",
+          "lemma": "pōhaku aʻiaʻi",
+          "word_id": "unimet-haw-pōhaku aʻiaʻi",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-haw-pōhaku aʻiaʻi-n14883206::unimet-haw-pōhaku aʻiaʻi-n03142834": {
+          "source": "unimet-haw-pōhaku aʻiaʻi-n14883206",
+          "target": "unimet-haw-pōhaku aʻiaʻi-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ʻai",
+      "all_senses": [
+        {
+          "id": "unimet-haw-ʻai-n00021734",
+          "lemma": "ʻai",
+          "word_id": "unimet-haw-ʻai",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        },
+        {
+          "id": "unimet-haw-ʻai-v01168468",
+          "lemma": "ʻai",
+          "word_id": "unimet-haw-ʻai",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-haw-ʻai-v01168468",
+          "lemma": "ʻai",
+          "word_id": "unimet-haw-ʻai",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-haw-ʻai-n00021734",
+          "lemma": "ʻai",
+          "word_id": "unimet-haw-ʻai",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        }
+      ],
+      "links": {
+        "unimet-haw-ʻai-v01168468::unimet-haw-ʻai-n00021734": {
+          "source": "unimet-haw-ʻai-v01168468",
+          "target": "unimet-haw-ʻai-n00021734",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

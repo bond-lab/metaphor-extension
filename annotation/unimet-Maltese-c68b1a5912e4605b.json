@@ -1,0 +1,548 @@
+{
+  "id": "c68b1a5912e4605b",
+  "name": "unimet-Maltese",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mlt",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "banana",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-banana-n07753592",
+          "lemma": "banana",
+          "word_id": "unimet-mlt-banana",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        },
+        {
+          "id": "unimet-mlt-banana-n12352287",
+          "lemma": "banana",
+          "word_id": "unimet-mlt-banana",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-banana-n07753592",
+          "lemma": "banana",
+          "word_id": "unimet-mlt-banana",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-banana-n12352287",
+          "lemma": "banana",
+          "word_id": "unimet-mlt-banana",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-banana-n07753592::unimet-mlt-banana-n12352287": {
+          "source": "unimet-mlt-banana-n07753592",
+          "target": "unimet-mlt-banana-n12352287",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fellus",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-fellus-n01792042",
+          "lemma": "fellus",
+          "word_id": "unimet-mlt-fellus",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-mlt-fellus-n07644967",
+          "lemma": "fellus",
+          "word_id": "unimet-mlt-fellus",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-fellus-n01792042",
+          "lemma": "fellus",
+          "word_id": "unimet-mlt-fellus",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-fellus-n07644967",
+          "lemma": "fellus",
+          "word_id": "unimet-mlt-fellus",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-fellus-n01792042::unimet-mlt-fellus-n07644967": {
+          "source": "unimet-mlt-fellus-n01792042",
+          "target": "unimet-mlt-fellus-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "larinġa",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-larinġa-n07747607",
+          "lemma": "larinġa",
+          "word_id": "unimet-mlt-larinġa",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-mlt-larinġa-n12708293",
+          "lemma": "larinġa",
+          "word_id": "unimet-mlt-larinġa",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-larinġa-n07747607",
+          "lemma": "larinġa",
+          "word_id": "unimet-mlt-larinġa",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-larinġa-n12708293",
+          "lemma": "larinġa",
+          "word_id": "unimet-mlt-larinġa",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-larinġa-n07747607::unimet-mlt-larinġa-n12708293": {
+          "source": "unimet-mlt-larinġa-n07747607",
+          "target": "unimet-mlt-larinġa-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lewża",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-lewża-n07750586",
+          "lemma": "lewża",
+          "word_id": "unimet-mlt-lewża",
+          "synset": {
+            "id": "omw-en-07750586-n",
+            "ili": "i77782",
+            "pos": "n",
+            "lemmas": [
+              "almond"
+            ],
+            "definition": "oval-shaped edible seed of the almond tree"
+          }
+        },
+        {
+          "id": "unimet-mlt-lewża-n12645174",
+          "lemma": "lewża",
+          "word_id": "unimet-mlt-lewża",
+          "synset": {
+            "id": "omw-en-12645174-n",
+            "ili": "i103327",
+            "pos": "n",
+            "lemmas": [
+              "amygdalus communis"
+            ],
+            "definition": "small bushy deciduous tree native to Asia and North Africa having pretty pink blossoms and highly prized edible nuts enclosed in a hard green hull; cultivated in southern Australia and California"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-lewża-n07750586",
+          "lemma": "lewża",
+          "word_id": "unimet-mlt-lewża",
+          "synset": {
+            "id": "omw-en-07750586-n",
+            "ili": "i77782",
+            "pos": "n",
+            "lemmas": [
+              "almond"
+            ],
+            "definition": "oval-shaped edible seed of the almond tree"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-lewża-n12645174",
+          "lemma": "lewża",
+          "word_id": "unimet-mlt-lewża",
+          "synset": {
+            "id": "omw-en-12645174-n",
+            "ili": "i103327",
+            "pos": "n",
+            "lemmas": [
+              "amygdalus communis"
+            ],
+            "definition": "small bushy deciduous tree native to Asia and North Africa having pretty pink blossoms and highly prized edible nuts enclosed in a hard green hull; cultivated in southern Australia and California"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-lewża-n07750586::unimet-mlt-lewża-n12645174": {
+          "source": "unimet-mlt-lewża-n07750586",
+          "target": "unimet-mlt-lewża-n12645174",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lumija",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-lumija-n07749582",
+          "lemma": "lumija",
+          "word_id": "unimet-mlt-lumija",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-mlt-lumija-n12711596",
+          "lemma": "lumija",
+          "word_id": "unimet-mlt-lumija",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-lumija-n07749582",
+          "lemma": "lumija",
+          "word_id": "unimet-mlt-lumija",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-lumija-n12711596",
+          "lemma": "lumija",
+          "word_id": "unimet-mlt-lumija",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-lumija-n07749582::unimet-mlt-lumija-n12711596": {
+          "source": "unimet-mlt-lumija-n07749582",
+          "target": "unimet-mlt-lumija-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mandolina",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-mandolina-n07747951",
+          "lemma": "mandolina",
+          "word_id": "unimet-mlt-mandolina",
+          "synset": {
+            "id": "omw-en-07747951-n",
+            "ili": "i77764",
+            "pos": "n",
+            "lemmas": [
+              "mandarin"
+            ],
+            "definition": "a somewhat flat reddish-orange loose skinned citrus of China"
+          }
+        },
+        {
+          "id": "unimet-mlt-mandolina-n12709901",
+          "lemma": "mandolina",
+          "word_id": "unimet-mlt-mandolina",
+          "synset": {
+            "id": "omw-en-12709901-n",
+            "ili": "i103644",
+            "pos": "n",
+            "lemmas": [
+              "mandarin orange tree"
+            ],
+            "definition": "shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-orange rind that is loose and easily removed; native to southeastern Asia"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-mandolina-n07747951",
+          "lemma": "mandolina",
+          "word_id": "unimet-mlt-mandolina",
+          "synset": {
+            "id": "omw-en-07747951-n",
+            "ili": "i77764",
+            "pos": "n",
+            "lemmas": [
+              "mandarin"
+            ],
+            "definition": "a somewhat flat reddish-orange loose skinned citrus of China"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-mandolina-n12709901",
+          "lemma": "mandolina",
+          "word_id": "unimet-mlt-mandolina",
+          "synset": {
+            "id": "omw-en-12709901-n",
+            "ili": "i103644",
+            "pos": "n",
+            "lemmas": [
+              "mandarin orange tree"
+            ],
+            "definition": "shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-orange rind that is loose and easily removed; native to southeastern Asia"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-mandolina-n07747951::unimet-mlt-mandolina-n12709901": {
+          "source": "unimet-mlt-mandolina-n07747951",
+          "target": "unimet-mlt-mandolina-n12709901",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ħaruf",
+      "all_senses": [
+        {
+          "id": "unimet-mlt-ħaruf-n02412440",
+          "lemma": "ħaruf",
+          "word_id": "unimet-mlt-ħaruf",
+          "synset": {
+            "id": "omw-en-02412440-n",
+            "ili": "i48296",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "young sheep"
+          }
+        },
+        {
+          "id": "unimet-mlt-ħaruf-n07667151",
+          "lemma": "ħaruf",
+          "word_id": "unimet-mlt-ħaruf",
+          "synset": {
+            "id": "omw-en-07667151-n",
+            "ili": "i77225",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "the flesh of a young domestic sheep eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mlt-ħaruf-n02412440",
+          "lemma": "ħaruf",
+          "word_id": "unimet-mlt-ħaruf",
+          "synset": {
+            "id": "omw-en-02412440-n",
+            "ili": "i48296",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "young sheep"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mlt-ħaruf-n07667151",
+          "lemma": "ħaruf",
+          "word_id": "unimet-mlt-ħaruf",
+          "synset": {
+            "id": "omw-en-07667151-n",
+            "ili": "i77225",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "the flesh of a young domestic sheep eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mlt-ħaruf-n02412440::unimet-mlt-ħaruf-n07667151": {
+          "source": "unimet-mlt-ħaruf-n02412440",
+          "target": "unimet-mlt-ħaruf-n07667151",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,4295 @@
+{
+  "id": "ef059277b05864ea",
+  "name": "unimet-Goan Konkani",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kok",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "अंजीर",
+      "all_senses": [
+        {
+          "id": "unimet-kok-अंजीर-n07753113",
+          "lemma": "अंजीर",
+          "word_id": "unimet-kok-अंजीर",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        },
+        {
+          "id": "unimet-kok-अंजीर-n12401684",
+          "lemma": "अंजीर",
+          "word_id": "unimet-kok-अंजीर",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-अंजीर-n07753113",
+          "lemma": "अंजीर",
+          "word_id": "unimet-kok-अंजीर",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-अंजीर-n12401684",
+          "lemma": "अंजीर",
+          "word_id": "unimet-kok-अंजीर",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-अंजीर-n07753113::unimet-kok-अंजीर-n12401684": {
+          "source": "unimet-kok-अंजीर-n07753113",
+          "target": "unimet-kok-अंजीर-n12401684",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "अक्रोड",
+      "all_senses": [
+        {
+          "id": "unimet-kok-अक्रोड-n07771212",
+          "lemma": "अक्रोड",
+          "word_id": "unimet-kok-अक्रोड",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        },
+        {
+          "id": "unimet-kok-अक्रोड-n12318378",
+          "lemma": "अक्रोड",
+          "word_id": "unimet-kok-अक्रोड",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-अक्रोड-n07771212",
+          "lemma": "अक्रोड",
+          "word_id": "unimet-kok-अक्रोड",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-अक्रोड-n12318378",
+          "lemma": "अक्रोड",
+          "word_id": "unimet-kok-अक्रोड",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-अक्रोड-n07771212::unimet-kok-अक्रोड-n12318378": {
+          "source": "unimet-kok-अक्रोड-n07771212",
+          "target": "unimet-kok-अक्रोड-n12318378",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "आडखळप",
+      "all_senses": [
+        {
+          "id": "unimet-kok-आडखळप-n14507951",
+          "lemma": "आडखळप",
+          "word_id": "unimet-kok-आडखळप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        },
+        {
+          "id": "unimet-kok-आडखळप-v01478603",
+          "lemma": "आडखळप",
+          "word_id": "unimet-kok-आडखळप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-आडखळप-v01478603",
+          "lemma": "आडखळप",
+          "word_id": "unimet-kok-आडखळप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-आडखळप-n14507951",
+          "lemma": "आडखळप",
+          "word_id": "unimet-kok-आडखळप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-आडखळप-v01478603::unimet-kok-आडखळप-n14507951": {
+          "source": "unimet-kok-आडखळप-v01478603",
+          "target": "unimet-kok-आडखळप-n14507951",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "आलुबुखार",
+      "all_senses": [
+        {
+          "id": "unimet-kok-आलुबुखार-n07751451",
+          "lemma": "आलुबुखार",
+          "word_id": "unimet-kok-आलुबुखार",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-kok-आलुबुखार-n12638218",
+          "lemma": "आलुबुखार",
+          "word_id": "unimet-kok-आलुबुखार",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-आलुबुखार-n07751451",
+          "lemma": "आलुबुखार",
+          "word_id": "unimet-kok-आलुबुखार",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-आलुबुखार-n12638218",
+          "lemma": "आलुबुखार",
+          "word_id": "unimet-kok-आलुबुखार",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-आलुबुखार-n07751451::unimet-kok-आलुबुखार-n12638218": {
+          "source": "unimet-kok-आलुबुखार-n07751451",
+          "target": "unimet-kok-आलुबुखार-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "उचकी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-उचकी-n14359459",
+          "lemma": "उचकी",
+          "word_id": "unimet-kok-उचकी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        },
+        {
+          "id": "unimet-kok-उचकी-v00003826",
+          "lemma": "उचकी",
+          "word_id": "unimet-kok-उचकी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-उचकी-v00003826",
+          "lemma": "उचकी",
+          "word_id": "unimet-kok-उचकी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-उचकी-n14359459",
+          "lemma": "उचकी",
+          "word_id": "unimet-kok-उचकी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-उचकी-v00003826::unimet-kok-उचकी-n14359459": {
+          "source": "unimet-kok-उचकी-v00003826",
+          "target": "unimet-kok-उचकी-n14359459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "एरंड",
+      "all_senses": [
+        {
+          "id": "unimet-kok-एरंड-n11689678",
+          "lemma": "एरंड",
+          "word_id": "unimet-kok-एरंड",
+          "synset": {
+            "id": "omw-en-11689678-n",
+            "ili": "i98777",
+            "pos": "n",
+            "lemmas": [
+              "castor bean"
+            ],
+            "definition": "the toxic seed of the castor-oil plant; source of castor oil"
+          }
+        },
+        {
+          "id": "unimet-kok-एरंड-n12924623",
+          "lemma": "एरंड",
+          "word_id": "unimet-kok-एरंड",
+          "synset": {
+            "id": "omw-en-12924623-n",
+            "ili": "i104681",
+            "pos": "n",
+            "lemmas": [
+              "castor bean plant"
+            ],
+            "definition": "large shrub of tropical Africa and Asia having large palmate leaves and spiny capsules containing seeds that are the source of castor oil and ricin; widely naturalized throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-एरंड-n11689678",
+          "lemma": "एरंड",
+          "word_id": "unimet-kok-एरंड",
+          "synset": {
+            "id": "omw-en-11689678-n",
+            "ili": "i98777",
+            "pos": "n",
+            "lemmas": [
+              "castor bean"
+            ],
+            "definition": "the toxic seed of the castor-oil plant; source of castor oil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-एरंड-n12924623",
+          "lemma": "एरंड",
+          "word_id": "unimet-kok-एरंड",
+          "synset": {
+            "id": "omw-en-12924623-n",
+            "ili": "i104681",
+            "pos": "n",
+            "lemmas": [
+              "castor bean plant"
+            ],
+            "definition": "large shrub of tropical Africa and Asia having large palmate leaves and spiny capsules containing seeds that are the source of castor oil and ricin; widely naturalized throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-एरंड-n11689678::unimet-kok-एरंड-n12924623": {
+          "source": "unimet-kok-एरंड-n11689678",
+          "target": "unimet-kok-एरंड-n12924623",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कमजोर",
+      "all_senses": [
+        {
+          "id": "unimet-kok-कमजोर-n10771636",
+          "lemma": "कमजोर",
+          "word_id": "unimet-kok-कमजोर",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        },
+        {
+          "id": "unimet-kok-कमजोर-n14547643",
+          "lemma": "कमजोर",
+          "word_id": "unimet-kok-कमजोर",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-कमजोर-n14547643",
+          "lemma": "कमजोर",
+          "word_id": "unimet-kok-कमजोर",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-कमजोर-n10771636",
+          "lemma": "कमजोर",
+          "word_id": "unimet-kok-कमजोर",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-कमजोर-n14547643::unimet-kok-कमजोर-n10771636": {
+          "source": "unimet-kok-कमजोर-n14547643",
+          "target": "unimet-kok-कमजोर-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "करंज",
+      "all_senses": [
+        {
+          "id": "unimet-kok-करंज-n11689197",
+          "lemma": "करंज",
+          "word_id": "unimet-kok-करंज",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        },
+        {
+          "id": "unimet-kok-करंज-n12488454",
+          "lemma": "करंज",
+          "word_id": "unimet-kok-करंज",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-करंज-n11689197",
+          "lemma": "करंज",
+          "word_id": "unimet-kok-करंज",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-करंज-n12488454",
+          "lemma": "करंज",
+          "word_id": "unimet-kok-करंज",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-करंज-n11689197::unimet-kok-करंज-n12488454": {
+          "source": "unimet-kok-करंज-n11689197",
+          "target": "unimet-kok-करंज-n12488454",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "करमल",
+      "all_senses": [
+        {
+          "id": "unimet-kok-करमल-n07746551",
+          "lemma": "करमल",
+          "word_id": "unimet-kok-करमल",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-kok-करमल-n12704343",
+          "lemma": "करमल",
+          "word_id": "unimet-kok-करमल",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-करमल-n07746551",
+          "lemma": "करमल",
+          "word_id": "unimet-kok-करमल",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-करमल-n12704343",
+          "lemma": "करमल",
+          "word_id": "unimet-kok-करमल",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-करमल-n07746551::unimet-kok-करमल-n12704343": {
+          "source": "unimet-kok-करमल-n07746551",
+          "target": "unimet-kok-करमल-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कांदो",
+      "all_senses": [
+        {
+          "id": "unimet-kok-कांदो-n07722217",
+          "lemma": "कांदो",
+          "word_id": "unimet-kok-कांदो",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-kok-कांदो-n12432808",
+          "lemma": "कांदो",
+          "word_id": "unimet-kok-कांदो",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-कांदो-n12432808",
+          "lemma": "कांदो",
+          "word_id": "unimet-kok-कांदो",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-कांदो-n07722217",
+          "lemma": "कांदो",
+          "word_id": "unimet-kok-कांदो",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-कांदो-n12432808::unimet-kok-कांदो-n07722217": {
+          "source": "unimet-kok-कांदो-n12432808",
+          "target": "unimet-kok-कांदो-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "काफी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-काफी-n07929351",
+          "lemma": "काफी",
+          "word_id": "unimet-kok-काफी",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-kok-काफी-n12662772",
+          "lemma": "काफी",
+          "word_id": "unimet-kok-काफी",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-काफी-n07929351",
+          "lemma": "काफी",
+          "word_id": "unimet-kok-काफी",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-काफी-n12662772",
+          "lemma": "काफी",
+          "word_id": "unimet-kok-काफी",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-काफी-n07929351::unimet-kok-काफी-n12662772": {
+          "source": "unimet-kok-काफी-n07929351",
+          "target": "unimet-kok-काफी-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "किवी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-किवी-n07763629",
+          "lemma": "किवी",
+          "word_id": "unimet-kok-किवी",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        },
+        {
+          "id": "unimet-kok-किवी-n12371439",
+          "lemma": "किवी",
+          "word_id": "unimet-kok-किवी",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-किवी-n07763629",
+          "lemma": "किवी",
+          "word_id": "unimet-kok-किवी",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-किवी-n12371439",
+          "lemma": "किवी",
+          "word_id": "unimet-kok-किवी",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-किवी-n07763629::unimet-kok-किवी-n12371439": {
+          "source": "unimet-kok-किवी-n07763629",
+          "target": "unimet-kok-किवी-n12371439",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कुसप",
+      "all_senses": [
+        {
+          "id": "unimet-kok-कुसप-n14561102",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-14561102-n",
+            "ili": "i113530",
+            "pos": "n",
+            "lemmas": [
+              "putridness"
+            ],
+            "definition": "in a state of progressive putrefaction"
+          }
+        },
+        {
+          "id": "unimet-kok-कुसप-v00093775",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-00093775-v",
+            "ili": "i22239",
+            "pos": "v",
+            "lemmas": [
+              "rot"
+            ],
+            "definition": "waste away"
+          }
+        },
+        {
+          "id": "unimet-kok-कुसप-v00210259",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-00210259-v",
+            "ili": "i22770",
+            "pos": "v",
+            "lemmas": [
+              "go bad"
+            ],
+            "definition": "become unfit for consumption or use"
+          }
+        },
+        {
+          "id": "unimet-kok-कुसप-v00552815",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-00552815-v",
+            "ili": "i24507",
+            "pos": "v",
+            "lemmas": [
+              "decay"
+            ],
+            "definition": "undergo decay or decomposition"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-कुसप-v00093775",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-00093775-v",
+            "ili": "i22239",
+            "pos": "v",
+            "lemmas": [
+              "rot"
+            ],
+            "definition": "waste away"
+          }
+        },
+        {
+          "id": "unimet-kok-कुसप-v00210259",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-00210259-v",
+            "ili": "i22770",
+            "pos": "v",
+            "lemmas": [
+              "go bad"
+            ],
+            "definition": "become unfit for consumption or use"
+          }
+        },
+        {
+          "id": "unimet-kok-कुसप-v00552815",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-00552815-v",
+            "ili": "i24507",
+            "pos": "v",
+            "lemmas": [
+              "decay"
+            ],
+            "definition": "undergo decay or decomposition"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-कुसप-n14561102",
+          "lemma": "कुसप",
+          "word_id": "unimet-kok-कुसप",
+          "synset": {
+            "id": "omw-en-14561102-n",
+            "ili": "i113530",
+            "pos": "n",
+            "lemmas": [
+              "putridness"
+            ],
+            "definition": "in a state of progressive putrefaction"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-कुसप-v00093775::unimet-kok-कुसप-n14561102": {
+          "source": "unimet-kok-कुसप-v00093775",
+          "target": "unimet-kok-कुसप-n14561102",
+          "type": "metonymy"
+        },
+        "unimet-kok-कुसप-v00210259::unimet-kok-कुसप-n14561102": {
+          "source": "unimet-kok-कुसप-v00210259",
+          "target": "unimet-kok-कुसप-n14561102",
+          "type": "metonymy"
+        },
+        "unimet-kok-कुसप-v00552815::unimet-kok-कुसप-n14561102": {
+          "source": "unimet-kok-कुसप-v00552815",
+          "target": "unimet-kok-कुसप-n14561102",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कॉफी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-कॉफी-n07929351",
+          "lemma": "कॉफी",
+          "word_id": "unimet-kok-कॉफी",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-kok-कॉफी-n12662772",
+          "lemma": "कॉफी",
+          "word_id": "unimet-kok-कॉफी",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-कॉफी-n07929351",
+          "lemma": "कॉफी",
+          "word_id": "unimet-kok-कॉफी",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-कॉफी-n12662772",
+          "lemma": "कॉफी",
+          "word_id": "unimet-kok-कॉफी",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-कॉफी-n07929351::unimet-kok-कॉफी-n12662772": {
+          "source": "unimet-kok-कॉफी-n07929351",
+          "target": "unimet-kok-कॉफी-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "खेळणी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-खेळणी-n14359459",
+          "lemma": "खेळणी",
+          "word_id": "unimet-kok-खेळणी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        },
+        {
+          "id": "unimet-kok-खेळणी-v00003826",
+          "lemma": "खेळणी",
+          "word_id": "unimet-kok-खेळणी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-खेळणी-v00003826",
+          "lemma": "खेळणी",
+          "word_id": "unimet-kok-खेळणी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-खेळणी-n14359459",
+          "lemma": "खेळणी",
+          "word_id": "unimet-kok-खेळणी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-खेळणी-v00003826::unimet-kok-खेळणी-n14359459": {
+          "source": "unimet-kok-खेळणी-v00003826",
+          "target": "unimet-kok-खेळणी-n14359459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "चवळी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-चवळी-n12578626",
+          "lemma": "चवळी",
+          "word_id": "unimet-kok-चवळी",
+          "synset": {
+            "id": "omw-en-12578626-n",
+            "ili": "i102994",
+            "pos": "n",
+            "lemmas": [
+              "vigna sinensis"
+            ],
+            "definition": "sprawling Old World annual cultivated especially in southern United States for food and forage and green manure"
+          }
+        },
+        {
+          "id": "unimet-kok-चवळी-n12578916",
+          "lemma": "चवळी",
+          "word_id": "unimet-kok-चवळी",
+          "synset": {
+            "id": "omw-en-12578916-n",
+            "ili": "i102995",
+            "pos": "n",
+            "lemmas": [
+              "cowpea"
+            ],
+            "definition": "fruit or seed of the cowpea plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-चवळी-n12578626",
+          "lemma": "चवळी",
+          "word_id": "unimet-kok-चवळी",
+          "synset": {
+            "id": "omw-en-12578626-n",
+            "ili": "i102994",
+            "pos": "n",
+            "lemmas": [
+              "vigna sinensis"
+            ],
+            "definition": "sprawling Old World annual cultivated especially in southern United States for food and forage and green manure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-चवळी-n12578916",
+          "lemma": "चवळी",
+          "word_id": "unimet-kok-चवळी",
+          "synset": {
+            "id": "omw-en-12578916-n",
+            "ili": "i102995",
+            "pos": "n",
+            "lemmas": [
+              "cowpea"
+            ],
+            "definition": "fruit or seed of the cowpea plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-चवळी-n12578626::unimet-kok-चवळी-n12578916": {
+          "source": "unimet-kok-चवळी-n12578626",
+          "target": "unimet-kok-चवळी-n12578916",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "चींच",
+      "all_senses": [
+        {
+          "id": "unimet-kok-चींच-n07764630",
+          "lemma": "चींच",
+          "word_id": "unimet-kok-चींच",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        },
+        {
+          "id": "unimet-kok-चींच-n12501202",
+          "lemma": "चींच",
+          "word_id": "unimet-kok-चींच",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-चींच-n07764630",
+          "lemma": "चींच",
+          "word_id": "unimet-kok-चींच",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-चींच-n12501202",
+          "lemma": "चींच",
+          "word_id": "unimet-kok-चींच",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-चींच-n07764630::unimet-kok-चींच-n12501202": {
+          "source": "unimet-kok-चींच-n07764630",
+          "target": "unimet-kok-चींच-n12501202",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "चॅरी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-चॅरी-n07757132",
+          "lemma": "चॅरी",
+          "word_id": "unimet-kok-चॅरी",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-kok-चॅरी-n12641413",
+          "lemma": "चॅरी",
+          "word_id": "unimet-kok-चॅरी",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-चॅरी-n07757132",
+          "lemma": "चॅरी",
+          "word_id": "unimet-kok-चॅरी",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-चॅरी-n12641413",
+          "lemma": "चॅरी",
+          "word_id": "unimet-kok-चॅरी",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-चॅरी-n07757132::unimet-kok-चॅरी-n12641413": {
+          "source": "unimet-kok-चॅरी-n07757132",
+          "target": "unimet-kok-चॅरी-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "चोंदप",
+      "all_senses": [
+        {
+          "id": "unimet-kok-चोंदप-n14507951",
+          "lemma": "चोंदप",
+          "word_id": "unimet-kok-चोंदप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        },
+        {
+          "id": "unimet-kok-चोंदप-v01478603",
+          "lemma": "चोंदप",
+          "word_id": "unimet-kok-चोंदप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-चोंदप-v01478603",
+          "lemma": "चोंदप",
+          "word_id": "unimet-kok-चोंदप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-चोंदप-n14507951",
+          "lemma": "चोंदप",
+          "word_id": "unimet-kok-चोंदप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-चोंदप-v01478603::unimet-kok-चोंदप-n14507951": {
+          "source": "unimet-kok-चोंदप-v01478603",
+          "target": "unimet-kok-चोंदप-n14507951",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "चोंबप",
+      "all_senses": [
+        {
+          "id": "unimet-kok-चोंबप-n14507951",
+          "lemma": "चोंबप",
+          "word_id": "unimet-kok-चोंबप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        },
+        {
+          "id": "unimet-kok-चोंबप-v01478603",
+          "lemma": "चोंबप",
+          "word_id": "unimet-kok-चोंबप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-चोंबप-v01478603",
+          "lemma": "चोंबप",
+          "word_id": "unimet-kok-चोंबप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-चोंबप-n14507951",
+          "lemma": "चोंबप",
+          "word_id": "unimet-kok-चोंबप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-चोंबप-v01478603::unimet-kok-चोंबप-n14507951": {
+          "source": "unimet-kok-चोंबप-v01478603",
+          "target": "unimet-kok-चोंबप-n14507951",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "च्या",
+      "all_senses": [
+        {
+          "id": "unimet-kok-च्या-n07932841",
+          "lemma": "च्या",
+          "word_id": "unimet-kok-च्या",
+          "synset": {
+            "id": "omw-en-07932841-n",
+            "ili": "i79002",
+            "pos": "n",
+            "lemmas": [
+              "bush"
+            ],
+            "definition": "dried leaves of the tea shrub; used to make tea"
+          }
+        },
+        {
+          "id": "unimet-kok-च्या-n08254741",
+          "lemma": "च्या",
+          "word_id": "unimet-kok-च्या",
+          "synset": {
+            "id": "omw-en-08254741-n",
+            "ili": "i80512",
+            "pos": "n",
+            "lemmas": [
+              "tea"
+            ],
+            "definition": "a reception or party at which tea is served"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-च्या-n07932841",
+          "lemma": "च्या",
+          "word_id": "unimet-kok-च्या",
+          "synset": {
+            "id": "omw-en-07932841-n",
+            "ili": "i79002",
+            "pos": "n",
+            "lemmas": [
+              "bush"
+            ],
+            "definition": "dried leaves of the tea shrub; used to make tea"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-च्या-n08254741",
+          "lemma": "च्या",
+          "word_id": "unimet-kok-च्या",
+          "synset": {
+            "id": "omw-en-08254741-n",
+            "ili": "i80512",
+            "pos": "n",
+            "lemmas": [
+              "tea"
+            ],
+            "definition": "a reception or party at which tea is served"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-च्या-n07932841::unimet-kok-च्या-n08254741": {
+          "source": "unimet-kok-च्या-n07932841",
+          "target": "unimet-kok-च्या-n08254741",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "जेवण",
+      "all_senses": [
+        {
+          "id": "unimet-kok-जेवण-n07578093",
+          "lemma": "जेवण",
+          "word_id": "unimet-kok-जेवण",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-kok-जेवण-n08253640",
+          "lemma": "जेवण",
+          "word_id": "unimet-kok-जेवण",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-जेवण-n07578093",
+          "lemma": "जेवण",
+          "word_id": "unimet-kok-जेवण",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-जेवण-n08253640",
+          "lemma": "जेवण",
+          "word_id": "unimet-kok-जेवण",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-जेवण-n07578093::unimet-kok-जेवण-n08253640": {
+          "source": "unimet-kok-जेवण-n07578093",
+          "target": "unimet-kok-जेवण-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "टेलिफोन",
+      "all_senses": [
+        {
+          "id": "unimet-kok-टेलिफोन-n04401088",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-kok-टेलिफोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-kok-टेलिफोन-n06272290",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-kok-टेलिफोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-टेलिफोन-n04401088",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-kok-टेलिफोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-टेलिफोन-n06272290",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-kok-टेलिफोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-टेलिफोन-n04401088::unimet-kok-टेलिफोन-n06272290": {
+          "source": "unimet-kok-टेलिफोन-n04401088",
+          "target": "unimet-kok-टेलिफोन-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "तुंबप",
+      "all_senses": [
+        {
+          "id": "unimet-kok-तुंबप-n14507951",
+          "lemma": "तुंबप",
+          "word_id": "unimet-kok-तुंबप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        },
+        {
+          "id": "unimet-kok-तुंबप-v01478603",
+          "lemma": "तुंबप",
+          "word_id": "unimet-kok-तुंबप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-तुंबप-v01478603",
+          "lemma": "तुंबप",
+          "word_id": "unimet-kok-तुंबप",
+          "synset": {
+            "id": "omw-en-01478603-v",
+            "ili": "i29110",
+            "pos": "v",
+            "lemmas": [
+              "choke"
+            ],
+            "definition": "become or cause to become obstructed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-तुंबप-n14507951",
+          "lemma": "तुंबप",
+          "word_id": "unimet-kok-तुंबप",
+          "synset": {
+            "id": "omw-en-14507951-n",
+            "ili": "i113243",
+            "pos": "n",
+            "lemmas": [
+              "obstruction"
+            ],
+            "definition": "the state or condition of being obstructed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-तुंबप-v01478603::unimet-kok-तुंबप-n14507951": {
+          "source": "unimet-kok-तुंबप-v01478603",
+          "target": "unimet-kok-तुंबप-n14507951",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "तोंड",
+      "all_senses": [
+        {
+          "id": "unimet-kok-तोंड-n05301908",
+          "lemma": "तोंड",
+          "word_id": "unimet-kok-तोंड",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-kok-तोंड-n05302499",
+          "lemma": "तोंड",
+          "word_id": "unimet-kok-तोंड",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-kok-तोंड-n10335679",
+          "lemma": "तोंड",
+          "word_id": "unimet-kok-तोंड",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-तोंड-n05301908",
+          "lemma": "तोंड",
+          "word_id": "unimet-kok-तोंड",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-kok-तोंड-n05302499",
+          "lemma": "तोंड",
+          "word_id": "unimet-kok-तोंड",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-तोंड-n10335679",
+          "lemma": "तोंड",
+          "word_id": "unimet-kok-तोंड",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-तोंड-n05301908::unimet-kok-तोंड-n10335679": {
+          "source": "unimet-kok-तोंड-n05301908",
+          "target": "unimet-kok-तोंड-n10335679",
+          "type": "metonymy"
+        },
+        "unimet-kok-तोंड-n05302499::unimet-kok-तोंड-n10335679": {
+          "source": "unimet-kok-तोंड-n05302499",
+          "target": "unimet-kok-तोंड-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "धागो",
+      "all_senses": [
+        {
+          "id": "unimet-kok-धागो-n04426788",
+          "lemma": "धागो",
+          "word_id": "unimet-kok-धागो",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-kok-धागो-n14866889",
+          "lemma": "धागो",
+          "word_id": "unimet-kok-धागो",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-धागो-n14866889",
+          "lemma": "धागो",
+          "word_id": "unimet-kok-धागो",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-धागो-n04426788",
+          "lemma": "धागो",
+          "word_id": "unimet-kok-धागो",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-धागो-n14866889::unimet-kok-धागो-n04426788": {
+          "source": "unimet-kok-धागो-n14866889",
+          "target": "unimet-kok-धागो-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "निर्बळ",
+      "all_senses": [
+        {
+          "id": "unimet-kok-निर्बळ-n10771636",
+          "lemma": "निर्बळ",
+          "word_id": "unimet-kok-निर्बळ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        },
+        {
+          "id": "unimet-kok-निर्बळ-n14547643",
+          "lemma": "निर्बळ",
+          "word_id": "unimet-kok-निर्बळ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-निर्बळ-n14547643",
+          "lemma": "निर्बळ",
+          "word_id": "unimet-kok-निर्बळ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-निर्बळ-n10771636",
+          "lemma": "निर्बळ",
+          "word_id": "unimet-kok-निर्बळ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-निर्बळ-n14547643::unimet-kok-निर्बळ-n10771636": {
+          "source": "unimet-kok-निर्बळ-n14547643",
+          "target": "unimet-kok-निर्बळ-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "पणस",
+      "all_senses": [
+        {
+          "id": "unimet-kok-पणस-n07754684",
+          "lemma": "पणस",
+          "word_id": "unimet-kok-पणस",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        },
+        {
+          "id": "unimet-kok-पणस-n12400720",
+          "lemma": "पणस",
+          "word_id": "unimet-kok-पणस",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-पणस-n07754684",
+          "lemma": "पणस",
+          "word_id": "unimet-kok-पणस",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-पणस-n12400720",
+          "lemma": "पणस",
+          "word_id": "unimet-kok-पणस",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-पणस-n07754684::unimet-kok-पणस-n12400720": {
+          "source": "unimet-kok-पणस-n07754684",
+          "target": "unimet-kok-पणस-n12400720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "पिस्ता",
+      "all_senses": [
+        {
+          "id": "unimet-kok-पिस्ता-n07775050",
+          "lemma": "पिस्ता",
+          "word_id": "unimet-kok-पिस्ता",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        },
+        {
+          "id": "unimet-kok-पिस्ता-n12761702",
+          "lemma": "पिस्ता",
+          "word_id": "unimet-kok-पिस्ता",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-पिस्ता-n07775050",
+          "lemma": "पिस्ता",
+          "word_id": "unimet-kok-पिस्ता",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-पिस्ता-n12761702",
+          "lemma": "पिस्ता",
+          "word_id": "unimet-kok-पिस्ता",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-पिस्ता-n07775050::unimet-kok-पिस्ता-n12761702": {
+          "source": "unimet-kok-पिस्ता-n07775050",
+          "target": "unimet-kok-पिस्ता-n12761702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "पेर",
+      "all_senses": [
+        {
+          "id": "unimet-kok-पेर-n07765361",
+          "lemma": "पेर",
+          "word_id": "unimet-kok-पेर",
+          "synset": {
+            "id": "omw-en-07765361-n",
+            "ili": "i77876",
+            "pos": "n",
+            "lemmas": [
+              "guava"
+            ],
+            "definition": "tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies"
+          }
+        },
+        {
+          "id": "unimet-kok-पेर-n12333771",
+          "lemma": "पेर",
+          "word_id": "unimet-kok-पेर",
+          "synset": {
+            "id": "omw-en-12333771-n",
+            "ili": "i101848",
+            "pos": "n",
+            "lemmas": [
+              "psidium littorale"
+            ],
+            "definition": "small tropical shrubby tree bearing small yellowish fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-पेर-n07765361",
+          "lemma": "पेर",
+          "word_id": "unimet-kok-पेर",
+          "synset": {
+            "id": "omw-en-07765361-n",
+            "ili": "i77876",
+            "pos": "n",
+            "lemmas": [
+              "guava"
+            ],
+            "definition": "tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-पेर-n12333771",
+          "lemma": "पेर",
+          "word_id": "unimet-kok-पेर",
+          "synset": {
+            "id": "omw-en-12333771-n",
+            "ili": "i101848",
+            "pos": "n",
+            "lemmas": [
+              "psidium littorale"
+            ],
+            "definition": "small tropical shrubby tree bearing small yellowish fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-पेर-n07765361::unimet-kok-पेर-n12333771": {
+          "source": "unimet-kok-पेर-n07765361",
+          "target": "unimet-kok-पेर-n12333771",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "पोपाय",
+      "all_senses": [
+        {
+          "id": "unimet-kok-पोपाय-n07762244",
+          "lemma": "पोपाय",
+          "word_id": "unimet-kok-पोपाय",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-kok-पोपाय-n12373100",
+          "lemma": "पोपाय",
+          "word_id": "unimet-kok-पोपाय",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-पोपाय-n07762244",
+          "lemma": "पोपाय",
+          "word_id": "unimet-kok-पोपाय",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-पोपाय-n12373100",
+          "lemma": "पोपाय",
+          "word_id": "unimet-kok-पोपाय",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-पोपाय-n07762244::unimet-kok-पोपाय-n12373100": {
+          "source": "unimet-kok-पोपाय-n07762244",
+          "target": "unimet-kok-पोपाय-n12373100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "फोन",
+      "all_senses": [
+        {
+          "id": "unimet-kok-फोन-n04401088",
+          "lemma": "फोन",
+          "word_id": "unimet-kok-फोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-kok-फोन-n06272290",
+          "lemma": "फोन",
+          "word_id": "unimet-kok-फोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-फोन-n04401088",
+          "lemma": "फोन",
+          "word_id": "unimet-kok-फोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-फोन-n06272290",
+          "lemma": "फोन",
+          "word_id": "unimet-kok-फोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-फोन-n04401088::unimet-kok-फोन-n06272290": {
+          "source": "unimet-kok-फोन-n04401088",
+          "target": "unimet-kok-फोन-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बकें",
+      "all_senses": [
+        {
+          "id": "unimet-kok-बकें-n01846331",
+          "lemma": "बकें",
+          "word_id": "unimet-kok-बकें",
+          "synset": {
+            "id": "omw-en-01846331-n",
+            "ili": "i45045",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+          }
+        },
+        {
+          "id": "unimet-kok-बकें-n07646578",
+          "lemma": "बकें",
+          "word_id": "unimet-kok-बकें",
+          "synset": {
+            "id": "omw-en-07646578-n",
+            "ili": "i77076",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "flesh of a duck (domestic or wild)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-बकें-n01846331",
+          "lemma": "बकें",
+          "word_id": "unimet-kok-बकें",
+          "synset": {
+            "id": "omw-en-01846331-n",
+            "ili": "i45045",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-बकें-n07646578",
+          "lemma": "बकें",
+          "word_id": "unimet-kok-बकें",
+          "synset": {
+            "id": "omw-en-07646578-n",
+            "ili": "i77076",
+            "pos": "n",
+            "lemmas": [
+              "duck"
+            ],
+            "definition": "flesh of a duck (domestic or wild)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-बकें-n01846331::unimet-kok-बकें-n07646578": {
+          "source": "unimet-kok-बकें-n01846331",
+          "target": "unimet-kok-बकें-n07646578",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बटाट",
+      "all_senses": [
+        {
+          "id": "unimet-kok-बटाट-n07710616",
+          "lemma": "बटाट",
+          "word_id": "unimet-kok-बटाट",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        },
+        {
+          "id": "unimet-kok-बटाट-n12897493",
+          "lemma": "बटाट",
+          "word_id": "unimet-kok-बटाट",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-बटाट-n12897493",
+          "lemma": "बटाट",
+          "word_id": "unimet-kok-बटाट",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-बटाट-n07710616",
+          "lemma": "बटाट",
+          "word_id": "unimet-kok-बटाट",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-बटाट-n12897493::unimet-kok-बटाट-n07710616": {
+          "source": "unimet-kok-बटाट-n12897493",
+          "target": "unimet-kok-बटाट-n07710616",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बाळकी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-बाळकी-n14359459",
+          "lemma": "बाळकी",
+          "word_id": "unimet-kok-बाळकी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        },
+        {
+          "id": "unimet-kok-बाळकी-v00003826",
+          "lemma": "बाळकी",
+          "word_id": "unimet-kok-बाळकी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-बाळकी-v00003826",
+          "lemma": "बाळकी",
+          "word_id": "unimet-kok-बाळकी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-बाळकी-n14359459",
+          "lemma": "बाळकी",
+          "word_id": "unimet-kok-बाळकी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-बाळकी-v00003826::unimet-kok-बाळकी-n14359459": {
+          "source": "unimet-kok-बाळकी-v00003826",
+          "target": "unimet-kok-बाळकी-n14359459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बिही",
+      "all_senses": [
+        {
+          "id": "unimet-kok-बिही-n07769584",
+          "lemma": "बिही",
+          "word_id": "unimet-kok-बिही",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-kok-बिही-n12628986",
+          "lemma": "बिही",
+          "word_id": "unimet-kok-बिही",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-बिही-n07769584",
+          "lemma": "बिही",
+          "word_id": "unimet-kok-बिही",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-बिही-n12628986",
+          "lemma": "बिही",
+          "word_id": "unimet-kok-बिही",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-बिही-n07769584::unimet-kok-बिही-n12628986": {
+          "source": "unimet-kok-बिही-n07769584",
+          "target": "unimet-kok-बिही-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बीट",
+      "all_senses": [
+        {
+          "id": "unimet-kok-बीट-n07719839",
+          "lemma": "बीट",
+          "word_id": "unimet-kok-बीट",
+          "synset": {
+            "id": "omw-en-07719839-n",
+            "ili": "i77575",
+            "pos": "n",
+            "lemmas": [
+              "beet"
+            ],
+            "definition": "round red root vegetable"
+          }
+        },
+        {
+          "id": "unimet-kok-बीट-n11832480",
+          "lemma": "बीट",
+          "word_id": "unimet-kok-बीट",
+          "synset": {
+            "id": "omw-en-11832480-n",
+            "ili": "i99464",
+            "pos": "n",
+            "lemmas": [
+              "beetroot"
+            ],
+            "definition": "beet having a massively swollen red root; widely grown for human consumption"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-बीट-n11832480",
+          "lemma": "बीट",
+          "word_id": "unimet-kok-बीट",
+          "synset": {
+            "id": "omw-en-11832480-n",
+            "ili": "i99464",
+            "pos": "n",
+            "lemmas": [
+              "beetroot"
+            ],
+            "definition": "beet having a massively swollen red root; widely grown for human consumption"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-बीट-n07719839",
+          "lemma": "बीट",
+          "word_id": "unimet-kok-बीट",
+          "synset": {
+            "id": "omw-en-07719839-n",
+            "ili": "i77575",
+            "pos": "n",
+            "lemmas": [
+              "beet"
+            ],
+            "definition": "round red root vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-बीट-n11832480::unimet-kok-बीट-n07719839": {
+          "source": "unimet-kok-बीट-n11832480",
+          "target": "unimet-kok-बीट-n07719839",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मको",
+      "all_senses": [
+        {
+          "id": "unimet-kok-मको-n12143676",
+          "lemma": "मको",
+          "word_id": "unimet-kok-मको",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        },
+        {
+          "id": "unimet-kok-मको-n12144580",
+          "lemma": "मको",
+          "word_id": "unimet-kok-मको",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-मको-n12143676",
+          "lemma": "मको",
+          "word_id": "unimet-kok-मको",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-मको-n12144580",
+          "lemma": "मको",
+          "word_id": "unimet-kok-मको",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-मको-n12143676::unimet-kok-मको-n12144580": {
+          "source": "unimet-kok-मको-n12143676",
+          "target": "unimet-kok-मको-n12144580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मसूर",
+      "all_senses": [
+        {
+          "id": "unimet-kok-मसूर-n07725255",
+          "lemma": "मसूर",
+          "word_id": "unimet-kok-मसूर",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-kok-मसूर-n12544240",
+          "lemma": "मसूर",
+          "word_id": "unimet-kok-मसूर",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-मसूर-n12544240",
+          "lemma": "मसूर",
+          "word_id": "unimet-kok-मसूर",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-मसूर-n07725255",
+          "lemma": "मसूर",
+          "word_id": "unimet-kok-मसूर",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-मसूर-n12544240::unimet-kok-मसूर-n07725255": {
+          "source": "unimet-kok-मसूर-n12544240",
+          "target": "unimet-kok-मसूर-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मुळो",
+      "all_senses": [
+        {
+          "id": "unimet-kok-मुळो-n07735687",
+          "lemma": "मुळो",
+          "word_id": "unimet-kok-मुळो",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-kok-मुळो-n11894327",
+          "lemma": "मुळो",
+          "word_id": "unimet-kok-मुळो",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-मुळो-n11894327",
+          "lemma": "मुळो",
+          "word_id": "unimet-kok-मुळो",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-मुळो-n07735687",
+          "lemma": "मुळो",
+          "word_id": "unimet-kok-मुळो",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-मुळो-n11894327::unimet-kok-मुळो-n07735687": {
+          "source": "unimet-kok-मुळो-n11894327",
+          "target": "unimet-kok-मुळो-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "रसभरी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-रसभरी-n07744430",
+          "lemma": "रसभरी",
+          "word_id": "unimet-kok-रसभरी",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        },
+        {
+          "id": "unimet-kok-रसभरी-n12911079",
+          "lemma": "रसभरी",
+          "word_id": "unimet-kok-रसभरी",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-रसभरी-n07744430",
+          "lemma": "रसभरी",
+          "word_id": "unimet-kok-रसभरी",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-रसभरी-n12911079",
+          "lemma": "रसभरी",
+          "word_id": "unimet-kok-रसभरी",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-रसभरी-n07744430::unimet-kok-रसभरी-n12911079": {
+          "source": "unimet-kok-रसभरी-n07744430",
+          "target": "unimet-kok-रसभरी-n12911079",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "राजमा",
+      "all_senses": [
+        {
+          "id": "unimet-kok-राजमा-n07727048",
+          "lemma": "राजमा",
+          "word_id": "unimet-kok-राजमा",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        },
+        {
+          "id": "unimet-kok-राजमा-n12557064",
+          "lemma": "राजमा",
+          "word_id": "unimet-kok-राजमा",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-राजमा-n12557064",
+          "lemma": "राजमा",
+          "word_id": "unimet-kok-राजमा",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-राजमा-n07727048",
+          "lemma": "राजमा",
+          "word_id": "unimet-kok-राजमा",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-राजमा-n12557064::unimet-kok-राजमा-n07727048": {
+          "source": "unimet-kok-राजमा-n12557064",
+          "target": "unimet-kok-राजमा-n07727048",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "राज्य",
+      "all_senses": [
+        {
+          "id": "unimet-kok-राज्य-n08405603",
+          "lemma": "राज्य",
+          "word_id": "unimet-kok-राज्य",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-kok-राज्य-n08558155",
+          "lemma": "राज्य",
+          "word_id": "unimet-kok-राज्य",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-राज्य-n08405603",
+          "lemma": "राज्य",
+          "word_id": "unimet-kok-राज्य",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-राज्य-n08558155",
+          "lemma": "राज्य",
+          "word_id": "unimet-kok-राज्य",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-राज्य-n08405603::unimet-kok-राज्य-n08558155": {
+          "source": "unimet-kok-राज्य-n08405603",
+          "target": "unimet-kok-राज्य-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "रामदाणा",
+      "all_senses": [
+        {
+          "id": "unimet-kok-रामदाणा-n11823305",
+          "lemma": "रामदाणा",
+          "word_id": "unimet-kok-रामदाणा",
+          "synset": {
+            "id": "omw-en-11823305-n",
+            "ili": "i99419",
+            "pos": "n",
+            "lemmas": [
+              "amaranth"
+            ],
+            "definition": "seed of amaranth plants used as a native cereal in Central and South America"
+          }
+        },
+        {
+          "id": "unimet-kok-रामदाणा-n11823756",
+          "lemma": "रामदाणा",
+          "word_id": "unimet-kok-रामदाणा",
+          "synset": {
+            "id": "omw-en-11823756-n",
+            "ili": "i99422",
+            "pos": "n",
+            "lemmas": [
+              "gentleman's-cane"
+            ],
+            "definition": "tall showy tropical American annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-रामदाणा-n11823305",
+          "lemma": "रामदाणा",
+          "word_id": "unimet-kok-रामदाणा",
+          "synset": {
+            "id": "omw-en-11823305-n",
+            "ili": "i99419",
+            "pos": "n",
+            "lemmas": [
+              "amaranth"
+            ],
+            "definition": "seed of amaranth plants used as a native cereal in Central and South America"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-रामदाणा-n11823756",
+          "lemma": "रामदाणा",
+          "word_id": "unimet-kok-रामदाणा",
+          "synset": {
+            "id": "omw-en-11823756-n",
+            "ili": "i99422",
+            "pos": "n",
+            "lemmas": [
+              "gentleman's-cane"
+            ],
+            "definition": "tall showy tropical American annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-रामदाणा-n11823305::unimet-kok-रामदाणा-n11823756": {
+          "source": "unimet-kok-रामदाणा-n11823305",
+          "target": "unimet-kok-रामदाणा-n11823756",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "लिची",
+      "all_senses": [
+        {
+          "id": "unimet-kok-लिची-n07766173",
+          "lemma": "लिची",
+          "word_id": "unimet-kok-लिची",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-kok-लिची-n12744387",
+          "lemma": "लिची",
+          "word_id": "unimet-kok-लिची",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-लिची-n07766173",
+          "lemma": "लिची",
+          "word_id": "unimet-kok-लिची",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-लिची-n12744387",
+          "lemma": "लिची",
+          "word_id": "unimet-kok-लिची",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-लिची-n07766173::unimet-kok-लिची-n12744387": {
+          "source": "unimet-kok-लिची-n07766173",
+          "target": "unimet-kok-लिची-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "वाटाणो",
+      "all_senses": [
+        {
+          "id": "unimet-kok-वाटाणो-n12541403",
+          "lemma": "वाटाणो",
+          "word_id": "unimet-kok-वाटाणो",
+          "synset": {
+            "id": "omw-en-12541403-n",
+            "ili": "i102819",
+            "pos": "n",
+            "lemmas": [
+              "grass pea"
+            ],
+            "definition": "European annual grown for forage; seeds used for food in India and for stock elsewhere"
+          }
+        },
+        {
+          "id": "unimet-kok-वाटाणो-n12560282",
+          "lemma": "वाटाणो",
+          "word_id": "unimet-kok-वाटाणो",
+          "synset": {
+            "id": "omw-en-12560282-n",
+            "ili": "i102907",
+            "pos": "n",
+            "lemmas": [
+              "pea"
+            ],
+            "definition": "the fruit or seed of a pea plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-वाटाणो-n12541403",
+          "lemma": "वाटाणो",
+          "word_id": "unimet-kok-वाटाणो",
+          "synset": {
+            "id": "omw-en-12541403-n",
+            "ili": "i102819",
+            "pos": "n",
+            "lemmas": [
+              "grass pea"
+            ],
+            "definition": "European annual grown for forage; seeds used for food in India and for stock elsewhere"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-वाटाणो-n12560282",
+          "lemma": "वाटाणो",
+          "word_id": "unimet-kok-वाटाणो",
+          "synset": {
+            "id": "omw-en-12560282-n",
+            "ili": "i102907",
+            "pos": "n",
+            "lemmas": [
+              "pea"
+            ],
+            "definition": "the fruit or seed of a pea plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-वाटाणो-n12541403::unimet-kok-वाटाणो-n12560282": {
+          "source": "unimet-kok-वाटाणो-n12541403",
+          "target": "unimet-kok-वाटाणो-n12560282",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "वाहक",
+      "all_senses": [
+        {
+          "id": "unimet-kok-वाहक-n03088707",
+          "lemma": "वाहक",
+          "word_id": "unimet-kok-वाहक",
+          "synset": {
+            "id": "omw-en-03088707-n",
+            "ili": "i52264",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a device designed to transmit electricity, heat, etc."
+          }
+        },
+        {
+          "id": "unimet-kok-वाहक-n14821043",
+          "lemma": "वाहक",
+          "word_id": "unimet-kok-वाहक",
+          "synset": {
+            "id": "omw-en-14821043-n",
+            "ili": "i114929",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a substance that readily conducts e.g. electricity and heat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-वाहक-n14821043",
+          "lemma": "वाहक",
+          "word_id": "unimet-kok-वाहक",
+          "synset": {
+            "id": "omw-en-14821043-n",
+            "ili": "i114929",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a substance that readily conducts e.g. electricity and heat"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-वाहक-n03088707",
+          "lemma": "वाहक",
+          "word_id": "unimet-kok-वाहक",
+          "synset": {
+            "id": "omw-en-03088707-n",
+            "ili": "i52264",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a device designed to transmit electricity, heat, etc."
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-वाहक-n14821043::unimet-kok-वाहक-n03088707": {
+          "source": "unimet-kok-वाहक-n14821043",
+          "target": "unimet-kok-वाहक-n03088707",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "विद्यालय",
+      "all_senses": [
+        {
+          "id": "unimet-kok-विद्यालय-n04146050",
+          "lemma": "विद्यालय",
+          "word_id": "unimet-kok-विद्यालय",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-kok-विद्यालय-n08275185",
+          "lemma": "विद्यालय",
+          "word_id": "unimet-kok-विद्यालय",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-विद्यालय-n04146050",
+          "lemma": "विद्यालय",
+          "word_id": "unimet-kok-विद्यालय",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-विद्यालय-n08275185",
+          "lemma": "विद्यालय",
+          "word_id": "unimet-kok-विद्यालय",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-विद्यालय-n04146050::unimet-kok-विद्यालय-n08275185": {
+          "source": "unimet-kok-विद्यालय-n04146050",
+          "target": "unimet-kok-विद्यालय-n08275185",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "शाळा",
+      "all_senses": [
+        {
+          "id": "unimet-kok-शाळा-n04146050",
+          "lemma": "शाळा",
+          "word_id": "unimet-kok-शाळा",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-kok-शाळा-n08275185",
+          "lemma": "शाळा",
+          "word_id": "unimet-kok-शाळा",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-शाळा-n04146050",
+          "lemma": "शाळा",
+          "word_id": "unimet-kok-शाळा",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-शाळा-n08275185",
+          "lemma": "शाळा",
+          "word_id": "unimet-kok-शाळा",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-शाळा-n04146050::unimet-kok-शाळा-n08275185": {
+          "source": "unimet-kok-शाळा-n04146050",
+          "target": "unimet-kok-शाळा-n08275185",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "शिमला मिरसांग",
+      "all_senses": [
+        {
+          "id": "unimet-kok-शिमला मिरसांग-n07720875",
+          "lemma": "शिमला मिरसांग",
+          "word_id": "unimet-kok-शिमला मिरसांग",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        },
+        {
+          "id": "unimet-kok-शिमला मिरसांग-n12901264",
+          "lemma": "शिमला मिरसांग",
+          "word_id": "unimet-kok-शिमला मिरसांग",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-शिमला मिरसांग-n12901264",
+          "lemma": "शिमला मिरसांग",
+          "word_id": "unimet-kok-शिमला मिरसांग",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-शिमला मिरसांग-n07720875",
+          "lemma": "शिमला मिरसांग",
+          "word_id": "unimet-kok-शिमला मिरसांग",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-शिमला मिरसांग-n12901264::unimet-kok-शिमला मिरसांग-n07720875": {
+          "source": "unimet-kok-शिमला मिरसांग-n12901264",
+          "target": "unimet-kok-शिमला मिरसांग-n07720875",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "सप्ताळू",
+      "all_senses": [
+        {
+          "id": "unimet-kok-सप्ताळू-n07751004",
+          "lemma": "सप्ताळू",
+          "word_id": "unimet-kok-सप्ताळू",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-kok-सप्ताळू-n12648045",
+          "lemma": "सप्ताळू",
+          "word_id": "unimet-kok-सप्ताळू",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-सप्ताळू-n07751004",
+          "lemma": "सप्ताळू",
+          "word_id": "unimet-kok-सप्ताळू",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-सप्ताळू-n12648045",
+          "lemma": "सप्ताळू",
+          "word_id": "unimet-kok-सप्ताळू",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-सप्ताळू-n07751004::unimet-kok-सप्ताळू-n12648045": {
+          "source": "unimet-kok-सप्ताळू-n07751004",
+          "target": "unimet-kok-सप्ताळू-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "साम्राज्य",
+      "all_senses": [
+        {
+          "id": "unimet-kok-साम्राज्य-n08405723",
+          "lemma": "साम्राज्य",
+          "word_id": "unimet-kok-साम्राज्य",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        },
+        {
+          "id": "unimet-kok-साम्राज्य-n08557482",
+          "lemma": "साम्राज्य",
+          "word_id": "unimet-kok-साम्राज्य",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-साम्राज्य-n08405723",
+          "lemma": "साम्राज्य",
+          "word_id": "unimet-kok-साम्राज्य",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-साम्राज्य-n08557482",
+          "lemma": "साम्राज्य",
+          "word_id": "unimet-kok-साम्राज्य",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-साम्राज्य-n08405723::unimet-kok-साम्राज्य-n08557482": {
+          "source": "unimet-kok-साम्राज्य-n08405723",
+          "target": "unimet-kok-साम्राज्य-n08557482",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "सुपारी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-सुपारी-n07770869",
+          "lemma": "सुपारी",
+          "word_id": "unimet-kok-सुपारी",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-kok-सुपारी-n12584365",
+          "lemma": "सुपारी",
+          "word_id": "unimet-kok-सुपारी",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-सुपारी-n07770869",
+          "lemma": "सुपारी",
+          "word_id": "unimet-kok-सुपारी",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-सुपारी-n12584365",
+          "lemma": "सुपारी",
+          "word_id": "unimet-kok-सुपारी",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-सुपारी-n07770869::unimet-kok-सुपारी-n12584365": {
+          "source": "unimet-kok-सुपारी-n07770869",
+          "target": "unimet-kok-सुपारी-n12584365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "सोयाबीन",
+      "all_senses": [
+        {
+          "id": "unimet-kok-सोयाबीन-n12532168",
+          "lemma": "सोयाबीन",
+          "word_id": "unimet-kok-सोयाबीन",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        },
+        {
+          "id": "unimet-kok-सोयाबीन-n12532564",
+          "lemma": "सोयाबीन",
+          "word_id": "unimet-kok-सोयाबीन",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-सोयाबीन-n12532168",
+          "lemma": "सोयाबीन",
+          "word_id": "unimet-kok-सोयाबीन",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-सोयाबीन-n12532564",
+          "lemma": "सोयाबीन",
+          "word_id": "unimet-kok-सोयाबीन",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-सोयाबीन-n12532168::unimet-kok-सोयाबीन-n12532564": {
+          "source": "unimet-kok-सोयाबीन-n12532168",
+          "target": "unimet-kok-सोयाबीन-n12532564",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "हुंडकी",
+      "all_senses": [
+        {
+          "id": "unimet-kok-हुंडकी-n14359459",
+          "lemma": "हुंडकी",
+          "word_id": "unimet-kok-हुंडकी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        },
+        {
+          "id": "unimet-kok-हुंडकी-v00003826",
+          "lemma": "हुंडकी",
+          "word_id": "unimet-kok-हुंडकी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kok-हुंडकी-v00003826",
+          "lemma": "हुंडकी",
+          "word_id": "unimet-kok-हुंडकी",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kok-हुंडकी-n14359459",
+          "lemma": "हुंडकी",
+          "word_id": "unimet-kok-हुंडकी",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kok-हुंडकी-v00003826::unimet-kok-हुंडकी-n14359459": {
+          "source": "unimet-kok-हुंडकी-v00003826",
+          "target": "unimet-kok-हुंडकी-n14359459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "id": "711f72e6228bc014",
+  "name": "unimet-Breton",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "bre",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "bro",
+      "all_senses": [
+        {
+          "id": "unimet-bre-bro-n08168978",
+          "lemma": "bro",
+          "word_id": "unimet-bre-bro",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-bre-bro-n08544813",
+          "lemma": "bro",
+          "word_id": "unimet-bre-bro",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-bro-n08168978",
+          "lemma": "bro",
+          "word_id": "unimet-bre-bro",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-bro-n08544813",
+          "lemma": "bro",
+          "word_id": "unimet-bre-bro",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-bro-n08168978::unimet-bre-bro-n08544813": {
+          "source": "unimet-bre-bro-n08168978",
+          "target": "unimet-bre-bro-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karantez",
+      "all_senses": [
+        {
+          "id": "unimet-bre-karantez-n07543288",
+          "lemma": "karantez",
+          "word_id": "unimet-bre-karantez",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-bre-karantez-n09849598",
+          "lemma": "karantez",
+          "word_id": "unimet-bre-karantez",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-karantez-n07543288",
+          "lemma": "karantez",
+          "word_id": "unimet-bre-karantez",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-karantez-n09849598",
+          "lemma": "karantez",
+          "word_id": "unimet-bre-karantez",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-karantez-n07543288::unimet-bre-karantez-n09849598": {
+          "source": "unimet-bre-karantez-n07543288",
+          "target": "unimet-bre-karantez-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kerezenn",
+      "all_senses": [
+        {
+          "id": "unimet-bre-kerezenn-n07757132",
+          "lemma": "kerezenn",
+          "word_id": "unimet-bre-kerezenn",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-bre-kerezenn-n12641413",
+          "lemma": "kerezenn",
+          "word_id": "unimet-bre-kerezenn",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-kerezenn-n07757132",
+          "lemma": "kerezenn",
+          "word_id": "unimet-bre-kerezenn",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-kerezenn-n12641413",
+          "lemma": "kerezenn",
+          "word_id": "unimet-bre-kerezenn",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-kerezenn-n07757132::unimet-bre-kerezenn-n12641413": {
+          "source": "unimet-bre-kerezenn-n07757132",
+          "target": "unimet-bre-kerezenn-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pellgomz",
+      "all_senses": [
+        {
+          "id": "unimet-bre-pellgomz-n04401088",
+          "lemma": "pellgomz",
+          "word_id": "unimet-bre-pellgomz",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-bre-pellgomz-v00789448",
+          "lemma": "pellgomz",
+          "word_id": "unimet-bre-pellgomz",
+          "synset": {
+            "id": "omw-en-00789448-v",
+            "ili": "i25628",
+            "pos": "v",
+            "lemmas": [
+              "call"
+            ],
+            "definition": "get or try to get into communication (with someone) by telephone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-pellgomz-n04401088",
+          "lemma": "pellgomz",
+          "word_id": "unimet-bre-pellgomz",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-pellgomz-v00789448",
+          "lemma": "pellgomz",
+          "word_id": "unimet-bre-pellgomz",
+          "synset": {
+            "id": "omw-en-00789448-v",
+            "ili": "i25628",
+            "pos": "v",
+            "lemmas": [
+              "call"
+            ],
+            "definition": "get or try to get into communication (with someone) by telephone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-pellgomz-n04401088::unimet-bre-pellgomz-v00789448": {
+          "source": "unimet-bre-pellgomz-n04401088",
+          "target": "unimet-bre-pellgomz-v00789448",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skol",
+      "all_senses": [
+        {
+          "id": "unimet-bre-skol-n04146050",
+          "lemma": "skol",
+          "word_id": "unimet-bre-skol",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-bre-skol-n08276720",
+          "lemma": "skol",
+          "word_id": "unimet-bre-skol",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-skol-n04146050",
+          "lemma": "skol",
+          "word_id": "unimet-bre-skol",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-skol-n08276720",
+          "lemma": "skol",
+          "word_id": "unimet-bre-skol",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-skol-n04146050::unimet-bre-skol-n08276720": {
+          "source": "unimet-bre-skol-n04146050",
+          "target": "unimet-bre-skol-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stad",
+      "all_senses": [
+        {
+          "id": "unimet-bre-stad-n08178547",
+          "lemma": "stad",
+          "word_id": "unimet-bre-stad",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-bre-stad-n08654360",
+          "lemma": "stad",
+          "word_id": "unimet-bre-stad",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-stad-n08178547",
+          "lemma": "stad",
+          "word_id": "unimet-bre-stad",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-stad-n08654360",
+          "lemma": "stad",
+          "word_id": "unimet-bre-stad",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-stad-n08178547::unimet-bre-stad-n08654360": {
+          "source": "unimet-bre-stad-n08178547",
+          "target": "unimet-bre-stad-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "yar",
+      "all_senses": [
+        {
+          "id": "unimet-bre-yar-n01791625",
+          "lemma": "yar",
+          "word_id": "unimet-bre-yar",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-bre-yar-n07644967",
+          "lemma": "yar",
+          "word_id": "unimet-bre-yar",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bre-yar-n01791625",
+          "lemma": "yar",
+          "word_id": "unimet-bre-yar",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bre-yar-n07644967",
+          "lemma": "yar",
+          "word_id": "unimet-bre-yar",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bre-yar-n01791625::unimet-bre-yar-n07644967": {
+          "source": "unimet-bre-yar-n01791625",
+          "target": "unimet-bre-yar-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

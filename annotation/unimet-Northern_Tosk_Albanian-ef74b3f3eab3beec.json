@@ -1,0 +1,2028 @@
+{
+  "id": "ef74b3f3eab3beec",
+  "name": "unimet-Northern Tosk Albanian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "als",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "bimë",
+      "all_senses": [
+        {
+          "id": "unimet-als-bimë-n00017222",
+          "lemma": "bimë",
+          "word_id": "unimet-als-bimë",
+          "synset": {
+            "id": "omw-en-00017222-n",
+            "ili": "i35564",
+            "pos": "n",
+            "lemmas": [
+              "vegetation"
+            ],
+            "definition": "a living organism lacking the power of locomotion"
+          }
+        },
+        {
+          "id": "unimet-als-bimë-n07707451",
+          "lemma": "bimë",
+          "word_id": "unimet-als-bimë",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-bimë-n00017222",
+          "lemma": "bimë",
+          "word_id": "unimet-als-bimë",
+          "synset": {
+            "id": "omw-en-00017222-n",
+            "ili": "i35564",
+            "pos": "n",
+            "lemmas": [
+              "vegetation"
+            ],
+            "definition": "a living organism lacking the power of locomotion"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-bimë-n07707451",
+          "lemma": "bimë",
+          "word_id": "unimet-als-bimë",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-bimë-n00017222::unimet-als-bimë-n07707451": {
+          "source": "unimet-als-bimë-n00017222",
+          "target": "unimet-als-bimë-n07707451",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dremitje",
+      "all_senses": [
+        {
+          "id": "unimet-als-dremitje-n15273626",
+          "lemma": "dremitje",
+          "word_id": "unimet-als-dremitje",
+          "synset": {
+            "id": "omw-en-15273626-n",
+            "ili": "i117511",
+            "pos": "n",
+            "lemmas": [
+              "nap"
+            ],
+            "definition": "a period of time spent sleeping"
+          }
+        },
+        {
+          "id": "unimet-als-dremitje-v00014742",
+          "lemma": "dremitje",
+          "word_id": "unimet-als-dremitje",
+          "synset": {
+            "id": "omw-en-00014742-v",
+            "ili": "i21840",
+            "pos": "v",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "be asleep"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-dremitje-v00014742",
+          "lemma": "dremitje",
+          "word_id": "unimet-als-dremitje",
+          "synset": {
+            "id": "omw-en-00014742-v",
+            "ili": "i21840",
+            "pos": "v",
+            "lemmas": [
+              "sleep"
+            ],
+            "definition": "be asleep"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-dremitje-n15273626",
+          "lemma": "dremitje",
+          "word_id": "unimet-als-dremitje",
+          "synset": {
+            "id": "omw-en-15273626-n",
+            "ili": "i117511",
+            "pos": "n",
+            "lemmas": [
+              "nap"
+            ],
+            "definition": "a period of time spent sleeping"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-dremitje-v00014742::unimet-als-dremitje-n15273626": {
+          "source": "unimet-als-dremitje-v00014742",
+          "target": "unimet-als-dremitje-n15273626",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "faqe",
+      "all_senses": [
+        {
+          "id": "unimet-als-faqe-n05602835",
+          "lemma": "faqe",
+          "word_id": "unimet-als-faqe",
+          "synset": {
+            "id": "omw-en-05602835-n",
+            "ili": "i66353",
+            "pos": "n",
+            "lemmas": [
+              "cheek"
+            ],
+            "definition": "either side of the face below the eyes"
+          }
+        },
+        {
+          "id": "unimet-als-faqe-n09618957",
+          "lemma": "faqe",
+          "word_id": "unimet-als-faqe",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-faqe-n05602835",
+          "lemma": "faqe",
+          "word_id": "unimet-als-faqe",
+          "synset": {
+            "id": "omw-en-05602835-n",
+            "ili": "i66353",
+            "pos": "n",
+            "lemmas": [
+              "cheek"
+            ],
+            "definition": "either side of the face below the eyes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-faqe-n09618957",
+          "lemma": "faqe",
+          "word_id": "unimet-als-faqe",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-faqe-n05602835::unimet-als-faqe-n09618957": {
+          "source": "unimet-als-faqe-n05602835",
+          "target": "unimet-als-faqe-n09618957",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fat",
+      "all_senses": [
+        {
+          "id": "unimet-als-fat-n09504915",
+          "lemma": "fat",
+          "word_id": "unimet-als-fat",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        },
+        {
+          "id": "unimet-als-fat-n14473222",
+          "lemma": "fat",
+          "word_id": "unimet-als-fat",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-fat-n14473222",
+          "lemma": "fat",
+          "word_id": "unimet-als-fat",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-fat-n09504915",
+          "lemma": "fat",
+          "word_id": "unimet-als-fat",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-fat-n14473222::unimet-als-fat-n09504915": {
+          "source": "unimet-als-fat-n14473222",
+          "target": "unimet-als-fat-n09504915",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "forcë",
+      "all_senses": [
+        {
+          "id": "unimet-als-forcë-n05190804",
+          "lemma": "forcë",
+          "word_id": "unimet-als-forcë",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        },
+        {
+          "id": "unimet-als-forcë-n05191695",
+          "lemma": "forcë",
+          "word_id": "unimet-als-forcë",
+          "synset": {
+            "id": "omw-en-05191695-n",
+            "ili": "i64255",
+            "pos": "n",
+            "lemmas": [
+              "puissance"
+            ],
+            "definition": "power to influence or coerce"
+          }
+        },
+        {
+          "id": "unimet-als-forcë-n10461424",
+          "lemma": "forcë",
+          "word_id": "unimet-als-forcë",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-forcë-n05190804",
+          "lemma": "forcë",
+          "word_id": "unimet-als-forcë",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        },
+        {
+          "id": "unimet-als-forcë-n05191695",
+          "lemma": "forcë",
+          "word_id": "unimet-als-forcë",
+          "synset": {
+            "id": "omw-en-05191695-n",
+            "ili": "i64255",
+            "pos": "n",
+            "lemmas": [
+              "puissance"
+            ],
+            "definition": "power to influence or coerce"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-forcë-n10461424",
+          "lemma": "forcë",
+          "word_id": "unimet-als-forcë",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-forcë-n05190804::unimet-als-forcë-n10461424": {
+          "source": "unimet-als-forcë-n05190804",
+          "target": "unimet-als-forcë-n10461424",
+          "type": "metonymy"
+        },
+        "unimet-als-forcë-n05191695::unimet-als-forcë-n10461424": {
+          "source": "unimet-als-forcë-n05191695",
+          "target": "unimet-als-forcë-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fuqi",
+      "all_senses": [
+        {
+          "id": "unimet-als-fuqi-n05190804",
+          "lemma": "fuqi",
+          "word_id": "unimet-als-fuqi",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        },
+        {
+          "id": "unimet-als-fuqi-n10461424",
+          "lemma": "fuqi",
+          "word_id": "unimet-als-fuqi",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-fuqi-n05190804",
+          "lemma": "fuqi",
+          "word_id": "unimet-als-fuqi",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-fuqi-n10461424",
+          "lemma": "fuqi",
+          "word_id": "unimet-als-fuqi",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-fuqi-n05190804::unimet-als-fuqi-n10461424": {
+          "source": "unimet-als-fuqi-n05190804",
+          "target": "unimet-als-fuqi-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gazetë",
+      "all_senses": [
+        {
+          "id": "unimet-als-gazetë-n03822171",
+          "lemma": "gazetë",
+          "word_id": "unimet-als-gazetë",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-als-gazetë-n06267145",
+          "lemma": "gazetë",
+          "word_id": "unimet-als-gazetë",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-gazetë-n03822171",
+          "lemma": "gazetë",
+          "word_id": "unimet-als-gazetë",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-gazetë-n06267145",
+          "lemma": "gazetë",
+          "word_id": "unimet-als-gazetë",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-gazetë-n03822171::unimet-als-gazetë-n06267145": {
+          "source": "unimet-als-gazetë-n03822171",
+          "target": "unimet-als-gazetë-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hekur",
+      "all_senses": [
+        {
+          "id": "unimet-als-hekur-n03585337",
+          "lemma": "hekur",
+          "word_id": "unimet-als-hekur",
+          "synset": {
+            "id": "omw-en-03585337-n",
+            "ili": "i55183",
+            "pos": "n",
+            "lemmas": [
+              "crimper"
+            ],
+            "definition": "implement used to brand live stock"
+          }
+        },
+        {
+          "id": "unimet-als-hekur-n14642417",
+          "lemma": "hekur",
+          "word_id": "unimet-als-hekur",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-hekur-n14642417",
+          "lemma": "hekur",
+          "word_id": "unimet-als-hekur",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-hekur-n03585337",
+          "lemma": "hekur",
+          "word_id": "unimet-als-hekur",
+          "synset": {
+            "id": "omw-en-03585337-n",
+            "ili": "i55183",
+            "pos": "n",
+            "lemmas": [
+              "crimper"
+            ],
+            "definition": "implement used to brand live stock"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-hekur-n14642417::unimet-als-hekur-n03585337": {
+          "source": "unimet-als-hekur-n14642417",
+          "target": "unimet-als-hekur-n03585337",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "i burgosur",
+      "all_senses": [
+        {
+          "id": "unimet-als-i burgosur-n10476086",
+          "lemma": "i burgosur",
+          "word_id": "unimet-als-i burgosur",
+          "synset": {
+            "id": "omw-en-10476086-n",
+            "ili": "i92258",
+            "pos": "n",
+            "lemmas": [
+              "captive"
+            ],
+            "definition": "a person who is confined; especially a prisoner of war"
+          }
+        },
+        {
+          "id": "unimet-als-i burgosur-n13998576",
+          "lemma": "i burgosur",
+          "word_id": "unimet-als-i burgosur",
+          "synset": {
+            "id": "omw-en-13998576-n",
+            "ili": "i110499",
+            "pos": "n",
+            "lemmas": [
+              "confinement"
+            ],
+            "definition": "the state of being confined"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-i burgosur-n13998576",
+          "lemma": "i burgosur",
+          "word_id": "unimet-als-i burgosur",
+          "synset": {
+            "id": "omw-en-13998576-n",
+            "ili": "i110499",
+            "pos": "n",
+            "lemmas": [
+              "confinement"
+            ],
+            "definition": "the state of being confined"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-i burgosur-n10476086",
+          "lemma": "i burgosur",
+          "word_id": "unimet-als-i burgosur",
+          "synset": {
+            "id": "omw-en-10476086-n",
+            "ili": "i92258",
+            "pos": "n",
+            "lemmas": [
+              "captive"
+            ],
+            "definition": "a person who is confined; especially a prisoner of war"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-i burgosur-n13998576::unimet-als-i burgosur-n10476086": {
+          "source": "unimet-als-i burgosur-n13998576",
+          "target": "unimet-als-i burgosur-n10476086",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karakter",
+      "all_senses": [
+        {
+          "id": "unimet-als-karakter-n04620216",
+          "lemma": "karakter",
+          "word_id": "unimet-als-karakter",
+          "synset": {
+            "id": "omw-en-04620216-n",
+            "ili": "i61359",
+            "pos": "n",
+            "lemmas": [
+              "character"
+            ],
+            "definition": "the inherent complex of attributes that determine a persons moral and ethical actions and reactions"
+          }
+        },
+        {
+          "id": "unimet-als-karakter-n09909060",
+          "lemma": "karakter",
+          "word_id": "unimet-als-karakter",
+          "synset": {
+            "id": "omw-en-09909060-n",
+            "ili": "i88919",
+            "pos": "n",
+            "lemmas": [
+              "type"
+            ],
+            "definition": "a person of a specified kind (usually with many eccentricities)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-karakter-n04620216",
+          "lemma": "karakter",
+          "word_id": "unimet-als-karakter",
+          "synset": {
+            "id": "omw-en-04620216-n",
+            "ili": "i61359",
+            "pos": "n",
+            "lemmas": [
+              "character"
+            ],
+            "definition": "the inherent complex of attributes that determine a persons moral and ethical actions and reactions"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-karakter-n09909060",
+          "lemma": "karakter",
+          "word_id": "unimet-als-karakter",
+          "synset": {
+            "id": "omw-en-09909060-n",
+            "ili": "i88919",
+            "pos": "n",
+            "lemmas": [
+              "type"
+            ],
+            "definition": "a person of a specified kind (usually with many eccentricities)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-karakter-n04620216::unimet-als-karakter-n09909060": {
+          "source": "unimet-als-karakter-n04620216",
+          "target": "unimet-als-karakter-n09909060",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "klub",
+      "all_senses": [
+        {
+          "id": "unimet-als-klub-n03054311",
+          "lemma": "klub",
+          "word_id": "unimet-als-klub",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        },
+        {
+          "id": "unimet-als-klub-n08227214",
+          "lemma": "klub",
+          "word_id": "unimet-als-klub",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-klub-n03054311",
+          "lemma": "klub",
+          "word_id": "unimet-als-klub",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-klub-n08227214",
+          "lemma": "klub",
+          "word_id": "unimet-als-klub",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-klub-n03054311::unimet-als-klub-n08227214": {
+          "source": "unimet-als-klub-n03054311",
+          "target": "unimet-als-klub-n08227214",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "komunë",
+      "all_senses": [
+        {
+          "id": "unimet-als-komunë-n08225581",
+          "lemma": "komunë",
+          "word_id": "unimet-als-komunë",
+          "synset": {
+            "id": "omw-en-08225581-n",
+            "ili": "i80336",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "people living in a town or city having local self-government"
+          }
+        },
+        {
+          "id": "unimet-als-komunë-n08626283",
+          "lemma": "komunë",
+          "word_id": "unimet-als-komunë",
+          "synset": {
+            "id": "omw-en-08626283-n",
+            "ili": "i82317",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "an urban district having corporate status and powers of self-government"
+          }
+        },
+        {
+          "id": "unimet-als-komunë-n11346710",
+          "lemma": "komunë",
+          "word_id": "unimet-als-komunë",
+          "synset": {
+            "id": "omw-en-11346710-n",
+            "ili": "i97189",
+            "pos": "n",
+            "lemmas": [
+              "city"
+            ],
+            "definition": "an administrative division of a county"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-komunë-n08225581",
+          "lemma": "komunë",
+          "word_id": "unimet-als-komunë",
+          "synset": {
+            "id": "omw-en-08225581-n",
+            "ili": "i80336",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "people living in a town or city having local self-government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-komunë-n08626283",
+          "lemma": "komunë",
+          "word_id": "unimet-als-komunë",
+          "synset": {
+            "id": "omw-en-08626283-n",
+            "ili": "i82317",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "an urban district having corporate status and powers of self-government"
+          }
+        },
+        {
+          "id": "unimet-als-komunë-n11346710",
+          "lemma": "komunë",
+          "word_id": "unimet-als-komunë",
+          "synset": {
+            "id": "omw-en-11346710-n",
+            "ili": "i97189",
+            "pos": "n",
+            "lemmas": [
+              "city"
+            ],
+            "definition": "an administrative division of a county"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-komunë-n08225581::unimet-als-komunë-n08626283": {
+          "source": "unimet-als-komunë-n08225581",
+          "target": "unimet-als-komunë-n08626283",
+          "type": "metonymy"
+        },
+        "unimet-als-komunë-n08225581::unimet-als-komunë-n11346710": {
+          "source": "unimet-als-komunë-n08225581",
+          "target": "unimet-als-komunë-n11346710",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "libër",
+      "all_senses": [
+        {
+          "id": "unimet-als-libër-n02870092",
+          "lemma": "libër",
+          "word_id": "unimet-als-libër",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-als-libër-n06410904",
+          "lemma": "libër",
+          "word_id": "unimet-als-libër",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-libër-n02870092",
+          "lemma": "libër",
+          "word_id": "unimet-als-libër",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-libër-n06410904",
+          "lemma": "libër",
+          "word_id": "unimet-als-libër",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-libër-n02870092::unimet-als-libër-n06410904": {
+          "source": "unimet-als-libër-n02870092",
+          "target": "unimet-als-libër-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lidhje",
+      "all_senses": [
+        {
+          "id": "unimet-als-lidhje-n09956147",
+          "lemma": "lidhje",
+          "word_id": "unimet-als-lidhje",
+          "synset": {
+            "id": "omw-en-09956147-n",
+            "ili": "i89173",
+            "pos": "n",
+            "lemmas": [
+              "connection"
+            ],
+            "definition": "(usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)"
+          }
+        },
+        {
+          "id": "unimet-als-lidhje-n10235549",
+          "lemma": "lidhje",
+          "word_id": "unimet-als-lidhje",
+          "synset": {
+            "id": "omw-en-10235549-n",
+            "ili": "i90856",
+            "pos": "n",
+            "lemmas": [
+              "relation"
+            ],
+            "definition": "a person related by blood or marriage"
+          }
+        },
+        {
+          "id": "unimet-als-lidhje-n14419164",
+          "lemma": "lidhje",
+          "word_id": "unimet-als-lidhje",
+          "synset": {
+            "id": "omw-en-14419164-n",
+            "ili": "i112780",
+            "pos": "n",
+            "lemmas": [
+              "link"
+            ],
+            "definition": "the state of being connected"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-lidhje-n14419164",
+          "lemma": "lidhje",
+          "word_id": "unimet-als-lidhje",
+          "synset": {
+            "id": "omw-en-14419164-n",
+            "ili": "i112780",
+            "pos": "n",
+            "lemmas": [
+              "link"
+            ],
+            "definition": "the state of being connected"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-lidhje-n09956147",
+          "lemma": "lidhje",
+          "word_id": "unimet-als-lidhje",
+          "synset": {
+            "id": "omw-en-09956147-n",
+            "ili": "i89173",
+            "pos": "n",
+            "lemmas": [
+              "connection"
+            ],
+            "definition": "(usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)"
+          }
+        },
+        {
+          "id": "unimet-als-lidhje-n10235549",
+          "lemma": "lidhje",
+          "word_id": "unimet-als-lidhje",
+          "synset": {
+            "id": "omw-en-10235549-n",
+            "ili": "i90856",
+            "pos": "n",
+            "lemmas": [
+              "relation"
+            ],
+            "definition": "a person related by blood or marriage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-lidhje-n14419164::unimet-als-lidhje-n09956147": {
+          "source": "unimet-als-lidhje-n14419164",
+          "target": "unimet-als-lidhje-n09956147",
+          "type": "metonymy"
+        },
+        "unimet-als-lidhje-n14419164::unimet-als-lidhje-n10235549": {
+          "source": "unimet-als-lidhje-n14419164",
+          "target": "unimet-als-lidhje-n10235549",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "merak",
+      "all_senses": [
+        {
+          "id": "unimet-als-merak-n05832264",
+          "lemma": "merak",
+          "word_id": "unimet-als-merak",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-als-merak-n07524529",
+          "lemma": "merak",
+          "word_id": "unimet-als-merak",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-merak-n07524529",
+          "lemma": "merak",
+          "word_id": "unimet-als-merak",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-merak-n05832264",
+          "lemma": "merak",
+          "word_id": "unimet-als-merak",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-merak-n07524529::unimet-als-merak-n05832264": {
+          "source": "unimet-als-merak-n07524529",
+          "target": "unimet-als-merak-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ndikim",
+      "all_senses": [
+        {
+          "id": "unimet-als-ndikim-n05194151",
+          "lemma": "ndikim",
+          "word_id": "unimet-als-ndikim",
+          "synset": {
+            "id": "omw-en-05194151-n",
+            "ili": "i64266",
+            "pos": "n",
+            "lemmas": [
+              "influence"
+            ],
+            "definition": "a power to affect persons or events especially power based on prestige etc"
+          }
+        },
+        {
+          "id": "unimet-als-ndikim-n10461747",
+          "lemma": "ndikim",
+          "word_id": "unimet-als-ndikim",
+          "synset": {
+            "id": "omw-en-10461747-n",
+            "ili": "i92182",
+            "pos": "n",
+            "lemmas": [
+              "influence"
+            ],
+            "definition": "one having power to influence another"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-ndikim-n05194151",
+          "lemma": "ndikim",
+          "word_id": "unimet-als-ndikim",
+          "synset": {
+            "id": "omw-en-05194151-n",
+            "ili": "i64266",
+            "pos": "n",
+            "lemmas": [
+              "influence"
+            ],
+            "definition": "a power to affect persons or events especially power based on prestige etc"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-ndikim-n10461747",
+          "lemma": "ndikim",
+          "word_id": "unimet-als-ndikim",
+          "synset": {
+            "id": "omw-en-10461747-n",
+            "ili": "i92182",
+            "pos": "n",
+            "lemmas": [
+              "influence"
+            ],
+            "definition": "one having power to influence another"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-ndikim-n05194151::unimet-als-ndikim-n10461747": {
+          "source": "unimet-als-ndikim-n05194151",
+          "target": "unimet-als-ndikim-n10461747",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "qytet",
+      "all_senses": [
+        {
+          "id": "unimet-als-qytet-n08226514",
+          "lemma": "qytet",
+          "word_id": "unimet-als-qytet",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        },
+        {
+          "id": "unimet-als-qytet-n08665504",
+          "lemma": "qytet",
+          "word_id": "unimet-als-qytet",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-qytet-n08226514",
+          "lemma": "qytet",
+          "word_id": "unimet-als-qytet",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-qytet-n08665504",
+          "lemma": "qytet",
+          "word_id": "unimet-als-qytet",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-qytet-n08226514::unimet-als-qytet-n08665504": {
+          "source": "unimet-als-qytet-n08226514",
+          "target": "unimet-als-qytet-n08665504",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shprese",
+      "all_senses": [
+        {
+          "id": "unimet-als-shprese-n07511733",
+          "lemma": "shprese",
+          "word_id": "unimet-als-shprese",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-als-shprese-n07541053",
+          "lemma": "shprese",
+          "word_id": "unimet-als-shprese",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        },
+        {
+          "id": "unimet-als-shprese-n10184946",
+          "lemma": "shprese",
+          "word_id": "unimet-als-shprese",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-shprese-n07511733",
+          "lemma": "shprese",
+          "word_id": "unimet-als-shprese",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-als-shprese-n07541053",
+          "lemma": "shprese",
+          "word_id": "unimet-als-shprese",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-shprese-n10184946",
+          "lemma": "shprese",
+          "word_id": "unimet-als-shprese",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-shprese-n07511733::unimet-als-shprese-n10184946": {
+          "source": "unimet-als-shprese-n07511733",
+          "target": "unimet-als-shprese-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-als-shprese-n07541053::unimet-als-shprese-n10184946": {
+          "source": "unimet-als-shprese-n07541053",
+          "target": "unimet-als-shprese-n10184946",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shqetësim",
+      "all_senses": [
+        {
+          "id": "unimet-als-shqetësim-n05832264",
+          "lemma": "shqetësim",
+          "word_id": "unimet-als-shqetësim",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-als-shqetësim-n07523905",
+          "lemma": "shqetësim",
+          "word_id": "unimet-als-shqetësim",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        },
+        {
+          "id": "unimet-als-shqetësim-n07524529",
+          "lemma": "shqetësim",
+          "word_id": "unimet-als-shqetësim",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-shqetësim-n07523905",
+          "lemma": "shqetësim",
+          "word_id": "unimet-als-shqetësim",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        },
+        {
+          "id": "unimet-als-shqetësim-n07524529",
+          "lemma": "shqetësim",
+          "word_id": "unimet-als-shqetësim",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-shqetësim-n05832264",
+          "lemma": "shqetësim",
+          "word_id": "unimet-als-shqetësim",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-shqetësim-n07523905::unimet-als-shqetësim-n05832264": {
+          "source": "unimet-als-shqetësim-n07523905",
+          "target": "unimet-als-shqetësim-n05832264",
+          "type": "metonymy"
+        },
+        "unimet-als-shqetësim-n07524529::unimet-als-shqetësim-n05832264": {
+          "source": "unimet-als-shqetësim-n07524529",
+          "target": "unimet-als-shqetësim-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shtepi",
+      "all_senses": [
+        {
+          "id": "unimet-als-shtepi-n08078020",
+          "lemma": "shtepi",
+          "word_id": "unimet-als-shtepi",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-als-shtepi-n08559508",
+          "lemma": "shtepi",
+          "word_id": "unimet-als-shtepi",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-shtepi-n08078020",
+          "lemma": "shtepi",
+          "word_id": "unimet-als-shtepi",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-shtepi-n08559508",
+          "lemma": "shtepi",
+          "word_id": "unimet-als-shtepi",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-shtepi-n08078020::unimet-als-shtepi-n08559508": {
+          "source": "unimet-als-shtepi-n08078020",
+          "target": "unimet-als-shtepi-n08559508",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "shtet",
+      "all_senses": [
+        {
+          "id": "unimet-als-shtet-n08166552",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08168978",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08178547",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08544813",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08654360",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-shtet-n08166552",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08168978",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08178547",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-shtet-n08544813",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-als-shtet-n08654360",
+          "lemma": "shtet",
+          "word_id": "unimet-als-shtet",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-shtet-n08166552::unimet-als-shtet-n08544813": {
+          "source": "unimet-als-shtet-n08166552",
+          "target": "unimet-als-shtet-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-als-shtet-n08168978::unimet-als-shtet-n08544813": {
+          "source": "unimet-als-shtet-n08168978",
+          "target": "unimet-als-shtet-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-als-shtet-n08168978::unimet-als-shtet-n08654360": {
+          "source": "unimet-als-shtet-n08168978",
+          "target": "unimet-als-shtet-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-als-shtet-n08178547::unimet-als-shtet-n08544813": {
+          "source": "unimet-als-shtet-n08178547",
+          "target": "unimet-als-shtet-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-als-shtet-n08178547::unimet-als-shtet-n08654360": {
+          "source": "unimet-als-shtet-n08178547",
+          "target": "unimet-als-shtet-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vend",
+      "all_senses": [
+        {
+          "id": "unimet-als-vend-n08166552",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-als-vend-n08168978",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-als-vend-n08497294",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-als-vend-n08544813",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-als-vend-n08166552",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-als-vend-n08168978",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-als-vend-n08497294",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-als-vend-n08544813",
+          "lemma": "vend",
+          "word_id": "unimet-als-vend",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-als-vend-n08166552::unimet-als-vend-n08497294": {
+          "source": "unimet-als-vend-n08166552",
+          "target": "unimet-als-vend-n08497294",
+          "type": "metonymy"
+        },
+        "unimet-als-vend-n08166552::unimet-als-vend-n08544813": {
+          "source": "unimet-als-vend-n08166552",
+          "target": "unimet-als-vend-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-als-vend-n08168978::unimet-als-vend-n08497294": {
+          "source": "unimet-als-vend-n08168978",
+          "target": "unimet-als-vend-n08497294",
+          "type": "metonymy"
+        },
+        "unimet-als-vend-n08168978::unimet-als-vend-n08544813": {
+          "source": "unimet-als-vend-n08168978",
+          "target": "unimet-als-vend-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

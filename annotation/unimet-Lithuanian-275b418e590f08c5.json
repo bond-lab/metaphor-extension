@@ -1,0 +1,3234 @@
+{
+  "id": "275b418e590f08c5",
+  "name": "unimet-Lithuanian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "lit",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "administracinis vienetas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-administracinis vienetas-n08077292",
+          "lemma": "administracinis vienetas",
+          "word_id": "unimet-lit-administracinis vienetas",
+          "synset": {
+            "id": "omw-en-08077292-n",
+            "ili": "i79668",
+            "pos": "n",
+            "lemmas": [
+              "administrative unit"
+            ],
+            "definition": "a unit with administrative responsibilities"
+          }
+        },
+        {
+          "id": "unimet-lit-administracinis vienetas-n08552138",
+          "lemma": "administracinis vienetas",
+          "word_id": "unimet-lit-administracinis vienetas",
+          "synset": {
+            "id": "omw-en-08552138-n",
+            "ili": "i81923",
+            "pos": "n",
+            "lemmas": [
+              "territorial dominion"
+            ],
+            "definition": "a region marked off for administrative or other purposes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-administracinis vienetas-n08077292",
+          "lemma": "administracinis vienetas",
+          "word_id": "unimet-lit-administracinis vienetas",
+          "synset": {
+            "id": "omw-en-08077292-n",
+            "ili": "i79668",
+            "pos": "n",
+            "lemmas": [
+              "administrative unit"
+            ],
+            "definition": "a unit with administrative responsibilities"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-administracinis vienetas-n08552138",
+          "lemma": "administracinis vienetas",
+          "word_id": "unimet-lit-administracinis vienetas",
+          "synset": {
+            "id": "omw-en-08552138-n",
+            "ili": "i81923",
+            "pos": "n",
+            "lemmas": [
+              "territorial dominion"
+            ],
+            "definition": "a region marked off for administrative or other purposes"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-administracinis vienetas-n08077292::unimet-lit-administracinis vienetas-n08552138": {
+          "source": "unimet-lit-administracinis vienetas-n08077292",
+          "target": "unimet-lit-administracinis vienetas-n08552138",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "aitrioji paprika",
+      "all_senses": [
+        {
+          "id": "unimet-lit-aitrioji paprika-n07721456",
+          "lemma": "aitrioji paprika",
+          "word_id": "unimet-lit-aitrioji paprika",
+          "synset": {
+            "id": "omw-en-07721456-n",
+            "ili": "i77587",
+            "pos": "n",
+            "lemmas": [
+              "red pepper"
+            ],
+            "definition": "very hot and finely tapering pepper of special pungency"
+          }
+        },
+        {
+          "id": "unimet-lit-aitrioji paprika-n12900987",
+          "lemma": "aitrioji paprika",
+          "word_id": "unimet-lit-aitrioji paprika",
+          "synset": {
+            "id": "omw-en-12900987-n",
+            "ili": "i104565",
+            "pos": "n",
+            "lemmas": [
+              "chilli pepper"
+            ],
+            "definition": "plant bearing very hot and finely tapering long peppers; usually red"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-aitrioji paprika-n12900987",
+          "lemma": "aitrioji paprika",
+          "word_id": "unimet-lit-aitrioji paprika",
+          "synset": {
+            "id": "omw-en-12900987-n",
+            "ili": "i104565",
+            "pos": "n",
+            "lemmas": [
+              "chilli pepper"
+            ],
+            "definition": "plant bearing very hot and finely tapering long peppers; usually red"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-aitrioji paprika-n07721456",
+          "lemma": "aitrioji paprika",
+          "word_id": "unimet-lit-aitrioji paprika",
+          "synset": {
+            "id": "omw-en-07721456-n",
+            "ili": "i77587",
+            "pos": "n",
+            "lemmas": [
+              "red pepper"
+            ],
+            "definition": "very hot and finely tapering pepper of special pungency"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-aitrioji paprika-n12900987::unimet-lit-aitrioji paprika-n07721456": {
+          "source": "unimet-lit-aitrioji paprika-n12900987",
+          "target": "unimet-lit-aitrioji paprika-n07721456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "akmuo",
+      "all_senses": [
+        {
+          "id": "unimet-lit-akmuo-n04326084",
+          "lemma": "akmuo",
+          "word_id": "unimet-lit-akmuo",
+          "synset": {
+            "id": "omw-en-04326084-n",
+            "ili": "i59621",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "building material consisting of a piece of rock hewn in a definite shape for a special purpose"
+          }
+        },
+        {
+          "id": "unimet-lit-akmuo-n14696793",
+          "lemma": "akmuo",
+          "word_id": "unimet-lit-akmuo",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-akmuo-n14696793",
+          "lemma": "akmuo",
+          "word_id": "unimet-lit-akmuo",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-akmuo-n04326084",
+          "lemma": "akmuo",
+          "word_id": "unimet-lit-akmuo",
+          "synset": {
+            "id": "omw-en-04326084-n",
+            "ili": "i59621",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "building material consisting of a piece of rock hewn in a definite shape for a special purpose"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-akmuo-n14696793::unimet-lit-akmuo-n04326084": {
+          "source": "unimet-lit-akmuo-n14696793",
+          "target": "unimet-lit-akmuo-n04326084",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ambasada",
+      "all_senses": [
+        {
+          "id": "unimet-lit-ambasada-n03282295",
+          "lemma": "ambasada",
+          "word_id": "unimet-lit-ambasada",
+          "synset": {
+            "id": "omw-en-03282295-n",
+            "ili": "i53393",
+            "pos": "n",
+            "lemmas": [
+              "embassy"
+            ],
+            "definition": "a diplomatic building where ambassadors live or work"
+          }
+        },
+        {
+          "id": "unimet-lit-ambasada-n08402693",
+          "lemma": "ambasada",
+          "word_id": "unimet-lit-ambasada",
+          "synset": {
+            "id": "omw-en-08402693-n",
+            "ili": "i81256",
+            "pos": "n",
+            "lemmas": [
+              "diplomatic corps"
+            ],
+            "definition": "a mission serving diplomatic ends"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-ambasada-n03282295",
+          "lemma": "ambasada",
+          "word_id": "unimet-lit-ambasada",
+          "synset": {
+            "id": "omw-en-03282295-n",
+            "ili": "i53393",
+            "pos": "n",
+            "lemmas": [
+              "embassy"
+            ],
+            "definition": "a diplomatic building where ambassadors live or work"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-ambasada-n08402693",
+          "lemma": "ambasada",
+          "word_id": "unimet-lit-ambasada",
+          "synset": {
+            "id": "omw-en-08402693-n",
+            "ili": "i81256",
+            "pos": "n",
+            "lemmas": [
+              "diplomatic corps"
+            ],
+            "definition": "a mission serving diplomatic ends"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-ambasada-n03282295::unimet-lit-ambasada-n08402693": {
+          "source": "unimet-lit-ambasada-n03282295",
+          "target": "unimet-lit-ambasada-n08402693",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "apylinkė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-apylinkė-n08225090",
+          "lemma": "apylinkė",
+          "word_id": "unimet-lit-apylinkė",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        },
+        {
+          "id": "unimet-lit-apylinkė-n08642331",
+          "lemma": "apylinkė",
+          "word_id": "unimet-lit-apylinkė",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-apylinkė-n08225090",
+          "lemma": "apylinkė",
+          "word_id": "unimet-lit-apylinkė",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-apylinkė-n08642331",
+          "lemma": "apylinkė",
+          "word_id": "unimet-lit-apylinkė",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-apylinkė-n08225090::unimet-lit-apylinkė-n08642331": {
+          "source": "unimet-lit-apylinkė-n08225090",
+          "target": "unimet-lit-apylinkė-n08642331",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bananas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-bananas-n07753592",
+          "lemma": "bananas",
+          "word_id": "unimet-lit-bananas",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        },
+        {
+          "id": "unimet-lit-bananas-n12352287",
+          "lemma": "bananas",
+          "word_id": "unimet-lit-bananas",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-bananas-n07753592",
+          "lemma": "bananas",
+          "word_id": "unimet-lit-bananas",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-bananas-n12352287",
+          "lemma": "bananas",
+          "word_id": "unimet-lit-bananas",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-bananas-n07753592::unimet-lit-bananas-n12352287": {
+          "source": "unimet-lit-bananas-n07753592",
+          "target": "unimet-lit-bananas-n12352287",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "banketas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-banketas-n07578093",
+          "lemma": "banketas",
+          "word_id": "unimet-lit-banketas",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-lit-banketas-n08253640",
+          "lemma": "banketas",
+          "word_id": "unimet-lit-banketas",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-banketas-n07578093",
+          "lemma": "banketas",
+          "word_id": "unimet-lit-banketas",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-banketas-n08253640",
+          "lemma": "banketas",
+          "word_id": "unimet-lit-banketas",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-banketas-n07578093::unimet-lit-banketas-n08253640": {
+          "source": "unimet-lit-banketas-n07578093",
+          "target": "unimet-lit-banketas-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bažnyčia",
+      "all_senses": [
+        {
+          "id": "unimet-lit-bažnyčia-n03028079",
+          "lemma": "bažnyčia",
+          "word_id": "unimet-lit-bažnyčia",
+          "synset": {
+            "id": "omw-en-03028079-n",
+            "ili": "i51914",
+            "pos": "n",
+            "lemmas": [
+              "temple"
+            ],
+            "definition": "a place for public (especially Christian) worship"
+          }
+        },
+        {
+          "id": "unimet-lit-bažnyčia-n08082602",
+          "lemma": "bažnyčia",
+          "word_id": "unimet-lit-bažnyčia",
+          "synset": {
+            "id": "omw-en-08082602-n",
+            "ili": "i79691",
+            "pos": "n",
+            "lemmas": [
+              "christian church"
+            ],
+            "definition": "one of the groups of Christians who have their own beliefs and forms of worship"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-bažnyčia-n03028079",
+          "lemma": "bažnyčia",
+          "word_id": "unimet-lit-bažnyčia",
+          "synset": {
+            "id": "omw-en-03028079-n",
+            "ili": "i51914",
+            "pos": "n",
+            "lemmas": [
+              "temple"
+            ],
+            "definition": "a place for public (especially Christian) worship"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-bažnyčia-n08082602",
+          "lemma": "bažnyčia",
+          "word_id": "unimet-lit-bažnyčia",
+          "synset": {
+            "id": "omw-en-08082602-n",
+            "ili": "i79691",
+            "pos": "n",
+            "lemmas": [
+              "christian church"
+            ],
+            "definition": "one of the groups of Christians who have their own beliefs and forms of worship"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-bažnyčia-n03028079::unimet-lit-bažnyčia-n08082602": {
+          "source": "unimet-lit-bažnyčia-n03028079",
+          "target": "unimet-lit-bažnyčia-n08082602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "brangakmenis",
+      "all_senses": [
+        {
+          "id": "unimet-lit-brangakmenis-n03596787",
+          "lemma": "brangakmenis",
+          "word_id": "unimet-lit-brangakmenis",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-lit-brangakmenis-n14699752",
+          "lemma": "brangakmenis",
+          "word_id": "unimet-lit-brangakmenis",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-brangakmenis-n14699752",
+          "lemma": "brangakmenis",
+          "word_id": "unimet-lit-brangakmenis",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-brangakmenis-n03596787",
+          "lemma": "brangakmenis",
+          "word_id": "unimet-lit-brangakmenis",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-brangakmenis-n14699752::unimet-lit-brangakmenis-n03596787": {
+          "source": "unimet-lit-brangakmenis-n14699752",
+          "target": "unimet-lit-brangakmenis-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "braškė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-braškė-n07745940",
+          "lemma": "braškė",
+          "word_id": "unimet-lit-braškė",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-lit-braškė-n12630144",
+          "lemma": "braškė",
+          "word_id": "unimet-lit-braškė",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        },
+        {
+          "id": "unimet-lit-braškė-n12630478",
+          "lemma": "braškė",
+          "word_id": "unimet-lit-braškė",
+          "synset": {
+            "id": "omw-en-12630478-n",
+            "ili": "i103255",
+            "pos": "n",
+            "lemmas": [
+              "fragaria ananassa"
+            ],
+            "definition": "widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-braškė-n07745940",
+          "lemma": "braškė",
+          "word_id": "unimet-lit-braškė",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-braškė-n12630144",
+          "lemma": "braškė",
+          "word_id": "unimet-lit-braškė",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        },
+        {
+          "id": "unimet-lit-braškė-n12630478",
+          "lemma": "braškė",
+          "word_id": "unimet-lit-braškė",
+          "synset": {
+            "id": "omw-en-12630478-n",
+            "ili": "i103255",
+            "pos": "n",
+            "lemmas": [
+              "fragaria ananassa"
+            ],
+            "definition": "widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-braškė-n07745940::unimet-lit-braškė-n12630144": {
+          "source": "unimet-lit-braškė-n07745940",
+          "target": "unimet-lit-braškė-n12630144",
+          "type": "metonymy"
+        },
+        "unimet-lit-braškė-n07745940::unimet-lit-braškė-n12630478": {
+          "source": "unimet-lit-braškė-n07745940",
+          "target": "unimet-lit-braškė-n12630478",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "citrina",
+      "all_senses": [
+        {
+          "id": "unimet-lit-citrina-n07749582",
+          "lemma": "citrina",
+          "word_id": "unimet-lit-citrina",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-lit-citrina-n12711596",
+          "lemma": "citrina",
+          "word_id": "unimet-lit-citrina",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-citrina-n07749582",
+          "lemma": "citrina",
+          "word_id": "unimet-lit-citrina",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-citrina-n12711596",
+          "lemma": "citrina",
+          "word_id": "unimet-lit-citrina",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-citrina-n07749582::unimet-lit-citrina-n12711596": {
+          "source": "unimet-lit-citrina-n07749582",
+          "target": "unimet-lit-citrina-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "deimantas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-deimantas-n13371958",
+          "lemma": "deimantas",
+          "word_id": "unimet-lit-deimantas",
+          "synset": {
+            "id": "omw-en-13371958-n",
+            "ili": "i106984",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem"
+          }
+        },
+        {
+          "id": "unimet-lit-deimantas-n14834563",
+          "lemma": "deimantas",
+          "word_id": "unimet-lit-deimantas",
+          "synset": {
+            "id": "omw-en-14834563-n",
+            "ili": "i115004",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "very hard native crystalline carbon valued as a gem"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-deimantas-n14834563",
+          "lemma": "deimantas",
+          "word_id": "unimet-lit-deimantas",
+          "synset": {
+            "id": "omw-en-14834563-n",
+            "ili": "i115004",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "very hard native crystalline carbon valued as a gem"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-deimantas-n13371958",
+          "lemma": "deimantas",
+          "word_id": "unimet-lit-deimantas",
+          "synset": {
+            "id": "omw-en-13371958-n",
+            "ili": "i106984",
+            "pos": "n",
+            "lemmas": [
+              "diamond"
+            ],
+            "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-deimantas-n14834563::unimet-lit-deimantas-n13371958": {
+          "source": "unimet-lit-deimantas-n14834563",
+          "target": "unimet-lit-deimantas-n13371958",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dėžė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-dėžė-n02883344",
+          "lemma": "dėžė",
+          "word_id": "unimet-lit-dėžė",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        },
+        {
+          "id": "unimet-lit-dėžė-n13765624",
+          "lemma": "dėžė",
+          "word_id": "unimet-lit-dėžė",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-dėžė-n02883344",
+          "lemma": "dėžė",
+          "word_id": "unimet-lit-dėžė",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-dėžė-n13765624",
+          "lemma": "dėžė",
+          "word_id": "unimet-lit-dėžė",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-dėžė-n02883344::unimet-lit-dėžė-n13765624": {
+          "source": "unimet-lit-dėžė-n02883344",
+          "target": "unimet-lit-dėžė-n13765624",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "galva",
+      "all_senses": [
+        {
+          "id": "unimet-lit-galva-n05538625",
+          "lemma": "galva",
+          "word_id": "unimet-lit-galva",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-lit-galva-n10162991",
+          "lemma": "galva",
+          "word_id": "unimet-lit-galva",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-galva-n05538625",
+          "lemma": "galva",
+          "word_id": "unimet-lit-galva",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-galva-n10162991",
+          "lemma": "galva",
+          "word_id": "unimet-lit-galva",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-galva-n05538625::unimet-lit-galva-n10162991": {
+          "source": "unimet-lit-galva-n05538625",
+          "target": "unimet-lit-galva-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gydymo įstaiga",
+      "all_senses": [
+        {
+          "id": "unimet-lit-gydymo įstaiga-n03739518",
+          "lemma": "gydymo įstaiga",
+          "word_id": "unimet-lit-gydymo įstaiga",
+          "synset": {
+            "id": "omw-en-03739518-n",
+            "ili": "i56117",
+            "pos": "n",
+            "lemmas": [
+              "medical building"
+            ],
+            "definition": "building where medicine is practiced"
+          }
+        },
+        {
+          "id": "unimet-lit-gydymo įstaiga-n08053905",
+          "lemma": "gydymo įstaiga",
+          "word_id": "unimet-lit-gydymo įstaiga",
+          "synset": {
+            "id": "omw-en-08053905-n",
+            "ili": "i79533",
+            "pos": "n",
+            "lemmas": [
+              "medical institution"
+            ],
+            "definition": "an institution created for the practice of medicine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-gydymo įstaiga-n03739518",
+          "lemma": "gydymo įstaiga",
+          "word_id": "unimet-lit-gydymo įstaiga",
+          "synset": {
+            "id": "omw-en-03739518-n",
+            "ili": "i56117",
+            "pos": "n",
+            "lemmas": [
+              "medical building"
+            ],
+            "definition": "building where medicine is practiced"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-gydymo įstaiga-n08053905",
+          "lemma": "gydymo įstaiga",
+          "word_id": "unimet-lit-gydymo įstaiga",
+          "synset": {
+            "id": "omw-en-08053905-n",
+            "ili": "i79533",
+            "pos": "n",
+            "lemmas": [
+              "medical institution"
+            ],
+            "definition": "an institution created for the practice of medicine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-gydymo įstaiga-n03739518::unimet-lit-gydymo įstaiga-n08053905": {
+          "source": "unimet-lit-gydymo įstaiga-n03739518",
+          "target": "unimet-lit-gydymo įstaiga-n08053905",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gyvenvietė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-gyvenvietė-n08223802",
+          "lemma": "gyvenvietė",
+          "word_id": "unimet-lit-gyvenvietė",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        },
+        {
+          "id": "unimet-lit-gyvenvietė-n08226699",
+          "lemma": "gyvenvietė",
+          "word_id": "unimet-lit-gyvenvietė",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-lit-gyvenvietė-n08672738",
+          "lemma": "gyvenvietė",
+          "word_id": "unimet-lit-gyvenvietė",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-gyvenvietė-n08223802",
+          "lemma": "gyvenvietė",
+          "word_id": "unimet-lit-gyvenvietė",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        },
+        {
+          "id": "unimet-lit-gyvenvietė-n08226699",
+          "lemma": "gyvenvietė",
+          "word_id": "unimet-lit-gyvenvietė",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-gyvenvietė-n08672738",
+          "lemma": "gyvenvietė",
+          "word_id": "unimet-lit-gyvenvietė",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-gyvenvietė-n08223802::unimet-lit-gyvenvietė-n08672738": {
+          "source": "unimet-lit-gyvenvietė-n08223802",
+          "target": "unimet-lit-gyvenvietė-n08672738",
+          "type": "metonymy"
+        },
+        "unimet-lit-gyvenvietė-n08226699::unimet-lit-gyvenvietė-n08672738": {
+          "source": "unimet-lit-gyvenvietė-n08226699",
+          "target": "unimet-lit-gyvenvietė-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "imperija",
+      "all_senses": [
+        {
+          "id": "unimet-lit-imperija-n08052413",
+          "lemma": "imperija",
+          "word_id": "unimet-lit-imperija",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-lit-imperija-n08405723",
+          "lemma": "imperija",
+          "word_id": "unimet-lit-imperija",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        },
+        {
+          "id": "unimet-lit-imperija-n08557482",
+          "lemma": "imperija",
+          "word_id": "unimet-lit-imperija",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-imperija-n08052413",
+          "lemma": "imperija",
+          "word_id": "unimet-lit-imperija",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-lit-imperija-n08405723",
+          "lemma": "imperija",
+          "word_id": "unimet-lit-imperija",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-imperija-n08557482",
+          "lemma": "imperija",
+          "word_id": "unimet-lit-imperija",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-imperija-n08052413::unimet-lit-imperija-n08557482": {
+          "source": "unimet-lit-imperija-n08052413",
+          "target": "unimet-lit-imperija-n08557482",
+          "type": "metonymy"
+        },
+        "unimet-lit-imperija-n08405723::unimet-lit-imperija-n08557482": {
+          "source": "unimet-lit-imperija-n08405723",
+          "target": "unimet-lit-imperija-n08557482",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kailis",
+      "all_senses": [
+        {
+          "id": "unimet-lit-kailis-n03404149",
+          "lemma": "kailis",
+          "word_id": "unimet-lit-kailis",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        },
+        {
+          "id": "unimet-lit-kailis-n14764061",
+          "lemma": "kailis",
+          "word_id": "unimet-lit-kailis",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-kailis-n14764061",
+          "lemma": "kailis",
+          "word_id": "unimet-lit-kailis",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-kailis-n03404149",
+          "lemma": "kailis",
+          "word_id": "unimet-lit-kailis",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-kailis-n14764061::unimet-lit-kailis-n03404149": {
+          "source": "unimet-lit-kailis-n14764061",
+          "target": "unimet-lit-kailis-n03404149",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kaimas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-kaimas-n08226699",
+          "lemma": "kaimas",
+          "word_id": "unimet-lit-kaimas",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-lit-kaimas-n08645033",
+          "lemma": "kaimas",
+          "word_id": "unimet-lit-kaimas",
+          "synset": {
+            "id": "omw-en-08645033-n",
+            "ili": "i82392",
+            "pos": "n",
+            "lemmas": [
+              "rural area"
+            ],
+            "definition": "rural regions"
+          }
+        },
+        {
+          "id": "unimet-lit-kaimas-n08672738",
+          "lemma": "kaimas",
+          "word_id": "unimet-lit-kaimas",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-kaimas-n08226699",
+          "lemma": "kaimas",
+          "word_id": "unimet-lit-kaimas",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-kaimas-n08645033",
+          "lemma": "kaimas",
+          "word_id": "unimet-lit-kaimas",
+          "synset": {
+            "id": "omw-en-08645033-n",
+            "ili": "i82392",
+            "pos": "n",
+            "lemmas": [
+              "rural area"
+            ],
+            "definition": "rural regions"
+          }
+        },
+        {
+          "id": "unimet-lit-kaimas-n08672738",
+          "lemma": "kaimas",
+          "word_id": "unimet-lit-kaimas",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-kaimas-n08226699::unimet-lit-kaimas-n08645033": {
+          "source": "unimet-lit-kaimas-n08226699",
+          "target": "unimet-lit-kaimas-n08645033",
+          "type": "metonymy"
+        },
+        "unimet-lit-kaimas-n08226699::unimet-lit-kaimas-n08672738": {
+          "source": "unimet-lit-kaimas-n08226699",
+          "target": "unimet-lit-kaimas-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kaimynystė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-kaimynystė-n08225090",
+          "lemma": "kaimynystė",
+          "word_id": "unimet-lit-kaimynystė",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        },
+        {
+          "id": "unimet-lit-kaimynystė-n08642331",
+          "lemma": "kaimynystė",
+          "word_id": "unimet-lit-kaimynystė",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-kaimynystė-n08225090",
+          "lemma": "kaimynystė",
+          "word_id": "unimet-lit-kaimynystė",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-kaimynystė-n08642331",
+          "lemma": "kaimynystė",
+          "word_id": "unimet-lit-kaimynystė",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-kaimynystė-n08225090::unimet-lit-kaimynystė-n08642331": {
+          "source": "unimet-lit-kaimynystė-n08225090",
+          "target": "unimet-lit-kaimynystė-n08642331",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karalius",
+      "all_senses": [
+        {
+          "id": "unimet-lit-karalius-n10628644",
+          "lemma": "karalius",
+          "word_id": "unimet-lit-karalius",
+          "synset": {
+            "id": "omw-en-10628644-n",
+            "ili": "i93170",
+            "pos": "n",
+            "lemmas": [
+              "monarch"
+            ],
+            "definition": "a nation's ruler or head of state usually by hereditary right"
+          }
+        },
+        {
+          "id": "unimet-lit-karalius-n14435670",
+          "lemma": "karalius",
+          "word_id": "unimet-lit-karalius",
+          "synset": {
+            "id": "omw-en-14435670-n",
+            "ili": "i112868",
+            "pos": "n",
+            "lemmas": [
+              "king"
+            ],
+            "definition": "preeminence in a particular category or group or field"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-karalius-n14435670",
+          "lemma": "karalius",
+          "word_id": "unimet-lit-karalius",
+          "synset": {
+            "id": "omw-en-14435670-n",
+            "ili": "i112868",
+            "pos": "n",
+            "lemmas": [
+              "king"
+            ],
+            "definition": "preeminence in a particular category or group or field"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-karalius-n10628644",
+          "lemma": "karalius",
+          "word_id": "unimet-lit-karalius",
+          "synset": {
+            "id": "omw-en-10628644-n",
+            "ili": "i93170",
+            "pos": "n",
+            "lemmas": [
+              "monarch"
+            ],
+            "definition": "a nation's ruler or head of state usually by hereditary right"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-karalius-n14435670::unimet-lit-karalius-n10628644": {
+          "source": "unimet-lit-karalius-n14435670",
+          "target": "unimet-lit-karalius-n10628644",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "karalystė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-karalystė-n08405603",
+          "lemma": "karalystė",
+          "word_id": "unimet-lit-karalystė",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-lit-karalystė-n08558155",
+          "lemma": "karalystė",
+          "word_id": "unimet-lit-karalystė",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-lit-karalystė-n08591269",
+          "lemma": "karalystė",
+          "word_id": "unimet-lit-karalystė",
+          "synset": {
+            "id": "omw-en-08591269-n",
+            "ili": "i82126",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a country with a king as head of state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-karalystė-n08405603",
+          "lemma": "karalystė",
+          "word_id": "unimet-lit-karalystė",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-karalystė-n08558155",
+          "lemma": "karalystė",
+          "word_id": "unimet-lit-karalystė",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-lit-karalystė-n08591269",
+          "lemma": "karalystė",
+          "word_id": "unimet-lit-karalystė",
+          "synset": {
+            "id": "omw-en-08591269-n",
+            "ili": "i82126",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a country with a king as head of state"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-karalystė-n08405603::unimet-lit-karalystė-n08558155": {
+          "source": "unimet-lit-karalystė-n08405603",
+          "target": "unimet-lit-karalystė-n08558155",
+          "type": "metonymy"
+        },
+        "unimet-lit-karalystė-n08405603::unimet-lit-karalystė-n08591269": {
+          "source": "unimet-lit-karalystė-n08405603",
+          "target": "unimet-lit-karalystė-n08591269",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "knyga",
+      "all_senses": [
+        {
+          "id": "unimet-lit-knyga-n02870092",
+          "lemma": "knyga",
+          "word_id": "unimet-lit-knyga",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-lit-knyga-n06410904",
+          "lemma": "knyga",
+          "word_id": "unimet-lit-knyga",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-knyga-n02870092",
+          "lemma": "knyga",
+          "word_id": "unimet-lit-knyga",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-knyga-n06410904",
+          "lemma": "knyga",
+          "word_id": "unimet-lit-knyga",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-knyga-n02870092::unimet-lit-knyga-n06410904": {
+          "source": "unimet-lit-knyga-n02870092",
+          "target": "unimet-lit-knyga-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kopūstas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-kopūstas-n07713895",
+          "lemma": "kopūstas",
+          "word_id": "unimet-lit-kopūstas",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-lit-kopūstas-n11875523",
+          "lemma": "kopūstas",
+          "word_id": "unimet-lit-kopūstas",
+          "synset": {
+            "id": "omw-en-11875523-n",
+            "ili": "i99661",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea"
+            ],
+            "definition": "wild original of cultivated cabbages; common in western coastal Europe"
+          }
+        },
+        {
+          "id": "unimet-lit-kopūstas-n11875691",
+          "lemma": "kopūstas",
+          "word_id": "unimet-lit-kopūstas",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-kopūstas-n11875523",
+          "lemma": "kopūstas",
+          "word_id": "unimet-lit-kopūstas",
+          "synset": {
+            "id": "omw-en-11875523-n",
+            "ili": "i99661",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea"
+            ],
+            "definition": "wild original of cultivated cabbages; common in western coastal Europe"
+          }
+        },
+        {
+          "id": "unimet-lit-kopūstas-n11875691",
+          "lemma": "kopūstas",
+          "word_id": "unimet-lit-kopūstas",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-kopūstas-n07713895",
+          "lemma": "kopūstas",
+          "word_id": "unimet-lit-kopūstas",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-kopūstas-n11875523::unimet-lit-kopūstas-n07713895": {
+          "source": "unimet-lit-kopūstas-n11875523",
+          "target": "unimet-lit-kopūstas-n07713895",
+          "type": "metonymy"
+        },
+        "unimet-lit-kopūstas-n11875691::unimet-lit-kopūstas-n07713895": {
+          "source": "unimet-lit-kopūstas-n11875691",
+          "target": "unimet-lit-kopūstas-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kriaušė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-kriaušė-n07767847",
+          "lemma": "kriaušė",
+          "word_id": "unimet-lit-kriaušė",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-lit-kriaušė-n12651611",
+          "lemma": "kriaušė",
+          "word_id": "unimet-lit-kriaušė",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-kriaušė-n07767847",
+          "lemma": "kriaušė",
+          "word_id": "unimet-lit-kriaušė",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-kriaušė-n12651611",
+          "lemma": "kriaušė",
+          "word_id": "unimet-lit-kriaušė",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-kriaušė-n07767847::unimet-lit-kriaušė-n12651611": {
+          "source": "unimet-lit-kriaušė-n07767847",
+          "target": "unimet-lit-kriaušė-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mediena",
+      "all_senses": [
+        {
+          "id": "unimet-lit-mediena-n14943580",
+          "lemma": "mediena",
+          "word_id": "unimet-lit-mediena",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        },
+        {
+          "id": "unimet-lit-mediena-n15098161",
+          "lemma": "mediena",
+          "word_id": "unimet-lit-mediena",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-mediena-n14943580",
+          "lemma": "mediena",
+          "word_id": "unimet-lit-mediena",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-mediena-n15098161",
+          "lemma": "mediena",
+          "word_id": "unimet-lit-mediena",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-mediena-n14943580::unimet-lit-mediena-n15098161": {
+          "source": "unimet-lit-mediena-n14943580",
+          "target": "unimet-lit-mediena-n15098161",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "medis",
+      "all_senses": [
+        {
+          "id": "unimet-lit-medis-n14943580",
+          "lemma": "medis",
+          "word_id": "unimet-lit-medis",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        },
+        {
+          "id": "unimet-lit-medis-n15098161",
+          "lemma": "medis",
+          "word_id": "unimet-lit-medis",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-medis-n14943580",
+          "lemma": "medis",
+          "word_id": "unimet-lit-medis",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-medis-n15098161",
+          "lemma": "medis",
+          "word_id": "unimet-lit-medis",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-medis-n14943580::unimet-lit-medis-n15098161": {
+          "source": "unimet-lit-medis-n14943580",
+          "target": "unimet-lit-medis-n15098161",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "parapija",
+      "all_senses": [
+        {
+          "id": "unimet-lit-parapija-n08223688",
+          "lemma": "parapija",
+          "word_id": "unimet-lit-parapija",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        },
+        {
+          "id": "unimet-lit-parapija-n08615001",
+          "lemma": "parapija",
+          "word_id": "unimet-lit-parapija",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-parapija-n08223688",
+          "lemma": "parapija",
+          "word_id": "unimet-lit-parapija",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-parapija-n08615001",
+          "lemma": "parapija",
+          "word_id": "unimet-lit-parapija",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-parapija-n08223688::unimet-lit-parapija-n08615001": {
+          "source": "unimet-lit-parapija-n08223688",
+          "target": "unimet-lit-parapija-n08615001",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pokylis",
+      "all_senses": [
+        {
+          "id": "unimet-lit-pokylis-n07578093",
+          "lemma": "pokylis",
+          "word_id": "unimet-lit-pokylis",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-lit-pokylis-n08253640",
+          "lemma": "pokylis",
+          "word_id": "unimet-lit-pokylis",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-pokylis-n07578093",
+          "lemma": "pokylis",
+          "word_id": "unimet-lit-pokylis",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-pokylis-n08253640",
+          "lemma": "pokylis",
+          "word_id": "unimet-lit-pokylis",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-pokylis-n07578093::unimet-lit-pokylis-n08253640": {
+          "source": "unimet-lit-pokylis-n07578093",
+          "target": "unimet-lit-pokylis-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "puota",
+      "all_senses": [
+        {
+          "id": "unimet-lit-puota-n07578093",
+          "lemma": "puota",
+          "word_id": "unimet-lit-puota",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-lit-puota-n08253640",
+          "lemma": "puota",
+          "word_id": "unimet-lit-puota",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-puota-n07578093",
+          "lemma": "puota",
+          "word_id": "unimet-lit-puota",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-puota-n08253640",
+          "lemma": "puota",
+          "word_id": "unimet-lit-puota",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-puota-n07578093::unimet-lit-puota-n08253640": {
+          "source": "unimet-lit-puota-n07578093",
+          "target": "unimet-lit-puota-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stiklainis",
+      "all_senses": [
+        {
+          "id": "unimet-lit-stiklainis-n03593526",
+          "lemma": "stiklainis",
+          "word_id": "unimet-lit-stiklainis",
+          "synset": {
+            "id": "omw-en-03593526-n",
+            "ili": "i55236",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "a vessel (usually cylindrical) with a wide mouth and without handles"
+          }
+        },
+        {
+          "id": "unimet-lit-stiklainis-n13767822",
+          "lemma": "stiklainis",
+          "word_id": "unimet-lit-stiklainis",
+          "synset": {
+            "id": "omw-en-13767822-n",
+            "ili": "i109242",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "the quantity contained in a jar"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-stiklainis-n03593526",
+          "lemma": "stiklainis",
+          "word_id": "unimet-lit-stiklainis",
+          "synset": {
+            "id": "omw-en-03593526-n",
+            "ili": "i55236",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "a vessel (usually cylindrical) with a wide mouth and without handles"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-stiklainis-n13767822",
+          "lemma": "stiklainis",
+          "word_id": "unimet-lit-stiklainis",
+          "synset": {
+            "id": "omw-en-13767822-n",
+            "ili": "i109242",
+            "pos": "n",
+            "lemmas": [
+              "jar"
+            ],
+            "definition": "the quantity contained in a jar"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-stiklainis-n03593526::unimet-lit-stiklainis-n13767822": {
+          "source": "unimet-lit-stiklainis-n03593526",
+          "target": "unimet-lit-stiklainis-n13767822",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "susitikimas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-susitikimas-n07456906",
+          "lemma": "susitikimas",
+          "word_id": "unimet-lit-susitikimas",
+          "synset": {
+            "id": "omw-en-07456906-n",
+            "ili": "i75898",
+            "pos": "n",
+            "lemmas": [
+              "bout"
+            ],
+            "definition": "a contest or fight (especially between boxers or wrestlers)"
+          }
+        },
+        {
+          "id": "unimet-lit-susitikimas-n08307589",
+          "lemma": "susitikimas",
+          "word_id": "unimet-lit-susitikimas",
+          "synset": {
+            "id": "omw-en-08307589-n",
+            "ili": "i80791",
+            "pos": "n",
+            "lemmas": [
+              "meeting"
+            ],
+            "definition": "a formally arranged gathering"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-susitikimas-n07456906",
+          "lemma": "susitikimas",
+          "word_id": "unimet-lit-susitikimas",
+          "synset": {
+            "id": "omw-en-07456906-n",
+            "ili": "i75898",
+            "pos": "n",
+            "lemmas": [
+              "bout"
+            ],
+            "definition": "a contest or fight (especially between boxers or wrestlers)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-susitikimas-n08307589",
+          "lemma": "susitikimas",
+          "word_id": "unimet-lit-susitikimas",
+          "synset": {
+            "id": "omw-en-08307589-n",
+            "ili": "i80791",
+            "pos": "n",
+            "lemmas": [
+              "meeting"
+            ],
+            "definition": "a formally arranged gathering"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-susitikimas-n07456906::unimet-lit-susitikimas-n08307589": {
+          "source": "unimet-lit-susitikimas-n07456906",
+          "target": "unimet-lit-susitikimas-n08307589",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "svogūnas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-svogūnas-n07722217",
+          "lemma": "svogūnas",
+          "word_id": "unimet-lit-svogūnas",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-lit-svogūnas-n12432808",
+          "lemma": "svogūnas",
+          "word_id": "unimet-lit-svogūnas",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-svogūnas-n12432808",
+          "lemma": "svogūnas",
+          "word_id": "unimet-lit-svogūnas",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-svogūnas-n07722217",
+          "lemma": "svogūnas",
+          "word_id": "unimet-lit-svogūnas",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-svogūnas-n12432808::unimet-lit-svogūnas-n07722217": {
+          "source": "unimet-lit-svogūnas-n12432808",
+          "target": "unimet-lit-svogūnas-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "talpykla",
+      "all_senses": [
+        {
+          "id": "unimet-lit-talpykla-n03094503",
+          "lemma": "talpykla",
+          "word_id": "unimet-lit-talpykla",
+          "synset": {
+            "id": "omw-en-03094503-n",
+            "ili": "i52294",
+            "pos": "n",
+            "lemmas": [
+              "container"
+            ],
+            "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+          }
+        },
+        {
+          "id": "unimet-lit-talpykla-n04060904",
+          "lemma": "talpykla",
+          "word_id": "unimet-lit-talpykla",
+          "synset": {
+            "id": "omw-en-04060904-n",
+            "ili": "i58004",
+            "pos": "n",
+            "lemmas": [
+              "receptacle"
+            ],
+            "definition": "a container that is used to put or keep things in"
+          }
+        },
+        {
+          "id": "unimet-lit-talpykla-n13756125",
+          "lemma": "talpykla",
+          "word_id": "unimet-lit-talpykla",
+          "synset": {
+            "id": "omw-en-13756125-n",
+            "ili": "i109174",
+            "pos": "n",
+            "lemmas": [
+              "containerful"
+            ],
+            "definition": "the quantity that a container will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-talpykla-n03094503",
+          "lemma": "talpykla",
+          "word_id": "unimet-lit-talpykla",
+          "synset": {
+            "id": "omw-en-03094503-n",
+            "ili": "i52294",
+            "pos": "n",
+            "lemmas": [
+              "container"
+            ],
+            "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+          }
+        },
+        {
+          "id": "unimet-lit-talpykla-n04060904",
+          "lemma": "talpykla",
+          "word_id": "unimet-lit-talpykla",
+          "synset": {
+            "id": "omw-en-04060904-n",
+            "ili": "i58004",
+            "pos": "n",
+            "lemmas": [
+              "receptacle"
+            ],
+            "definition": "a container that is used to put or keep things in"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-talpykla-n13756125",
+          "lemma": "talpykla",
+          "word_id": "unimet-lit-talpykla",
+          "synset": {
+            "id": "omw-en-13756125-n",
+            "ili": "i109174",
+            "pos": "n",
+            "lemmas": [
+              "containerful"
+            ],
+            "definition": "the quantity that a container will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-talpykla-n03094503::unimet-lit-talpykla-n13756125": {
+          "source": "unimet-lit-talpykla-n03094503",
+          "target": "unimet-lit-talpykla-n13756125",
+          "type": "metonymy"
+        },
+        "unimet-lit-talpykla-n04060904::unimet-lit-talpykla-n13756125": {
+          "source": "unimet-lit-talpykla-n04060904",
+          "target": "unimet-lit-talpykla-n13756125",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "valdovas",
+      "all_senses": [
+        {
+          "id": "unimet-lit-valdovas-n10541229",
+          "lemma": "valdovas",
+          "word_id": "unimet-lit-valdovas",
+          "synset": {
+            "id": "omw-en-10541229-n",
+            "ili": "i92651",
+            "pos": "n",
+            "lemmas": [
+              "swayer"
+            ],
+            "definition": "a person who rules or commands"
+          }
+        },
+        {
+          "id": "unimet-lit-valdovas-n10628644",
+          "lemma": "valdovas",
+          "word_id": "unimet-lit-valdovas",
+          "synset": {
+            "id": "omw-en-10628644-n",
+            "ili": "i93170",
+            "pos": "n",
+            "lemmas": [
+              "monarch"
+            ],
+            "definition": "a nation's ruler or head of state usually by hereditary right"
+          }
+        },
+        {
+          "id": "unimet-lit-valdovas-n14435670",
+          "lemma": "valdovas",
+          "word_id": "unimet-lit-valdovas",
+          "synset": {
+            "id": "omw-en-14435670-n",
+            "ili": "i112868",
+            "pos": "n",
+            "lemmas": [
+              "king"
+            ],
+            "definition": "preeminence in a particular category or group or field"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-valdovas-n14435670",
+          "lemma": "valdovas",
+          "word_id": "unimet-lit-valdovas",
+          "synset": {
+            "id": "omw-en-14435670-n",
+            "ili": "i112868",
+            "pos": "n",
+            "lemmas": [
+              "king"
+            ],
+            "definition": "preeminence in a particular category or group or field"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-valdovas-n10541229",
+          "lemma": "valdovas",
+          "word_id": "unimet-lit-valdovas",
+          "synset": {
+            "id": "omw-en-10541229-n",
+            "ili": "i92651",
+            "pos": "n",
+            "lemmas": [
+              "swayer"
+            ],
+            "definition": "a person who rules or commands"
+          }
+        },
+        {
+          "id": "unimet-lit-valdovas-n10628644",
+          "lemma": "valdovas",
+          "word_id": "unimet-lit-valdovas",
+          "synset": {
+            "id": "omw-en-10628644-n",
+            "ili": "i93170",
+            "pos": "n",
+            "lemmas": [
+              "monarch"
+            ],
+            "definition": "a nation's ruler or head of state usually by hereditary right"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-valdovas-n14435670::unimet-lit-valdovas-n10541229": {
+          "source": "unimet-lit-valdovas-n14435670",
+          "target": "unimet-lit-valdovas-n10541229",
+          "type": "metonymy"
+        },
+        "unimet-lit-valdovas-n14435670::unimet-lit-valdovas-n10628644": {
+          "source": "unimet-lit-valdovas-n14435670",
+          "target": "unimet-lit-valdovas-n10628644",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "valdžia",
+      "all_senses": [
+        {
+          "id": "unimet-lit-valdžia-n05196375",
+          "lemma": "valdžia",
+          "word_id": "unimet-lit-valdžia",
+          "synset": {
+            "id": "omw-en-05196375-n",
+            "ili": "i64278",
+            "pos": "n",
+            "lemmas": [
+              "control"
+            ],
+            "definition": "power to direct or determine"
+          }
+        },
+        {
+          "id": "unimet-lit-valdžia-n09824609",
+          "lemma": "valdžia",
+          "word_id": "unimet-lit-valdžia",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        },
+        {
+          "id": "unimet-lit-valdžia-n14442933",
+          "lemma": "valdžia",
+          "word_id": "unimet-lit-valdžia",
+          "synset": {
+            "id": "omw-en-14442933-n",
+            "ili": "i112906",
+            "pos": "n",
+            "lemmas": [
+              "rule"
+            ],
+            "definition": "dominance or power through legal authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-valdžia-n05196375",
+          "lemma": "valdžia",
+          "word_id": "unimet-lit-valdžia",
+          "synset": {
+            "id": "omw-en-05196375-n",
+            "ili": "i64278",
+            "pos": "n",
+            "lemmas": [
+              "control"
+            ],
+            "definition": "power to direct or determine"
+          }
+        },
+        {
+          "id": "unimet-lit-valdžia-n14442933",
+          "lemma": "valdžia",
+          "word_id": "unimet-lit-valdžia",
+          "synset": {
+            "id": "omw-en-14442933-n",
+            "ili": "i112906",
+            "pos": "n",
+            "lemmas": [
+              "rule"
+            ],
+            "definition": "dominance or power through legal authority"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-valdžia-n09824609",
+          "lemma": "valdžia",
+          "word_id": "unimet-lit-valdžia",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-valdžia-n05196375::unimet-lit-valdžia-n09824609": {
+          "source": "unimet-lit-valdžia-n05196375",
+          "target": "unimet-lit-valdžia-n09824609",
+          "type": "metonymy"
+        },
+        "unimet-lit-valdžia-n14442933::unimet-lit-valdžia-n09824609": {
+          "source": "unimet-lit-valdžia-n14442933",
+          "target": "unimet-lit-valdžia-n09824609",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "valstybė",
+      "all_senses": [
+        {
+          "id": "unimet-lit-valstybė-n08168978",
+          "lemma": "valstybė",
+          "word_id": "unimet-lit-valstybė",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lit-valstybė-n08544813",
+          "lemma": "valstybė",
+          "word_id": "unimet-lit-valstybė",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-valstybė-n08168978",
+          "lemma": "valstybė",
+          "word_id": "unimet-lit-valstybė",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-valstybė-n08544813",
+          "lemma": "valstybė",
+          "word_id": "unimet-lit-valstybė",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-valstybė-n08168978::unimet-lit-valstybė-n08544813": {
+          "source": "unimet-lit-valstybė-n08168978",
+          "target": "unimet-lit-valstybė-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "šalis",
+      "all_senses": [
+        {
+          "id": "unimet-lit-šalis-n08168978",
+          "lemma": "šalis",
+          "word_id": "unimet-lit-šalis",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lit-šalis-n08497294",
+          "lemma": "šalis",
+          "word_id": "unimet-lit-šalis",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-lit-šalis-n08544813",
+          "lemma": "šalis",
+          "word_id": "unimet-lit-šalis",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lit-šalis-n08168978",
+          "lemma": "šalis",
+          "word_id": "unimet-lit-šalis",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lit-šalis-n08497294",
+          "lemma": "šalis",
+          "word_id": "unimet-lit-šalis",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-lit-šalis-n08544813",
+          "lemma": "šalis",
+          "word_id": "unimet-lit-šalis",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lit-šalis-n08168978::unimet-lit-šalis-n08497294": {
+          "source": "unimet-lit-šalis-n08168978",
+          "target": "unimet-lit-šalis-n08497294",
+          "type": "metonymy"
+        },
+        "unimet-lit-šalis-n08168978::unimet-lit-šalis-n08544813": {
+          "source": "unimet-lit-šalis-n08168978",
+          "target": "unimet-lit-šalis-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "efd8e5ea95cc024c",
+  "name": "unimet-Lao",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "lao",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ປະເທດ",
+      "all_senses": [
+        {
+          "id": "unimet-lao-ປະເທດ-n08168978",
+          "lemma": "ປະເທດ",
+          "word_id": "unimet-lao-ປະເທດ",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lao-ປະເທດ-n08544813",
+          "lemma": "ປະເທດ",
+          "word_id": "unimet-lao-ປະເທດ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lao-ປະເທດ-n08168978",
+          "lemma": "ປະເທດ",
+          "word_id": "unimet-lao-ປະເທດ",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lao-ປະເທດ-n08544813",
+          "lemma": "ປະເທດ",
+          "word_id": "unimet-lao-ປະເທດ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lao-ປະເທດ-n08168978::unimet-lao-ປະເທດ-n08544813": {
+          "source": "unimet-lao-ປະເທດ-n08168978",
+          "target": "unimet-lao-ປະເທດ-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ເມືອງ",
+      "all_senses": [
+        {
+          "id": "unimet-lao-ເມືອງ-n08168978",
+          "lemma": "ເມືອງ",
+          "word_id": "unimet-lao-ເມືອງ",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lao-ເມືອງ-n08544813",
+          "lemma": "ເມືອງ",
+          "word_id": "unimet-lao-ເມືອງ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lao-ເມືອງ-n08168978",
+          "lemma": "ເມືອງ",
+          "word_id": "unimet-lao-ເມືອງ",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lao-ເມືອງ-n08544813",
+          "lemma": "ເມືອງ",
+          "word_id": "unimet-lao-ເມືອງ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lao-ເມືອງ-n08168978::unimet-lao-ເມືອງ-n08544813": {
+          "source": "unimet-lao-ເມືອງ-n08168978",
+          "target": "unimet-lao-ເມືອງ-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

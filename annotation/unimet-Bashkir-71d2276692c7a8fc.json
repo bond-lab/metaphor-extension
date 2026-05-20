@@ -1,0 +1,505 @@
+{
+  "id": "71d2276692c7a8fc",
+  "name": "unimet-Bashkir",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "bak",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ауыл",
+      "all_senses": [
+        {
+          "id": "unimet-bak-ауыл-n08226699",
+          "lemma": "ауыл",
+          "word_id": "unimet-bak-ауыл",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-bak-ауыл-n08672738",
+          "lemma": "ауыл",
+          "word_id": "unimet-bak-ауыл",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bak-ауыл-n08226699",
+          "lemma": "ауыл",
+          "word_id": "unimet-bak-ауыл",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bak-ауыл-n08672738",
+          "lemma": "ауыл",
+          "word_id": "unimet-bak-ауыл",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bak-ауыл-n08226699::unimet-bak-ауыл-n08672738": {
+          "source": "unimet-bak-ауыл-n08226699",
+          "target": "unimet-bak-ауыл-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ауыртыу",
+      "all_senses": [
+        {
+          "id": "unimet-bak-ауыртыу-n14322699",
+          "lemma": "ауыртыу",
+          "word_id": "unimet-bak-ауыртыу",
+          "synset": {
+            "id": "omw-en-14322699-n",
+            "ili": "i112218",
+            "pos": "n",
+            "lemmas": [
+              "pain"
+            ],
+            "definition": "a symptom of some physical hurt or disorder"
+          }
+        },
+        {
+          "id": "unimet-bak-ауыртыу-v02122164",
+          "lemma": "ауыртыу",
+          "word_id": "unimet-bak-ауыртыу",
+          "synset": {
+            "id": "omw-en-02122164-v",
+            "ili": "i32368",
+            "pos": "v",
+            "lemmas": [
+              "hurt"
+            ],
+            "definition": "be the source of pain"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bak-ауыртыу-v02122164",
+          "lemma": "ауыртыу",
+          "word_id": "unimet-bak-ауыртыу",
+          "synset": {
+            "id": "omw-en-02122164-v",
+            "ili": "i32368",
+            "pos": "v",
+            "lemmas": [
+              "hurt"
+            ],
+            "definition": "be the source of pain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bak-ауыртыу-n14322699",
+          "lemma": "ауыртыу",
+          "word_id": "unimet-bak-ауыртыу",
+          "synset": {
+            "id": "omw-en-14322699-n",
+            "ili": "i112218",
+            "pos": "n",
+            "lemmas": [
+              "pain"
+            ],
+            "definition": "a symptom of some physical hurt or disorder"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bak-ауыртыу-v02122164::unimet-bak-ауыртыу-n14322699": {
+          "source": "unimet-bak-ауыртыу-v02122164",
+          "target": "unimet-bak-ауыртыу-n14322699",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "дәүләт",
+      "all_senses": [
+        {
+          "id": "unimet-bak-дәүләт-n08178547",
+          "lemma": "дәүләт",
+          "word_id": "unimet-bak-дәүләт",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-bak-дәүләт-n08654360",
+          "lemma": "дәүләт",
+          "word_id": "unimet-bak-дәүләт",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bak-дәүләт-n08178547",
+          "lemma": "дәүләт",
+          "word_id": "unimet-bak-дәүләт",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bak-дәүләт-n08654360",
+          "lemma": "дәүләт",
+          "word_id": "unimet-bak-дәүләт",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bak-дәүләт-n08178547::unimet-bak-дәүләт-n08654360": {
+          "source": "unimet-bak-дәүләт-n08178547",
+          "target": "unimet-bak-дәүләт-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "йәшелсә",
+      "all_senses": [
+        {
+          "id": "unimet-bak-йәшелсә-n07707451",
+          "lemma": "йәшелсә",
+          "word_id": "unimet-bak-йәшелсә",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-bak-йәшелсә-n12212361",
+          "lemma": "йәшелсә",
+          "word_id": "unimet-bak-йәшелсә",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bak-йәшелсә-n12212361",
+          "lemma": "йәшелсә",
+          "word_id": "unimet-bak-йәшелсә",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bak-йәшелсә-n07707451",
+          "lemma": "йәшелсә",
+          "word_id": "unimet-bak-йәшелсә",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bak-йәшелсә-n12212361::unimet-bak-йәшелсә-n07707451": {
+          "source": "unimet-bak-йәшелсә-n12212361",
+          "target": "unimet-bak-йәшелсә-n07707451",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "тауыҡ",
+      "all_senses": [
+        {
+          "id": "unimet-bak-тауыҡ-n01791625",
+          "lemma": "тауыҡ",
+          "word_id": "unimet-bak-тауыҡ",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-bak-тауыҡ-n01792640",
+          "lemma": "тауыҡ",
+          "word_id": "unimet-bak-тауыҡ",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-bak-тауыҡ-n07644967",
+          "lemma": "тауыҡ",
+          "word_id": "unimet-bak-тауыҡ",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bak-тауыҡ-n01791625",
+          "lemma": "тауыҡ",
+          "word_id": "unimet-bak-тауыҡ",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-bak-тауыҡ-n01792640",
+          "lemma": "тауыҡ",
+          "word_id": "unimet-bak-тауыҡ",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bak-тауыҡ-n07644967",
+          "lemma": "тауыҡ",
+          "word_id": "unimet-bak-тауыҡ",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bak-тауыҡ-n01791625::unimet-bak-тауыҡ-n07644967": {
+          "source": "unimet-bak-тауыҡ-n01791625",
+          "target": "unimet-bak-тауыҡ-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-bak-тауыҡ-n01792640::unimet-bak-тауыҡ-n07644967": {
+          "source": "unimet-bak-тауыҡ-n01792640",
+          "target": "unimet-bak-тауыҡ-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "яҫмыҡ",
+      "all_senses": [
+        {
+          "id": "unimet-bak-яҫмыҡ-n07725255",
+          "lemma": "яҫмыҡ",
+          "word_id": "unimet-bak-яҫмыҡ",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-bak-яҫмыҡ-n12544240",
+          "lemma": "яҫмыҡ",
+          "word_id": "unimet-bak-яҫмыҡ",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-bak-яҫмыҡ-n12544240",
+          "lemma": "яҫмыҡ",
+          "word_id": "unimet-bak-яҫмыҡ",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-bak-яҫмыҡ-n07725255",
+          "lemma": "яҫмыҡ",
+          "word_id": "unimet-bak-яҫмыҡ",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-bak-яҫмыҡ-n12544240::unimet-bak-яҫмыҡ-n07725255": {
+          "source": "unimet-bak-яҫмыҡ-n12544240",
+          "target": "unimet-bak-яҫмыҡ-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

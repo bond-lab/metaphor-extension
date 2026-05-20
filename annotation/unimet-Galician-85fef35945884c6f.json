@@ -1,0 +1,1648 @@
+{
+  "id": "85fef35945884c6f",
+  "name": "unimet-Galician",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "glg",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "adobe",
+      "all_senses": [
+        {
+          "id": "unimet-glg-adobe-n02681392",
+          "lemma": "adobe",
+          "word_id": "unimet-glg-adobe",
+          "synset": {
+            "id": "omw-en-02681392-n",
+            "ili": "i49842",
+            "pos": "n",
+            "lemmas": [
+              "adobe brick"
+            ],
+            "definition": "sun-dried brick; used in hot dry climates"
+          }
+        },
+        {
+          "id": "unimet-glg-adobe-n14600927",
+          "lemma": "adobe",
+          "word_id": "unimet-glg-adobe",
+          "synset": {
+            "id": "omw-en-14600927-n",
+            "ili": "i113753",
+            "pos": "n",
+            "lemmas": [
+              "adobe"
+            ],
+            "definition": "the clay from which adobe bricks are made"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-adobe-n14600927",
+          "lemma": "adobe",
+          "word_id": "unimet-glg-adobe",
+          "synset": {
+            "id": "omw-en-14600927-n",
+            "ili": "i113753",
+            "pos": "n",
+            "lemmas": [
+              "adobe"
+            ],
+            "definition": "the clay from which adobe bricks are made"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-adobe-n02681392",
+          "lemma": "adobe",
+          "word_id": "unimet-glg-adobe",
+          "synset": {
+            "id": "omw-en-02681392-n",
+            "ili": "i49842",
+            "pos": "n",
+            "lemmas": [
+              "adobe brick"
+            ],
+            "definition": "sun-dried brick; used in hot dry climates"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-adobe-n14600927::unimet-glg-adobe-n02681392": {
+          "source": "unimet-glg-adobe-n14600927",
+          "target": "unimet-glg-adobe-n02681392",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "asfalto",
+      "all_senses": [
+        {
+          "id": "unimet-glg-asfalto-n14667455",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14667455-n",
+            "ili": "i114050",
+            "pos": "n",
+            "lemmas": [
+              "asphalt"
+            ],
+            "definition": "a dark bituminous substance found in natural beds and as residue from petroleum distillation; consists mainly of hydrocarbons"
+          }
+        },
+        {
+          "id": "unimet-glg-asfalto-n14769465",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14769465-n",
+            "ili": "i114624",
+            "pos": "n",
+            "lemmas": [
+              "asphalt"
+            ],
+            "definition": "mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing"
+          }
+        },
+        {
+          "id": "unimet-glg-asfalto-n14976871",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14976871-n",
+            "ili": "i115845",
+            "pos": "n",
+            "lemmas": [
+              "blacktopping"
+            ],
+            "definition": "a black bituminous material used for paving roads or other areas; usually spread over crushed rock"
+          }
+        },
+        {
+          "id": "unimet-glg-asfalto-n14977188",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14977188-n",
+            "ili": "i115847",
+            "pos": "n",
+            "lemmas": [
+              "tarmac"
+            ],
+            "definition": "a paving material of tar and broken stone; mixed in a factory and shaped during paving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-asfalto-n14667455",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14667455-n",
+            "ili": "i114050",
+            "pos": "n",
+            "lemmas": [
+              "asphalt"
+            ],
+            "definition": "a dark bituminous substance found in natural beds and as residue from petroleum distillation; consists mainly of hydrocarbons"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-asfalto-n14769465",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14769465-n",
+            "ili": "i114624",
+            "pos": "n",
+            "lemmas": [
+              "asphalt"
+            ],
+            "definition": "mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing"
+          }
+        },
+        {
+          "id": "unimet-glg-asfalto-n14976871",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14976871-n",
+            "ili": "i115845",
+            "pos": "n",
+            "lemmas": [
+              "blacktopping"
+            ],
+            "definition": "a black bituminous material used for paving roads or other areas; usually spread over crushed rock"
+          }
+        },
+        {
+          "id": "unimet-glg-asfalto-n14977188",
+          "lemma": "asfalto",
+          "word_id": "unimet-glg-asfalto",
+          "synset": {
+            "id": "omw-en-14977188-n",
+            "ili": "i115847",
+            "pos": "n",
+            "lemmas": [
+              "tarmac"
+            ],
+            "definition": "a paving material of tar and broken stone; mixed in a factory and shaped during paving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-asfalto-n14667455::unimet-glg-asfalto-n14769465": {
+          "source": "unimet-glg-asfalto-n14667455",
+          "target": "unimet-glg-asfalto-n14769465",
+          "type": "metonymy"
+        },
+        "unimet-glg-asfalto-n14667455::unimet-glg-asfalto-n14976871": {
+          "source": "unimet-glg-asfalto-n14667455",
+          "target": "unimet-glg-asfalto-n14976871",
+          "type": "metonymy"
+        },
+        "unimet-glg-asfalto-n14667455::unimet-glg-asfalto-n14977188": {
+          "source": "unimet-glg-asfalto-n14667455",
+          "target": "unimet-glg-asfalto-n14977188",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cemento",
+      "all_senses": [
+        {
+          "id": "unimet-glg-cemento-n14704640",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14704640-n",
+            "ili": "i114269",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "something that hardens to act as adhesive material"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14804175",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14804175-n",
+            "ili": "i114835",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "a building material that is a powder made of a mixture of calcined limestone and clay; used with water and sand or gravel to make concrete and mortar"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14804487",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14804487-n",
+            "ili": "i114836",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "concrete pavement is sometimes referred to as cement"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14804641",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14804641-n",
+            "ili": "i114837",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "any of various materials used by dentists to fill cavities in teeth"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14820180",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14820180-n",
+            "ili": "i114924",
+            "pos": "n",
+            "lemmas": [
+              "concrete"
+            ],
+            "definition": "a strong hard building material composed of sand and gravel and cement and water"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-cemento-n14704640",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14704640-n",
+            "ili": "i114269",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "something that hardens to act as adhesive material"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14804641",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14804641-n",
+            "ili": "i114837",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "any of various materials used by dentists to fill cavities in teeth"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-cemento-n14804175",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14804175-n",
+            "ili": "i114835",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "a building material that is a powder made of a mixture of calcined limestone and clay; used with water and sand or gravel to make concrete and mortar"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14804487",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14804487-n",
+            "ili": "i114836",
+            "pos": "n",
+            "lemmas": [
+              "cement"
+            ],
+            "definition": "concrete pavement is sometimes referred to as cement"
+          }
+        },
+        {
+          "id": "unimet-glg-cemento-n14820180",
+          "lemma": "cemento",
+          "word_id": "unimet-glg-cemento",
+          "synset": {
+            "id": "omw-en-14820180-n",
+            "ili": "i114924",
+            "pos": "n",
+            "lemmas": [
+              "concrete"
+            ],
+            "definition": "a strong hard building material composed of sand and gravel and cement and water"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-cemento-n14704640::unimet-glg-cemento-n14804175": {
+          "source": "unimet-glg-cemento-n14704640",
+          "target": "unimet-glg-cemento-n14804175",
+          "type": "metonymy"
+        },
+        "unimet-glg-cemento-n14704640::unimet-glg-cemento-n14804487": {
+          "source": "unimet-glg-cemento-n14704640",
+          "target": "unimet-glg-cemento-n14804487",
+          "type": "metonymy"
+        },
+        "unimet-glg-cemento-n14704640::unimet-glg-cemento-n14820180": {
+          "source": "unimet-glg-cemento-n14704640",
+          "target": "unimet-glg-cemento-n14820180",
+          "type": "metonymy"
+        },
+        "unimet-glg-cemento-n14804641::unimet-glg-cemento-n14820180": {
+          "source": "unimet-glg-cemento-n14804641",
+          "target": "unimet-glg-cemento-n14820180",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "escola",
+      "all_senses": [
+        {
+          "id": "unimet-glg-escola-n04146050",
+          "lemma": "escola",
+          "word_id": "unimet-glg-escola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-glg-escola-n08276720",
+          "lemma": "escola",
+          "word_id": "unimet-glg-escola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-escola-n04146050",
+          "lemma": "escola",
+          "word_id": "unimet-glg-escola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-escola-n08276720",
+          "lemma": "escola",
+          "word_id": "unimet-glg-escola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-escola-n04146050::unimet-glg-escola-n08276720": {
+          "source": "unimet-glg-escola-n04146050",
+          "target": "unimet-glg-escola-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "festa",
+      "all_senses": [
+        {
+          "id": "unimet-glg-festa-n07447641",
+          "lemma": "festa",
+          "word_id": "unimet-glg-festa",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-glg-festa-n08252602",
+          "lemma": "festa",
+          "word_id": "unimet-glg-festa",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-festa-n07447641",
+          "lemma": "festa",
+          "word_id": "unimet-glg-festa",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-festa-n08252602",
+          "lemma": "festa",
+          "word_id": "unimet-glg-festa",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-festa-n07447641::unimet-glg-festa-n08252602": {
+          "source": "unimet-glg-festa-n07447641",
+          "target": "unimet-glg-festa-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "illante",
+      "all_senses": [
+        {
+          "id": "unimet-glg-illante-n14821590",
+          "lemma": "illante",
+          "word_id": "unimet-glg-illante",
+          "synset": {
+            "id": "omw-en-14821590-n",
+            "ili": "i114931",
+            "pos": "n",
+            "lemmas": [
+              "insulator"
+            ],
+            "definition": "a material such as glass or porcelain with negligible electrical or thermal conductivity"
+          }
+        },
+        {
+          "id": "unimet-glg-illante-n14920844",
+          "lemma": "illante",
+          "word_id": "unimet-glg-illante",
+          "synset": {
+            "id": "omw-en-14920844-n",
+            "ili": "i115511",
+            "pos": "n",
+            "lemmas": [
+              "insulation"
+            ],
+            "definition": "a material that reduces or prevents the transmission of heat or sound or electricity"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-illante-n14821590",
+          "lemma": "illante",
+          "word_id": "unimet-glg-illante",
+          "synset": {
+            "id": "omw-en-14821590-n",
+            "ili": "i114931",
+            "pos": "n",
+            "lemmas": [
+              "insulator"
+            ],
+            "definition": "a material such as glass or porcelain with negligible electrical or thermal conductivity"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-illante-n14920844",
+          "lemma": "illante",
+          "word_id": "unimet-glg-illante",
+          "synset": {
+            "id": "omw-en-14920844-n",
+            "ili": "i115511",
+            "pos": "n",
+            "lemmas": [
+              "insulation"
+            ],
+            "definition": "a material that reduces or prevents the transmission of heat or sound or electricity"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-illante-n14821590::unimet-glg-illante-n14920844": {
+          "source": "unimet-glg-illante-n14821590",
+          "target": "unimet-glg-illante-n14920844",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "la",
+      "all_senses": [
+        {
+          "id": "unimet-glg-la-n04599235",
+          "lemma": "la",
+          "word_id": "unimet-glg-la",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-glg-la-n15104217",
+          "lemma": "la",
+          "word_id": "unimet-glg-la",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-la-n15104217",
+          "lemma": "la",
+          "word_id": "unimet-glg-la",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-la-n04599235",
+          "lemma": "la",
+          "word_id": "unimet-glg-la",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-la-n15104217::unimet-glg-la-n04599235": {
+          "source": "unimet-glg-la-n15104217",
+          "target": "unimet-glg-la-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "libro",
+      "all_senses": [
+        {
+          "id": "unimet-glg-libro-n02870092",
+          "lemma": "libro",
+          "word_id": "unimet-glg-libro",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-glg-libro-n06410904",
+          "lemma": "libro",
+          "word_id": "unimet-glg-libro",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-libro-n02870092",
+          "lemma": "libro",
+          "word_id": "unimet-glg-libro",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-libro-n06410904",
+          "lemma": "libro",
+          "word_id": "unimet-glg-libro",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-libro-n02870092::unimet-glg-libro-n06410904": {
+          "source": "unimet-glg-libro-n02870092",
+          "target": "unimet-glg-libro-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lousa",
+      "all_senses": [
+        {
+          "id": "unimet-glg-lousa-n14700162",
+          "lemma": "lousa",
+          "word_id": "unimet-glg-lousa",
+          "synset": {
+            "id": "omw-en-14700162-n",
+            "ili": "i114242",
+            "pos": "n",
+            "lemmas": [
+              "slate"
+            ],
+            "definition": "a fine-grained metamorphic rock that can be split into thin layers"
+          }
+        },
+        {
+          "id": "unimet-glg-lousa-n15043002",
+          "lemma": "lousa",
+          "word_id": "unimet-glg-lousa",
+          "synset": {
+            "id": "omw-en-15043002-n",
+            "ili": "i116220",
+            "pos": "n",
+            "lemmas": [
+              "slate"
+            ],
+            "definition": "thin layers of rock used for roofing"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-lousa-n14700162",
+          "lemma": "lousa",
+          "word_id": "unimet-glg-lousa",
+          "synset": {
+            "id": "omw-en-14700162-n",
+            "ili": "i114242",
+            "pos": "n",
+            "lemmas": [
+              "slate"
+            ],
+            "definition": "a fine-grained metamorphic rock that can be split into thin layers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-lousa-n15043002",
+          "lemma": "lousa",
+          "word_id": "unimet-glg-lousa",
+          "synset": {
+            "id": "omw-en-15043002-n",
+            "ili": "i116220",
+            "pos": "n",
+            "lemmas": [
+              "slate"
+            ],
+            "definition": "thin layers of rock used for roofing"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-lousa-n14700162::unimet-glg-lousa-n15043002": {
+          "source": "unimet-glg-lousa-n14700162",
+          "target": "unimet-glg-lousa-n15043002",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "madeira",
+      "all_senses": [
+        {
+          "id": "unimet-glg-madeira-n14943580",
+          "lemma": "madeira",
+          "word_id": "unimet-glg-madeira",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        },
+        {
+          "id": "unimet-glg-madeira-n15098161",
+          "lemma": "madeira",
+          "word_id": "unimet-glg-madeira",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-madeira-n14943580",
+          "lemma": "madeira",
+          "word_id": "unimet-glg-madeira",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-madeira-n15098161",
+          "lemma": "madeira",
+          "word_id": "unimet-glg-madeira",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-madeira-n14943580::unimet-glg-madeira-n15098161": {
+          "source": "unimet-glg-madeira-n14943580",
+          "target": "unimet-glg-madeira-n15098161",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "magnetita",
+      "all_senses": [
+        {
+          "id": "unimet-glg-magnetita-n14942411",
+          "lemma": "magnetita",
+          "word_id": "unimet-glg-magnetita",
+          "synset": {
+            "id": "omw-en-14942411-n",
+            "ili": "i115645",
+            "pos": "n",
+            "lemmas": [
+              "lodestone"
+            ],
+            "definition": "a permanent magnet consisting of magnetite that possess polarity and has the power to attract as well as to be attracted magnetically"
+          }
+        },
+        {
+          "id": "unimet-glg-magnetita-n14945914",
+          "lemma": "magnetita",
+          "word_id": "unimet-glg-magnetita",
+          "synset": {
+            "id": "omw-en-14945914-n",
+            "ili": "i115665",
+            "pos": "n",
+            "lemmas": [
+              "magnetite"
+            ],
+            "definition": "an oxide of iron that is strongly attracted by magnets"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-magnetita-n14942411",
+          "lemma": "magnetita",
+          "word_id": "unimet-glg-magnetita",
+          "synset": {
+            "id": "omw-en-14942411-n",
+            "ili": "i115645",
+            "pos": "n",
+            "lemmas": [
+              "lodestone"
+            ],
+            "definition": "a permanent magnet consisting of magnetite that possess polarity and has the power to attract as well as to be attracted magnetically"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-magnetita-n14945914",
+          "lemma": "magnetita",
+          "word_id": "unimet-glg-magnetita",
+          "synset": {
+            "id": "omw-en-14945914-n",
+            "ili": "i115665",
+            "pos": "n",
+            "lemmas": [
+              "magnetite"
+            ],
+            "definition": "an oxide of iron that is strongly attracted by magnets"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-magnetita-n14942411::unimet-glg-magnetita-n14945914": {
+          "source": "unimet-glg-magnetita-n14942411",
+          "target": "unimet-glg-magnetita-n14945914",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "nación",
+      "all_senses": [
+        {
+          "id": "unimet-glg-nación-n08166552",
+          "lemma": "nación",
+          "word_id": "unimet-glg-nación",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-glg-nación-n08544813",
+          "lemma": "nación",
+          "word_id": "unimet-glg-nación",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-nación-n08166552",
+          "lemma": "nación",
+          "word_id": "unimet-glg-nación",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-nación-n08544813",
+          "lemma": "nación",
+          "word_id": "unimet-glg-nación",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-nación-n08166552::unimet-glg-nación-n08544813": {
+          "source": "unimet-glg-nación-n08166552",
+          "target": "unimet-glg-nación-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "nailon",
+      "all_senses": [
+        {
+          "id": "unimet-glg-nailon-n03836906",
+          "lemma": "nailon",
+          "word_id": "unimet-glg-nailon",
+          "synset": {
+            "id": "omw-en-03836906-n",
+            "ili": "i56669",
+            "pos": "n",
+            "lemmas": [
+              "nylon"
+            ],
+            "definition": "a synthetic fabric"
+          }
+        },
+        {
+          "id": "unimet-glg-nailon-n14966192",
+          "lemma": "nailon",
+          "word_id": "unimet-glg-nailon",
+          "synset": {
+            "id": "omw-en-14966192-n",
+            "ili": "i115787",
+            "pos": "n",
+            "lemmas": [
+              "nylon"
+            ],
+            "definition": "a thermoplastic polyamide; a family of strong resilient synthetic fibers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-nailon-n14966192",
+          "lemma": "nailon",
+          "word_id": "unimet-glg-nailon",
+          "synset": {
+            "id": "omw-en-14966192-n",
+            "ili": "i115787",
+            "pos": "n",
+            "lemmas": [
+              "nylon"
+            ],
+            "definition": "a thermoplastic polyamide; a family of strong resilient synthetic fibers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-nailon-n03836906",
+          "lemma": "nailon",
+          "word_id": "unimet-glg-nailon",
+          "synset": {
+            "id": "omw-en-03836906-n",
+            "ili": "i56669",
+            "pos": "n",
+            "lemmas": [
+              "nylon"
+            ],
+            "definition": "a synthetic fabric"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-nailon-n14966192::unimet-glg-nailon-n03836906": {
+          "source": "unimet-glg-nailon-n14966192",
+          "target": "unimet-glg-nailon-n03836906",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "negro",
+      "all_senses": [
+        {
+          "id": "unimet-glg-negro-n04960277",
+          "lemma": "negro",
+          "word_id": "unimet-glg-negro",
+          "synset": {
+            "id": "omw-en-04960277-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        },
+        {
+          "id": "unimet-glg-negro-n09638009",
+          "lemma": "negro",
+          "word_id": "unimet-glg-negro",
+          "synset": {
+            "id": "omw-en-09638009-n",
+            "ili": "i87272",
+            "pos": "n",
+            "lemmas": [
+              "jigaboo"
+            ],
+            "definition": "(ethnic slur) extremely offensive name for a Black person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-negro-n04960277",
+          "lemma": "negro",
+          "word_id": "unimet-glg-negro",
+          "synset": {
+            "id": "omw-en-04960277-n",
+            "ili": "i63040",
+            "pos": "n",
+            "lemmas": [
+              "inkiness"
+            ],
+            "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-negro-n09638009",
+          "lemma": "negro",
+          "word_id": "unimet-glg-negro",
+          "synset": {
+            "id": "omw-en-09638009-n",
+            "ili": "i87272",
+            "pos": "n",
+            "lemmas": [
+              "jigaboo"
+            ],
+            "definition": "(ethnic slur) extremely offensive name for a Black person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-negro-n04960277::unimet-glg-negro-n09638009": {
+          "source": "unimet-glg-negro-n04960277",
+          "target": "unimet-glg-negro-n09638009",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "prata",
+      "all_senses": [
+        {
+          "id": "unimet-glg-prata-n04221424",
+          "lemma": "prata",
+          "word_id": "unimet-glg-prata",
+          "synset": {
+            "id": "omw-en-04221424-n",
+            "ili": "i58953",
+            "pos": "n",
+            "lemmas": [
+              "silverware"
+            ],
+            "definition": "tableware made of silver or silver plate or pewter or stainless steel"
+          }
+        },
+        {
+          "id": "unimet-glg-prata-n14654954",
+          "lemma": "prata",
+          "word_id": "unimet-glg-prata",
+          "synset": {
+            "id": "omw-en-14654954-n",
+            "ili": "i114005",
+            "pos": "n",
+            "lemmas": [
+              "silver"
+            ],
+            "definition": "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-prata-n14654954",
+          "lemma": "prata",
+          "word_id": "unimet-glg-prata",
+          "synset": {
+            "id": "omw-en-14654954-n",
+            "ili": "i114005",
+            "pos": "n",
+            "lemmas": [
+              "silver"
+            ],
+            "definition": "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-prata-n04221424",
+          "lemma": "prata",
+          "word_id": "unimet-glg-prata",
+          "synset": {
+            "id": "omw-en-04221424-n",
+            "ili": "i58953",
+            "pos": "n",
+            "lemmas": [
+              "silverware"
+            ],
+            "definition": "tableware made of silver or silver plate or pewter or stainless steel"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-prata-n14654954::unimet-glg-prata-n04221424": {
+          "source": "unimet-glg-prata-n14654954",
+          "target": "unimet-glg-prata-n04221424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "seda",
+      "all_senses": [
+        {
+          "id": "unimet-glg-seda-n04219424",
+          "lemma": "seda",
+          "word_id": "unimet-glg-seda",
+          "synset": {
+            "id": "omw-en-04219424-n",
+            "ili": "i58941",
+            "pos": "n",
+            "lemmas": [
+              "silk"
+            ],
+            "definition": "a fabric made from the fine threads produced by certain insect larvae"
+          }
+        },
+        {
+          "id": "unimet-glg-seda-n04219580",
+          "lemma": "seda",
+          "word_id": "unimet-glg-seda",
+          "synset": {
+            "id": "omw-en-04219580-n",
+            "ili": "i58942",
+            "pos": "n",
+            "lemmas": [
+              "silks"
+            ],
+            "definition": "the brightly colored garments of a jockey; emblematic of the stable"
+          }
+        },
+        {
+          "id": "unimet-glg-seda-n15041911",
+          "lemma": "seda",
+          "word_id": "unimet-glg-seda",
+          "synset": {
+            "id": "omw-en-15041911-n",
+            "ili": "i116211",
+            "pos": "n",
+            "lemmas": [
+              "silk"
+            ],
+            "definition": "fibers from silkworm cocoons provide threads for knitting"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-seda-n15041911",
+          "lemma": "seda",
+          "word_id": "unimet-glg-seda",
+          "synset": {
+            "id": "omw-en-15041911-n",
+            "ili": "i116211",
+            "pos": "n",
+            "lemmas": [
+              "silk"
+            ],
+            "definition": "fibers from silkworm cocoons provide threads for knitting"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-seda-n04219424",
+          "lemma": "seda",
+          "word_id": "unimet-glg-seda",
+          "synset": {
+            "id": "omw-en-04219424-n",
+            "ili": "i58941",
+            "pos": "n",
+            "lemmas": [
+              "silk"
+            ],
+            "definition": "a fabric made from the fine threads produced by certain insect larvae"
+          }
+        },
+        {
+          "id": "unimet-glg-seda-n04219580",
+          "lemma": "seda",
+          "word_id": "unimet-glg-seda",
+          "synset": {
+            "id": "omw-en-04219580-n",
+            "ili": "i58942",
+            "pos": "n",
+            "lemmas": [
+              "silks"
+            ],
+            "definition": "the brightly colored garments of a jockey; emblematic of the stable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-seda-n15041911::unimet-glg-seda-n04219424": {
+          "source": "unimet-glg-seda-n15041911",
+          "target": "unimet-glg-seda-n04219424",
+          "type": "metonymy"
+        },
+        "unimet-glg-seda-n15041911::unimet-glg-seda-n04219580": {
+          "source": "unimet-glg-seda-n15041911",
+          "target": "unimet-glg-seda-n04219580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "toxina botulínica",
+      "all_senses": [
+        {
+          "id": "unimet-glg-toxina botulínica-n14587688",
+          "lemma": "toxina botulínica",
+          "word_id": "unimet-glg-toxina botulínica",
+          "synset": {
+            "id": "omw-en-14587688-n",
+            "ili": "i113679",
+            "pos": "n",
+            "lemmas": [
+              "botulinum toxin"
+            ],
+            "definition": "any of several neurotoxins that are produced by the anaerobic bacterium Clostridium botulinum; causes muscle paralysis"
+          }
+        },
+        {
+          "id": "unimet-glg-toxina botulínica-n15035123",
+          "lemma": "toxina botulínica",
+          "word_id": "unimet-glg-toxina botulínica",
+          "synset": {
+            "id": "omw-en-15035123-n",
+            "ili": "i116168",
+            "pos": "n",
+            "lemmas": [
+              "botulismotoxin"
+            ],
+            "definition": "potent bacterial toxin produced by the bacterium Clostridium botulinum that causes botulism; can be used as a bioweapon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-toxina botulínica-n14587688",
+          "lemma": "toxina botulínica",
+          "word_id": "unimet-glg-toxina botulínica",
+          "synset": {
+            "id": "omw-en-14587688-n",
+            "ili": "i113679",
+            "pos": "n",
+            "lemmas": [
+              "botulinum toxin"
+            ],
+            "definition": "any of several neurotoxins that are produced by the anaerobic bacterium Clostridium botulinum; causes muscle paralysis"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-toxina botulínica-n15035123",
+          "lemma": "toxina botulínica",
+          "word_id": "unimet-glg-toxina botulínica",
+          "synset": {
+            "id": "omw-en-15035123-n",
+            "ili": "i116168",
+            "pos": "n",
+            "lemmas": [
+              "botulismotoxin"
+            ],
+            "definition": "potent bacterial toxin produced by the bacterium Clostridium botulinum that causes botulism; can be used as a bioweapon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-toxina botulínica-n14587688::unimet-glg-toxina botulínica-n15035123": {
+          "source": "unimet-glg-toxina botulínica-n14587688",
+          "target": "unimet-glg-toxina botulínica-n15035123",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "xeso",
+      "all_senses": [
+        {
+          "id": "unimet-glg-xeso-n14676756",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14676756-n",
+            "ili": "i114103",
+            "pos": "n",
+            "lemmas": [
+              "gesso"
+            ],
+            "definition": "gypsum or plaster of Paris spread on a surface to make it suitable for painting or gilding (or a surface so prepared)"
+          }
+        },
+        {
+          "id": "unimet-glg-xeso-n14677778",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        },
+        {
+          "id": "unimet-glg-xeso-n14992287",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14992287-n",
+            "ili": "i115931",
+            "pos": "n",
+            "lemmas": [
+              "plaster"
+            ],
+            "definition": "a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings"
+          }
+        },
+        {
+          "id": "unimet-glg-xeso-n14992613",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14992613-n",
+            "ili": "i115932",
+            "pos": "n",
+            "lemmas": [
+              "plaster of paris"
+            ],
+            "definition": "any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-glg-xeso-n14676756",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14676756-n",
+            "ili": "i114103",
+            "pos": "n",
+            "lemmas": [
+              "gesso"
+            ],
+            "definition": "gypsum or plaster of Paris spread on a surface to make it suitable for painting or gilding (or a surface so prepared)"
+          }
+        },
+        {
+          "id": "unimet-glg-xeso-n14677778",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-glg-xeso-n14992287",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14992287-n",
+            "ili": "i115931",
+            "pos": "n",
+            "lemmas": [
+              "plaster"
+            ],
+            "definition": "a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings"
+          }
+        },
+        {
+          "id": "unimet-glg-xeso-n14992613",
+          "lemma": "xeso",
+          "word_id": "unimet-glg-xeso",
+          "synset": {
+            "id": "omw-en-14992613-n",
+            "ili": "i115932",
+            "pos": "n",
+            "lemmas": [
+              "plaster of paris"
+            ],
+            "definition": "any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs"
+          }
+        }
+      ],
+      "links": {
+        "unimet-glg-xeso-n14676756::unimet-glg-xeso-n14992287": {
+          "source": "unimet-glg-xeso-n14676756",
+          "target": "unimet-glg-xeso-n14992287",
+          "type": "metonymy"
+        },
+        "unimet-glg-xeso-n14677778::unimet-glg-xeso-n14992287": {
+          "source": "unimet-glg-xeso-n14677778",
+          "target": "unimet-glg-xeso-n14992287",
+          "type": "metonymy"
+        },
+        "unimet-glg-xeso-n14992287::unimet-glg-xeso-n14992613": {
+          "source": "unimet-glg-xeso-n14992287",
+          "target": "unimet-glg-xeso-n14992613",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

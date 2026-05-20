@@ -1,0 +1,168 @@
+{
+  "id": "7a85c9c429a3b633",
+  "name": "unimet-Continental Southern Italian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nap",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "accio",
+      "all_senses": [
+        {
+          "id": "unimet-nap-accio-n07730406",
+          "lemma": "accio",
+          "word_id": "unimet-nap-accio",
+          "synset": {
+            "id": "omw-en-07730406-n",
+            "ili": "i77650",
+            "pos": "n",
+            "lemmas": [
+              "celery"
+            ],
+            "definition": "stalks eaten raw or cooked or used as seasoning"
+          }
+        },
+        {
+          "id": "unimet-nap-accio-n12933403",
+          "lemma": "accio",
+          "word_id": "unimet-nap-accio",
+          "synset": {
+            "id": "omw-en-12933403-n",
+            "ili": "i104723",
+            "pos": "n",
+            "lemmas": [
+              "cultivated celery"
+            ],
+            "definition": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nap-accio-n12933403",
+          "lemma": "accio",
+          "word_id": "unimet-nap-accio",
+          "synset": {
+            "id": "omw-en-12933403-n",
+            "ili": "i104723",
+            "pos": "n",
+            "lemmas": [
+              "cultivated celery"
+            ],
+            "definition": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nap-accio-n07730406",
+          "lemma": "accio",
+          "word_id": "unimet-nap-accio",
+          "synset": {
+            "id": "omw-en-07730406-n",
+            "ili": "i77650",
+            "pos": "n",
+            "lemmas": [
+              "celery"
+            ],
+            "definition": "stalks eaten raw or cooked or used as seasoning"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nap-accio-n12933403::unimet-nap-accio-n07730406": {
+          "source": "unimet-nap-accio-n12933403",
+          "target": "unimet-nap-accio-n07730406",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "piérzeco",
+      "all_senses": [
+        {
+          "id": "unimet-nap-piérzeco-n07751004",
+          "lemma": "piérzeco",
+          "word_id": "unimet-nap-piérzeco",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-nap-piérzeco-n12648045",
+          "lemma": "piérzeco",
+          "word_id": "unimet-nap-piérzeco",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nap-piérzeco-n07751004",
+          "lemma": "piérzeco",
+          "word_id": "unimet-nap-piérzeco",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nap-piérzeco-n12648045",
+          "lemma": "piérzeco",
+          "word_id": "unimet-nap-piérzeco",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nap-piérzeco-n07751004::unimet-nap-piérzeco-n12648045": {
+          "source": "unimet-nap-piérzeco-n07751004",
+          "target": "unimet-nap-piérzeco-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

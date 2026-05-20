@@ -1,0 +1,3421 @@
+{
+  "id": "d8ba3c9cb21afda6",
+  "name": "unimet-Malayalam",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mal",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "അടയ്ക്ക",
+      "all_senses": [
+        {
+          "id": "unimet-mal-അടയ്ക്ക-n07770869",
+          "lemma": "അടയ്ക്ക",
+          "word_id": "unimet-mal-അടയ്ക്ക",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-mal-അടയ്ക്ക-n12584191",
+          "lemma": "അടയ്ക്ക",
+          "word_id": "unimet-mal-അടയ്ക്ക",
+          "synset": {
+            "id": "omw-en-12584191-n",
+            "ili": "i103019",
+            "pos": "n",
+            "lemmas": [
+              "areca"
+            ],
+            "definition": "any of several tall tropical palms native to southeastern Asia having egg-shaped nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-അടയ്ക്ക-n07770869",
+          "lemma": "അടയ്ക്ക",
+          "word_id": "unimet-mal-അടയ്ക്ക",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-അടയ്ക്ക-n12584191",
+          "lemma": "അടയ്ക്ക",
+          "word_id": "unimet-mal-അടയ്ക്ക",
+          "synset": {
+            "id": "omw-en-12584191-n",
+            "ili": "i103019",
+            "pos": "n",
+            "lemmas": [
+              "areca"
+            ],
+            "definition": "any of several tall tropical palms native to southeastern Asia having egg-shaped nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-അടയ്ക്ക-n07770869::unimet-mal-അടയ്ക്ക-n12584191": {
+          "source": "unimet-mal-അടയ്ക്ക-n07770869",
+          "target": "unimet-mal-അടയ്ക്ക-n12584191",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "അത്തിപ്പഴം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-അത്തിപ്പഴം-n07753113",
+          "lemma": "അത്തിപ്പഴം",
+          "word_id": "unimet-mal-അത്തിപ്പഴം",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        },
+        {
+          "id": "unimet-mal-അത്തിപ്പഴം-n12401684",
+          "lemma": "അത്തിപ്പഴം",
+          "word_id": "unimet-mal-അത്തിപ്പഴം",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-അത്തിപ്പഴം-n07753113",
+          "lemma": "അത്തിപ്പഴം",
+          "word_id": "unimet-mal-അത്തിപ്പഴം",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-അത്തിപ്പഴം-n12401684",
+          "lemma": "അത്തിപ്പഴം",
+          "word_id": "unimet-mal-അത്തിപ്പഴം",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-അത്തിപ്പഴം-n07753113::unimet-mal-അത്തിപ്പഴം-n12401684": {
+          "source": "unimet-mal-അത്തിപ്പഴം-n07753113",
+          "target": "unimet-mal-അത്തിപ്പഴം-n12401684",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ആനന്ദം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ആനന്ദം-n05829782",
+          "lemma": "ആനന്ദം",
+          "word_id": "unimet-mal-ആനന്ദം",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-mal-ആനന്ദം-n07491038",
+          "lemma": "ആനന്ദം",
+          "word_id": "unimet-mal-ആനന്ദം",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ആനന്ദം-n07491038",
+          "lemma": "ആനന്ദം",
+          "word_id": "unimet-mal-ആനന്ദം",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ആനന്ദം-n05829782",
+          "lemma": "ആനന്ദം",
+          "word_id": "unimet-mal-ആനന്ദം",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ആനന്ദം-n07491038::unimet-mal-ആനന്ദം-n05829782": {
+          "source": "unimet-mal-ആനന്ദം-n07491038",
+          "target": "unimet-mal-ആനന്ദം-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ആപ്പിള്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ആപ്പിള്-n07739125",
+          "lemma": "ആപ്പിള്",
+          "word_id": "unimet-mal-ആപ്പിള്",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-mal-ആപ്പിള്-n12633994",
+          "lemma": "ആപ്പിള്",
+          "word_id": "unimet-mal-ആപ്പിള്",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ആപ്പിള്-n07739125",
+          "lemma": "ആപ്പിള്",
+          "word_id": "unimet-mal-ആപ്പിള്",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ആപ്പിള്-n12633994",
+          "lemma": "ആപ്പിള്",
+          "word_id": "unimet-mal-ആപ്പിള്",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ആപ്പിള്-n07739125::unimet-mal-ആപ്പിള്-n12633994": {
+          "source": "unimet-mal-ആപ്പിള്-n07739125",
+          "target": "unimet-mal-ആപ്പിള്-n12633994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ആലൂച",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ആലൂച-n07751451",
+          "lemma": "ആലൂച",
+          "word_id": "unimet-mal-ആലൂച",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-mal-ആലൂച-n12638218",
+          "lemma": "ആലൂച",
+          "word_id": "unimet-mal-ആലൂച",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ആലൂച-n07751451",
+          "lemma": "ആലൂച",
+          "word_id": "unimet-mal-ആലൂച",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ആലൂച-n12638218",
+          "lemma": "ആലൂച",
+          "word_id": "unimet-mal-ആലൂച",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ആലൂച-n07751451::unimet-mal-ആലൂച-n12638218": {
+          "source": "unimet-mal-ആലൂച-n07751451",
+          "target": "unimet-mal-ആലൂച-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ഉള്ളി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ഉള്ളി-n07722217",
+          "lemma": "ഉള്ളി",
+          "word_id": "unimet-mal-ഉള്ളി",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-mal-ഉള്ളി-n12432808",
+          "lemma": "ഉള്ളി",
+          "word_id": "unimet-mal-ഉള്ളി",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ഉള്ളി-n12432808",
+          "lemma": "ഉള്ളി",
+          "word_id": "unimet-mal-ഉള്ളി",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ഉള്ളി-n07722217",
+          "lemma": "ഉള്ളി",
+          "word_id": "unimet-mal-ഉള്ളി",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ഉള്ളി-n12432808::unimet-mal-ഉള്ളി-n07722217": {
+          "source": "unimet-mal-ഉള്ളി-n12432808",
+          "target": "unimet-mal-ഉള്ളി-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "എതിരാളി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-എതിരാളി-n07547805",
+          "lemma": "എതിരാളി",
+          "word_id": "unimet-mal-എതിരാളി",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-mal-എതിരാളി-n10533013",
+          "lemma": "എതിരാളി",
+          "word_id": "unimet-mal-എതിരാളി",
+          "synset": {
+            "id": "omw-en-10533013-n",
+            "ili": "i92599",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "the contestant you hope to defeat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-എതിരാളി-n07547805",
+          "lemma": "എതിരാളി",
+          "word_id": "unimet-mal-എതിരാളി",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-എതിരാളി-n10533013",
+          "lemma": "എതിരാളി",
+          "word_id": "unimet-mal-എതിരാളി",
+          "synset": {
+            "id": "omw-en-10533013-n",
+            "ili": "i92599",
+            "pos": "n",
+            "lemmas": [
+              "rival"
+            ],
+            "definition": "the contestant you hope to defeat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-എതിരാളി-n07547805::unimet-mal-എതിരാളി-n10533013": {
+          "source": "unimet-mal-എതിരാളി-n07547805",
+          "target": "unimet-mal-എതിരാളി-n10533013",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "കടല",
+      "all_senses": [
+        {
+          "id": "unimet-mal-കടല-n07726095",
+          "lemma": "കടല",
+          "word_id": "unimet-mal-കടല",
+          "synset": {
+            "id": "omw-en-07726095-n",
+            "ili": "i77619",
+            "pos": "n",
+            "lemmas": [
+              "chickpea"
+            ],
+            "definition": "large white roundish Asiatic legume; usually dried"
+          }
+        },
+        {
+          "id": "unimet-mal-കടല-n12515711",
+          "lemma": "കടല",
+          "word_id": "unimet-mal-കടല",
+          "synset": {
+            "id": "omw-en-12515711-n",
+            "ili": "i102699",
+            "pos": "n",
+            "lemmas": [
+              "chickpea plant"
+            ],
+            "definition": "Asiatic herb cultivated for its short pods with one or two edible seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-കടല-n12515711",
+          "lemma": "കടല",
+          "word_id": "unimet-mal-കടല",
+          "synset": {
+            "id": "omw-en-12515711-n",
+            "ili": "i102699",
+            "pos": "n",
+            "lemmas": [
+              "chickpea plant"
+            ],
+            "definition": "Asiatic herb cultivated for its short pods with one or two edible seeds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-കടല-n07726095",
+          "lemma": "കടല",
+          "word_id": "unimet-mal-കടല",
+          "synset": {
+            "id": "omw-en-07726095-n",
+            "ili": "i77619",
+            "pos": "n",
+            "lemmas": [
+              "chickpea"
+            ],
+            "definition": "large white roundish Asiatic legume; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-കടല-n12515711::unimet-mal-കടല-n07726095": {
+          "source": "unimet-mal-കടല-n12515711",
+          "target": "unimet-mal-കടല-n07726095",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "കിവി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-കിവി-n07763629",
+          "lemma": "കിവി",
+          "word_id": "unimet-mal-കിവി",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        },
+        {
+          "id": "unimet-mal-കിവി-n12371439",
+          "lemma": "കിവി",
+          "word_id": "unimet-mal-കിവി",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-കിവി-n07763629",
+          "lemma": "കിവി",
+          "word_id": "unimet-mal-കിവി",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-കിവി-n12371439",
+          "lemma": "കിവി",
+          "word_id": "unimet-mal-കിവി",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-കിവി-n07763629::unimet-mal-കിവി-n12371439": {
+          "source": "unimet-mal-കിവി-n07763629",
+          "target": "unimet-mal-കിവി-n12371439",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "കൈതച്ചക്ക",
+      "all_senses": [
+        {
+          "id": "unimet-mal-കൈതച്ചക്ക-n07753275",
+          "lemma": "കൈതച്ചക്ക",
+          "word_id": "unimet-mal-കൈതച്ചക്ക",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-mal-കൈതച്ചക്ക-n12607456",
+          "lemma": "കൈതച്ചക്ക",
+          "word_id": "unimet-mal-കൈതച്ചക്ക",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-കൈതച്ചക്ക-n07753275",
+          "lemma": "കൈതച്ചക്ക",
+          "word_id": "unimet-mal-കൈതച്ചക്ക",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-കൈതച്ചക്ക-n12607456",
+          "lemma": "കൈതച്ചക്ക",
+          "word_id": "unimet-mal-കൈതച്ചക്ക",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-കൈതച്ചക്ക-n07753275::unimet-mal-കൈതച്ചക്ക-n12607456": {
+          "source": "unimet-mal-കൈതച്ചക്ക-n07753275",
+          "target": "unimet-mal-കൈതച്ചക്ക-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "കോളിഫ്ളവർ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-കോളിഫ്ളവർ-n07715103",
+          "lemma": "കോളിഫ്ളവർ",
+          "word_id": "unimet-mal-കോളിഫ്ളവർ",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-mal-കോളിഫ്ളവർ-n11876634",
+          "lemma": "കോളിഫ്ളവർ",
+          "word_id": "unimet-mal-കോളിഫ്ളവർ",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-കോളിഫ്ളവർ-n11876634",
+          "lemma": "കോളിഫ്ളവർ",
+          "word_id": "unimet-mal-കോളിഫ്ളവർ",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-കോളിഫ്ളവർ-n07715103",
+          "lemma": "കോളിഫ്ളവർ",
+          "word_id": "unimet-mal-കോളിഫ്ളവർ",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-കോളിഫ്ളവർ-n11876634::unimet-mal-കോളിഫ്ളവർ-n07715103": {
+          "source": "unimet-mal-കോളിഫ്ളവർ-n11876634",
+          "target": "unimet-mal-കോളിഫ്ളവർ-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ചക്കമുളക്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ചക്കമുളക്-n07720875",
+          "lemma": "ചക്കമുളക്",
+          "word_id": "unimet-mal-ചക്കമുളക്",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        },
+        {
+          "id": "unimet-mal-ചക്കമുളക്-n12901264",
+          "lemma": "ചക്കമുളക്",
+          "word_id": "unimet-mal-ചക്കമുളക്",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ചക്കമുളക്-n12901264",
+          "lemma": "ചക്കമുളക്",
+          "word_id": "unimet-mal-ചക്കമുളക്",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ചക്കമുളക്-n07720875",
+          "lemma": "ചക്കമുളക്",
+          "word_id": "unimet-mal-ചക്കമുളക്",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ചക്കമുളക്-n12901264::unimet-mal-ചക്കമുളക്-n07720875": {
+          "source": "unimet-mal-ചക്കമുളക്-n12901264",
+          "target": "unimet-mal-ചക്കമുളക്-n07720875",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ചാലകം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ചാലകം-n03088707",
+          "lemma": "ചാലകം",
+          "word_id": "unimet-mal-ചാലകം",
+          "synset": {
+            "id": "omw-en-03088707-n",
+            "ili": "i52264",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a device designed to transmit electricity, heat, etc."
+          }
+        },
+        {
+          "id": "unimet-mal-ചാലകം-n14821043",
+          "lemma": "ചാലകം",
+          "word_id": "unimet-mal-ചാലകം",
+          "synset": {
+            "id": "omw-en-14821043-n",
+            "ili": "i114929",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a substance that readily conducts e.g. electricity and heat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ചാലകം-n14821043",
+          "lemma": "ചാലകം",
+          "word_id": "unimet-mal-ചാലകം",
+          "synset": {
+            "id": "omw-en-14821043-n",
+            "ili": "i114929",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a substance that readily conducts e.g. electricity and heat"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ചാലകം-n03088707",
+          "lemma": "ചാലകം",
+          "word_id": "unimet-mal-ചാലകം",
+          "synset": {
+            "id": "omw-en-03088707-n",
+            "ili": "i52264",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a device designed to transmit electricity, heat, etc."
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ചാലകം-n14821043::unimet-mal-ചാലകം-n03088707": {
+          "source": "unimet-mal-ചാലകം-n14821043",
+          "target": "unimet-mal-ചാലകം-n03088707",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ചെറി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ചെറി-n07757132",
+          "lemma": "ചെറി",
+          "word_id": "unimet-mal-ചെറി",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-mal-ചെറി-n12641413",
+          "lemma": "ചെറി",
+          "word_id": "unimet-mal-ചെറി",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ചെറി-n07757132",
+          "lemma": "ചെറി",
+          "word_id": "unimet-mal-ചെറി",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ചെറി-n12641413",
+          "lemma": "ചെറി",
+          "word_id": "unimet-mal-ചെറി",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ചെറി-n07757132::unimet-mal-ചെറി-n12641413": {
+          "source": "unimet-mal-ചെറി-n07757132",
+          "target": "unimet-mal-ചെറി-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ജീവന്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ജീവന്-n04632157",
+          "lemma": "ജീവന്",
+          "word_id": "unimet-mal-ജീവന്",
+          "synset": {
+            "id": "omw-en-04632157-n",
+            "ili": "i61417",
+            "pos": "n",
+            "lemmas": [
+              "alacrity"
+            ],
+            "definition": "animation and energy in action or expression"
+          }
+        },
+        {
+          "id": "unimet-mal-ജീവന്-n10636598",
+          "lemma": "ജീവന്",
+          "word_id": "unimet-mal-ജീവന്",
+          "synset": {
+            "id": "omw-en-10636598-n",
+            "ili": "i93206",
+            "pos": "n",
+            "lemmas": [
+              "spirit"
+            ],
+            "definition": "the vital principle or animating force within living things"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ജീവന്-n04632157",
+          "lemma": "ജീവന്",
+          "word_id": "unimet-mal-ജീവന്",
+          "synset": {
+            "id": "omw-en-04632157-n",
+            "ili": "i61417",
+            "pos": "n",
+            "lemmas": [
+              "alacrity"
+            ],
+            "definition": "animation and energy in action or expression"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ജീവന്-n10636598",
+          "lemma": "ജീവന്",
+          "word_id": "unimet-mal-ജീവന്",
+          "synset": {
+            "id": "omw-en-10636598-n",
+            "ili": "i93206",
+            "pos": "n",
+            "lemmas": [
+              "spirit"
+            ],
+            "definition": "the vital principle or animating force within living things"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ജീവന്-n04632157::unimet-mal-ജീവന്-n10636598": {
+          "source": "unimet-mal-ജീവന്-n04632157",
+          "target": "unimet-mal-ജീവന്-n10636598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ടെലിഫോണ്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ടെലിഫോണ്-n04401088",
+          "lemma": "ടെലിഫോണ്",
+          "word_id": "unimet-mal-ടെലിഫോണ്",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-mal-ടെലിഫോണ്-n06272290",
+          "lemma": "ടെലിഫോണ്",
+          "word_id": "unimet-mal-ടെലിഫോണ്",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ടെലിഫോണ്-n04401088",
+          "lemma": "ടെലിഫോണ്",
+          "word_id": "unimet-mal-ടെലിഫോണ്",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ടെലിഫോണ്-n06272290",
+          "lemma": "ടെലിഫോണ്",
+          "word_id": "unimet-mal-ടെലിഫോണ്",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ടെലിഫോണ്-n04401088::unimet-mal-ടെലിഫോണ്-n06272290": {
+          "source": "unimet-mal-ടെലിഫോണ്-n04401088",
+          "target": "unimet-mal-ടെലിഫോണ്-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "തക്കാളി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-തക്കാളി-n07734017",
+          "lemma": "തക്കാളി",
+          "word_id": "unimet-mal-തക്കാളി",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-mal-തക്കാളി-n12905817",
+          "lemma": "തക്കാളി",
+          "word_id": "unimet-mal-തക്കാളി",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-തക്കാളി-n12905817",
+          "lemma": "തക്കാളി",
+          "word_id": "unimet-mal-തക്കാളി",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-തക്കാളി-n07734017",
+          "lemma": "തക്കാളി",
+          "word_id": "unimet-mal-തക്കാളി",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-തക്കാളി-n12905817::unimet-mal-തക്കാളി-n07734017": {
+          "source": "unimet-mal-തക്കാളി-n12905817",
+          "target": "unimet-mal-തക്കാളി-n07734017",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "തണ്ണിമത്തന്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-തണ്ണിമത്തന്-n07756951",
+          "lemma": "തണ്ണിമത്തന്",
+          "word_id": "unimet-mal-തണ്ണിമത്തന്",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-mal-തണ്ണിമത്തന്-n12164065",
+          "lemma": "തണ്ണിമത്തന്",
+          "word_id": "unimet-mal-തണ്ണിമത്തന്",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        },
+        {
+          "id": "unimet-mal-തണ്ണിമത്തന്-n12164363",
+          "lemma": "തണ്ണിമത്തന്",
+          "word_id": "unimet-mal-തണ്ണിമത്തന്",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-തണ്ണിമത്തന്-n07756951",
+          "lemma": "തണ്ണിമത്തന്",
+          "word_id": "unimet-mal-തണ്ണിമത്തന്",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-തണ്ണിമത്തന്-n12164065",
+          "lemma": "തണ്ണിമത്തന്",
+          "word_id": "unimet-mal-തണ്ണിമത്തന്",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        },
+        {
+          "id": "unimet-mal-തണ്ണിമത്തന്-n12164363",
+          "lemma": "തണ്ണിമത്തന്",
+          "word_id": "unimet-mal-തണ്ണിമത്തന്",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-തണ്ണിമത്തന്-n07756951::unimet-mal-തണ്ണിമത്തന്-n12164065": {
+          "source": "unimet-mal-തണ്ണിമത്തന്-n07756951",
+          "target": "unimet-mal-തണ്ണിമത്തന്-n12164065",
+          "type": "metonymy"
+        },
+        "unimet-mal-തണ്ണിമത്തന്-n07756951::unimet-mal-തണ്ണിമത്തന്-n12164363": {
+          "source": "unimet-mal-തണ്ണിമത്തന്-n07756951",
+          "target": "unimet-mal-തണ്ണിമത്തന്-n12164363",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "തുവര",
+      "all_senses": [
+        {
+          "id": "unimet-mal-തുവര-n07725255",
+          "lemma": "തുവര",
+          "word_id": "unimet-mal-തുവര",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-mal-തുവര-n12544240",
+          "lemma": "തുവര",
+          "word_id": "unimet-mal-തുവര",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-തുവര-n12544240",
+          "lemma": "തുവര",
+          "word_id": "unimet-mal-തുവര",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-തുവര-n07725255",
+          "lemma": "തുവര",
+          "word_id": "unimet-mal-തുവര",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-തുവര-n12544240::unimet-mal-തുവര-n07725255": {
+          "source": "unimet-mal-തുവര-n12544240",
+          "target": "unimet-mal-തുവര-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "നിലക്കടല",
+      "all_senses": [
+        {
+          "id": "unimet-mal-നിലക്കടല-n07737745",
+          "lemma": "നിലക്കടല",
+          "word_id": "unimet-mal-നിലക്കടല",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        },
+        {
+          "id": "unimet-mal-നിലക്കടല-n11748501",
+          "lemma": "നിലക്കടല",
+          "word_id": "unimet-mal-നിലക്കടല",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-നിലക്കടല-n07737745",
+          "lemma": "നിലക്കടല",
+          "word_id": "unimet-mal-നിലക്കടല",
+          "synset": {
+            "id": "omw-en-07737745-n",
+            "ili": "i77699",
+            "pos": "n",
+            "lemmas": [
+              "groundnut"
+            ],
+            "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-നിലക്കടല-n11748501",
+          "lemma": "നിലക്കടല",
+          "word_id": "unimet-mal-നിലക്കടല",
+          "synset": {
+            "id": "omw-en-11748501-n",
+            "ili": "i99063",
+            "pos": "n",
+            "lemmas": [
+              "peanut vine"
+            ],
+            "definition": "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-നിലക്കടല-n07737745::unimet-mal-നിലക്കടല-n11748501": {
+          "source": "unimet-mal-നിലക്കടല-n07737745",
+          "target": "unimet-mal-നിലക്കടല-n11748501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "പപ്പായ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-പപ്പായ-n07762244",
+          "lemma": "പപ്പായ",
+          "word_id": "unimet-mal-പപ്പായ",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-mal-പപ്പായ-n12373100",
+          "lemma": "പപ്പായ",
+          "word_id": "unimet-mal-പപ്പായ",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-പപ്പായ-n07762244",
+          "lemma": "പപ്പായ",
+          "word_id": "unimet-mal-പപ്പായ",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-പപ്പായ-n12373100",
+          "lemma": "പപ്പായ",
+          "word_id": "unimet-mal-പപ്പായ",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-പപ്പായ-n07762244::unimet-mal-പപ്പായ-n12373100": {
+          "source": "unimet-mal-പപ്പായ-n07762244",
+          "target": "unimet-mal-പപ്പായ-n12373100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "പിസ്ത",
+      "all_senses": [
+        {
+          "id": "unimet-mal-പിസ്ത-n07775050",
+          "lemma": "പിസ്ത",
+          "word_id": "unimet-mal-പിസ്ത",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        },
+        {
+          "id": "unimet-mal-പിസ്ത-n12761702",
+          "lemma": "പിസ്ത",
+          "word_id": "unimet-mal-പിസ്ത",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-പിസ്ത-n07775050",
+          "lemma": "പിസ്ത",
+          "word_id": "unimet-mal-പിസ്ത",
+          "synset": {
+            "id": "omw-en-07775050-n",
+            "ili": "i77940",
+            "pos": "n",
+            "lemmas": [
+              "pistachio nut"
+            ],
+            "definition": "nut of Mediterranean trees having an edible green kernel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-പിസ്ത-n12761702",
+          "lemma": "പിസ്ത",
+          "word_id": "unimet-mal-പിസ്ത",
+          "synset": {
+            "id": "omw-en-12761702-n",
+            "ili": "i103896",
+            "pos": "n",
+            "lemmas": [
+              "pistacia vera"
+            ],
+            "definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-പിസ്ത-n07775050::unimet-mal-പിസ്ത-n12761702": {
+          "source": "unimet-mal-പിസ്ത-n07775050",
+          "target": "unimet-mal-പിസ്ത-n12761702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "മത്തങ്ങ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-മത്തങ്ങ-n07735510",
+          "lemma": "മത്തങ്ങ",
+          "word_id": "unimet-mal-മത്തങ്ങ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-mal-മത്തങ്ങ-n12158443",
+          "lemma": "മത്തങ്ങ",
+          "word_id": "unimet-mal-മത്തങ്ങ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-മത്തങ്ങ-n12158443",
+          "lemma": "മത്തങ്ങ",
+          "word_id": "unimet-mal-മത്തങ്ങ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-മത്തങ്ങ-n07735510",
+          "lemma": "മത്തങ്ങ",
+          "word_id": "unimet-mal-മത്തങ്ങ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-മത്തങ്ങ-n12158443::unimet-mal-മത്തങ്ങ-n07735510": {
+          "source": "unimet-mal-മത്തങ്ങ-n12158443",
+          "target": "unimet-mal-മത്തങ്ങ-n07735510",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "മധുരനാരങ്ങ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-മധുരനാരങ്ങ-n07747607",
+          "lemma": "മധുരനാരങ്ങ",
+          "word_id": "unimet-mal-മധുരനാരങ്ങ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-mal-മധുരനാരങ്ങ-n12708293",
+          "lemma": "മധുരനാരങ്ങ",
+          "word_id": "unimet-mal-മധുരനാരങ്ങ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-മധുരനാരങ്ങ-n07747607",
+          "lemma": "മധുരനാരങ്ങ",
+          "word_id": "unimet-mal-മധുരനാരങ്ങ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-മധുരനാരങ്ങ-n12708293",
+          "lemma": "മധുരനാരങ്ങ",
+          "word_id": "unimet-mal-മധുരനാരങ്ങ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-മധുരനാരങ്ങ-n07747607::unimet-mal-മധുരനാരങ്ങ-n12708293": {
+          "source": "unimet-mal-മധുരനാരങ്ങ-n07747607",
+          "target": "unimet-mal-മധുരനാരങ്ങ-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "മള്ബറി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-മള്ബറി-n07767171",
+          "lemma": "മള്ബറി",
+          "word_id": "unimet-mal-മള്ബറി",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-mal-മള്ബറി-n12399132",
+          "lemma": "മള്ബറി",
+          "word_id": "unimet-mal-മള്ബറി",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-മള്ബറി-n07767171",
+          "lemma": "മള്ബറി",
+          "word_id": "unimet-mal-മള്ബറി",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-മള്ബറി-n12399132",
+          "lemma": "മള്ബറി",
+          "word_id": "unimet-mal-മള്ബറി",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-മള്ബറി-n07767171::unimet-mal-മള്ബറി-n12399132": {
+          "source": "unimet-mal-മള്ബറി-n07767171",
+          "target": "unimet-mal-മള്ബറി-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "രാജ്മാപയർ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-രാജ്മാപയർ-n07727048",
+          "lemma": "രാജ്മാപയർ",
+          "word_id": "unimet-mal-രാജ്മാപയർ",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്മാപയർ-n12557064",
+          "lemma": "രാജ്മാപയർ",
+          "word_id": "unimet-mal-രാജ്മാപയർ",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-രാജ്മാപയർ-n12557064",
+          "lemma": "രാജ്മാപയർ",
+          "word_id": "unimet-mal-രാജ്മാപയർ",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-രാജ്മാപയർ-n07727048",
+          "lemma": "രാജ്മാപയർ",
+          "word_id": "unimet-mal-രാജ്മാപയർ",
+          "synset": {
+            "id": "omw-en-07727048-n",
+            "ili": "i77625",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "large dark red bean; usually dried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-രാജ്മാപയർ-n12557064::unimet-mal-രാജ്മാപയർ-n07727048": {
+          "source": "unimet-mal-രാജ്മാപയർ-n12557064",
+          "target": "unimet-mal-രാജ്മാപയർ-n07727048",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "രാജ്യം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-രാജ്യം-n08168978",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08178547",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08544813",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08558155",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08654360",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-രാജ്യം-n08168978",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08178547",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-രാജ്യം-n08544813",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08558155",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-mal-രാജ്യം-n08654360",
+          "lemma": "രാജ്യം",
+          "word_id": "unimet-mal-രാജ്യം",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-രാജ്യം-n08168978::unimet-mal-രാജ്യം-n08544813": {
+          "source": "unimet-mal-രാജ്യം-n08168978",
+          "target": "unimet-mal-രാജ്യം-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-mal-രാജ്യം-n08168978::unimet-mal-രാജ്യം-n08558155": {
+          "source": "unimet-mal-രാജ്യം-n08168978",
+          "target": "unimet-mal-രാജ്യം-n08558155",
+          "type": "metonymy"
+        },
+        "unimet-mal-രാജ്യം-n08168978::unimet-mal-രാജ്യം-n08654360": {
+          "source": "unimet-mal-രാജ്യം-n08168978",
+          "target": "unimet-mal-രാജ്യം-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-mal-രാജ്യം-n08178547::unimet-mal-രാജ്യം-n08544813": {
+          "source": "unimet-mal-രാജ്യം-n08178547",
+          "target": "unimet-mal-രാജ്യം-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-mal-രാജ്യം-n08178547::unimet-mal-രാജ്യം-n08654360": {
+          "source": "unimet-mal-രാജ്യം-n08178547",
+          "target": "unimet-mal-രാജ്യം-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ലിച്ചി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ലിച്ചി-n07766173",
+          "lemma": "ലിച്ചി",
+          "word_id": "unimet-mal-ലിച്ചി",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-mal-ലിച്ചി-n12744387",
+          "lemma": "ലിച്ചി",
+          "word_id": "unimet-mal-ലിച്ചി",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ലിച്ചി-n07766173",
+          "lemma": "ലിച്ചി",
+          "word_id": "unimet-mal-ലിച്ചി",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ലിച്ചി-n12744387",
+          "lemma": "ലിച്ചി",
+          "word_id": "unimet-mal-ലിച്ചി",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ലിച്ചി-n07766173::unimet-mal-ലിച്ചി-n12744387": {
+          "source": "unimet-mal-ലിച്ചി-n07766173",
+          "target": "unimet-mal-ലിച്ചി-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "വഴുതങ്ങ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-വഴുതങ്ങ-n07713074",
+          "lemma": "വഴുതങ്ങ",
+          "word_id": "unimet-mal-വഴുതങ്ങ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-mal-വഴുതങ്ങ-n12896000",
+          "lemma": "വഴുതങ്ങ",
+          "word_id": "unimet-mal-വഴുതങ്ങ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-വഴുതങ്ങ-n12896000",
+          "lemma": "വഴുതങ്ങ",
+          "word_id": "unimet-mal-വഴുതങ്ങ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-വഴുതങ്ങ-n07713074",
+          "lemma": "വഴുതങ്ങ",
+          "word_id": "unimet-mal-വഴുതങ്ങ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-വഴുതങ്ങ-n12896000::unimet-mal-വഴുതങ്ങ-n07713074": {
+          "source": "unimet-mal-വഴുതങ്ങ-n12896000",
+          "target": "unimet-mal-വഴുതങ്ങ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "വാഴപ്പഴം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-വാഴപ്പഴം-n07753592",
+          "lemma": "വാഴപ്പഴം",
+          "word_id": "unimet-mal-വാഴപ്പഴം",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        },
+        {
+          "id": "unimet-mal-വാഴപ്പഴം-n12352287",
+          "lemma": "വാഴപ്പഴം",
+          "word_id": "unimet-mal-വാഴപ്പഴം",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-വാഴപ്പഴം-n07753592",
+          "lemma": "വാഴപ്പഴം",
+          "word_id": "unimet-mal-വാഴപ്പഴം",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-വാഴപ്പഴം-n12352287",
+          "lemma": "വാഴപ്പഴം",
+          "word_id": "unimet-mal-വാഴപ്പഴം",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-വാഴപ്പഴം-n07753592::unimet-mal-വാഴപ്പഴം-n12352287": {
+          "source": "unimet-mal-വാഴപ്പഴം-n07753592",
+          "target": "unimet-mal-വാഴപ്പഴം-n12352287",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "വിദ്യാലയം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-വിദ്യാലയം-n04146050",
+          "lemma": "വിദ്യാലയം",
+          "word_id": "unimet-mal-വിദ്യാലയം",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-mal-വിദ്യാലയം-n08275185",
+          "lemma": "വിദ്യാലയം",
+          "word_id": "unimet-mal-വിദ്യാലയം",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-വിദ്യാലയം-n04146050",
+          "lemma": "വിദ്യാലയം",
+          "word_id": "unimet-mal-വിദ്യാലയം",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-വിദ്യാലയം-n08275185",
+          "lemma": "വിദ്യാലയം",
+          "word_id": "unimet-mal-വിദ്യാലയം",
+          "synset": {
+            "id": "omw-en-08275185-n",
+            "ili": "i80629",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-വിദ്യാലയം-n04146050::unimet-mal-വിദ്യാലയം-n08275185": {
+          "source": "unimet-mal-വിദ്യാലയം-n04146050",
+          "target": "unimet-mal-വിദ്യാലയം-n08275185",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ശത്രു",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ശത്രു-n07547805",
+          "lemma": "ശത്രു",
+          "word_id": "unimet-mal-ശത്രു",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-mal-ശത്രു-n10098710",
+          "lemma": "ശത്രു",
+          "word_id": "unimet-mal-ശത്രു",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ശത്രു-n07547805",
+          "lemma": "ശത്രു",
+          "word_id": "unimet-mal-ശത്രു",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ശത്രു-n10098710",
+          "lemma": "ശത്രു",
+          "word_id": "unimet-mal-ശത്രു",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ശത്രു-n07547805::unimet-mal-ശത്രു-n10098710": {
+          "source": "unimet-mal-ശത്രു-n07547805",
+          "target": "unimet-mal-ശത്രു-n10098710",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ശാകവല്ലി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ശാകവല്ലി-n11689197",
+          "lemma": "ശാകവല്ലി",
+          "word_id": "unimet-mal-ശാകവല്ലി",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        },
+        {
+          "id": "unimet-mal-ശാകവല്ലി-n12488454",
+          "lemma": "ശാകവല്ലി",
+          "word_id": "unimet-mal-ശാകവല്ലി",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ശാകവല്ലി-n11689197",
+          "lemma": "ശാകവല്ലി",
+          "word_id": "unimet-mal-ശാകവല്ലി",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ശാകവല്ലി-n12488454",
+          "lemma": "ശാകവല്ലി",
+          "word_id": "unimet-mal-ശാകവല്ലി",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ശാകവല്ലി-n11689197::unimet-mal-ശാകവല്ലി-n12488454": {
+          "source": "unimet-mal-ശാകവല്ലി-n11689197",
+          "target": "unimet-mal-ശാകവല്ലി-n12488454",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ശുകപ്രിയ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ശുകപ്രിയ-n07746551",
+          "lemma": "ശുകപ്രിയ",
+          "word_id": "unimet-mal-ശുകപ്രിയ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-mal-ശുകപ്രിയ-n12704343",
+          "lemma": "ശുകപ്രിയ",
+          "word_id": "unimet-mal-ശുകപ്രിയ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ശുകപ്രിയ-n07746551",
+          "lemma": "ശുകപ്രിയ",
+          "word_id": "unimet-mal-ശുകപ്രിയ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ശുകപ്രിയ-n12704343",
+          "lemma": "ശുകപ്രിയ",
+          "word_id": "unimet-mal-ശുകപ്രിയ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ശുകപ്രിയ-n07746551::unimet-mal-ശുകപ്രിയ-n12704343": {
+          "source": "unimet-mal-ശുകപ്രിയ-n07746551",
+          "target": "unimet-mal-ശുകപ്രിയ-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ശോകം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-ശോകം-n05833683",
+          "lemma": "ശോകം",
+          "word_id": "unimet-mal-ശോകം",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-mal-ശോകം-n07534430",
+          "lemma": "ശോകം",
+          "word_id": "unimet-mal-ശോകം",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-ശോകം-n07534430",
+          "lemma": "ശോകം",
+          "word_id": "unimet-mal-ശോകം",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-ശോകം-n05833683",
+          "lemma": "ശോകം",
+          "word_id": "unimet-mal-ശോകം",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-ശോകം-n07534430::unimet-mal-ശോകം-n05833683": {
+          "source": "unimet-mal-ശോകം-n07534430",
+          "target": "unimet-mal-ശോകം-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സദ്യ",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സദ്യ-n07578093",
+          "lemma": "സദ്യ",
+          "word_id": "unimet-mal-സദ്യ",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-mal-സദ്യ-n08253640",
+          "lemma": "സദ്യ",
+          "word_id": "unimet-mal-സദ്യ",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സദ്യ-n07578093",
+          "lemma": "സദ്യ",
+          "word_id": "unimet-mal-സദ്യ",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സദ്യ-n08253640",
+          "lemma": "സദ്യ",
+          "word_id": "unimet-mal-സദ്യ",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സദ്യ-n07578093::unimet-mal-സദ്യ-n08253640": {
+          "source": "unimet-mal-സദ്യ-n07578093",
+          "target": "unimet-mal-സദ്യ-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സന്തോഷം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സന്തോഷം-n05829782",
+          "lemma": "സന്തോഷം",
+          "word_id": "unimet-mal-സന്തോഷം",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-mal-സന്തോഷം-n07491038",
+          "lemma": "സന്തോഷം",
+          "word_id": "unimet-mal-സന്തോഷം",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സന്തോഷം-n07491038",
+          "lemma": "സന്തോഷം",
+          "word_id": "unimet-mal-സന്തോഷം",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സന്തോഷം-n05829782",
+          "lemma": "സന്തോഷം",
+          "word_id": "unimet-mal-സന്തോഷം",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സന്തോഷം-n07491038::unimet-mal-സന്തോഷം-n05829782": {
+          "source": "unimet-mal-സന്തോഷം-n07491038",
+          "target": "unimet-mal-സന്തോഷം-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സബർജല്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സബർജല്-n07767847",
+          "lemma": "സബർജല്",
+          "word_id": "unimet-mal-സബർജല്",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-mal-സബർജല്-n12651611",
+          "lemma": "സബർജല്",
+          "word_id": "unimet-mal-സബർജല്",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സബർജല്-n07767847",
+          "lemma": "സബർജല്",
+          "word_id": "unimet-mal-സബർജല്",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സബർജല്-n12651611",
+          "lemma": "സബർജല്",
+          "word_id": "unimet-mal-സബർജല്",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സബർജല്-n07767847::unimet-mal-സബർജല്-n12651611": {
+          "source": "unimet-mal-സബർജല്-n07767847",
+          "target": "unimet-mal-സബർജല്-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സിമ്ലാ മുളക്",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സിമ്ലാ മുളക്-n07720875",
+          "lemma": "സിമ്ലാ മുളക്",
+          "word_id": "unimet-mal-സിമ്ലാ മുളക്",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        },
+        {
+          "id": "unimet-mal-സിമ്ലാ മുളക്-n12901264",
+          "lemma": "സിമ്ലാ മുളക്",
+          "word_id": "unimet-mal-സിമ്ലാ മുളക്",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സിമ്ലാ മുളക്-n12901264",
+          "lemma": "സിമ്ലാ മുളക്",
+          "word_id": "unimet-mal-സിമ്ലാ മുളക്",
+          "synset": {
+            "id": "omw-en-12901264-n",
+            "ili": "i104566",
+            "pos": "n",
+            "lemmas": [
+              "sweet pepper"
+            ],
+            "definition": "plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സിമ്ലാ മുളക്-n07720875",
+          "lemma": "സിമ്ലാ മുളക്",
+          "word_id": "unimet-mal-സിമ്ലാ മുളക്",
+          "synset": {
+            "id": "omw-en-07720875-n",
+            "ili": "i77582",
+            "pos": "n",
+            "lemmas": [
+              "bell pepper"
+            ],
+            "definition": "large bell-shaped sweet pepper in green or red or yellow or orange or black varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സിമ്ലാ മുളക്-n12901264::unimet-mal-സിമ്ലാ മുളക്-n07720875": {
+          "source": "unimet-mal-സിമ്ലാ മുളക്-n12901264",
+          "target": "unimet-mal-സിമ്ലാ മുളക്-n07720875",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സോയബീന്‍",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സോയബീന്‍-n12532168",
+          "lemma": "സോയബീന്‍",
+          "word_id": "unimet-mal-സോയബീന്‍",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        },
+        {
+          "id": "unimet-mal-സോയബീന്‍-n12532564",
+          "lemma": "സോയബീന്‍",
+          "word_id": "unimet-mal-സോയബീന്‍",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സോയബീന്‍-n12532168",
+          "lemma": "സോയബീന്‍",
+          "word_id": "unimet-mal-സോയബീന്‍",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സോയബീന്‍-n12532564",
+          "lemma": "സോയബീന്‍",
+          "word_id": "unimet-mal-സോയബീന്‍",
+          "synset": {
+            "id": "omw-en-12532564-n",
+            "ili": "i102778",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "a source of oil; used for forage and soil improvement and as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സോയബീന്‍-n12532168::unimet-mal-സോയബീന്‍-n12532564": {
+          "source": "unimet-mal-സോയബീന്‍-n12532168",
+          "target": "unimet-mal-സോയബീന്‍-n12532564",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സ്ഫടികം",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സ്ഫടികം-n03773035",
+          "lemma": "സ്ഫടികം",
+          "word_id": "unimet-mal-സ്ഫടികം",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-mal-സ്ഫടികം-n14881303",
+          "lemma": "സ്ഫടികം",
+          "word_id": "unimet-mal-സ്ഫടികം",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സ്ഫടികം-n14881303",
+          "lemma": "സ്ഫടികം",
+          "word_id": "unimet-mal-സ്ഫടികം",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സ്ഫടികം-n03773035",
+          "lemma": "സ്ഫടികം",
+          "word_id": "unimet-mal-സ്ഫടികം",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സ്ഫടികം-n14881303::unimet-mal-സ്ഫടികം-n03773035": {
+          "source": "unimet-mal-സ്ഫടികം-n14881303",
+          "target": "unimet-mal-സ്ഫടികം-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സ്റ്റ്രോബറി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സ്റ്റ്രോബറി-n07745940",
+          "lemma": "സ്റ്റ്രോബറി",
+          "word_id": "unimet-mal-സ്റ്റ്രോബറി",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-mal-സ്റ്റ്രോബറി-n12630144",
+          "lemma": "സ്റ്റ്രോബറി",
+          "word_id": "unimet-mal-സ്റ്റ്രോബറി",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സ്റ്റ്രോബറി-n07745940",
+          "lemma": "സ്റ്റ്രോബറി",
+          "word_id": "unimet-mal-സ്റ്റ്രോബറി",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സ്റ്റ്രോബറി-n12630144",
+          "lemma": "സ്റ്റ്രോബറി",
+          "word_id": "unimet-mal-സ്റ്റ്രോബറി",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സ്റ്റ്രോബറി-n07745940::unimet-mal-സ്റ്റ്രോബറി-n12630144": {
+          "source": "unimet-mal-സ്റ്റ്രോബറി-n07745940",
+          "target": "unimet-mal-സ്റ്റ്രോബറി-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "സ്വാര്ത്ഥി",
+      "all_senses": [
+        {
+          "id": "unimet-mal-സ്വാര്ത്ഥി-n04835028",
+          "lemma": "സ്വാര്ത്ഥി",
+          "word_id": "unimet-mal-സ്വാര്ത്ഥി",
+          "synset": {
+            "id": "omw-en-04835028-n",
+            "ili": "i62400",
+            "pos": "n",
+            "lemmas": [
+              "self-interest"
+            ],
+            "definition": "concern for your own interests and welfare"
+          }
+        },
+        {
+          "id": "unimet-mal-സ്വാര്ത്ഥി-n10047459",
+          "lemma": "സ്വാര്ത്ഥി",
+          "word_id": "unimet-mal-സ്വാര്ത്ഥി",
+          "synset": {
+            "id": "omw-en-10047459-n",
+            "ili": "i89700",
+            "pos": "n",
+            "lemmas": [
+              "egoist"
+            ],
+            "definition": "a conceited and self-centered person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mal-സ്വാര്ത്ഥി-n04835028",
+          "lemma": "സ്വാര്ത്ഥി",
+          "word_id": "unimet-mal-സ്വാര്ത്ഥി",
+          "synset": {
+            "id": "omw-en-04835028-n",
+            "ili": "i62400",
+            "pos": "n",
+            "lemmas": [
+              "self-interest"
+            ],
+            "definition": "concern for your own interests and welfare"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mal-സ്വാര്ത്ഥി-n10047459",
+          "lemma": "സ്വാര്ത്ഥി",
+          "word_id": "unimet-mal-സ്വാര്ത്ഥി",
+          "synset": {
+            "id": "omw-en-10047459-n",
+            "ili": "i89700",
+            "pos": "n",
+            "lemmas": [
+              "egoist"
+            ],
+            "definition": "a conceited and self-centered person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mal-സ്വാര്ത്ഥി-n04835028::unimet-mal-സ്വാര്ത്ഥി-n10047459": {
+          "source": "unimet-mal-സ്വാര്ത്ഥി-n04835028",
+          "target": "unimet-mal-സ്വാര്ത്ഥി-n10047459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

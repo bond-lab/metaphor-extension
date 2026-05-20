@@ -1,0 +1,429 @@
+{
+  "id": "91825557b2b73ee2",
+  "name": "unimet-Maori",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mri",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "harore",
+      "all_senses": [
+        {
+          "id": "unimet-mri-harore-n07734744",
+          "lemma": "harore",
+          "word_id": "unimet-mri-harore",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-mri-harore-n12992868",
+          "lemma": "harore",
+          "word_id": "unimet-mri-harore",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mri-harore-n12992868",
+          "lemma": "harore",
+          "word_id": "unimet-mri-harore",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mri-harore-n07734744",
+          "lemma": "harore",
+          "word_id": "unimet-mri-harore",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mri-harore-n12992868::unimet-mri-harore-n07734744": {
+          "source": "unimet-mri-harore-n12992868",
+          "target": "unimet-mri-harore-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kai",
+      "all_senses": [
+        {
+          "id": "unimet-mri-kai-n00021734",
+          "lemma": "kai",
+          "word_id": "unimet-mri-kai",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        },
+        {
+          "id": "unimet-mri-kai-v01168468",
+          "lemma": "kai",
+          "word_id": "unimet-mri-kai",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mri-kai-v01168468",
+          "lemma": "kai",
+          "word_id": "unimet-mri-kai",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mri-kai-n00021734",
+          "lemma": "kai",
+          "word_id": "unimet-mri-kai",
+          "synset": {
+            "id": "omw-en-00021734-n",
+            "ili": "i35571",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any substance that can be metabolized by an organism to give energy and build tissue"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mri-kai-v01168468::unimet-mri-kai-n00021734": {
+          "source": "unimet-mri-kai-v01168468",
+          "target": "unimet-mri-kai-n00021734",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "matā",
+      "all_senses": [
+        {
+          "id": "unimet-mri-matā-n02916350",
+          "lemma": "matā",
+          "word_id": "unimet-mri-matā",
+          "synset": {
+            "id": "omw-en-02916350-n",
+            "ili": "i51232",
+            "pos": "n",
+            "lemmas": [
+              "slug"
+            ],
+            "definition": "a projectile that is fired from a gun"
+          }
+        },
+        {
+          "id": "unimet-mri-matā-n04190464",
+          "lemma": "matā",
+          "word_id": "unimet-mri-matā",
+          "synset": {
+            "id": "omw-en-04190464-n",
+            "ili": "i58777",
+            "pos": "n",
+            "lemmas": [
+              "shell"
+            ],
+            "definition": "ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun"
+          }
+        },
+        {
+          "id": "unimet-mri-matā-n14643467",
+          "lemma": "matā",
+          "word_id": "unimet-mri-matā",
+          "synset": {
+            "id": "omw-en-14643467-n",
+            "ili": "i113959",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 82"
+            ],
+            "definition": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mri-matā-n14643467",
+          "lemma": "matā",
+          "word_id": "unimet-mri-matā",
+          "synset": {
+            "id": "omw-en-14643467-n",
+            "ili": "i113959",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 82"
+            ],
+            "definition": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mri-matā-n02916350",
+          "lemma": "matā",
+          "word_id": "unimet-mri-matā",
+          "synset": {
+            "id": "omw-en-02916350-n",
+            "ili": "i51232",
+            "pos": "n",
+            "lemmas": [
+              "slug"
+            ],
+            "definition": "a projectile that is fired from a gun"
+          }
+        },
+        {
+          "id": "unimet-mri-matā-n04190464",
+          "lemma": "matā",
+          "word_id": "unimet-mri-matā",
+          "synset": {
+            "id": "omw-en-04190464-n",
+            "ili": "i58777",
+            "pos": "n",
+            "lemmas": [
+              "shell"
+            ],
+            "definition": "ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mri-matā-n14643467::unimet-mri-matā-n02916350": {
+          "source": "unimet-mri-matā-n14643467",
+          "target": "unimet-mri-matā-n02916350",
+          "type": "metonymy"
+        },
+        "unimet-mri-matā-n14643467::unimet-mri-matā-n04190464": {
+          "source": "unimet-mri-matā-n14643467",
+          "target": "unimet-mri-matā-n04190464",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "poaka",
+      "all_senses": [
+        {
+          "id": "unimet-mri-poaka-n02395406",
+          "lemma": "poaka",
+          "word_id": "unimet-mri-poaka",
+          "synset": {
+            "id": "omw-en-02395406-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "squealer"
+            ],
+            "definition": "domestic swine"
+          }
+        },
+        {
+          "id": "unimet-mri-poaka-n07668702",
+          "lemma": "poaka",
+          "word_id": "unimet-mri-poaka",
+          "synset": {
+            "id": "omw-en-07668702-n",
+            "ili": "i77237",
+            "pos": "n",
+            "lemmas": [
+              "porc"
+            ],
+            "definition": "meat from a domestic hog or pig"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mri-poaka-n02395406",
+          "lemma": "poaka",
+          "word_id": "unimet-mri-poaka",
+          "synset": {
+            "id": "omw-en-02395406-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "squealer"
+            ],
+            "definition": "domestic swine"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mri-poaka-n07668702",
+          "lemma": "poaka",
+          "word_id": "unimet-mri-poaka",
+          "synset": {
+            "id": "omw-en-07668702-n",
+            "ili": "i77237",
+            "pos": "n",
+            "lemmas": [
+              "porc"
+            ],
+            "definition": "meat from a domestic hog or pig"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mri-poaka-n02395406::unimet-mri-poaka-n07668702": {
+          "source": "unimet-mri-poaka-n02395406",
+          "target": "unimet-mri-poaka-n07668702",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "toa",
+      "all_senses": [
+        {
+          "id": "unimet-mri-toa-n04857083",
+          "lemma": "toa",
+          "word_id": "unimet-mri-toa",
+          "synset": {
+            "id": "omw-en-04857083-n",
+            "ili": "i62513",
+            "pos": "n",
+            "lemmas": [
+              "earnestness"
+            ],
+            "definition": "a quality of spirit that enables you to face danger or pain without showing fear"
+          }
+        },
+        {
+          "id": "unimet-mri-toa-n10325013",
+          "lemma": "toa",
+          "word_id": "unimet-mri-toa",
+          "synset": {
+            "id": "omw-en-10325013-n",
+            "ili": "i91411",
+            "pos": "n",
+            "lemmas": [
+              "hero"
+            ],
+            "definition": "a man distinguished by exceptional courage and nobility and strength"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mri-toa-n04857083",
+          "lemma": "toa",
+          "word_id": "unimet-mri-toa",
+          "synset": {
+            "id": "omw-en-04857083-n",
+            "ili": "i62513",
+            "pos": "n",
+            "lemmas": [
+              "earnestness"
+            ],
+            "definition": "a quality of spirit that enables you to face danger or pain without showing fear"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mri-toa-n10325013",
+          "lemma": "toa",
+          "word_id": "unimet-mri-toa",
+          "synset": {
+            "id": "omw-en-10325013-n",
+            "ili": "i91411",
+            "pos": "n",
+            "lemmas": [
+              "hero"
+            ],
+            "definition": "a man distinguished by exceptional courage and nobility and strength"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mri-toa-n04857083::unimet-mri-toa-n10325013": {
+          "source": "unimet-mri-toa-n04857083",
+          "target": "unimet-mri-toa-n10325013",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

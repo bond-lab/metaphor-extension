@@ -1,0 +1,6138 @@
+{
+  "id": "e2ba35314a9a0eb9",
+  "name": "unimet-Modern Greek",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ell",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "αγάπη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-αγάπη-n07543288",
+          "lemma": "αγάπη",
+          "word_id": "unimet-ell-αγάπη",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-ell-αγάπη-n09991867",
+          "lemma": "αγάπη",
+          "word_id": "unimet-ell-αγάπη",
+          "synset": {
+            "id": "omw-en-09991867-n",
+            "ili": "i89391",
+            "pos": "n",
+            "lemmas": [
+              "deary"
+            ],
+            "definition": "a special loved one"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-αγάπη-n07543288",
+          "lemma": "αγάπη",
+          "word_id": "unimet-ell-αγάπη",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-αγάπη-n09991867",
+          "lemma": "αγάπη",
+          "word_id": "unimet-ell-αγάπη",
+          "synset": {
+            "id": "omw-en-09991867-n",
+            "ili": "i89391",
+            "pos": "n",
+            "lemmas": [
+              "deary"
+            ],
+            "definition": "a special loved one"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-αγάπη-n07543288::unimet-ell-αγάπη-n09991867": {
+          "source": "unimet-ell-αγάπη-n07543288",
+          "target": "unimet-ell-αγάπη-n09991867",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "αγριοκέρασο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-αγριοκέρασο-n12642090",
+          "lemma": "αγριοκέρασο",
+          "word_id": "unimet-ell-αγριοκέρασο",
+          "synset": {
+            "id": "omw-en-12642090-n",
+            "ili": "i103311",
+            "pos": "n",
+            "lemmas": [
+              "wild cherry"
+            ],
+            "definition": "the fruit of the wild cherry tree"
+          }
+        },
+        {
+          "id": "unimet-ell-αγριοκέρασο-n12644057",
+          "lemma": "αγριοκέρασο",
+          "word_id": "unimet-ell-αγριοκέρασο",
+          "synset": {
+            "id": "omw-en-12644057-n",
+            "ili": "i103322",
+            "pos": "n",
+            "lemmas": [
+              "prunus cerasus marasca"
+            ],
+            "definition": "Dalmatian bitter wild cherry tree bearing fruit whose juice is made into maraschino liqueur"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-αγριοκέρασο-n12642090",
+          "lemma": "αγριοκέρασο",
+          "word_id": "unimet-ell-αγριοκέρασο",
+          "synset": {
+            "id": "omw-en-12642090-n",
+            "ili": "i103311",
+            "pos": "n",
+            "lemmas": [
+              "wild cherry"
+            ],
+            "definition": "the fruit of the wild cherry tree"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-αγριοκέρασο-n12644057",
+          "lemma": "αγριοκέρασο",
+          "word_id": "unimet-ell-αγριοκέρασο",
+          "synset": {
+            "id": "omw-en-12644057-n",
+            "ili": "i103322",
+            "pos": "n",
+            "lemmas": [
+              "prunus cerasus marasca"
+            ],
+            "definition": "Dalmatian bitter wild cherry tree bearing fruit whose juice is made into maraschino liqueur"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-αγριοκέρασο-n12642090::unimet-ell-αγριοκέρασο-n12644057": {
+          "source": "unimet-ell-αγριοκέρασο-n12642090",
+          "target": "unimet-ell-αγριοκέρασο-n12644057",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "αγωγός",
+      "all_senses": [
+        {
+          "id": "unimet-ell-αγωγός-n03088707",
+          "lemma": "αγωγός",
+          "word_id": "unimet-ell-αγωγός",
+          "synset": {
+            "id": "omw-en-03088707-n",
+            "ili": "i52264",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a device designed to transmit electricity, heat, etc."
+          }
+        },
+        {
+          "id": "unimet-ell-αγωγός-n03711145",
+          "lemma": "αγωγός",
+          "word_id": "unimet-ell-αγωγός",
+          "synset": {
+            "id": "omw-en-03711145-n",
+            "ili": "i55950",
+            "pos": "n",
+            "lemmas": [
+              "main"
+            ],
+            "definition": "a principal pipe in a system that distributes water or gas or electricity or that collects sewage"
+          }
+        },
+        {
+          "id": "unimet-ell-αγωγός-n14821043",
+          "lemma": "αγωγός",
+          "word_id": "unimet-ell-αγωγός",
+          "synset": {
+            "id": "omw-en-14821043-n",
+            "ili": "i114929",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a substance that readily conducts e.g. electricity and heat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-αγωγός-n14821043",
+          "lemma": "αγωγός",
+          "word_id": "unimet-ell-αγωγός",
+          "synset": {
+            "id": "omw-en-14821043-n",
+            "ili": "i114929",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a substance that readily conducts e.g. electricity and heat"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-αγωγός-n03088707",
+          "lemma": "αγωγός",
+          "word_id": "unimet-ell-αγωγός",
+          "synset": {
+            "id": "omw-en-03088707-n",
+            "ili": "i52264",
+            "pos": "n",
+            "lemmas": [
+              "conductor"
+            ],
+            "definition": "a device designed to transmit electricity, heat, etc."
+          }
+        },
+        {
+          "id": "unimet-ell-αγωγός-n03711145",
+          "lemma": "αγωγός",
+          "word_id": "unimet-ell-αγωγός",
+          "synset": {
+            "id": "omw-en-03711145-n",
+            "ili": "i55950",
+            "pos": "n",
+            "lemmas": [
+              "main"
+            ],
+            "definition": "a principal pipe in a system that distributes water or gas or electricity or that collects sewage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-αγωγός-n14821043::unimet-ell-αγωγός-n03088707": {
+          "source": "unimet-ell-αγωγός-n14821043",
+          "target": "unimet-ell-αγωγός-n03088707",
+          "type": "metonymy"
+        },
+        "unimet-ell-αγωγός-n14821043::unimet-ell-αγωγός-n03711145": {
+          "source": "unimet-ell-αγωγός-n14821043",
+          "target": "unimet-ell-αγωγός-n03711145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ανησυχία",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ανησυχία-n05832264",
+          "lemma": "ανησυχία",
+          "word_id": "unimet-ell-ανησυχία",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-ell-ανησυχία-n07523905",
+          "lemma": "ανησυχία",
+          "word_id": "unimet-ell-ανησυχία",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        },
+        {
+          "id": "unimet-ell-ανησυχία-n07524529",
+          "lemma": "ανησυχία",
+          "word_id": "unimet-ell-ανησυχία",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ανησυχία-n07523905",
+          "lemma": "ανησυχία",
+          "word_id": "unimet-ell-ανησυχία",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        },
+        {
+          "id": "unimet-ell-ανησυχία-n07524529",
+          "lemma": "ανησυχία",
+          "word_id": "unimet-ell-ανησυχία",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ανησυχία-n05832264",
+          "lemma": "ανησυχία",
+          "word_id": "unimet-ell-ανησυχία",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ανησυχία-n07523905::unimet-ell-ανησυχία-n05832264": {
+          "source": "unimet-ell-ανησυχία-n07523905",
+          "target": "unimet-ell-ανησυχία-n05832264",
+          "type": "metonymy"
+        },
+        "unimet-ell-ανησυχία-n07524529::unimet-ell-ανησυχία-n05832264": {
+          "source": "unimet-ell-ανησυχία-n07524529",
+          "target": "unimet-ell-ανησυχία-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "αρνί",
+      "all_senses": [
+        {
+          "id": "unimet-ell-αρνί-n02412440",
+          "lemma": "αρνί",
+          "word_id": "unimet-ell-αρνί",
+          "synset": {
+            "id": "omw-en-02412440-n",
+            "ili": "i48296",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "young sheep"
+          }
+        },
+        {
+          "id": "unimet-ell-αρνί-n07667151",
+          "lemma": "αρνί",
+          "word_id": "unimet-ell-αρνί",
+          "synset": {
+            "id": "omw-en-07667151-n",
+            "ili": "i77225",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "the flesh of a young domestic sheep eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-αρνί-n02412440",
+          "lemma": "αρνί",
+          "word_id": "unimet-ell-αρνί",
+          "synset": {
+            "id": "omw-en-02412440-n",
+            "ili": "i48296",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "young sheep"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-αρνί-n07667151",
+          "lemma": "αρνί",
+          "word_id": "unimet-ell-αρνί",
+          "synset": {
+            "id": "omw-en-07667151-n",
+            "ili": "i77225",
+            "pos": "n",
+            "lemmas": [
+              "lamb"
+            ],
+            "definition": "the flesh of a young domestic sheep eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-αρνί-n02412440::unimet-ell-αρνί-n07667151": {
+          "source": "unimet-ell-αρνί-n02412440",
+          "target": "unimet-ell-αρνί-n07667151",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "βαρελάκι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-βαρελάκι-n03349296",
+          "lemma": "βαρελάκι",
+          "word_id": "unimet-ell-βαρελάκι",
+          "synset": {
+            "id": "omw-en-03349296-n",
+            "ili": "i53761",
+            "pos": "n",
+            "lemmas": [
+              "firkin"
+            ],
+            "definition": "a small wooden keg"
+          }
+        },
+        {
+          "id": "unimet-ell-βαρελάκι-n03610418",
+          "lemma": "βαρελάκι",
+          "word_id": "unimet-ell-βαρελάκι",
+          "synset": {
+            "id": "omw-en-03610418-n",
+            "ili": "i55344",
+            "pos": "n",
+            "lemmas": [
+              "keg"
+            ],
+            "definition": "small cask or barrel"
+          }
+        },
+        {
+          "id": "unimet-ell-βαρελάκι-n13766547",
+          "lemma": "βαρελάκι",
+          "word_id": "unimet-ell-βαρελάκι",
+          "synset": {
+            "id": "omw-en-13766547-n",
+            "ili": "i109231",
+            "pos": "n",
+            "lemmas": [
+              "cask"
+            ],
+            "definition": "the quantity a cask will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-βαρελάκι-n03349296",
+          "lemma": "βαρελάκι",
+          "word_id": "unimet-ell-βαρελάκι",
+          "synset": {
+            "id": "omw-en-03349296-n",
+            "ili": "i53761",
+            "pos": "n",
+            "lemmas": [
+              "firkin"
+            ],
+            "definition": "a small wooden keg"
+          }
+        },
+        {
+          "id": "unimet-ell-βαρελάκι-n03610418",
+          "lemma": "βαρελάκι",
+          "word_id": "unimet-ell-βαρελάκι",
+          "synset": {
+            "id": "omw-en-03610418-n",
+            "ili": "i55344",
+            "pos": "n",
+            "lemmas": [
+              "keg"
+            ],
+            "definition": "small cask or barrel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-βαρελάκι-n13766547",
+          "lemma": "βαρελάκι",
+          "word_id": "unimet-ell-βαρελάκι",
+          "synset": {
+            "id": "omw-en-13766547-n",
+            "ili": "i109231",
+            "pos": "n",
+            "lemmas": [
+              "cask"
+            ],
+            "definition": "the quantity a cask will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-βαρελάκι-n03349296::unimet-ell-βαρελάκι-n13766547": {
+          "source": "unimet-ell-βαρελάκι-n03349296",
+          "target": "unimet-ell-βαρελάκι-n13766547",
+          "type": "metonymy"
+        },
+        "unimet-ell-βαρελάκι-n03610418::unimet-ell-βαρελάκι-n13766547": {
+          "source": "unimet-ell-βαρελάκι-n03610418",
+          "target": "unimet-ell-βαρελάκι-n13766547",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "βαφή",
+      "all_senses": [
+        {
+          "id": "unimet-ell-βαφή-n03875218",
+          "lemma": "βαφή",
+          "word_id": "unimet-ell-βαφή",
+          "synset": {
+            "id": "omw-en-03875218-n",
+            "ili": "i56905",
+            "pos": "n",
+            "lemmas": [
+              "paint"
+            ],
+            "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
+          }
+        },
+        {
+          "id": "unimet-ell-βαφή-n14990723",
+          "lemma": "βαφή",
+          "word_id": "unimet-ell-βαφή",
+          "synset": {
+            "id": "omw-en-14990723-n",
+            "ili": "i115920",
+            "pos": "n",
+            "lemmas": [
+              "pigment"
+            ],
+            "definition": "dry coloring matter (especially a powder to be mixed with a liquid to produce paint etc)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-βαφή-n14990723",
+          "lemma": "βαφή",
+          "word_id": "unimet-ell-βαφή",
+          "synset": {
+            "id": "omw-en-14990723-n",
+            "ili": "i115920",
+            "pos": "n",
+            "lemmas": [
+              "pigment"
+            ],
+            "definition": "dry coloring matter (especially a powder to be mixed with a liquid to produce paint etc)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-βαφή-n03875218",
+          "lemma": "βαφή",
+          "word_id": "unimet-ell-βαφή",
+          "synset": {
+            "id": "omw-en-03875218-n",
+            "ili": "i56905",
+            "pos": "n",
+            "lemmas": [
+              "paint"
+            ],
+            "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-βαφή-n14990723::unimet-ell-βαφή-n03875218": {
+          "source": "unimet-ell-βαφή-n14990723",
+          "target": "unimet-ell-βαφή-n03875218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "βιβλίο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-βιβλίο-n02870092",
+          "lemma": "βιβλίο",
+          "word_id": "unimet-ell-βιβλίο",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-ell-βιβλίο-n06410904",
+          "lemma": "βιβλίο",
+          "word_id": "unimet-ell-βιβλίο",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-βιβλίο-n02870092",
+          "lemma": "βιβλίο",
+          "word_id": "unimet-ell-βιβλίο",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-βιβλίο-n06410904",
+          "lemma": "βιβλίο",
+          "word_id": "unimet-ell-βιβλίο",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-βιβλίο-n02870092::unimet-ell-βιβλίο-n06410904": {
+          "source": "unimet-ell-βιβλίο-n02870092",
+          "target": "unimet-ell-βιβλίο-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "γειτονιά",
+      "all_senses": [
+        {
+          "id": "unimet-ell-γειτονιά-n08225090",
+          "lemma": "γειτονιά",
+          "word_id": "unimet-ell-γειτονιά",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        },
+        {
+          "id": "unimet-ell-γειτονιά-n08642331",
+          "lemma": "γειτονιά",
+          "word_id": "unimet-ell-γειτονιά",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-γειτονιά-n08225090",
+          "lemma": "γειτονιά",
+          "word_id": "unimet-ell-γειτονιά",
+          "synset": {
+            "id": "omw-en-08225090-n",
+            "ili": "i80333",
+            "pos": "n",
+            "lemmas": [
+              "neighborhood"
+            ],
+            "definition": "people living near one another"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-γειτονιά-n08642331",
+          "lemma": "γειτονιά",
+          "word_id": "unimet-ell-γειτονιά",
+          "synset": {
+            "id": "omw-en-08642331-n",
+            "ili": "i82374",
+            "pos": "n",
+            "lemmas": [
+              "spot"
+            ],
+            "definition": "a surrounding or nearby region"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-γειτονιά-n08225090::unimet-ell-γειτονιά-n08642331": {
+          "source": "unimet-ell-γειτονιά-n08225090",
+          "target": "unimet-ell-γειτονιά-n08642331",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "γλυκοκολοκύθα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-γλυκοκολοκύθα-n07754155",
+          "lemma": "γλυκοκολοκύθα",
+          "word_id": "unimet-ell-γλυκοκολοκύθα",
+          "synset": {
+            "id": "omw-en-07754155-n",
+            "ili": "i77807",
+            "pos": "n",
+            "lemmas": [
+              "sweet calabash"
+            ],
+            "definition": "apple-sized passion fruit of the West Indies"
+          }
+        },
+        {
+          "id": "unimet-ell-γλυκοκολοκύθα-n12384680",
+          "lemma": "γλυκοκολοκύθα",
+          "word_id": "unimet-ell-γλυκοκολοκύθα",
+          "synset": {
+            "id": "omw-en-12384680-n",
+            "ili": "i102098",
+            "pos": "n",
+            "lemmas": [
+              "passiflora maliformis"
+            ],
+            "definition": "West Indian passionflower with edible apple-sized fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-γλυκοκολοκύθα-n07754155",
+          "lemma": "γλυκοκολοκύθα",
+          "word_id": "unimet-ell-γλυκοκολοκύθα",
+          "synset": {
+            "id": "omw-en-07754155-n",
+            "ili": "i77807",
+            "pos": "n",
+            "lemmas": [
+              "sweet calabash"
+            ],
+            "definition": "apple-sized passion fruit of the West Indies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-γλυκοκολοκύθα-n12384680",
+          "lemma": "γλυκοκολοκύθα",
+          "word_id": "unimet-ell-γλυκοκολοκύθα",
+          "synset": {
+            "id": "omw-en-12384680-n",
+            "ili": "i102098",
+            "pos": "n",
+            "lemmas": [
+              "passiflora maliformis"
+            ],
+            "definition": "West Indian passionflower with edible apple-sized fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-γλυκοκολοκύθα-n07754155::unimet-ell-γλυκοκολοκύθα-n12384680": {
+          "source": "unimet-ell-γλυκοκολοκύθα-n07754155",
+          "target": "unimet-ell-γλυκοκολοκύθα-n12384680",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "γουρουνάκι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-γουρουνάκι-n02395694",
+          "lemma": "γουρουνάκι",
+          "word_id": "unimet-ell-γουρουνάκι",
+          "synset": {
+            "id": "omw-en-02395694-n",
+            "ili": "i48200",
+            "pos": "n",
+            "lemmas": [
+              "shoat"
+            ],
+            "definition": "a young pig"
+          }
+        },
+        {
+          "id": "unimet-ell-γουρουνάκι-n07669098",
+          "lemma": "γουρουνάκι",
+          "word_id": "unimet-ell-γουρουνάκι",
+          "synset": {
+            "id": "omw-en-07669098-n",
+            "ili": "i77239",
+            "pos": "n",
+            "lemmas": [
+              "suckling pig"
+            ],
+            "definition": "whole young pig suitable for roasting"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-γουρουνάκι-n02395694",
+          "lemma": "γουρουνάκι",
+          "word_id": "unimet-ell-γουρουνάκι",
+          "synset": {
+            "id": "omw-en-02395694-n",
+            "ili": "i48200",
+            "pos": "n",
+            "lemmas": [
+              "shoat"
+            ],
+            "definition": "a young pig"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-γουρουνάκι-n07669098",
+          "lemma": "γουρουνάκι",
+          "word_id": "unimet-ell-γουρουνάκι",
+          "synset": {
+            "id": "omw-en-07669098-n",
+            "ili": "i77239",
+            "pos": "n",
+            "lemmas": [
+              "suckling pig"
+            ],
+            "definition": "whole young pig suitable for roasting"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-γουρουνάκι-n02395694::unimet-ell-γουρουνάκι-n07669098": {
+          "source": "unimet-ell-γουρουνάκι-n02395694",
+          "target": "unimet-ell-γουρουνάκι-n07669098",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "γούνα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-γούνα-n03404251",
+          "lemma": "γούνα",
+          "word_id": "unimet-ell-γούνα",
+          "synset": {
+            "id": "omw-en-03404251-n",
+            "ili": "i54104",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a coat made of fur"
+          }
+        },
+        {
+          "id": "unimet-ell-γούνα-n14764061",
+          "lemma": "γούνα",
+          "word_id": "unimet-ell-γούνα",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-γούνα-n14764061",
+          "lemma": "γούνα",
+          "word_id": "unimet-ell-γούνα",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-γούνα-n03404251",
+          "lemma": "γούνα",
+          "word_id": "unimet-ell-γούνα",
+          "synset": {
+            "id": "omw-en-03404251-n",
+            "ili": "i54104",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a coat made of fur"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-γούνα-n14764061::unimet-ell-γούνα-n03404251": {
+          "source": "unimet-ell-γούνα-n14764061",
+          "target": "unimet-ell-γούνα-n03404251",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "δέντρο annona muricata",
+      "all_senses": [
+        {
+          "id": "unimet-ell-δέντρο annona muricata-n07761309",
+          "lemma": "δέντρο annona muricata",
+          "word_id": "unimet-ell-δέντρο annona muricata",
+          "synset": {
+            "id": "omw-en-07761309-n",
+            "ili": "i77852",
+            "pos": "n",
+            "lemmas": [
+              "soursop"
+            ],
+            "definition": "large spiny tropical fruit with tart pulp related to custard apples"
+          }
+        },
+        {
+          "id": "unimet-ell-δέντρο annona muricata-n11694664",
+          "lemma": "δέντρο annona muricata",
+          "word_id": "unimet-ell-δέντρο annona muricata",
+          "synset": {
+            "id": "omw-en-11694664-n",
+            "ili": "i98802",
+            "pos": "n",
+            "lemmas": [
+              "annona muricata"
+            ],
+            "definition": "small tropical American tree bearing large succulent slightly acid fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-δέντρο annona muricata-n07761309",
+          "lemma": "δέντρο annona muricata",
+          "word_id": "unimet-ell-δέντρο annona muricata",
+          "synset": {
+            "id": "omw-en-07761309-n",
+            "ili": "i77852",
+            "pos": "n",
+            "lemmas": [
+              "soursop"
+            ],
+            "definition": "large spiny tropical fruit with tart pulp related to custard apples"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-δέντρο annona muricata-n11694664",
+          "lemma": "δέντρο annona muricata",
+          "word_id": "unimet-ell-δέντρο annona muricata",
+          "synset": {
+            "id": "omw-en-11694664-n",
+            "ili": "i98802",
+            "pos": "n",
+            "lemmas": [
+              "annona muricata"
+            ],
+            "definition": "small tropical American tree bearing large succulent slightly acid fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-δέντρο annona muricata-n07761309::unimet-ell-δέντρο annona muricata-n11694664": {
+          "source": "unimet-ell-δέντρο annona muricata-n07761309",
+          "target": "unimet-ell-δέντρο annona muricata-n11694664",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "δέντρο annona squamosa",
+      "all_senses": [
+        {
+          "id": "unimet-ell-δέντρο annona squamosa-n07761611",
+          "lemma": "δέντρο annona squamosa",
+          "word_id": "unimet-ell-δέντρο annona squamosa",
+          "synset": {
+            "id": "omw-en-07761611-n",
+            "ili": "i77854",
+            "pos": "n",
+            "lemmas": [
+              "sweetsop"
+            ],
+            "definition": "sweet pulpy tropical fruit with thick scaly rind and shiny black seeds"
+          }
+        },
+        {
+          "id": "unimet-ell-δέντρο annona squamosa-n11695085",
+          "lemma": "δέντρο annona squamosa",
+          "word_id": "unimet-ell-δέντρο annona squamosa",
+          "synset": {
+            "id": "omw-en-11695085-n",
+            "ili": "i98804",
+            "pos": "n",
+            "lemmas": [
+              "sweetsop"
+            ],
+            "definition": "tropical American tree bearing sweet pulpy fruit with thick scaly rind and shiny black seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-δέντρο annona squamosa-n07761611",
+          "lemma": "δέντρο annona squamosa",
+          "word_id": "unimet-ell-δέντρο annona squamosa",
+          "synset": {
+            "id": "omw-en-07761611-n",
+            "ili": "i77854",
+            "pos": "n",
+            "lemmas": [
+              "sweetsop"
+            ],
+            "definition": "sweet pulpy tropical fruit with thick scaly rind and shiny black seeds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-δέντρο annona squamosa-n11695085",
+          "lemma": "δέντρο annona squamosa",
+          "word_id": "unimet-ell-δέντρο annona squamosa",
+          "synset": {
+            "id": "omw-en-11695085-n",
+            "ili": "i98804",
+            "pos": "n",
+            "lemmas": [
+              "sweetsop"
+            ],
+            "definition": "tropical American tree bearing sweet pulpy fruit with thick scaly rind and shiny black seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-δέντρο annona squamosa-n07761611::unimet-ell-δέντρο annona squamosa-n11695085": {
+          "source": "unimet-ell-δέντρο annona squamosa-n07761611",
+          "target": "unimet-ell-δέντρο annona squamosa-n11695085",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "δεξαμενή",
+      "all_senses": [
+        {
+          "id": "unimet-ell-δεξαμενή-n04388743",
+          "lemma": "δεξαμενή",
+          "word_id": "unimet-ell-δεξαμενή",
+          "synset": {
+            "id": "omw-en-04388743-n",
+            "ili": "i59983",
+            "pos": "n",
+            "lemmas": [
+              "bin"
+            ],
+            "definition": "a large (usually metallic) vessel for holding gases or liquids"
+          }
+        },
+        {
+          "id": "unimet-ell-δεξαμενή-n13770529",
+          "lemma": "δεξαμενή",
+          "word_id": "unimet-ell-δεξαμενή",
+          "synset": {
+            "id": "omw-en-13770529-n",
+            "ili": "i109267",
+            "pos": "n",
+            "lemmas": [
+              "tank"
+            ],
+            "definition": "as much as a tank will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-δεξαμενή-n04388743",
+          "lemma": "δεξαμενή",
+          "word_id": "unimet-ell-δεξαμενή",
+          "synset": {
+            "id": "omw-en-04388743-n",
+            "ili": "i59983",
+            "pos": "n",
+            "lemmas": [
+              "bin"
+            ],
+            "definition": "a large (usually metallic) vessel for holding gases or liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-δεξαμενή-n13770529",
+          "lemma": "δεξαμενή",
+          "word_id": "unimet-ell-δεξαμενή",
+          "synset": {
+            "id": "omw-en-13770529-n",
+            "ili": "i109267",
+            "pos": "n",
+            "lemmas": [
+              "tank"
+            ],
+            "definition": "as much as a tank will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-δεξαμενή-n04388743::unimet-ell-δεξαμενή-n13770529": {
+          "source": "unimet-ell-δεξαμενή-n04388743",
+          "target": "unimet-ell-δεξαμενή-n13770529",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "δηλητηριώδες μούρο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-δηλητηριώδες μούρο-n11723770",
+          "lemma": "δηλητηριώδες μούρο",
+          "word_id": "unimet-ell-δηλητηριώδες μούρο",
+          "synset": {
+            "id": "omw-en-11723770-n",
+            "ili": "i98943",
+            "pos": "n",
+            "lemmas": [
+              "herb christopher"
+            ],
+            "definition": "a plant of the genus Actaea having acrid poisonous berries"
+          }
+        },
+        {
+          "id": "unimet-ell-δηλητηριώδες μούρο-n11723986",
+          "lemma": "δηλητηριώδες μούρο",
+          "word_id": "unimet-ell-δηλητηριώδες μούρο",
+          "synset": {
+            "id": "omw-en-11723986-n",
+            "ili": "i98944",
+            "pos": "n",
+            "lemmas": [
+              "baneberry"
+            ],
+            "definition": "a poisonous berry of a plant of the genus Actaea"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-δηλητηριώδες μούρο-n11723770",
+          "lemma": "δηλητηριώδες μούρο",
+          "word_id": "unimet-ell-δηλητηριώδες μούρο",
+          "synset": {
+            "id": "omw-en-11723770-n",
+            "ili": "i98943",
+            "pos": "n",
+            "lemmas": [
+              "herb christopher"
+            ],
+            "definition": "a plant of the genus Actaea having acrid poisonous berries"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-δηλητηριώδες μούρο-n11723986",
+          "lemma": "δηλητηριώδες μούρο",
+          "word_id": "unimet-ell-δηλητηριώδες μούρο",
+          "synset": {
+            "id": "omw-en-11723986-n",
+            "ili": "i98944",
+            "pos": "n",
+            "lemmas": [
+              "baneberry"
+            ],
+            "definition": "a poisonous berry of a plant of the genus Actaea"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-δηλητηριώδες μούρο-n11723770::unimet-ell-δηλητηριώδες μούρο-n11723986": {
+          "source": "unimet-ell-δηλητηριώδες μούρο-n11723770",
+          "target": "unimet-ell-δηλητηριώδες μούρο-n11723986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "διασημότητα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-διασημότητα-n09903153",
+          "lemma": "διασημότητα",
+          "word_id": "unimet-ell-διασημότητα",
+          "synset": {
+            "id": "omw-en-09903153-n",
+            "ili": "i88881",
+            "pos": "n",
+            "lemmas": [
+              "famous person"
+            ],
+            "definition": "a widely known person"
+          }
+        },
+        {
+          "id": "unimet-ell-διασημότητα-n14437386",
+          "lemma": "διασημότητα",
+          "word_id": "unimet-ell-διασημότητα",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-διασημότητα-n14437386",
+          "lemma": "διασημότητα",
+          "word_id": "unimet-ell-διασημότητα",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-διασημότητα-n09903153",
+          "lemma": "διασημότητα",
+          "word_id": "unimet-ell-διασημότητα",
+          "synset": {
+            "id": "omw-en-09903153-n",
+            "ili": "i88881",
+            "pos": "n",
+            "lemmas": [
+              "famous person"
+            ],
+            "definition": "a widely known person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-διασημότητα-n14437386::unimet-ell-διασημότητα-n09903153": {
+          "source": "unimet-ell-διασημότητα-n14437386",
+          "target": "unimet-ell-διασημότητα-n09903153",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "δύναμη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-δύναμη-n05191695",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05191695-n",
+            "ili": "i64255",
+            "pos": "n",
+            "lemmas": [
+              "puissance"
+            ],
+            "definition": "power to influence or coerce"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n05194578",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n05199286",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05199286-n",
+            "ili": "i64295",
+            "pos": "n",
+            "lemmas": [
+              "validity"
+            ],
+            "definition": "power to be effective; the quality of being able to bring about an effect"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n05199869",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05199869-n",
+            "ili": "i64297",
+            "pos": "n",
+            "lemmas": [
+              "efficacy"
+            ],
+            "definition": "capacity or power to produce a desired effect"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n10461424",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n10461747",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-10461747-n",
+            "ili": "i92182",
+            "pos": "n",
+            "lemmas": [
+              "influence"
+            ],
+            "definition": "one having power to influence another"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-δύναμη-n05191695",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05191695-n",
+            "ili": "i64255",
+            "pos": "n",
+            "lemmas": [
+              "puissance"
+            ],
+            "definition": "power to influence or coerce"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n05194578",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n05199286",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05199286-n",
+            "ili": "i64295",
+            "pos": "n",
+            "lemmas": [
+              "validity"
+            ],
+            "definition": "power to be effective; the quality of being able to bring about an effect"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n05199869",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-05199869-n",
+            "ili": "i64297",
+            "pos": "n",
+            "lemmas": [
+              "efficacy"
+            ],
+            "definition": "capacity or power to produce a desired effect"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-δύναμη-n10461424",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        },
+        {
+          "id": "unimet-ell-δύναμη-n10461747",
+          "lemma": "δύναμη",
+          "word_id": "unimet-ell-δύναμη",
+          "synset": {
+            "id": "omw-en-10461747-n",
+            "ili": "i92182",
+            "pos": "n",
+            "lemmas": [
+              "influence"
+            ],
+            "definition": "one having power to influence another"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-δύναμη-n05191695::unimet-ell-δύναμη-n10461424": {
+          "source": "unimet-ell-δύναμη-n05191695",
+          "target": "unimet-ell-δύναμη-n10461424",
+          "type": "metonymy"
+        },
+        "unimet-ell-δύναμη-n05191695::unimet-ell-δύναμη-n10461747": {
+          "source": "unimet-ell-δύναμη-n05191695",
+          "target": "unimet-ell-δύναμη-n10461747",
+          "type": "metonymy"
+        },
+        "unimet-ell-δύναμη-n05194578::unimet-ell-δύναμη-n10461424": {
+          "source": "unimet-ell-δύναμη-n05194578",
+          "target": "unimet-ell-δύναμη-n10461424",
+          "type": "metonymy"
+        },
+        "unimet-ell-δύναμη-n05194578::unimet-ell-δύναμη-n10461747": {
+          "source": "unimet-ell-δύναμη-n05194578",
+          "target": "unimet-ell-δύναμη-n10461747",
+          "type": "metonymy"
+        },
+        "unimet-ell-δύναμη-n05199286::unimet-ell-δύναμη-n10461424": {
+          "source": "unimet-ell-δύναμη-n05199286",
+          "target": "unimet-ell-δύναμη-n10461424",
+          "type": "metonymy"
+        },
+        "unimet-ell-δύναμη-n05199869::unimet-ell-δύναμη-n10461424": {
+          "source": "unimet-ell-δύναμη-n05199869",
+          "target": "unimet-ell-δύναμη-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "εκκλησία",
+      "all_senses": [
+        {
+          "id": "unimet-ell-εκκλησία-n03028079",
+          "lemma": "εκκλησία",
+          "word_id": "unimet-ell-εκκλησία",
+          "synset": {
+            "id": "omw-en-03028079-n",
+            "ili": "i51914",
+            "pos": "n",
+            "lemmas": [
+              "temple"
+            ],
+            "definition": "a place for public (especially Christian) worship"
+          }
+        },
+        {
+          "id": "unimet-ell-εκκλησία-n08082602",
+          "lemma": "εκκλησία",
+          "word_id": "unimet-ell-εκκλησία",
+          "synset": {
+            "id": "omw-en-08082602-n",
+            "ili": "i79691",
+            "pos": "n",
+            "lemmas": [
+              "christian church"
+            ],
+            "definition": "one of the groups of Christians who have their own beliefs and forms of worship"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-εκκλησία-n03028079",
+          "lemma": "εκκλησία",
+          "word_id": "unimet-ell-εκκλησία",
+          "synset": {
+            "id": "omw-en-03028079-n",
+            "ili": "i51914",
+            "pos": "n",
+            "lemmas": [
+              "temple"
+            ],
+            "definition": "a place for public (especially Christian) worship"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-εκκλησία-n08082602",
+          "lemma": "εκκλησία",
+          "word_id": "unimet-ell-εκκλησία",
+          "synset": {
+            "id": "omw-en-08082602-n",
+            "ili": "i79691",
+            "pos": "n",
+            "lemmas": [
+              "christian church"
+            ],
+            "definition": "one of the groups of Christians who have their own beliefs and forms of worship"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-εκκλησία-n03028079::unimet-ell-εκκλησία-n08082602": {
+          "source": "unimet-ell-εκκλησία-n03028079",
+          "target": "unimet-ell-εκκλησία-n08082602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ελιά",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ελιά-n07767344",
+          "lemma": "ελιά",
+          "word_id": "unimet-ell-ελιά",
+          "synset": {
+            "id": "omw-en-07767344-n",
+            "ili": "i77889",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "one-seeded fruit of the European olive tree usually pickled and used as a relish"
+          }
+        },
+        {
+          "id": "unimet-ell-ελιά-n12300840",
+          "lemma": "ελιά",
+          "word_id": "unimet-ell-ελιά",
+          "synset": {
+            "id": "omw-en-12300840-n",
+            "ili": "i101680",
+            "pos": "n",
+            "lemmas": [
+              "olive tree"
+            ],
+            "definition": "a tree of the genus Olea cultivated for its fruit"
+          }
+        },
+        {
+          "id": "unimet-ell-ελιά-n12301445",
+          "lemma": "ελιά",
+          "word_id": "unimet-ell-ελιά",
+          "synset": {
+            "id": "omw-en-12301445-n",
+            "ili": "i101683",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "small ovoid fruit of the European olive tree; important food and source of oil"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ελιά-n07767344",
+          "lemma": "ελιά",
+          "word_id": "unimet-ell-ελιά",
+          "synset": {
+            "id": "omw-en-07767344-n",
+            "ili": "i77889",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "one-seeded fruit of the European olive tree usually pickled and used as a relish"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ελιά-n12300840",
+          "lemma": "ελιά",
+          "word_id": "unimet-ell-ελιά",
+          "synset": {
+            "id": "omw-en-12300840-n",
+            "ili": "i101680",
+            "pos": "n",
+            "lemmas": [
+              "olive tree"
+            ],
+            "definition": "a tree of the genus Olea cultivated for its fruit"
+          }
+        },
+        {
+          "id": "unimet-ell-ελιά-n12301445",
+          "lemma": "ελιά",
+          "word_id": "unimet-ell-ελιά",
+          "synset": {
+            "id": "omw-en-12301445-n",
+            "ili": "i101683",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "small ovoid fruit of the European olive tree; important food and source of oil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ελιά-n07767344::unimet-ell-ελιά-n12300840": {
+          "source": "unimet-ell-ελιά-n07767344",
+          "target": "unimet-ell-ελιά-n12300840",
+          "type": "metonymy"
+        },
+        "unimet-ell-ελιά-n12300840::unimet-ell-ελιά-n12301445": {
+          "source": "unimet-ell-ελιά-n12300840",
+          "target": "unimet-ell-ελιά-n12301445",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ελπίδα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ελπίδα-n07510923",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-07510923-n",
+            "ili": "i76220",
+            "pos": "n",
+            "lemmas": [
+              "expectation"
+            ],
+            "definition": "the feeling that something is about to happen"
+          }
+        },
+        {
+          "id": "unimet-ell-ελπίδα-n07511733",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-ell-ελπίδα-n07541053",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        },
+        {
+          "id": "unimet-ell-ελπίδα-n10184946",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ελπίδα-n07510923",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-07510923-n",
+            "ili": "i76220",
+            "pos": "n",
+            "lemmas": [
+              "expectation"
+            ],
+            "definition": "the feeling that something is about to happen"
+          }
+        },
+        {
+          "id": "unimet-ell-ελπίδα-n07511733",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-ell-ελπίδα-n07541053",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ελπίδα-n10184946",
+          "lemma": "ελπίδα",
+          "word_id": "unimet-ell-ελπίδα",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ελπίδα-n07510923::unimet-ell-ελπίδα-n10184946": {
+          "source": "unimet-ell-ελπίδα-n07510923",
+          "target": "unimet-ell-ελπίδα-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-ell-ελπίδα-n07511733::unimet-ell-ελπίδα-n10184946": {
+          "source": "unimet-ell-ελπίδα-n07511733",
+          "target": "unimet-ell-ελπίδα-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-ell-ελπίδα-n07541053::unimet-ell-ελπίδα-n10184946": {
+          "source": "unimet-ell-ελπίδα-n07541053",
+          "target": "unimet-ell-ελπίδα-n10184946",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "εσπεριδοειδή",
+      "all_senses": [
+        {
+          "id": "unimet-ell-εσπεριδοειδή-n07747055",
+          "lemma": "εσπεριδοειδή",
+          "word_id": "unimet-ell-εσπεριδοειδή",
+          "synset": {
+            "id": "omw-en-07747055-n",
+            "ili": "i77760",
+            "pos": "n",
+            "lemmas": [
+              "lime"
+            ],
+            "definition": "any of numerous fruits of the genus Citrus having thick rind and juicy pulp; grown in warm regions"
+          }
+        },
+        {
+          "id": "unimet-ell-εσπεριδοειδή-n12707781",
+          "lemma": "εσπεριδοειδή",
+          "word_id": "unimet-ell-εσπεριδοειδή",
+          "synset": {
+            "id": "omw-en-12707781-n",
+            "ili": "i103635",
+            "pos": "n",
+            "lemmas": [
+              "citrus tree"
+            ],
+            "definition": "any of numerous tropical usually thorny evergreen trees of the genus Citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-εσπεριδοειδή-n07747055",
+          "lemma": "εσπεριδοειδή",
+          "word_id": "unimet-ell-εσπεριδοειδή",
+          "synset": {
+            "id": "omw-en-07747055-n",
+            "ili": "i77760",
+            "pos": "n",
+            "lemmas": [
+              "lime"
+            ],
+            "definition": "any of numerous fruits of the genus Citrus having thick rind and juicy pulp; grown in warm regions"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-εσπεριδοειδή-n12707781",
+          "lemma": "εσπεριδοειδή",
+          "word_id": "unimet-ell-εσπεριδοειδή",
+          "synset": {
+            "id": "omw-en-12707781-n",
+            "ili": "i103635",
+            "pos": "n",
+            "lemmas": [
+              "citrus tree"
+            ],
+            "definition": "any of numerous tropical usually thorny evergreen trees of the genus Citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-εσπεριδοειδή-n07747055::unimet-ell-εσπεριδοειδή-n12707781": {
+          "source": "unimet-ell-εσπεριδοειδή-n07747055",
+          "target": "unimet-ell-εσπεριδοειδή-n12707781",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "εφημερίδα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-εφημερίδα-n03822171",
+          "lemma": "εφημερίδα",
+          "word_id": "unimet-ell-εφημερίδα",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-ell-εφημερίδα-n06267145",
+          "lemma": "εφημερίδα",
+          "word_id": "unimet-ell-εφημερίδα",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-εφημερίδα-n03822171",
+          "lemma": "εφημερίδα",
+          "word_id": "unimet-ell-εφημερίδα",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-εφημερίδα-n06267145",
+          "lemma": "εφημερίδα",
+          "word_id": "unimet-ell-εφημερίδα",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-εφημερίδα-n03822171::unimet-ell-εφημερίδα-n06267145": {
+          "source": "unimet-ell-εφημερίδα-n03822171",
+          "target": "unimet-ell-εφημερίδα-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ζωή",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ζωή-n10260706",
+          "lemma": "ζωή",
+          "word_id": "unimet-ell-ζωή",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        },
+        {
+          "id": "unimet-ell-ζωή-n13961399",
+          "lemma": "ζωή",
+          "word_id": "unimet-ell-ζωή",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ζωή-n13961399",
+          "lemma": "ζωή",
+          "word_id": "unimet-ell-ζωή",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ζωή-n10260706",
+          "lemma": "ζωή",
+          "word_id": "unimet-ell-ζωή",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ζωή-n13961399::unimet-ell-ζωή-n10260706": {
+          "source": "unimet-ell-ζωή-n13961399",
+          "target": "unimet-ell-ζωή-n10260706",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ημιαγωγός",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ημιαγωγός-n04171831",
+          "lemma": "ημιαγωγός",
+          "word_id": "unimet-ell-ημιαγωγός",
+          "synset": {
+            "id": "omw-en-04171831-n",
+            "ili": "i58663",
+            "pos": "n",
+            "lemmas": [
+              "semiconductor"
+            ],
+            "definition": "a conductor made with semiconducting material"
+          }
+        },
+        {
+          "id": "unimet-ell-ημιαγωγός-n14821248",
+          "lemma": "ημιαγωγός",
+          "word_id": "unimet-ell-ημιαγωγός",
+          "synset": {
+            "id": "omw-en-14821248-n",
+            "ili": "i114930",
+            "pos": "n",
+            "lemmas": [
+              "semiconductor"
+            ],
+            "definition": "a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ημιαγωγός-n14821248",
+          "lemma": "ημιαγωγός",
+          "word_id": "unimet-ell-ημιαγωγός",
+          "synset": {
+            "id": "omw-en-14821248-n",
+            "ili": "i114930",
+            "pos": "n",
+            "lemmas": [
+              "semiconductor"
+            ],
+            "definition": "a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ημιαγωγός-n04171831",
+          "lemma": "ημιαγωγός",
+          "word_id": "unimet-ell-ημιαγωγός",
+          "synset": {
+            "id": "omw-en-04171831-n",
+            "ili": "i58663",
+            "pos": "n",
+            "lemmas": [
+              "semiconductor"
+            ],
+            "definition": "a conductor made with semiconducting material"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ημιαγωγός-n14821248::unimet-ell-ημιαγωγός-n04171831": {
+          "source": "unimet-ell-ημιαγωγός-n14821248",
+          "target": "unimet-ell-ημιαγωγός-n04171831",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "θήραμα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-θήραμα-n02152881",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-02152881-n",
+            "ili": "i46781",
+            "pos": "n",
+            "lemmas": [
+              "prey"
+            ],
+            "definition": "animal hunted or caught for food"
+          }
+        },
+        {
+          "id": "unimet-ell-θήραμα-n02152991",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-02152991-n",
+            "ili": "i46782",
+            "pos": "n",
+            "lemmas": [
+              "game"
+            ],
+            "definition": "animal hunted for food or sport"
+          }
+        },
+        {
+          "id": "unimet-ell-θήραμα-n02153203",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-02153203-n",
+            "ili": "i46784",
+            "pos": "n",
+            "lemmas": [
+              "squab"
+            ],
+            "definition": "any bird (as grouse or pheasant) that is hunted for sport"
+          }
+        },
+        {
+          "id": "unimet-ell-θήραμα-n07650449",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-07650449-n",
+            "ili": "i77101",
+            "pos": "n",
+            "lemmas": [
+              "game"
+            ],
+            "definition": "the flesh of wild animals that is used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-θήραμα-n02152881",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-02152881-n",
+            "ili": "i46781",
+            "pos": "n",
+            "lemmas": [
+              "prey"
+            ],
+            "definition": "animal hunted or caught for food"
+          }
+        },
+        {
+          "id": "unimet-ell-θήραμα-n02152991",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-02152991-n",
+            "ili": "i46782",
+            "pos": "n",
+            "lemmas": [
+              "game"
+            ],
+            "definition": "animal hunted for food or sport"
+          }
+        },
+        {
+          "id": "unimet-ell-θήραμα-n02153203",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-02153203-n",
+            "ili": "i46784",
+            "pos": "n",
+            "lemmas": [
+              "squab"
+            ],
+            "definition": "any bird (as grouse or pheasant) that is hunted for sport"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-θήραμα-n07650449",
+          "lemma": "θήραμα",
+          "word_id": "unimet-ell-θήραμα",
+          "synset": {
+            "id": "omw-en-07650449-n",
+            "ili": "i77101",
+            "pos": "n",
+            "lemmas": [
+              "game"
+            ],
+            "definition": "the flesh of wild animals that is used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-θήραμα-n02152881::unimet-ell-θήραμα-n07650449": {
+          "source": "unimet-ell-θήραμα-n02152881",
+          "target": "unimet-ell-θήραμα-n07650449",
+          "type": "metonymy"
+        },
+        "unimet-ell-θήραμα-n02152991::unimet-ell-θήραμα-n07650449": {
+          "source": "unimet-ell-θήραμα-n02152991",
+          "target": "unimet-ell-θήραμα-n07650449",
+          "type": "metonymy"
+        },
+        "unimet-ell-θήραμα-n02153203::unimet-ell-θήραμα-n07650449": {
+          "source": "unimet-ell-θήραμα-n02153203",
+          "target": "unimet-ell-θήραμα-n07650449",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κάδος",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κάδος-n02909870",
+          "lemma": "κάδος",
+          "word_id": "unimet-ell-κάδος",
+          "synset": {
+            "id": "omw-en-02909870-n",
+            "ili": "i51202",
+            "pos": "n",
+            "lemmas": [
+              "bucket"
+            ],
+            "definition": "a roughly cylindrical vessel that is open at the top"
+          }
+        },
+        {
+          "id": "unimet-ell-κάδος-n13768537",
+          "lemma": "κάδος",
+          "word_id": "unimet-ell-κάδος",
+          "synset": {
+            "id": "omw-en-13768537-n",
+            "ili": "i109249",
+            "pos": "n",
+            "lemmas": [
+              "pailful"
+            ],
+            "definition": "the quantity contained in a pail"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κάδος-n02909870",
+          "lemma": "κάδος",
+          "word_id": "unimet-ell-κάδος",
+          "synset": {
+            "id": "omw-en-02909870-n",
+            "ili": "i51202",
+            "pos": "n",
+            "lemmas": [
+              "bucket"
+            ],
+            "definition": "a roughly cylindrical vessel that is open at the top"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κάδος-n13768537",
+          "lemma": "κάδος",
+          "word_id": "unimet-ell-κάδος",
+          "synset": {
+            "id": "omw-en-13768537-n",
+            "ili": "i109249",
+            "pos": "n",
+            "lemmas": [
+              "pailful"
+            ],
+            "definition": "the quantity contained in a pail"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κάδος-n02909870::unimet-ell-κάδος-n13768537": {
+          "source": "unimet-ell-κάδος-n02909870",
+          "target": "unimet-ell-κάδος-n13768537",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "καλάθι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-καλάθι-n02801938",
+          "lemma": "καλάθι",
+          "word_id": "unimet-ell-καλάθι",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        },
+        {
+          "id": "unimet-ell-καλάθι-n13765207",
+          "lemma": "καλάθι",
+          "word_id": "unimet-ell-καλάθι",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-καλάθι-n02801938",
+          "lemma": "καλάθι",
+          "word_id": "unimet-ell-καλάθι",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-καλάθι-n13765207",
+          "lemma": "καλάθι",
+          "word_id": "unimet-ell-καλάθι",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-καλάθι-n02801938::unimet-ell-καλάθι-n13765207": {
+          "source": "unimet-ell-καλάθι-n02801938",
+          "target": "unimet-ell-καλάθι-n13765207",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "καλαμπόκι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-καλαμπόκι-n12143676",
+          "lemma": "καλαμπόκι",
+          "word_id": "unimet-ell-καλαμπόκι",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        },
+        {
+          "id": "unimet-ell-καλαμπόκι-n12144580",
+          "lemma": "καλαμπόκι",
+          "word_id": "unimet-ell-καλαμπόκι",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-καλαμπόκι-n12143676",
+          "lemma": "καλαμπόκι",
+          "word_id": "unimet-ell-καλαμπόκι",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-καλαμπόκι-n12144580",
+          "lemma": "καλαμπόκι",
+          "word_id": "unimet-ell-καλαμπόκι",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-καλαμπόκι-n12143676::unimet-ell-καλαμπόκι-n12144580": {
+          "source": "unimet-ell-καλαμπόκι-n12143676",
+          "target": "unimet-ell-καλαμπόκι-n12144580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "καφές",
+      "all_senses": [
+        {
+          "id": "unimet-ell-καφές-n07929351",
+          "lemma": "καφές",
+          "word_id": "unimet-ell-καφές",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-ell-καφές-n12662772",
+          "lemma": "καφές",
+          "word_id": "unimet-ell-καφές",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-καφές-n07929351",
+          "lemma": "καφές",
+          "word_id": "unimet-ell-καφές",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-καφές-n12662772",
+          "lemma": "καφές",
+          "word_id": "unimet-ell-καφές",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-καφές-n07929351::unimet-ell-καφές-n12662772": {
+          "source": "unimet-ell-καφές-n07929351",
+          "target": "unimet-ell-καφές-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κοινότητα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κοινότητα-n08223802",
+          "lemma": "κοινότητα",
+          "word_id": "unimet-ell-κοινότητα",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        },
+        {
+          "id": "unimet-ell-κοινότητα-n08541609",
+          "lemma": "κοινότητα",
+          "word_id": "unimet-ell-κοινότητα",
+          "synset": {
+            "id": "omw-en-08541609-n",
+            "ili": "i81870",
+            "pos": "n",
+            "lemmas": [
+              "commune"
+            ],
+            "definition": "the smallest administrative district of several European countries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κοινότητα-n08223802",
+          "lemma": "κοινότητα",
+          "word_id": "unimet-ell-κοινότητα",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κοινότητα-n08541609",
+          "lemma": "κοινότητα",
+          "word_id": "unimet-ell-κοινότητα",
+          "synset": {
+            "id": "omw-en-08541609-n",
+            "ili": "i81870",
+            "pos": "n",
+            "lemmas": [
+              "commune"
+            ],
+            "definition": "the smallest administrative district of several European countries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κοινότητα-n08223802::unimet-ell-κοινότητα-n08541609": {
+          "source": "unimet-ell-κοινότητα-n08223802",
+          "target": "unimet-ell-κοινότητα-n08541609",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κονσέρβα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κονσέρβα-n04438897",
+          "lemma": "κονσέρβα",
+          "word_id": "unimet-ell-κονσέρβα",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        },
+        {
+          "id": "unimet-ell-κονσέρβα-n13765990",
+          "lemma": "κονσέρβα",
+          "word_id": "unimet-ell-κονσέρβα",
+          "synset": {
+            "id": "omw-en-13765990-n",
+            "ili": "i109225",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "the quantity contained in a can"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κονσέρβα-n04438897",
+          "lemma": "κονσέρβα",
+          "word_id": "unimet-ell-κονσέρβα",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κονσέρβα-n13765990",
+          "lemma": "κονσέρβα",
+          "word_id": "unimet-ell-κονσέρβα",
+          "synset": {
+            "id": "omw-en-13765990-n",
+            "ili": "i109225",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "the quantity contained in a can"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κονσέρβα-n04438897::unimet-ell-κονσέρβα-n13765990": {
+          "source": "unimet-ell-κονσέρβα-n04438897",
+          "target": "unimet-ell-κονσέρβα-n13765990",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κοτόπουλο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κοτόπουλο-n01792042",
+          "lemma": "κοτόπουλο",
+          "word_id": "unimet-ell-κοτόπουλο",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-ell-κοτόπουλο-n07644967",
+          "lemma": "κοτόπουλο",
+          "word_id": "unimet-ell-κοτόπουλο",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κοτόπουλο-n01792042",
+          "lemma": "κοτόπουλο",
+          "word_id": "unimet-ell-κοτόπουλο",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κοτόπουλο-n07644967",
+          "lemma": "κοτόπουλο",
+          "word_id": "unimet-ell-κοτόπουλο",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κοτόπουλο-n01792042::unimet-ell-κοτόπουλο-n07644967": {
+          "source": "unimet-ell-κοτόπουλο-n01792042",
+          "target": "unimet-ell-κοτόπουλο-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κουβάς",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κουβάς-n02909870",
+          "lemma": "κουβάς",
+          "word_id": "unimet-ell-κουβάς",
+          "synset": {
+            "id": "omw-en-02909870-n",
+            "ili": "i51202",
+            "pos": "n",
+            "lemmas": [
+              "bucket"
+            ],
+            "definition": "a roughly cylindrical vessel that is open at the top"
+          }
+        },
+        {
+          "id": "unimet-ell-κουβάς-n13765749",
+          "lemma": "κουβάς",
+          "word_id": "unimet-ell-κουβάς",
+          "synset": {
+            "id": "omw-en-13765749-n",
+            "ili": "i109223",
+            "pos": "n",
+            "lemmas": [
+              "bucketful"
+            ],
+            "definition": "the quantity contained in a bucket"
+          }
+        },
+        {
+          "id": "unimet-ell-κουβάς-n13768537",
+          "lemma": "κουβάς",
+          "word_id": "unimet-ell-κουβάς",
+          "synset": {
+            "id": "omw-en-13768537-n",
+            "ili": "i109249",
+            "pos": "n",
+            "lemmas": [
+              "pailful"
+            ],
+            "definition": "the quantity contained in a pail"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κουβάς-n02909870",
+          "lemma": "κουβάς",
+          "word_id": "unimet-ell-κουβάς",
+          "synset": {
+            "id": "omw-en-02909870-n",
+            "ili": "i51202",
+            "pos": "n",
+            "lemmas": [
+              "bucket"
+            ],
+            "definition": "a roughly cylindrical vessel that is open at the top"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κουβάς-n13765749",
+          "lemma": "κουβάς",
+          "word_id": "unimet-ell-κουβάς",
+          "synset": {
+            "id": "omw-en-13765749-n",
+            "ili": "i109223",
+            "pos": "n",
+            "lemmas": [
+              "bucketful"
+            ],
+            "definition": "the quantity contained in a bucket"
+          }
+        },
+        {
+          "id": "unimet-ell-κουβάς-n13768537",
+          "lemma": "κουβάς",
+          "word_id": "unimet-ell-κουβάς",
+          "synset": {
+            "id": "omw-en-13768537-n",
+            "ili": "i109249",
+            "pos": "n",
+            "lemmas": [
+              "pailful"
+            ],
+            "definition": "the quantity contained in a pail"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κουβάς-n02909870::unimet-ell-κουβάς-n13765749": {
+          "source": "unimet-ell-κουβάς-n02909870",
+          "target": "unimet-ell-κουβάς-n13765749",
+          "type": "metonymy"
+        },
+        "unimet-ell-κουβάς-n02909870::unimet-ell-κουβάς-n13768537": {
+          "source": "unimet-ell-κουβάς-n02909870",
+          "target": "unimet-ell-κουβάς-n13768537",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κουνέλι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κουνέλι-n02324045",
+          "lemma": "κουνέλι",
+          "word_id": "unimet-ell-κουνέλι",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        },
+        {
+          "id": "unimet-ell-κουνέλι-n07666521",
+          "lemma": "κουνέλι",
+          "word_id": "unimet-ell-κουνέλι",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κουνέλι-n02324045",
+          "lemma": "κουνέλι",
+          "word_id": "unimet-ell-κουνέλι",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κουνέλι-n07666521",
+          "lemma": "κουνέλι",
+          "word_id": "unimet-ell-κουνέλι",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κουνέλι-n02324045::unimet-ell-κουνέλι-n07666521": {
+          "source": "unimet-ell-κουνέλι-n02324045",
+          "target": "unimet-ell-κουνέλι-n07666521",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κουτί",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κουτί-n02883344",
+          "lemma": "κουτί",
+          "word_id": "unimet-ell-κουτί",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        },
+        {
+          "id": "unimet-ell-κουτί-n13765624",
+          "lemma": "κουτί",
+          "word_id": "unimet-ell-κουτί",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κουτί-n02883344",
+          "lemma": "κουτί",
+          "word_id": "unimet-ell-κουτί",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κουτί-n13765624",
+          "lemma": "κουτί",
+          "word_id": "unimet-ell-κουτί",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κουτί-n02883344::unimet-ell-κουτί-n13765624": {
+          "source": "unimet-ell-κουτί-n02883344",
+          "target": "unimet-ell-κουτί-n13765624",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κράτος",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κράτος-n08168978",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ell-κράτος-n08178547",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-ell-κράτος-n08544813",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-ell-κράτος-n08654360",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κράτος-n08168978",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ell-κράτος-n08178547",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κράτος-n08544813",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-ell-κράτος-n08654360",
+          "lemma": "κράτος",
+          "word_id": "unimet-ell-κράτος",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κράτος-n08168978::unimet-ell-κράτος-n08544813": {
+          "source": "unimet-ell-κράτος-n08168978",
+          "target": "unimet-ell-κράτος-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-ell-κράτος-n08168978::unimet-ell-κράτος-n08654360": {
+          "source": "unimet-ell-κράτος-n08168978",
+          "target": "unimet-ell-κράτος-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-ell-κράτος-n08178547::unimet-ell-κράτος-n08544813": {
+          "source": "unimet-ell-κράτος-n08178547",
+          "target": "unimet-ell-κράτος-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-ell-κράτος-n08178547::unimet-ell-κράτος-n08654360": {
+          "source": "unimet-ell-κράτος-n08178547",
+          "target": "unimet-ell-κράτος-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κριθάρι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κριθάρι-n12123244",
+          "lemma": "κριθάρι",
+          "word_id": "unimet-ell-κριθάρι",
+          "synset": {
+            "id": "omw-en-12123244-n",
+            "ili": "i100860",
+            "pos": "n",
+            "lemmas": [
+              "barley"
+            ],
+            "definition": "cultivated since prehistoric times; grown for forage and grain"
+          }
+        },
+        {
+          "id": "unimet-ell-κριθάρι-n12123648",
+          "lemma": "κριθάρι",
+          "word_id": "unimet-ell-κριθάρι",
+          "synset": {
+            "id": "omw-en-12123648-n",
+            "ili": "i100862",
+            "pos": "n",
+            "lemmas": [
+              "barleycorn"
+            ],
+            "definition": "a grain of barley"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κριθάρι-n12123244",
+          "lemma": "κριθάρι",
+          "word_id": "unimet-ell-κριθάρι",
+          "synset": {
+            "id": "omw-en-12123244-n",
+            "ili": "i100860",
+            "pos": "n",
+            "lemmas": [
+              "barley"
+            ],
+            "definition": "cultivated since prehistoric times; grown for forage and grain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κριθάρι-n12123648",
+          "lemma": "κριθάρι",
+          "word_id": "unimet-ell-κριθάρι",
+          "synset": {
+            "id": "omw-en-12123648-n",
+            "ili": "i100862",
+            "pos": "n",
+            "lemmas": [
+              "barleycorn"
+            ],
+            "definition": "a grain of barley"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κριθάρι-n12123244::unimet-ell-κριθάρι-n12123648": {
+          "source": "unimet-ell-κριθάρι-n12123244",
+          "target": "unimet-ell-κριθάρι-n12123648",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "κωμόπολη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-κωμόπολη-n08226514",
+          "lemma": "κωμόπολη",
+          "word_id": "unimet-ell-κωμόπολη",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        },
+        {
+          "id": "unimet-ell-κωμόπολη-n08665504",
+          "lemma": "κωμόπολη",
+          "word_id": "unimet-ell-κωμόπολη",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-κωμόπολη-n08226514",
+          "lemma": "κωμόπολη",
+          "word_id": "unimet-ell-κωμόπολη",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-κωμόπολη-n08665504",
+          "lemma": "κωμόπολη",
+          "word_id": "unimet-ell-κωμόπολη",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-κωμόπολη-n08226514::unimet-ell-κωμόπολη-n08665504": {
+          "source": "unimet-ell-κωμόπολη-n08226514",
+          "target": "unimet-ell-κωμόπολη-n08665504",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "λέσχη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-λέσχη-n03054311",
+          "lemma": "λέσχη",
+          "word_id": "unimet-ell-λέσχη",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        },
+        {
+          "id": "unimet-ell-λέσχη-n08227214",
+          "lemma": "λέσχη",
+          "word_id": "unimet-ell-λέσχη",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-λέσχη-n03054311",
+          "lemma": "λέσχη",
+          "word_id": "unimet-ell-λέσχη",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-λέσχη-n08227214",
+          "lemma": "λέσχη",
+          "word_id": "unimet-ell-λέσχη",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-λέσχη-n03054311::unimet-ell-λέσχη-n08227214": {
+          "source": "unimet-ell-λέσχη-n03054311",
+          "target": "unimet-ell-λέσχη-n08227214",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "λεκάνη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-λεκάνη-n02801525",
+          "lemma": "λεκάνη",
+          "word_id": "unimet-ell-λεκάνη",
+          "synset": {
+            "id": "omw-en-02801525-n",
+            "ili": "i50520",
+            "pos": "n",
+            "lemmas": [
+              "basin"
+            ],
+            "definition": "a bowl-shaped vessel; usually used for holding food or liquids"
+          }
+        },
+        {
+          "id": "unimet-ell-λεκάνη-n13765086",
+          "lemma": "λεκάνη",
+          "word_id": "unimet-ell-λεκάνη",
+          "synset": {
+            "id": "omw-en-13765086-n",
+            "ili": "i109217",
+            "pos": "n",
+            "lemmas": [
+              "basin"
+            ],
+            "definition": "the quantity that a basin will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-λεκάνη-n02801525",
+          "lemma": "λεκάνη",
+          "word_id": "unimet-ell-λεκάνη",
+          "synset": {
+            "id": "omw-en-02801525-n",
+            "ili": "i50520",
+            "pos": "n",
+            "lemmas": [
+              "basin"
+            ],
+            "definition": "a bowl-shaped vessel; usually used for holding food or liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-λεκάνη-n13765086",
+          "lemma": "λεκάνη",
+          "word_id": "unimet-ell-λεκάνη",
+          "synset": {
+            "id": "omw-en-13765086-n",
+            "ili": "i109217",
+            "pos": "n",
+            "lemmas": [
+              "basin"
+            ],
+            "definition": "the quantity that a basin will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-λεκάνη-n02801525::unimet-ell-λεκάνη-n13765086": {
+          "source": "unimet-ell-λεκάνη-n02801525",
+          "target": "unimet-ell-λεκάνη-n13765086",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "μάραθο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-μάραθο-n07817871",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-07817871-n",
+            "ili": "i78208",
+            "pos": "n",
+            "lemmas": [
+              "finocchio"
+            ],
+            "definition": "aromatic bulbous stem base eaten cooked or raw in salads"
+          }
+        },
+        {
+          "id": "unimet-ell-μάραθο-n12939104",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-12939104-n",
+            "ili": "i104752",
+            "pos": "n",
+            "lemmas": [
+              "fennel"
+            ],
+            "definition": "any of several aromatic herbs having edible seeds and leaves and stems"
+          }
+        },
+        {
+          "id": "unimet-ell-μάραθο-n12939282",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-12939282-n",
+            "ili": "i104753",
+            "pos": "n",
+            "lemmas": [
+              "foeniculum vulgare"
+            ],
+            "definition": "strongly aromatic with a smell of aniseed; leaves and seeds used for seasoning"
+          }
+        },
+        {
+          "id": "unimet-ell-μάραθο-n12941220",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-12941220-n",
+            "ili": "i104763",
+            "pos": "n",
+            "lemmas": [
+              "oenanthe aquatica"
+            ],
+            "definition": "European poisonous herb with fibrous roots"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-μάραθο-n12939104",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-12939104-n",
+            "ili": "i104752",
+            "pos": "n",
+            "lemmas": [
+              "fennel"
+            ],
+            "definition": "any of several aromatic herbs having edible seeds and leaves and stems"
+          }
+        },
+        {
+          "id": "unimet-ell-μάραθο-n12939282",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-12939282-n",
+            "ili": "i104753",
+            "pos": "n",
+            "lemmas": [
+              "foeniculum vulgare"
+            ],
+            "definition": "strongly aromatic with a smell of aniseed; leaves and seeds used for seasoning"
+          }
+        },
+        {
+          "id": "unimet-ell-μάραθο-n12941220",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-12941220-n",
+            "ili": "i104763",
+            "pos": "n",
+            "lemmas": [
+              "oenanthe aquatica"
+            ],
+            "definition": "European poisonous herb with fibrous roots"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-μάραθο-n07817871",
+          "lemma": "μάραθο",
+          "word_id": "unimet-ell-μάραθο",
+          "synset": {
+            "id": "omw-en-07817871-n",
+            "ili": "i78208",
+            "pos": "n",
+            "lemmas": [
+              "finocchio"
+            ],
+            "definition": "aromatic bulbous stem base eaten cooked or raw in salads"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-μάραθο-n12939104::unimet-ell-μάραθο-n07817871": {
+          "source": "unimet-ell-μάραθο-n12939104",
+          "target": "unimet-ell-μάραθο-n07817871",
+          "type": "metonymy"
+        },
+        "unimet-ell-μάραθο-n12939282::unimet-ell-μάραθο-n07817871": {
+          "source": "unimet-ell-μάραθο-n12939282",
+          "target": "unimet-ell-μάραθο-n07817871",
+          "type": "metonymy"
+        },
+        "unimet-ell-μάραθο-n12941220::unimet-ell-μάραθο-n07817871": {
+          "source": "unimet-ell-μάραθο-n12941220",
+          "target": "unimet-ell-μάραθο-n07817871",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "μανιτάρι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-μανιτάρι-n07734744",
+          "lemma": "μανιτάρι",
+          "word_id": "unimet-ell-μανιτάρι",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-ell-μανιτάρι-n12992868",
+          "lemma": "μανιτάρι",
+          "word_id": "unimet-ell-μανιτάρι",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-μανιτάρι-n12992868",
+          "lemma": "μανιτάρι",
+          "word_id": "unimet-ell-μανιτάρι",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-μανιτάρι-n07734744",
+          "lemma": "μανιτάρι",
+          "word_id": "unimet-ell-μανιτάρι",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-μανιτάρι-n12992868::unimet-ell-μανιτάρι-n07734744": {
+          "source": "unimet-ell-μανιτάρι-n12992868",
+          "target": "unimet-ell-μανιτάρι-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "μοίρα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-μοίρα-n09504915",
+          "lemma": "μοίρα",
+          "word_id": "unimet-ell-μοίρα",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        },
+        {
+          "id": "unimet-ell-μοίρα-n14473222",
+          "lemma": "μοίρα",
+          "word_id": "unimet-ell-μοίρα",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-μοίρα-n14473222",
+          "lemma": "μοίρα",
+          "word_id": "unimet-ell-μοίρα",
+          "synset": {
+            "id": "omw-en-14473222-n",
+            "ili": "i113063",
+            "pos": "n",
+            "lemmas": [
+              "lot"
+            ],
+            "definition": "your overall circumstances or condition in life (including everything that happens to you)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-μοίρα-n09504915",
+          "lemma": "μοίρα",
+          "word_id": "unimet-ell-μοίρα",
+          "synset": {
+            "id": "omw-en-09504915-n",
+            "ili": "i86568",
+            "pos": "n",
+            "lemmas": [
+              "destiny"
+            ],
+            "definition": "the ultimate agency that predetermines the course of events (often personified as a woman)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-μοίρα-n14473222::unimet-ell-μοίρα-n09504915": {
+          "source": "unimet-ell-μοίρα-n14473222",
+          "target": "unimet-ell-μοίρα-n09504915",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "μπογιά",
+      "all_senses": [
+        {
+          "id": "unimet-ell-μπογιά-n03875218",
+          "lemma": "μπογιά",
+          "word_id": "unimet-ell-μπογιά",
+          "synset": {
+            "id": "omw-en-03875218-n",
+            "ili": "i56905",
+            "pos": "n",
+            "lemmas": [
+              "paint"
+            ],
+            "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
+          }
+        },
+        {
+          "id": "unimet-ell-μπογιά-n14990723",
+          "lemma": "μπογιά",
+          "word_id": "unimet-ell-μπογιά",
+          "synset": {
+            "id": "omw-en-14990723-n",
+            "ili": "i115920",
+            "pos": "n",
+            "lemmas": [
+              "pigment"
+            ],
+            "definition": "dry coloring matter (especially a powder to be mixed with a liquid to produce paint etc)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-μπογιά-n14990723",
+          "lemma": "μπογιά",
+          "word_id": "unimet-ell-μπογιά",
+          "synset": {
+            "id": "omw-en-14990723-n",
+            "ili": "i115920",
+            "pos": "n",
+            "lemmas": [
+              "pigment"
+            ],
+            "definition": "dry coloring matter (especially a powder to be mixed with a liquid to produce paint etc)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-μπογιά-n03875218",
+          "lemma": "μπογιά",
+          "word_id": "unimet-ell-μπογιά",
+          "synset": {
+            "id": "omw-en-03875218-n",
+            "ili": "i56905",
+            "pos": "n",
+            "lemmas": [
+              "paint"
+            ],
+            "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-μπογιά-n14990723::unimet-ell-μπογιά-n03875218": {
+          "source": "unimet-ell-μπογιά-n14990723",
+          "target": "unimet-ell-μπογιά-n03875218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "μπουκάλι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-μπουκάλι-n02876657",
+          "lemma": "μπουκάλι",
+          "word_id": "unimet-ell-μπουκάλι",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        },
+        {
+          "id": "unimet-ell-μπουκάλι-n13765396",
+          "lemma": "μπουκάλι",
+          "word_id": "unimet-ell-μπουκάλι",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-μπουκάλι-n02876657",
+          "lemma": "μπουκάλι",
+          "word_id": "unimet-ell-μπουκάλι",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-μπουκάλι-n13765396",
+          "lemma": "μπουκάλι",
+          "word_id": "unimet-ell-μπουκάλι",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-μπουκάλι-n02876657::unimet-ell-μπουκάλι-n13765396": {
+          "source": "unimet-ell-μπουκάλι-n02876657",
+          "target": "unimet-ell-μπουκάλι-n13765396",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "μυαλό",
+      "all_senses": [
+        {
+          "id": "unimet-ell-μυαλό-n05481095",
+          "lemma": "μυαλό",
+          "word_id": "unimet-ell-μυαλό",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        },
+        {
+          "id": "unimet-ell-μυαλό-n10126926",
+          "lemma": "μυαλό",
+          "word_id": "unimet-ell-μυαλό",
+          "synset": {
+            "id": "omw-en-10126926-n",
+            "ili": "i90187",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "someone who has exceptional intellectual ability and originality"
+          }
+        },
+        {
+          "id": "unimet-ell-μυαλό-n10708292",
+          "lemma": "μυαλό",
+          "word_id": "unimet-ell-μυαλό",
+          "synset": {
+            "id": "omw-en-10708292-n",
+            "ili": "i93631",
+            "pos": "n",
+            "lemmas": [
+              "creative thinker"
+            ],
+            "definition": "an important intellectual"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-μυαλό-n05481095",
+          "lemma": "μυαλό",
+          "word_id": "unimet-ell-μυαλό",
+          "synset": {
+            "id": "omw-en-05481095-n",
+            "ili": "i65750",
+            "pos": "n",
+            "lemmas": [
+              "encephalon"
+            ],
+            "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-μυαλό-n10126926",
+          "lemma": "μυαλό",
+          "word_id": "unimet-ell-μυαλό",
+          "synset": {
+            "id": "omw-en-10126926-n",
+            "ili": "i90187",
+            "pos": "n",
+            "lemmas": [
+              "brain"
+            ],
+            "definition": "someone who has exceptional intellectual ability and originality"
+          }
+        },
+        {
+          "id": "unimet-ell-μυαλό-n10708292",
+          "lemma": "μυαλό",
+          "word_id": "unimet-ell-μυαλό",
+          "synset": {
+            "id": "omw-en-10708292-n",
+            "ili": "i93631",
+            "pos": "n",
+            "lemmas": [
+              "creative thinker"
+            ],
+            "definition": "an important intellectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-μυαλό-n05481095::unimet-ell-μυαλό-n10126926": {
+          "source": "unimet-ell-μυαλό-n05481095",
+          "target": "unimet-ell-μυαλό-n10126926",
+          "type": "metonymy"
+        },
+        "unimet-ell-μυαλό-n05481095::unimet-ell-μυαλό-n10708292": {
+          "source": "unimet-ell-μυαλό-n05481095",
+          "target": "unimet-ell-μυαλό-n10708292",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ντεπόζιτο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ντεπόζιτο-n04388743",
+          "lemma": "ντεπόζιτο",
+          "word_id": "unimet-ell-ντεπόζιτο",
+          "synset": {
+            "id": "omw-en-04388743-n",
+            "ili": "i59983",
+            "pos": "n",
+            "lemmas": [
+              "bin"
+            ],
+            "definition": "a large (usually metallic) vessel for holding gases or liquids"
+          }
+        },
+        {
+          "id": "unimet-ell-ντεπόζιτο-n13770529",
+          "lemma": "ντεπόζιτο",
+          "word_id": "unimet-ell-ντεπόζιτο",
+          "synset": {
+            "id": "omw-en-13770529-n",
+            "ili": "i109267",
+            "pos": "n",
+            "lemmas": [
+              "tank"
+            ],
+            "definition": "as much as a tank will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ντεπόζιτο-n04388743",
+          "lemma": "ντεπόζιτο",
+          "word_id": "unimet-ell-ντεπόζιτο",
+          "synset": {
+            "id": "omw-en-04388743-n",
+            "ili": "i59983",
+            "pos": "n",
+            "lemmas": [
+              "bin"
+            ],
+            "definition": "a large (usually metallic) vessel for holding gases or liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ντεπόζιτο-n13770529",
+          "lemma": "ντεπόζιτο",
+          "word_id": "unimet-ell-ντεπόζιτο",
+          "synset": {
+            "id": "omw-en-13770529-n",
+            "ili": "i109267",
+            "pos": "n",
+            "lemmas": [
+              "tank"
+            ],
+            "definition": "as much as a tank will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ντεπόζιτο-n04388743::unimet-ell-ντεπόζιτο-n13770529": {
+          "source": "unimet-ell-ντεπόζιτο-n04388743",
+          "target": "unimet-ell-ντεπόζιτο-n13770529",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ξυλεία",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ξυλεία-n14943580",
+          "lemma": "ξυλεία",
+          "word_id": "unimet-ell-ξυλεία",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        },
+        {
+          "id": "unimet-ell-ξυλεία-n15098161",
+          "lemma": "ξυλεία",
+          "word_id": "unimet-ell-ξυλεία",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ξυλεία-n14943580",
+          "lemma": "ξυλεία",
+          "word_id": "unimet-ell-ξυλεία",
+          "synset": {
+            "id": "omw-en-14943580-n",
+            "ili": "i115651",
+            "pos": "n",
+            "lemmas": [
+              "timber"
+            ],
+            "definition": "the wood of trees cut and prepared for use as building material"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ξυλεία-n15098161",
+          "lemma": "ξυλεία",
+          "word_id": "unimet-ell-ξυλεία",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ξυλεία-n14943580::unimet-ell-ξυλεία-n15098161": {
+          "source": "unimet-ell-ξυλεία-n14943580",
+          "target": "unimet-ell-ξυλεία-n15098161",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ξύλο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ξύλο-n04317420",
+          "lemma": "ξύλο",
+          "word_id": "unimet-ell-ξύλο",
+          "synset": {
+            "id": "omw-en-04317420-n",
+            "ili": "i59571",
+            "pos": "n",
+            "lemmas": [
+              "stick"
+            ],
+            "definition": "an implement consisting of a length of wood"
+          }
+        },
+        {
+          "id": "unimet-ell-ξύλο-n15098161",
+          "lemma": "ξύλο",
+          "word_id": "unimet-ell-ξύλο",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ξύλο-n15098161",
+          "lemma": "ξύλο",
+          "word_id": "unimet-ell-ξύλο",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ξύλο-n04317420",
+          "lemma": "ξύλο",
+          "word_id": "unimet-ell-ξύλο",
+          "synset": {
+            "id": "omw-en-04317420-n",
+            "ili": "i59571",
+            "pos": "n",
+            "lemmas": [
+              "stick"
+            ],
+            "definition": "an implement consisting of a length of wood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ξύλο-n15098161::unimet-ell-ξύλο-n04317420": {
+          "source": "unimet-ell-ξύλο-n15098161",
+          "target": "unimet-ell-ξύλο-n04317420",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "πολιτεία",
+      "all_senses": [
+        {
+          "id": "unimet-ell-πολιτεία-n08168978",
+          "lemma": "πολιτεία",
+          "word_id": "unimet-ell-πολιτεία",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ell-πολιτεία-n08178547",
+          "lemma": "πολιτεία",
+          "word_id": "unimet-ell-πολιτεία",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-ell-πολιτεία-n08654360",
+          "lemma": "πολιτεία",
+          "word_id": "unimet-ell-πολιτεία",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-πολιτεία-n08168978",
+          "lemma": "πολιτεία",
+          "word_id": "unimet-ell-πολιτεία",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ell-πολιτεία-n08178547",
+          "lemma": "πολιτεία",
+          "word_id": "unimet-ell-πολιτεία",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-πολιτεία-n08654360",
+          "lemma": "πολιτεία",
+          "word_id": "unimet-ell-πολιτεία",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-πολιτεία-n08168978::unimet-ell-πολιτεία-n08654360": {
+          "source": "unimet-ell-πολιτεία-n08168978",
+          "target": "unimet-ell-πολιτεία-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-ell-πολιτεία-n08178547::unimet-ell-πολιτεία-n08654360": {
+          "source": "unimet-ell-πολιτεία-n08178547",
+          "target": "unimet-ell-πολιτεία-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ποτήρι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-ποτήρι-n03438257",
+          "lemma": "ποτήρι",
+          "word_id": "unimet-ell-ποτήρι",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-ell-ποτήρι-n13767239",
+          "lemma": "ποτήρι",
+          "word_id": "unimet-ell-ποτήρι",
+          "synset": {
+            "id": "omw-en-13767239-n",
+            "ili": "i109237",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "the quantity a glass will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-ποτήρι-n03438257",
+          "lemma": "ποτήρι",
+          "word_id": "unimet-ell-ποτήρι",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-ποτήρι-n13767239",
+          "lemma": "ποτήρι",
+          "word_id": "unimet-ell-ποτήρι",
+          "synset": {
+            "id": "omw-en-13767239-n",
+            "ili": "i109237",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "the quantity a glass will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-ποτήρι-n03438257::unimet-ell-ποτήρι-n13767239": {
+          "source": "unimet-ell-ποτήρι-n03438257",
+          "target": "unimet-ell-ποτήρι-n13767239",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "πουλερικό",
+      "all_senses": [
+        {
+          "id": "unimet-ell-πουλερικό-n01789740",
+          "lemma": "πουλερικό",
+          "word_id": "unimet-ell-πουλερικό",
+          "synset": {
+            "id": "omw-en-01789740-n",
+            "ili": "i44695",
+            "pos": "n",
+            "lemmas": [
+              "fowl"
+            ],
+            "definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ell-πουλερικό-n07644382",
+          "lemma": "πουλερικό",
+          "word_id": "unimet-ell-πουλερικό",
+          "synset": {
+            "id": "omw-en-07644382-n",
+            "ili": "i77063",
+            "pos": "n",
+            "lemmas": [
+              "fowl"
+            ],
+            "definition": "the flesh of a bird or fowl (wild or domestic) used as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-πουλερικό-n01789740",
+          "lemma": "πουλερικό",
+          "word_id": "unimet-ell-πουλερικό",
+          "synset": {
+            "id": "omw-en-01789740-n",
+            "ili": "i44695",
+            "pos": "n",
+            "lemmas": [
+              "fowl"
+            ],
+            "definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-πουλερικό-n07644382",
+          "lemma": "πουλερικό",
+          "word_id": "unimet-ell-πουλερικό",
+          "synset": {
+            "id": "omw-en-07644382-n",
+            "ili": "i77063",
+            "pos": "n",
+            "lemmas": [
+              "fowl"
+            ],
+            "definition": "the flesh of a bird or fowl (wild or domestic) used as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-πουλερικό-n01789740::unimet-ell-πουλερικό-n07644382": {
+          "source": "unimet-ell-πουλερικό-n01789740",
+          "target": "unimet-ell-πουλερικό-n07644382",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "προσωπικότητα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-προσωπικότητα-n04617562",
+          "lemma": "προσωπικότητα",
+          "word_id": "unimet-ell-προσωπικότητα",
+          "synset": {
+            "id": "omw-en-04617562-n",
+            "ili": "i61348",
+            "pos": "n",
+            "lemmas": [
+              "personality"
+            ],
+            "definition": "the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual"
+          }
+        },
+        {
+          "id": "unimet-ell-προσωπικότητα-n04623113",
+          "lemma": "προσωπικότητα",
+          "word_id": "unimet-ell-προσωπικότητα",
+          "synset": {
+            "id": "omw-en-04623113-n",
+            "ili": "i61372",
+            "pos": "n",
+            "lemmas": [
+              "nature"
+            ],
+            "definition": "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions"
+          }
+        },
+        {
+          "id": "unimet-ell-προσωπικότητα-n09909060",
+          "lemma": "προσωπικότητα",
+          "word_id": "unimet-ell-προσωπικότητα",
+          "synset": {
+            "id": "omw-en-09909060-n",
+            "ili": "i88919",
+            "pos": "n",
+            "lemmas": [
+              "type"
+            ],
+            "definition": "a person of a specified kind (usually with many eccentricities)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-προσωπικότητα-n04617562",
+          "lemma": "προσωπικότητα",
+          "word_id": "unimet-ell-προσωπικότητα",
+          "synset": {
+            "id": "omw-en-04617562-n",
+            "ili": "i61348",
+            "pos": "n",
+            "lemmas": [
+              "personality"
+            ],
+            "definition": "the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual"
+          }
+        },
+        {
+          "id": "unimet-ell-προσωπικότητα-n04623113",
+          "lemma": "προσωπικότητα",
+          "word_id": "unimet-ell-προσωπικότητα",
+          "synset": {
+            "id": "omw-en-04623113-n",
+            "ili": "i61372",
+            "pos": "n",
+            "lemmas": [
+              "nature"
+            ],
+            "definition": "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-προσωπικότητα-n09909060",
+          "lemma": "προσωπικότητα",
+          "word_id": "unimet-ell-προσωπικότητα",
+          "synset": {
+            "id": "omw-en-09909060-n",
+            "ili": "i88919",
+            "pos": "n",
+            "lemmas": [
+              "type"
+            ],
+            "definition": "a person of a specified kind (usually with many eccentricities)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-προσωπικότητα-n04617562::unimet-ell-προσωπικότητα-n09909060": {
+          "source": "unimet-ell-προσωπικότητα-n04617562",
+          "target": "unimet-ell-προσωπικότητα-n09909060",
+          "type": "metonymy"
+        },
+        "unimet-ell-προσωπικότητα-n04623113::unimet-ell-προσωπικότητα-n09909060": {
+          "source": "unimet-ell-προσωπικότητα-n04623113",
+          "target": "unimet-ell-προσωπικότητα-n09909060",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "πρόσωπο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-πρόσωπο-n05600637",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-ell-πρόσωπο-n09618957",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        },
+        {
+          "id": "unimet-ell-πρόσωπο-n09622302",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-09622302-n",
+            "ili": "i87222",
+            "pos": "n",
+            "lemmas": [
+              "lover"
+            ],
+            "definition": "a person who loves or is loved"
+          }
+        },
+        {
+          "id": "unimet-ell-πρόσωπο-n10291730",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-10291730-n",
+            "ili": "i91206",
+            "pos": "n",
+            "lemmas": [
+              "man jack"
+            ],
+            "definition": "a single individual"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-πρόσωπο-n05600637",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-πρόσωπο-n09618957",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        },
+        {
+          "id": "unimet-ell-πρόσωπο-n09622302",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-09622302-n",
+            "ili": "i87222",
+            "pos": "n",
+            "lemmas": [
+              "lover"
+            ],
+            "definition": "a person who loves or is loved"
+          }
+        },
+        {
+          "id": "unimet-ell-πρόσωπο-n10291730",
+          "lemma": "πρόσωπο",
+          "word_id": "unimet-ell-πρόσωπο",
+          "synset": {
+            "id": "omw-en-10291730-n",
+            "ili": "i91206",
+            "pos": "n",
+            "lemmas": [
+              "man jack"
+            ],
+            "definition": "a single individual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-πρόσωπο-n05600637::unimet-ell-πρόσωπο-n09618957": {
+          "source": "unimet-ell-πρόσωπο-n05600637",
+          "target": "unimet-ell-πρόσωπο-n09618957",
+          "type": "metonymy"
+        },
+        "unimet-ell-πρόσωπο-n05600637::unimet-ell-πρόσωπο-n09622302": {
+          "source": "unimet-ell-πρόσωπο-n05600637",
+          "target": "unimet-ell-πρόσωπο-n09622302",
+          "type": "metonymy"
+        },
+        "unimet-ell-πρόσωπο-n05600637::unimet-ell-πρόσωπο-n10291730": {
+          "source": "unimet-ell-πρόσωπο-n05600637",
+          "target": "unimet-ell-πρόσωπο-n10291730",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "πτώχευση",
+      "all_senses": [
+        {
+          "id": "unimet-ell-πτώχευση-n09838370",
+          "lemma": "πτώχευση",
+          "word_id": "unimet-ell-πτώχευση",
+          "synset": {
+            "id": "omw-en-09838370-n",
+            "ili": "i88452",
+            "pos": "n",
+            "lemmas": [
+              "bankrupt"
+            ],
+            "definition": "someone who has insufficient assets to cover their debts"
+          }
+        },
+        {
+          "id": "unimet-ell-πτώχευση-n14478433",
+          "lemma": "πτώχευση",
+          "word_id": "unimet-ell-πτώχευση",
+          "synset": {
+            "id": "omw-en-14478433-n",
+            "ili": "i113090",
+            "pos": "n",
+            "lemmas": [
+              "failure"
+            ],
+            "definition": "inability to discharge all your debts as they come due"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-πτώχευση-n14478433",
+          "lemma": "πτώχευση",
+          "word_id": "unimet-ell-πτώχευση",
+          "synset": {
+            "id": "omw-en-14478433-n",
+            "ili": "i113090",
+            "pos": "n",
+            "lemmas": [
+              "failure"
+            ],
+            "definition": "inability to discharge all your debts as they come due"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-πτώχευση-n09838370",
+          "lemma": "πτώχευση",
+          "word_id": "unimet-ell-πτώχευση",
+          "synset": {
+            "id": "omw-en-09838370-n",
+            "ili": "i88452",
+            "pos": "n",
+            "lemmas": [
+              "bankrupt"
+            ],
+            "definition": "someone who has insufficient assets to cover their debts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-πτώχευση-n14478433::unimet-ell-πτώχευση-n09838370": {
+          "source": "unimet-ell-πτώχευση-n14478433",
+          "target": "unimet-ell-πτώχευση-n09838370",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "πόλη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-πόλη-n08226335",
+          "lemma": "πόλη",
+          "word_id": "unimet-ell-πόλη",
+          "synset": {
+            "id": "omw-en-08226335-n",
+            "ili": "i80341",
+            "pos": "n",
+            "lemmas": [
+              "metropolis"
+            ],
+            "definition": "people living in a large densely populated municipality"
+          }
+        },
+        {
+          "id": "unimet-ell-πόλη-n08524735",
+          "lemma": "πόλη",
+          "word_id": "unimet-ell-πόλη",
+          "synset": {
+            "id": "omw-en-08524735-n",
+            "ili": "i81847",
+            "pos": "n",
+            "lemmas": [
+              "urban center"
+            ],
+            "definition": "a large and densely populated urban area; may include several independent administrative districts"
+          }
+        },
+        {
+          "id": "unimet-ell-πόλη-n08540903",
+          "lemma": "πόλη",
+          "word_id": "unimet-ell-πόλη",
+          "synset": {
+            "id": "omw-en-08540903-n",
+            "ili": "i81866",
+            "pos": "n",
+            "lemmas": [
+              "city"
+            ],
+            "definition": "an incorporated administrative district established by state charter"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-πόλη-n08226335",
+          "lemma": "πόλη",
+          "word_id": "unimet-ell-πόλη",
+          "synset": {
+            "id": "omw-en-08226335-n",
+            "ili": "i80341",
+            "pos": "n",
+            "lemmas": [
+              "metropolis"
+            ],
+            "definition": "people living in a large densely populated municipality"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-πόλη-n08524735",
+          "lemma": "πόλη",
+          "word_id": "unimet-ell-πόλη",
+          "synset": {
+            "id": "omw-en-08524735-n",
+            "ili": "i81847",
+            "pos": "n",
+            "lemmas": [
+              "urban center"
+            ],
+            "definition": "a large and densely populated urban area; may include several independent administrative districts"
+          }
+        },
+        {
+          "id": "unimet-ell-πόλη-n08540903",
+          "lemma": "πόλη",
+          "word_id": "unimet-ell-πόλη",
+          "synset": {
+            "id": "omw-en-08540903-n",
+            "ili": "i81866",
+            "pos": "n",
+            "lemmas": [
+              "city"
+            ],
+            "definition": "an incorporated administrative district established by state charter"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-πόλη-n08226335::unimet-ell-πόλη-n08524735": {
+          "source": "unimet-ell-πόλη-n08226335",
+          "target": "unimet-ell-πόλη-n08524735",
+          "type": "metonymy"
+        },
+        "unimet-ell-πόλη-n08226335::unimet-ell-πόλη-n08540903": {
+          "source": "unimet-ell-πόλη-n08226335",
+          "target": "unimet-ell-πόλη-n08540903",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "σάκος",
+      "all_senses": [
+        {
+          "id": "unimet-ell-σάκος-n04122825",
+          "lemma": "σάκος",
+          "word_id": "unimet-ell-σάκος",
+          "synset": {
+            "id": "omw-en-04122825-n",
+            "ili": "i58368",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a bag made of paper or plastic for holding customer's purchases"
+          }
+        },
+        {
+          "id": "unimet-ell-σάκος-n13769206",
+          "lemma": "σάκος",
+          "word_id": "unimet-ell-σάκος",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-σάκος-n04122825",
+          "lemma": "σάκος",
+          "word_id": "unimet-ell-σάκος",
+          "synset": {
+            "id": "omw-en-04122825-n",
+            "ili": "i58368",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a bag made of paper or plastic for holding customer's purchases"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-σάκος-n13769206",
+          "lemma": "σάκος",
+          "word_id": "unimet-ell-σάκος",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-σάκος-n04122825::unimet-ell-σάκος-n13769206": {
+          "source": "unimet-ell-σάκος-n04122825",
+          "target": "unimet-ell-σάκος-n13769206",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "σίδερο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-σίδερο-n03584829",
+          "lemma": "σίδερο",
+          "word_id": "unimet-ell-σίδερο",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        },
+        {
+          "id": "unimet-ell-σίδερο-n14642417",
+          "lemma": "σίδερο",
+          "word_id": "unimet-ell-σίδερο",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-σίδερο-n14642417",
+          "lemma": "σίδερο",
+          "word_id": "unimet-ell-σίδερο",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-σίδερο-n03584829",
+          "lemma": "σίδερο",
+          "word_id": "unimet-ell-σίδερο",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-σίδερο-n14642417::unimet-ell-σίδερο-n03584829": {
+          "source": "unimet-ell-σίδερο-n14642417",
+          "target": "unimet-ell-σίδερο-n03584829",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "σίκαλη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-σίκαλη-n12134025",
+          "lemma": "σίκαλη",
+          "word_id": "unimet-ell-σίκαλη",
+          "synset": {
+            "id": "omw-en-12134025-n",
+            "ili": "i100917",
+            "pos": "n",
+            "lemmas": [
+              "secale cereale"
+            ],
+            "definition": "hardy annual cereal grass widely cultivated in northern Europe where its grain is the chief ingredient of black bread and in North America for forage and soil improvement"
+          }
+        },
+        {
+          "id": "unimet-ell-σίκαλη-n12157179",
+          "lemma": "σίκαλη",
+          "word_id": "unimet-ell-σίκαλη",
+          "synset": {
+            "id": "omw-en-12157179-n",
+            "ili": "i101037",
+            "pos": "n",
+            "lemmas": [
+              "rye"
+            ],
+            "definition": "the seed of the cereal grass"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-σίκαλη-n12134025",
+          "lemma": "σίκαλη",
+          "word_id": "unimet-ell-σίκαλη",
+          "synset": {
+            "id": "omw-en-12134025-n",
+            "ili": "i100917",
+            "pos": "n",
+            "lemmas": [
+              "secale cereale"
+            ],
+            "definition": "hardy annual cereal grass widely cultivated in northern Europe where its grain is the chief ingredient of black bread and in North America for forage and soil improvement"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-σίκαλη-n12157179",
+          "lemma": "σίκαλη",
+          "word_id": "unimet-ell-σίκαλη",
+          "synset": {
+            "id": "omw-en-12157179-n",
+            "ili": "i101037",
+            "pos": "n",
+            "lemmas": [
+              "rye"
+            ],
+            "definition": "the seed of the cereal grass"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-σίκαλη-n12134025::unimet-ell-σίκαλη-n12157179": {
+          "source": "unimet-ell-σίκαλη-n12134025",
+          "target": "unimet-ell-σίκαλη-n12157179",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "σιτάρι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-σιτάρι-n12142085",
+          "lemma": "σιτάρι",
+          "word_id": "unimet-ell-σιτάρι",
+          "synset": {
+            "id": "omw-en-12142085-n",
+            "ili": "i100958",
+            "pos": "n",
+            "lemmas": [
+              "wheat"
+            ],
+            "definition": "annual or biennial grass having erect flower spikes and light brown grains"
+          }
+        },
+        {
+          "id": "unimet-ell-σιτάρι-n12142357",
+          "lemma": "σιτάρι",
+          "word_id": "unimet-ell-σιτάρι",
+          "synset": {
+            "id": "omw-en-12142357-n",
+            "ili": "i100959",
+            "pos": "n",
+            "lemmas": [
+              "wheat berry"
+            ],
+            "definition": "a grain of wheat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-σιτάρι-n12142085",
+          "lemma": "σιτάρι",
+          "word_id": "unimet-ell-σιτάρι",
+          "synset": {
+            "id": "omw-en-12142085-n",
+            "ili": "i100958",
+            "pos": "n",
+            "lemmas": [
+              "wheat"
+            ],
+            "definition": "annual or biennial grass having erect flower spikes and light brown grains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-σιτάρι-n12142357",
+          "lemma": "σιτάρι",
+          "word_id": "unimet-ell-σιτάρι",
+          "synset": {
+            "id": "omw-en-12142357-n",
+            "ili": "i100959",
+            "pos": "n",
+            "lemmas": [
+              "wheat berry"
+            ],
+            "definition": "a grain of wheat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-σιτάρι-n12142085::unimet-ell-σιτάρι-n12142357": {
+          "source": "unimet-ell-σιτάρι-n12142085",
+          "target": "unimet-ell-σιτάρι-n12142357",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "σπαράγγι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-σπαράγγι-n07719213",
+          "lemma": "σπαράγγι",
+          "word_id": "unimet-ell-σπαράγγι",
+          "synset": {
+            "id": "omw-en-07719213-n",
+            "ili": "i77570",
+            "pos": "n",
+            "lemmas": [
+              "asparagus"
+            ],
+            "definition": "edible young shoots of the asparagus plant"
+          }
+        },
+        {
+          "id": "unimet-ell-σπαράγγι-n12441183",
+          "lemma": "σπαράγγι",
+          "word_id": "unimet-ell-σπαράγγι",
+          "synset": {
+            "id": "omw-en-12441183-n",
+            "ili": "i102362",
+            "pos": "n",
+            "lemmas": [
+              "edible asparagus"
+            ],
+            "definition": "plant whose succulent young shoots are cooked and eaten as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-σπαράγγι-n12441183",
+          "lemma": "σπαράγγι",
+          "word_id": "unimet-ell-σπαράγγι",
+          "synset": {
+            "id": "omw-en-12441183-n",
+            "ili": "i102362",
+            "pos": "n",
+            "lemmas": [
+              "edible asparagus"
+            ],
+            "definition": "plant whose succulent young shoots are cooked and eaten as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-σπαράγγι-n07719213",
+          "lemma": "σπαράγγι",
+          "word_id": "unimet-ell-σπαράγγι",
+          "synset": {
+            "id": "omw-en-07719213-n",
+            "ili": "i77570",
+            "pos": "n",
+            "lemmas": [
+              "asparagus"
+            ],
+            "definition": "edible young shoots of the asparagus plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-σπαράγγι-n12441183::unimet-ell-σπαράγγι-n07719213": {
+          "source": "unimet-ell-σπαράγγι-n12441183",
+          "target": "unimet-ell-σπαράγγι-n07719213",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "στάρι",
+      "all_senses": [
+        {
+          "id": "unimet-ell-στάρι-n12142085",
+          "lemma": "στάρι",
+          "word_id": "unimet-ell-στάρι",
+          "synset": {
+            "id": "omw-en-12142085-n",
+            "ili": "i100958",
+            "pos": "n",
+            "lemmas": [
+              "wheat"
+            ],
+            "definition": "annual or biennial grass having erect flower spikes and light brown grains"
+          }
+        },
+        {
+          "id": "unimet-ell-στάρι-n12142357",
+          "lemma": "στάρι",
+          "word_id": "unimet-ell-στάρι",
+          "synset": {
+            "id": "omw-en-12142357-n",
+            "ili": "i100959",
+            "pos": "n",
+            "lemmas": [
+              "wheat berry"
+            ],
+            "definition": "a grain of wheat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-στάρι-n12142085",
+          "lemma": "στάρι",
+          "word_id": "unimet-ell-στάρι",
+          "synset": {
+            "id": "omw-en-12142085-n",
+            "ili": "i100958",
+            "pos": "n",
+            "lemmas": [
+              "wheat"
+            ],
+            "definition": "annual or biennial grass having erect flower spikes and light brown grains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-στάρι-n12142357",
+          "lemma": "στάρι",
+          "word_id": "unimet-ell-στάρι",
+          "synset": {
+            "id": "omw-en-12142357-n",
+            "ili": "i100959",
+            "pos": "n",
+            "lemmas": [
+              "wheat berry"
+            ],
+            "definition": "a grain of wheat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-στάρι-n12142085::unimet-ell-στάρι-n12142357": {
+          "source": "unimet-ell-στάρι-n12142085",
+          "target": "unimet-ell-στάρι-n12142357",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "στόμα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-στόμα-n05301908",
+          "lemma": "στόμα",
+          "word_id": "unimet-ell-στόμα",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-ell-στόμα-n05302499",
+          "lemma": "στόμα",
+          "word_id": "unimet-ell-στόμα",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-ell-στόμα-n10335679",
+          "lemma": "στόμα",
+          "word_id": "unimet-ell-στόμα",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-στόμα-n05301908",
+          "lemma": "στόμα",
+          "word_id": "unimet-ell-στόμα",
+          "synset": {
+            "id": "omw-en-05301908-n",
+            "ili": "i64821",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+          }
+        },
+        {
+          "id": "unimet-ell-στόμα-n05302499",
+          "lemma": "στόμα",
+          "word_id": "unimet-ell-στόμα",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-στόμα-n10335679",
+          "lemma": "στόμα",
+          "word_id": "unimet-ell-στόμα",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-στόμα-n05301908::unimet-ell-στόμα-n10335679": {
+          "source": "unimet-ell-στόμα-n05301908",
+          "target": "unimet-ell-στόμα-n10335679",
+          "type": "metonymy"
+        },
+        "unimet-ell-στόμα-n05302499::unimet-ell-στόμα-n10335679": {
+          "source": "unimet-ell-στόμα-n05302499",
+          "target": "unimet-ell-στόμα-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "σχολείο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-σχολείο-n04146050",
+          "lemma": "σχολείο",
+          "word_id": "unimet-ell-σχολείο",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-ell-σχολείο-n08276720",
+          "lemma": "σχολείο",
+          "word_id": "unimet-ell-σχολείο",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-σχολείο-n04146050",
+          "lemma": "σχολείο",
+          "word_id": "unimet-ell-σχολείο",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-σχολείο-n08276720",
+          "lemma": "σχολείο",
+          "word_id": "unimet-ell-σχολείο",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-σχολείο-n04146050::unimet-ell-σχολείο-n08276720": {
+          "source": "unimet-ell-σχολείο-n04146050",
+          "target": "unimet-ell-σχολείο-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "τσέπη",
+      "all_senses": [
+        {
+          "id": "unimet-ell-τσέπη-n03972524",
+          "lemma": "τσέπη",
+          "word_id": "unimet-ell-τσέπη",
+          "synset": {
+            "id": "omw-en-03972524-n",
+            "ili": "i57481",
+            "pos": "n",
+            "lemmas": [
+              "pocket"
+            ],
+            "definition": "a small pouch inside a garment for carrying small articles"
+          }
+        },
+        {
+          "id": "unimet-ell-τσέπη-n13768946",
+          "lemma": "τσέπη",
+          "word_id": "unimet-ell-τσέπη",
+          "synset": {
+            "id": "omw-en-13768946-n",
+            "ili": "i109253",
+            "pos": "n",
+            "lemmas": [
+              "pocketful"
+            ],
+            "definition": "the quantity a pocket will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-τσέπη-n03972524",
+          "lemma": "τσέπη",
+          "word_id": "unimet-ell-τσέπη",
+          "synset": {
+            "id": "omw-en-03972524-n",
+            "ili": "i57481",
+            "pos": "n",
+            "lemmas": [
+              "pocket"
+            ],
+            "definition": "a small pouch inside a garment for carrying small articles"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-τσέπη-n13768946",
+          "lemma": "τσέπη",
+          "word_id": "unimet-ell-τσέπη",
+          "synset": {
+            "id": "omw-en-13768946-n",
+            "ili": "i109253",
+            "pos": "n",
+            "lemmas": [
+              "pocketful"
+            ],
+            "definition": "the quantity a pocket will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-τσέπη-n03972524::unimet-ell-τσέπη-n13768946": {
+          "source": "unimet-ell-τσέπη-n03972524",
+          "target": "unimet-ell-τσέπη-n13768946",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "φράουλα",
+      "all_senses": [
+        {
+          "id": "unimet-ell-φράουλα-n07745940",
+          "lemma": "φράουλα",
+          "word_id": "unimet-ell-φράουλα",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-ell-φράουλα-n12630478",
+          "lemma": "φράουλα",
+          "word_id": "unimet-ell-φράουλα",
+          "synset": {
+            "id": "omw-en-12630478-n",
+            "ili": "i103255",
+            "pos": "n",
+            "lemmas": [
+              "fragaria ananassa"
+            ],
+            "definition": "widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-φράουλα-n07745940",
+          "lemma": "φράουλα",
+          "word_id": "unimet-ell-φράουλα",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-φράουλα-n12630478",
+          "lemma": "φράουλα",
+          "word_id": "unimet-ell-φράουλα",
+          "synset": {
+            "id": "omw-en-12630478-n",
+            "ili": "i103255",
+            "pos": "n",
+            "lemmas": [
+              "fragaria ananassa"
+            ],
+            "definition": "widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-φράουλα-n07745940::unimet-ell-φράουλα-n12630478": {
+          "source": "unimet-ell-φράουλα-n07745940",
+          "target": "unimet-ell-φράουλα-n12630478",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "φυτό prunus cerasus",
+      "all_senses": [
+        {
+          "id": "unimet-ell-φυτό prunus cerasus-n07757990",
+          "lemma": "φυτό prunus cerasus",
+          "word_id": "unimet-ell-φυτό prunus cerasus",
+          "synset": {
+            "id": "omw-en-07757990-n",
+            "ili": "i77830",
+            "pos": "n",
+            "lemmas": [
+              "sour cherry"
+            ],
+            "definition": "acid cherries used for pies and preserves"
+          }
+        },
+        {
+          "id": "unimet-ell-φυτό prunus cerasus-n12643473",
+          "lemma": "φυτό prunus cerasus",
+          "word_id": "unimet-ell-φυτό prunus cerasus",
+          "synset": {
+            "id": "omw-en-12643473-n",
+            "ili": "i103319",
+            "pos": "n",
+            "lemmas": [
+              "sour cherry"
+            ],
+            "definition": "rather small Eurasian tree producing red to black acid edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-φυτό prunus cerasus-n07757990",
+          "lemma": "φυτό prunus cerasus",
+          "word_id": "unimet-ell-φυτό prunus cerasus",
+          "synset": {
+            "id": "omw-en-07757990-n",
+            "ili": "i77830",
+            "pos": "n",
+            "lemmas": [
+              "sour cherry"
+            ],
+            "definition": "acid cherries used for pies and preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-φυτό prunus cerasus-n12643473",
+          "lemma": "φυτό prunus cerasus",
+          "word_id": "unimet-ell-φυτό prunus cerasus",
+          "synset": {
+            "id": "omw-en-12643473-n",
+            "ili": "i103319",
+            "pos": "n",
+            "lemmas": [
+              "sour cherry"
+            ],
+            "definition": "rather small Eurasian tree producing red to black acid edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-φυτό prunus cerasus-n07757990::unimet-ell-φυτό prunus cerasus-n12643473": {
+          "source": "unimet-ell-φυτό prunus cerasus-n07757990",
+          "target": "unimet-ell-φυτό prunus cerasus-n12643473",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "χοιρίδιο",
+      "all_senses": [
+        {
+          "id": "unimet-ell-χοιρίδιο-n02395694",
+          "lemma": "χοιρίδιο",
+          "word_id": "unimet-ell-χοιρίδιο",
+          "synset": {
+            "id": "omw-en-02395694-n",
+            "ili": "i48200",
+            "pos": "n",
+            "lemmas": [
+              "shoat"
+            ],
+            "definition": "a young pig"
+          }
+        },
+        {
+          "id": "unimet-ell-χοιρίδιο-n07669098",
+          "lemma": "χοιρίδιο",
+          "word_id": "unimet-ell-χοιρίδιο",
+          "synset": {
+            "id": "omw-en-07669098-n",
+            "ili": "i77239",
+            "pos": "n",
+            "lemmas": [
+              "suckling pig"
+            ],
+            "definition": "whole young pig suitable for roasting"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-χοιρίδιο-n02395694",
+          "lemma": "χοιρίδιο",
+          "word_id": "unimet-ell-χοιρίδιο",
+          "synset": {
+            "id": "omw-en-02395694-n",
+            "ili": "i48200",
+            "pos": "n",
+            "lemmas": [
+              "shoat"
+            ],
+            "definition": "a young pig"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-χοιρίδιο-n07669098",
+          "lemma": "χοιρίδιο",
+          "word_id": "unimet-ell-χοιρίδιο",
+          "synset": {
+            "id": "omw-en-07669098-n",
+            "ili": "i77239",
+            "pos": "n",
+            "lemmas": [
+              "suckling pig"
+            ],
+            "definition": "whole young pig suitable for roasting"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-χοιρίδιο-n02395694::unimet-ell-χοιρίδιο-n07669098": {
+          "source": "unimet-ell-χοιρίδιο-n02395694",
+          "target": "unimet-ell-χοιρίδιο-n07669098",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "χωριό",
+      "all_senses": [
+        {
+          "id": "unimet-ell-χωριό-n08226699",
+          "lemma": "χωριό",
+          "word_id": "unimet-ell-χωριό",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-ell-χωριό-n08672738",
+          "lemma": "χωριό",
+          "word_id": "unimet-ell-χωριό",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ell-χωριό-n08226699",
+          "lemma": "χωριό",
+          "word_id": "unimet-ell-χωριό",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ell-χωριό-n08672738",
+          "lemma": "χωριό",
+          "word_id": "unimet-ell-χωριό",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ell-χωριό-n08226699::unimet-ell-χωριό-n08672738": {
+          "source": "unimet-ell-χωριό-n08226699",
+          "target": "unimet-ell-χωριό-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

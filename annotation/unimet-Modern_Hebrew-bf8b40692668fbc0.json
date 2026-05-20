@@ -1,0 +1,2585 @@
+{
+  "id": "bf8b40692668fbc0",
+  "name": "unimet-Modern Hebrew",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "heb",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "!דְּלִי",
+      "all_senses": [
+        {
+          "id": "unimet-heb-!דְּלִי-n02909870",
+          "lemma": "!דְּלִי",
+          "word_id": "unimet-heb-!דְּלִי",
+          "synset": {
+            "id": "omw-en-02909870-n",
+            "ili": "i51202",
+            "pos": "n",
+            "lemmas": [
+              "bucket"
+            ],
+            "definition": "a roughly cylindrical vessel that is open at the top"
+          }
+        },
+        {
+          "id": "unimet-heb-!דְּלִי-n13765749",
+          "lemma": "!דְּלִי",
+          "word_id": "unimet-heb-!דְּלִי",
+          "synset": {
+            "id": "omw-en-13765749-n",
+            "ili": "i109223",
+            "pos": "n",
+            "lemmas": [
+              "bucketful"
+            ],
+            "definition": "the quantity contained in a bucket"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-!דְּלִי-n02909870",
+          "lemma": "!דְּלִי",
+          "word_id": "unimet-heb-!דְּלִי",
+          "synset": {
+            "id": "omw-en-02909870-n",
+            "ili": "i51202",
+            "pos": "n",
+            "lemmas": [
+              "bucket"
+            ],
+            "definition": "a roughly cylindrical vessel that is open at the top"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-!דְּלִי-n13765749",
+          "lemma": "!דְּלִי",
+          "word_id": "unimet-heb-!דְּלִי",
+          "synset": {
+            "id": "omw-en-13765749-n",
+            "ili": "i109223",
+            "pos": "n",
+            "lemmas": [
+              "bucketful"
+            ],
+            "definition": "the quantity contained in a bucket"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-!דְּלִי-n02909870::unimet-heb-!דְּלִי-n13765749": {
+          "source": "unimet-heb-!דְּלִי-n02909870",
+          "target": "unimet-heb-!דְּלִי-n13765749",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "!דְּלַעַת",
+      "all_senses": [
+        {
+          "id": "unimet-heb-!דְּלַעַת-n07735510",
+          "lemma": "!דְּלַעַת",
+          "word_id": "unimet-heb-!דְּלַעַת",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-heb-!דְּלַעַת-n12158443",
+          "lemma": "!דְּלַעַת",
+          "word_id": "unimet-heb-!דְּלַעַת",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-!דְּלַעַת-n12158443",
+          "lemma": "!דְּלַעַת",
+          "word_id": "unimet-heb-!דְּלַעַת",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-!דְּלַעַת-n07735510",
+          "lemma": "!דְּלַעַת",
+          "word_id": "unimet-heb-!דְּלַעַת",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-!דְּלַעַת-n12158443::unimet-heb-!דְּלַעַת-n07735510": {
+          "source": "unimet-heb-!דְּלַעַת-n12158443",
+          "target": "unimet-heb-!דְּלַעַת-n07735510",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "!כְּפָר",
+      "all_senses": [
+        {
+          "id": "unimet-heb-!כְּפָר-n08226699",
+          "lemma": "!כְּפָר",
+          "word_id": "unimet-heb-!כְּפָר",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-heb-!כְּפָר-n08672738",
+          "lemma": "!כְּפָר",
+          "word_id": "unimet-heb-!כְּפָר",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-!כְּפָר-n08226699",
+          "lemma": "!כְּפָר",
+          "word_id": "unimet-heb-!כְּפָר",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-!כְּפָר-n08672738",
+          "lemma": "!כְּפָר",
+          "word_id": "unimet-heb-!כְּפָר",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-!כְּפָר-n08226699::unimet-heb-!כְּפָר-n08672738": {
+          "source": "unimet-heb-!כְּפָר-n08226699",
+          "target": "unimet-heb-!כְּפָר-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "!כַּד",
+      "all_senses": [
+        {
+          "id": "unimet-heb-!כַּד-n03603722",
+          "lemma": "!כַּד",
+          "word_id": "unimet-heb-!כַּד",
+          "synset": {
+            "id": "omw-en-03603722-n",
+            "ili": "i55300",
+            "pos": "n",
+            "lemmas": [
+              "jug"
+            ],
+            "definition": "a large bottle with a narrow mouth"
+          }
+        },
+        {
+          "id": "unimet-heb-!כַּד-n13767956",
+          "lemma": "!כַּד",
+          "word_id": "unimet-heb-!כַּד",
+          "synset": {
+            "id": "omw-en-13767956-n",
+            "ili": "i109243",
+            "pos": "n",
+            "lemmas": [
+              "jug"
+            ],
+            "definition": "the quantity contained in a jug"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-!כַּד-n03603722",
+          "lemma": "!כַּד",
+          "word_id": "unimet-heb-!כַּד",
+          "synset": {
+            "id": "omw-en-03603722-n",
+            "ili": "i55300",
+            "pos": "n",
+            "lemmas": [
+              "jug"
+            ],
+            "definition": "a large bottle with a narrow mouth"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-!כַּד-n13767956",
+          "lemma": "!כַּד",
+          "word_id": "unimet-heb-!כַּד",
+          "synset": {
+            "id": "omw-en-13767956-n",
+            "ili": "i109243",
+            "pos": "n",
+            "lemmas": [
+              "jug"
+            ],
+            "definition": "the quantity contained in a jug"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-!כַּד-n03603722::unimet-heb-!כַּד-n13767956": {
+          "source": "unimet-heb-!כַּד-n03603722",
+          "target": "unimet-heb-!כַּד-n13767956",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "!מִגְרָשׁ",
+      "all_senses": [
+        {
+          "id": "unimet-heb-!מִגְרָשׁ-n07999471",
+          "lemma": "!מִגְרָשׁ",
+          "word_id": "unimet-heb-!מִגְרָשׁ",
+          "synset": {
+            "id": "omw-en-07999471-n",
+            "ili": "i79328",
+            "pos": "n",
+            "lemmas": [
+              "field"
+            ],
+            "definition": "all the competitors in a particular contest or sporting event"
+          }
+        },
+        {
+          "id": "unimet-heb-!מִגְרָשׁ-n08570758",
+          "lemma": "!מִגְרָשׁ",
+          "word_id": "unimet-heb-!מִגְרָשׁ",
+          "synset": {
+            "id": "omw-en-08570758-n",
+            "ili": "i82024",
+            "pos": "n",
+            "lemmas": [
+              "field"
+            ],
+            "definition": "a piece of land prepared for playing a game"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-!מִגְרָשׁ-n07999471",
+          "lemma": "!מִגְרָשׁ",
+          "word_id": "unimet-heb-!מִגְרָשׁ",
+          "synset": {
+            "id": "omw-en-07999471-n",
+            "ili": "i79328",
+            "pos": "n",
+            "lemmas": [
+              "field"
+            ],
+            "definition": "all the competitors in a particular contest or sporting event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-!מִגְרָשׁ-n08570758",
+          "lemma": "!מִגְרָשׁ",
+          "word_id": "unimet-heb-!מִגְרָשׁ",
+          "synset": {
+            "id": "omw-en-08570758-n",
+            "ili": "i82024",
+            "pos": "n",
+            "lemmas": [
+              "field"
+            ],
+            "definition": "a piece of land prepared for playing a game"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-!מִגְרָשׁ-n07999471::unimet-heb-!מִגְרָשׁ-n08570758": {
+          "source": "unimet-heb-!מִגְרָשׁ-n07999471",
+          "target": "unimet-heb-!מִגְרָשׁ-n08570758",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "!צַעַר",
+      "all_senses": [
+        {
+          "id": "unimet-heb-!צַעַר-n05833683",
+          "lemma": "!צַעַר",
+          "word_id": "unimet-heb-!צַעַר",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-heb-!צַעַר-n07535670",
+          "lemma": "!צַעַר",
+          "word_id": "unimet-heb-!צַעַר",
+          "synset": {
+            "id": "omw-en-07535670-n",
+            "ili": "i76356",
+            "pos": "n",
+            "lemmas": [
+              "rue"
+            ],
+            "definition": "sadness associated with some wrong done or some disappointment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-!צַעַר-n07535670",
+          "lemma": "!צַעַר",
+          "word_id": "unimet-heb-!צַעַר",
+          "synset": {
+            "id": "omw-en-07535670-n",
+            "ili": "i76356",
+            "pos": "n",
+            "lemmas": [
+              "rue"
+            ],
+            "definition": "sadness associated with some wrong done or some disappointment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-!צַעַר-n05833683",
+          "lemma": "!צַעַר",
+          "word_id": "unimet-heb-!צַעַר",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-!צַעַר-n07535670::unimet-heb-!צַעַר-n05833683": {
+          "source": "unimet-heb-!צַעַר-n07535670",
+          "target": "unimet-heb-!צַעַר-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "אֲנָנָס",
+      "all_senses": [
+        {
+          "id": "unimet-heb-אֲנָנָס-n07753275",
+          "lemma": "אֲנָנָס",
+          "word_id": "unimet-heb-אֲנָנָס",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-heb-אֲנָנָס-n12607456",
+          "lemma": "אֲנָנָס",
+          "word_id": "unimet-heb-אֲנָנָס",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-אֲנָנָס-n07753275",
+          "lemma": "אֲנָנָס",
+          "word_id": "unimet-heb-אֲנָנָס",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-אֲנָנָס-n12607456",
+          "lemma": "אֲנָנָס",
+          "word_id": "unimet-heb-אֲנָנָס",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-אֲנָנָס-n07753275::unimet-heb-אֲנָנָס-n12607456": {
+          "source": "unimet-heb-אֲנָנָס-n07753275",
+          "target": "unimet-heb-אֲנָנָס-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "אֶבֶן",
+      "all_senses": [
+        {
+          "id": "unimet-heb-אֶבֶן-n03596787",
+          "lemma": "אֶבֶן",
+          "word_id": "unimet-heb-אֶבֶן",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-heb-אֶבֶן-n14696793",
+          "lemma": "אֶבֶן",
+          "word_id": "unimet-heb-אֶבֶן",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-אֶבֶן-n14696793",
+          "lemma": "אֶבֶן",
+          "word_id": "unimet-heb-אֶבֶן",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-אֶבֶן-n03596787",
+          "lemma": "אֶבֶן",
+          "word_id": "unimet-heb-אֶבֶן",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-אֶבֶן-n14696793::unimet-heb-אֶבֶן-n03596787": {
+          "source": "unimet-heb-אֶבֶן-n14696793",
+          "target": "unimet-heb-אֶבֶן-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "אֶרֶץ",
+      "all_senses": [
+        {
+          "id": "unimet-heb-אֶרֶץ-n08166552",
+          "lemma": "אֶרֶץ",
+          "word_id": "unimet-heb-אֶרֶץ",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-heb-אֶרֶץ-n08544813",
+          "lemma": "אֶרֶץ",
+          "word_id": "unimet-heb-אֶרֶץ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-אֶרֶץ-n08166552",
+          "lemma": "אֶרֶץ",
+          "word_id": "unimet-heb-אֶרֶץ",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-אֶרֶץ-n08544813",
+          "lemma": "אֶרֶץ",
+          "word_id": "unimet-heb-אֶרֶץ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-אֶרֶץ-n08166552::unimet-heb-אֶרֶץ-n08544813": {
+          "source": "unimet-heb-אֶרֶץ-n08166552",
+          "target": "unimet-heb-אֶרֶץ-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "אַגָּס",
+      "all_senses": [
+        {
+          "id": "unimet-heb-אַגָּס-n07767847",
+          "lemma": "אַגָּס",
+          "word_id": "unimet-heb-אַגָּס",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-heb-אַגָּס-n12651611",
+          "lemma": "אַגָּס",
+          "word_id": "unimet-heb-אַגָּס",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-אַגָּס-n07767847",
+          "lemma": "אַגָּס",
+          "word_id": "unimet-heb-אַגָּס",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-אַגָּס-n12651611",
+          "lemma": "אַגָּס",
+          "word_id": "unimet-heb-אַגָּס",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-אַגָּס-n07767847::unimet-heb-אַגָּס-n12651611": {
+          "source": "unimet-heb-אַגָּס-n07767847",
+          "target": "unimet-heb-אַגָּס-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "אכל",
+      "all_senses": [
+        {
+          "id": "unimet-heb-אכל-n07573696",
+          "lemma": "אכל",
+          "word_id": "unimet-heb-אכל",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        },
+        {
+          "id": "unimet-heb-אכל-v01168468",
+          "lemma": "אכל",
+          "word_id": "unimet-heb-אכל",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-אכל-n07573696",
+          "lemma": "אכל",
+          "word_id": "unimet-heb-אכל",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-אכל-v01168468",
+          "lemma": "אכל",
+          "word_id": "unimet-heb-אכל",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-אכל-n07573696::unimet-heb-אכל-v01168468": {
+          "source": "unimet-heb-אכל-n07573696",
+          "target": "unimet-heb-אכל-v01168468",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "בִּיּוּב",
+      "all_senses": [
+        {
+          "id": "unimet-heb-בִּיּוּב-n05304341",
+          "lemma": "בִּיּוּב",
+          "word_id": "unimet-heb-בִּיּוּב",
+          "synset": {
+            "id": "omw-en-05304341-n",
+            "ili": "i64830",
+            "pos": "n",
+            "lemmas": [
+              "anus"
+            ],
+            "definition": "a waste pipe that carries away sewage or surface water"
+          }
+        },
+        {
+          "id": "unimet-heb-בִּיּוּב-n14856893",
+          "lemma": "בִּיּוּב",
+          "word_id": "unimet-heb-בִּיּוּב",
+          "synset": {
+            "id": "omw-en-14856893-n",
+            "ili": "i115130",
+            "pos": "n",
+            "lemmas": [
+              "sewage"
+            ],
+            "definition": "waste matter carried away in sewers or drains"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-בִּיּוּב-n14856893",
+          "lemma": "בִּיּוּב",
+          "word_id": "unimet-heb-בִּיּוּב",
+          "synset": {
+            "id": "omw-en-14856893-n",
+            "ili": "i115130",
+            "pos": "n",
+            "lemmas": [
+              "sewage"
+            ],
+            "definition": "waste matter carried away in sewers or drains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-בִּיּוּב-n05304341",
+          "lemma": "בִּיּוּב",
+          "word_id": "unimet-heb-בִּיּוּב",
+          "synset": {
+            "id": "omw-en-05304341-n",
+            "ili": "i64830",
+            "pos": "n",
+            "lemmas": [
+              "anus"
+            ],
+            "definition": "a waste pipe that carries away sewage or surface water"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-בִּיּוּב-n14856893::unimet-heb-בִּיּוּב-n05304341": {
+          "source": "unimet-heb-בִּיּוּב-n14856893",
+          "target": "unimet-heb-בִּיּוּב-n05304341",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "בַּיִת",
+      "all_senses": [
+        {
+          "id": "unimet-heb-בַּיִת-n03545150",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-03545150-n",
+            "ili": "i54961",
+            "pos": "n",
+            "lemmas": [
+              "house"
+            ],
+            "definition": "a building in which something is sheltered or located"
+          }
+        },
+        {
+          "id": "unimet-heb-בַּיִת-n07971449",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-07971449-n",
+            "ili": "i79204",
+            "pos": "n",
+            "lemmas": [
+              "house"
+            ],
+            "definition": "aristocratic family line"
+          }
+        },
+        {
+          "id": "unimet-heb-בַּיִת-n08078020",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-heb-בַּיִת-n08163025",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-08163025-n",
+            "ili": "i80049",
+            "pos": "n",
+            "lemmas": [
+              "house"
+            ],
+            "definition": "an official assembly having legislative powers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-בַּיִת-n03545150",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-03545150-n",
+            "ili": "i54961",
+            "pos": "n",
+            "lemmas": [
+              "house"
+            ],
+            "definition": "a building in which something is sheltered or located"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-בַּיִת-n07971449",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-07971449-n",
+            "ili": "i79204",
+            "pos": "n",
+            "lemmas": [
+              "house"
+            ],
+            "definition": "aristocratic family line"
+          }
+        },
+        {
+          "id": "unimet-heb-בַּיִת-n08078020",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-heb-בַּיִת-n08163025",
+          "lemma": "בַּיִת",
+          "word_id": "unimet-heb-בַּיִת",
+          "synset": {
+            "id": "omw-en-08163025-n",
+            "ili": "i80049",
+            "pos": "n",
+            "lemmas": [
+              "house"
+            ],
+            "definition": "an official assembly having legislative powers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-בַּיִת-n03545150::unimet-heb-בַּיִת-n07971449": {
+          "source": "unimet-heb-בַּיִת-n03545150",
+          "target": "unimet-heb-בַּיִת-n07971449",
+          "type": "metonymy"
+        },
+        "unimet-heb-בַּיִת-n03545150::unimet-heb-בַּיִת-n08078020": {
+          "source": "unimet-heb-בַּיִת-n03545150",
+          "target": "unimet-heb-בַּיִת-n08078020",
+          "type": "metonymy"
+        },
+        "unimet-heb-בַּיִת-n03545150::unimet-heb-בַּיִת-n08163025": {
+          "source": "unimet-heb-בַּיִת-n03545150",
+          "target": "unimet-heb-בַּיִת-n08163025",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "גִּיר",
+      "all_senses": [
+        {
+          "id": "unimet-heb-גִּיר-n03003091",
+          "lemma": "גִּיר",
+          "word_id": "unimet-heb-גִּיר",
+          "synset": {
+            "id": "omw-en-03003091-n",
+            "ili": "i51754",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a piece of calcite or a similar substance, usually in the shape of a crayon, that is used to write or draw on blackboards or other flat surfaces"
+          }
+        },
+        {
+          "id": "unimet-heb-גִּיר-n14806598",
+          "lemma": "גִּיר",
+          "word_id": "unimet-heb-גִּיר",
+          "synset": {
+            "id": "omw-en-14806598-n",
+            "ili": "i114848",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a soft whitish calcite"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-גִּיר-n14806598",
+          "lemma": "גִּיר",
+          "word_id": "unimet-heb-גִּיר",
+          "synset": {
+            "id": "omw-en-14806598-n",
+            "ili": "i114848",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a soft whitish calcite"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-גִּיר-n03003091",
+          "lemma": "גִּיר",
+          "word_id": "unimet-heb-גִּיר",
+          "synset": {
+            "id": "omw-en-03003091-n",
+            "ili": "i51754",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a piece of calcite or a similar substance, usually in the shape of a crayon, that is used to write or draw on blackboards or other flat surfaces"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-גִּיר-n14806598::unimet-heb-גִּיר-n03003091": {
+          "source": "unimet-heb-גִּיר-n14806598",
+          "target": "unimet-heb-גִּיר-n03003091",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "גּוּמִי",
+      "all_senses": [
+        {
+          "id": "unimet-heb-גּוּמִי-n03088164",
+          "lemma": "גּוּמִי",
+          "word_id": "unimet-heb-גּוּמִי",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-heb-גּוּמִי-n15006258",
+          "lemma": "גּוּמִי",
+          "word_id": "unimet-heb-גּוּמִי",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-גּוּמִי-n15006258",
+          "lemma": "גּוּמִי",
+          "word_id": "unimet-heb-גּוּמִי",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-גּוּמִי-n03088164",
+          "lemma": "גּוּמִי",
+          "word_id": "unimet-heb-גּוּמִי",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-גּוּמִי-n15006258::unimet-heb-גּוּמִי-n03088164": {
+          "source": "unimet-heb-גּוּמִי-n15006258",
+          "target": "unimet-heb-גּוּמִי-n03088164",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "זַיִת",
+      "all_senses": [
+        {
+          "id": "unimet-heb-זַיִת-n12301180",
+          "lemma": "זַיִת",
+          "word_id": "unimet-heb-זַיִת",
+          "synset": {
+            "id": "omw-en-12301180-n",
+            "ili": "i101682",
+            "pos": "n",
+            "lemmas": [
+              "olea europaea"
+            ],
+            "definition": "evergreen tree cultivated in the Mediterranean region since antiquity and now elsewhere; has edible shiny black fruits"
+          }
+        },
+        {
+          "id": "unimet-heb-זַיִת-n12301445",
+          "lemma": "זַיִת",
+          "word_id": "unimet-heb-זַיִת",
+          "synset": {
+            "id": "omw-en-12301445-n",
+            "ili": "i101683",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "small ovoid fruit of the European olive tree; important food and source of oil"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-זַיִת-n12301180",
+          "lemma": "זַיִת",
+          "word_id": "unimet-heb-זַיִת",
+          "synset": {
+            "id": "omw-en-12301180-n",
+            "ili": "i101682",
+            "pos": "n",
+            "lemmas": [
+              "olea europaea"
+            ],
+            "definition": "evergreen tree cultivated in the Mediterranean region since antiquity and now elsewhere; has edible shiny black fruits"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-זַיִת-n12301445",
+          "lemma": "זַיִת",
+          "word_id": "unimet-heb-זַיִת",
+          "synset": {
+            "id": "omw-en-12301445-n",
+            "ili": "i101683",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "small ovoid fruit of the European olive tree; important food and source of oil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-זַיִת-n12301180::unimet-heb-זַיִת-n12301445": {
+          "source": "unimet-heb-זַיִת-n12301180",
+          "target": "unimet-heb-זַיִת-n12301445",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "חֲצִיל",
+      "all_senses": [
+        {
+          "id": "unimet-heb-חֲצִיל-n07713074",
+          "lemma": "חֲצִיל",
+          "word_id": "unimet-heb-חֲצִיל",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-heb-חֲצִיל-n12896000",
+          "lemma": "חֲצִיל",
+          "word_id": "unimet-heb-חֲצִיל",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-חֲצִיל-n12896000",
+          "lemma": "חֲצִיל",
+          "word_id": "unimet-heb-חֲצִיל",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-חֲצִיל-n07713074",
+          "lemma": "חֲצִיל",
+          "word_id": "unimet-heb-חֲצִיל",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-חֲצִיל-n12896000::unimet-heb-חֲצִיל-n07713074": {
+          "source": "unimet-heb-חֲצִיל-n12896000",
+          "target": "unimet-heb-חֲצִיל-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "חַבּוּשׁ",
+      "all_senses": [
+        {
+          "id": "unimet-heb-חַבּוּשׁ-n07769584",
+          "lemma": "חַבּוּשׁ",
+          "word_id": "unimet-heb-חַבּוּשׁ",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-heb-חַבּוּשׁ-n12628986",
+          "lemma": "חַבּוּשׁ",
+          "word_id": "unimet-heb-חַבּוּשׁ",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-חַבּוּשׁ-n07769584",
+          "lemma": "חַבּוּשׁ",
+          "word_id": "unimet-heb-חַבּוּשׁ",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-חַבּוּשׁ-n12628986",
+          "lemma": "חַבּוּשׁ",
+          "word_id": "unimet-heb-חַבּוּשׁ",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-חַבּוּשׁ-n07769584::unimet-heb-חַבּוּשׁ-n12628986": {
+          "source": "unimet-heb-חַבּוּשׁ-n07769584",
+          "target": "unimet-heb-חַבּוּשׁ-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "חַסָּה",
+      "all_senses": [
+        {
+          "id": "unimet-heb-חַסָּה-n07723559",
+          "lemma": "חַסָּה",
+          "word_id": "unimet-heb-חַסָּה",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        },
+        {
+          "id": "unimet-heb-חַסָּה-n11986306",
+          "lemma": "חַסָּה",
+          "word_id": "unimet-heb-חַסָּה",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-חַסָּה-n11986306",
+          "lemma": "חַסָּה",
+          "word_id": "unimet-heb-חַסָּה",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-חַסָּה-n07723559",
+          "lemma": "חַסָּה",
+          "word_id": "unimet-heb-חַסָּה",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-חַסָּה-n11986306::unimet-heb-חַסָּה-n07723559": {
+          "source": "unimet-heb-חַסָּה-n11986306",
+          "target": "unimet-heb-חַסָּה-n07723559",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "חלב",
+      "all_senses": [
+        {
+          "id": "unimet-heb-חלב-n07844042",
+          "lemma": "חלב",
+          "word_id": "unimet-heb-חלב",
+          "synset": {
+            "id": "omw-en-07844042-n",
+            "ili": "i78383",
+            "pos": "n",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "a white nutritious liquid secreted by mammals and used as food by human beings"
+          }
+        },
+        {
+          "id": "unimet-heb-חלב-v00194170",
+          "lemma": "חלב",
+          "word_id": "unimet-heb-חלב",
+          "synset": {
+            "id": "omw-en-00194170-v",
+            "ili": "i22689",
+            "pos": "v",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "take milk from female mammals"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-חלב-n07844042",
+          "lemma": "חלב",
+          "word_id": "unimet-heb-חלב",
+          "synset": {
+            "id": "omw-en-07844042-n",
+            "ili": "i78383",
+            "pos": "n",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "a white nutritious liquid secreted by mammals and used as food by human beings"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-חלב-v00194170",
+          "lemma": "חלב",
+          "word_id": "unimet-heb-חלב",
+          "synset": {
+            "id": "omw-en-00194170-v",
+            "ili": "i22689",
+            "pos": "v",
+            "lemmas": [
+              "milk"
+            ],
+            "definition": "take milk from female mammals"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-חלב-n07844042::unimet-heb-חלב-v00194170": {
+          "source": "unimet-heb-חלב-n07844042",
+          "target": "unimet-heb-חלב-v00194170",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "טֶלֶפוֹן",
+      "all_senses": [
+        {
+          "id": "unimet-heb-טֶלֶפוֹן-n04401088",
+          "lemma": "טֶלֶפוֹן",
+          "word_id": "unimet-heb-טֶלֶפוֹן",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-heb-טֶלֶפוֹן-n06272803",
+          "lemma": "טֶלֶפוֹן",
+          "word_id": "unimet-heb-טֶלֶפוֹן",
+          "synset": {
+            "id": "omw-en-06272803-n",
+            "ili": "i69471",
+            "pos": "n",
+            "lemmas": [
+              "phone"
+            ],
+            "definition": "a telephone connection"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-טֶלֶפוֹן-n04401088",
+          "lemma": "טֶלֶפוֹן",
+          "word_id": "unimet-heb-טֶלֶפוֹן",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-טֶלֶפוֹן-n06272803",
+          "lemma": "טֶלֶפוֹן",
+          "word_id": "unimet-heb-טֶלֶפוֹן",
+          "synset": {
+            "id": "omw-en-06272803-n",
+            "ili": "i69471",
+            "pos": "n",
+            "lemmas": [
+              "phone"
+            ],
+            "definition": "a telephone connection"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-טֶלֶפוֹן-n04401088::unimet-heb-טֶלֶפוֹן-n06272803": {
+          "source": "unimet-heb-טֶלֶפוֹן-n04401088",
+          "target": "unimet-heb-טֶלֶפוֹן-n06272803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "מְדִינָה",
+      "all_senses": [
+        {
+          "id": "unimet-heb-מְדִינָה-n08168978",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-heb-מְדִינָה-n08178547",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-heb-מְדִינָה-n08544813",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-heb-מְדִינָה-n08654360",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-מְדִינָה-n08168978",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-heb-מְדִינָה-n08178547",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-מְדִינָה-n08544813",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-heb-מְדִינָה-n08654360",
+          "lemma": "מְדִינָה",
+          "word_id": "unimet-heb-מְדִינָה",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-מְדִינָה-n08168978::unimet-heb-מְדִינָה-n08544813": {
+          "source": "unimet-heb-מְדִינָה-n08168978",
+          "target": "unimet-heb-מְדִינָה-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-heb-מְדִינָה-n08168978::unimet-heb-מְדִינָה-n08654360": {
+          "source": "unimet-heb-מְדִינָה-n08168978",
+          "target": "unimet-heb-מְדִינָה-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-heb-מְדִינָה-n08178547::unimet-heb-מְדִינָה-n08544813": {
+          "source": "unimet-heb-מְדִינָה-n08178547",
+          "target": "unimet-heb-מְדִינָה-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-heb-מְדִינָה-n08178547::unimet-heb-מְדִינָה-n08654360": {
+          "source": "unimet-heb-מְדִינָה-n08178547",
+          "target": "unimet-heb-מְדִינָה-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "עִתּוֹן",
+      "all_senses": [
+        {
+          "id": "unimet-heb-עִתּוֹן-n03822171",
+          "lemma": "עִתּוֹן",
+          "word_id": "unimet-heb-עִתּוֹן",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-heb-עִתּוֹן-n06267145",
+          "lemma": "עִתּוֹן",
+          "word_id": "unimet-heb-עִתּוֹן",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-עִתּוֹן-n03822171",
+          "lemma": "עִתּוֹן",
+          "word_id": "unimet-heb-עִתּוֹן",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-עִתּוֹן-n06267145",
+          "lemma": "עִתּוֹן",
+          "word_id": "unimet-heb-עִתּוֹן",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-עִתּוֹן-n03822171::unimet-heb-עִתּוֹן-n06267145": {
+          "source": "unimet-heb-עִתּוֹן-n03822171",
+          "target": "unimet-heb-עִתּוֹן-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "עַגְבָנִיָּה",
+      "all_senses": [
+        {
+          "id": "unimet-heb-עַגְבָנִיָּה-n07734017",
+          "lemma": "עַגְבָנִיָּה",
+          "word_id": "unimet-heb-עַגְבָנִיָּה",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-heb-עַגְבָנִיָּה-n12905817",
+          "lemma": "עַגְבָנִיָּה",
+          "word_id": "unimet-heb-עַגְבָנִיָּה",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-עַגְבָנִיָּה-n12905817",
+          "lemma": "עַגְבָנִיָּה",
+          "word_id": "unimet-heb-עַגְבָנִיָּה",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-עַגְבָנִיָּה-n07734017",
+          "lemma": "עַגְבָנִיָּה",
+          "word_id": "unimet-heb-עַגְבָנִיָּה",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-עַגְבָנִיָּה-n12905817::unimet-heb-עַגְבָנִיָּה-n07734017": {
+          "source": "unimet-heb-עַגְבָנִיָּה-n12905817",
+          "target": "unimet-heb-עַגְבָנִיָּה-n07734017",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "פֶּטֶל",
+      "all_senses": [
+        {
+          "id": "unimet-heb-פֶּטֶל-n07745466",
+          "lemma": "פֶּטֶל",
+          "word_id": "unimet-heb-פֶּטֶל",
+          "synset": {
+            "id": "omw-en-07745466-n",
+            "ili": "i77750",
+            "pos": "n",
+            "lemmas": [
+              "raspberry"
+            ],
+            "definition": "red or black edible aggregate berries usually smaller than the related blackberries"
+          }
+        },
+        {
+          "id": "unimet-heb-פֶּטֶל-n12655869",
+          "lemma": "פֶּטֶל",
+          "word_id": "unimet-heb-פֶּטֶל",
+          "synset": {
+            "id": "omw-en-12655869-n",
+            "ili": "i103380",
+            "pos": "n",
+            "lemmas": [
+              "raspberry"
+            ],
+            "definition": "woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-פֶּטֶל-n07745466",
+          "lemma": "פֶּטֶל",
+          "word_id": "unimet-heb-פֶּטֶל",
+          "synset": {
+            "id": "omw-en-07745466-n",
+            "ili": "i77750",
+            "pos": "n",
+            "lemmas": [
+              "raspberry"
+            ],
+            "definition": "red or black edible aggregate berries usually smaller than the related blackberries"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-פֶּטֶל-n12655869",
+          "lemma": "פֶּטֶל",
+          "word_id": "unimet-heb-פֶּטֶל",
+          "synset": {
+            "id": "omw-en-12655869-n",
+            "ili": "i103380",
+            "pos": "n",
+            "lemmas": [
+              "raspberry"
+            ],
+            "definition": "woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-פֶּטֶל-n07745466::unimet-heb-פֶּטֶל-n12655869": {
+          "source": "unimet-heb-פֶּטֶל-n07745466",
+          "target": "unimet-heb-פֶּטֶל-n12655869",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "פַּרְוָה",
+      "all_senses": [
+        {
+          "id": "unimet-heb-פַּרְוָה-n03404149",
+          "lemma": "פַּרְוָה",
+          "word_id": "unimet-heb-פַּרְוָה",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        },
+        {
+          "id": "unimet-heb-פַּרְוָה-n14764061",
+          "lemma": "פַּרְוָה",
+          "word_id": "unimet-heb-פַּרְוָה",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-פַּרְוָה-n14764061",
+          "lemma": "פַּרְוָה",
+          "word_id": "unimet-heb-פַּרְוָה",
+          "synset": {
+            "id": "omw-en-14764061-n",
+            "ili": "i114584",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-פַּרְוָה-n03404149",
+          "lemma": "פַּרְוָה",
+          "word_id": "unimet-heb-פַּרְוָה",
+          "synset": {
+            "id": "omw-en-03404149-n",
+            "ili": "i54103",
+            "pos": "n",
+            "lemmas": [
+              "fur"
+            ],
+            "definition": "a garment made of the dressed hairy coat of a mammal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-פַּרְוָה-n14764061::unimet-heb-פַּרְוָה-n03404149": {
+          "source": "unimet-heb-פַּרְוָה-n14764061",
+          "target": "unimet-heb-פַּרְוָה-n03404149",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "שְׁזִיף",
+      "all_senses": [
+        {
+          "id": "unimet-heb-שְׁזִיף-n07751451",
+          "lemma": "שְׁזִיף",
+          "word_id": "unimet-heb-שְׁזִיף",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-heb-שְׁזִיף-n12638218",
+          "lemma": "שְׁזִיף",
+          "word_id": "unimet-heb-שְׁזִיף",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-שְׁזִיף-n07751451",
+          "lemma": "שְׁזִיף",
+          "word_id": "unimet-heb-שְׁזִיף",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-שְׁזִיף-n12638218",
+          "lemma": "שְׁזִיף",
+          "word_id": "unimet-heb-שְׁזִיף",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-שְׁזִיף-n07751451::unimet-heb-שְׁזִיף-n12638218": {
+          "source": "unimet-heb-שְׁזִיף-n07751451",
+          "target": "unimet-heb-שְׁזִיף-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "שֶׁסֶק",
+      "all_senses": [
+        {
+          "id": "unimet-heb-שֶׁסֶק-n07763792",
+          "lemma": "שֶׁסֶק",
+          "word_id": "unimet-heb-שֶׁסֶק",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        },
+        {
+          "id": "unimet-heb-שֶׁסֶק-n12629666",
+          "lemma": "שֶׁסֶק",
+          "word_id": "unimet-heb-שֶׁסֶק",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-שֶׁסֶק-n07763792",
+          "lemma": "שֶׁסֶק",
+          "word_id": "unimet-heb-שֶׁסֶק",
+          "synset": {
+            "id": "omw-en-07763792-n",
+            "ili": "i77867",
+            "pos": "n",
+            "lemmas": [
+              "loquat"
+            ],
+            "definition": "yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-שֶׁסֶק-n12629666",
+          "lemma": "שֶׁסֶק",
+          "word_id": "unimet-heb-שֶׁסֶק",
+          "synset": {
+            "id": "omw-en-12629666-n",
+            "ili": "i103252",
+            "pos": "n",
+            "lemmas": [
+              "japanese plum"
+            ],
+            "definition": "evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to China and Japan"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-שֶׁסֶק-n07763792::unimet-heb-שֶׁסֶק-n12629666": {
+          "source": "unimet-heb-שֶׁסֶק-n07763792",
+          "target": "unimet-heb-שֶׁסֶק-n12629666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "תְּאֵנָה",
+      "all_senses": [
+        {
+          "id": "unimet-heb-תְּאֵנָה-n07753113",
+          "lemma": "תְּאֵנָה",
+          "word_id": "unimet-heb-תְּאֵנָה",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        },
+        {
+          "id": "unimet-heb-תְּאֵנָה-n12401684",
+          "lemma": "תְּאֵנָה",
+          "word_id": "unimet-heb-תְּאֵנָה",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-תְּאֵנָה-n07753113",
+          "lemma": "תְּאֵנָה",
+          "word_id": "unimet-heb-תְּאֵנָה",
+          "synset": {
+            "id": "omw-en-07753113-n",
+            "ili": "i77801",
+            "pos": "n",
+            "lemmas": [
+              "fig"
+            ],
+            "definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-תְּאֵנָה-n12401684",
+          "lemma": "תְּאֵנָה",
+          "word_id": "unimet-heb-תְּאֵנָה",
+          "synset": {
+            "id": "omw-en-12401684-n",
+            "ili": "i102180",
+            "pos": "n",
+            "lemmas": [
+              "common fig"
+            ],
+            "definition": "Mediterranean tree widely cultivated for its edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-תְּאֵנָה-n07753113::unimet-heb-תְּאֵנָה-n12401684": {
+          "source": "unimet-heb-תְּאֵנָה-n07753113",
+          "target": "unimet-heb-תְּאֵנָה-n12401684",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "תֵּאַטְרוֹן",
+      "all_senses": [
+        {
+          "id": "unimet-heb-תֵּאַטְרוֹן-n04417809",
+          "lemma": "תֵּאַטְרוֹן",
+          "word_id": "unimet-heb-תֵּאַטְרוֹן",
+          "synset": {
+            "id": "omw-en-04417809-n",
+            "ili": "i60163",
+            "pos": "n",
+            "lemmas": [
+              "theater"
+            ],
+            "definition": "a building where theatrical performances or motion-picture shows can be presented"
+          }
+        },
+        {
+          "id": "unimet-heb-תֵּאַטְרוֹן-n08187033",
+          "lemma": "תֵּאַטְרוֹן",
+          "word_id": "unimet-heb-תֵּאַטְרוֹן",
+          "synset": {
+            "id": "omw-en-08187033-n",
+            "ili": "i80172",
+            "pos": "n",
+            "lemmas": [
+              "company"
+            ],
+            "definition": "organization of performers and associated personnel (especially theatrical)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-תֵּאַטְרוֹן-n04417809",
+          "lemma": "תֵּאַטְרוֹן",
+          "word_id": "unimet-heb-תֵּאַטְרוֹן",
+          "synset": {
+            "id": "omw-en-04417809-n",
+            "ili": "i60163",
+            "pos": "n",
+            "lemmas": [
+              "theater"
+            ],
+            "definition": "a building where theatrical performances or motion-picture shows can be presented"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-תֵּאַטְרוֹן-n08187033",
+          "lemma": "תֵּאַטְרוֹן",
+          "word_id": "unimet-heb-תֵּאַטְרוֹן",
+          "synset": {
+            "id": "omw-en-08187033-n",
+            "ili": "i80172",
+            "pos": "n",
+            "lemmas": [
+              "company"
+            ],
+            "definition": "organization of performers and associated personnel (especially theatrical)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-תֵּאַטְרוֹן-n04417809::unimet-heb-תֵּאַטְרוֹן-n08187033": {
+          "source": "unimet-heb-תֵּאַטְרוֹן-n04417809",
+          "target": "unimet-heb-תֵּאַטְרוֹן-n08187033",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "תֶּרֶד",
+      "all_senses": [
+        {
+          "id": "unimet-heb-תֶּרֶד-n07736692",
+          "lemma": "תֶּרֶד",
+          "word_id": "unimet-heb-תֶּרֶד",
+          "synset": {
+            "id": "omw-en-07736692-n",
+            "ili": "i77694",
+            "pos": "n",
+            "lemmas": [
+              "spinach"
+            ],
+            "definition": "dark green leaves; eaten cooked or raw in salads"
+          }
+        },
+        {
+          "id": "unimet-heb-תֶּרֶד-n11835568",
+          "lemma": "תֶּרֶד",
+          "word_id": "unimet-heb-תֶּרֶד",
+          "synset": {
+            "id": "omw-en-11835568-n",
+            "ili": "i99481",
+            "pos": "n",
+            "lemmas": [
+              "spinacia oleracea"
+            ],
+            "definition": "southwestern Asian plant widely cultivated for its succulent edible dark green leaves"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-תֶּרֶד-n11835568",
+          "lemma": "תֶּרֶד",
+          "word_id": "unimet-heb-תֶּרֶד",
+          "synset": {
+            "id": "omw-en-11835568-n",
+            "ili": "i99481",
+            "pos": "n",
+            "lemmas": [
+              "spinacia oleracea"
+            ],
+            "definition": "southwestern Asian plant widely cultivated for its succulent edible dark green leaves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-תֶּרֶד-n07736692",
+          "lemma": "תֶּרֶד",
+          "word_id": "unimet-heb-תֶּרֶד",
+          "synset": {
+            "id": "omw-en-07736692-n",
+            "ili": "i77694",
+            "pos": "n",
+            "lemmas": [
+              "spinach"
+            ],
+            "definition": "dark green leaves; eaten cooked or raw in salads"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-תֶּרֶד-n11835568::unimet-heb-תֶּרֶד-n07736692": {
+          "source": "unimet-heb-תֶּרֶד-n11835568",
+          "target": "unimet-heb-תֶּרֶד-n07736692",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "תַּפּוּחַ",
+      "all_senses": [
+        {
+          "id": "unimet-heb-תַּפּוּחַ-n07739125",
+          "lemma": "תַּפּוּחַ",
+          "word_id": "unimet-heb-תַּפּוּחַ",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-heb-תַּפּוּחַ-n12633994",
+          "lemma": "תַּפּוּחַ",
+          "word_id": "unimet-heb-תַּפּוּחַ",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-heb-תַּפּוּחַ-n07739125",
+          "lemma": "תַּפּוּחַ",
+          "word_id": "unimet-heb-תַּפּוּחַ",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-heb-תַּפּוּחַ-n12633994",
+          "lemma": "תַּפּוּחַ",
+          "word_id": "unimet-heb-תַּפּוּחַ",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-heb-תַּפּוּחַ-n07739125::unimet-heb-תַּפּוּחַ-n12633994": {
+          "source": "unimet-heb-תַּפּוּחַ-n07739125",
+          "target": "unimet-heb-תַּפּוּחַ-n12633994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

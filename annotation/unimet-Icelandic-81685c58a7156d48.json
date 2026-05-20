@@ -1,0 +1,3297 @@
+{
+  "id": "81685c58a7156d48",
+  "name": "unimet-Icelandic",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "isl",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "afl",
+      "all_senses": [
+        {
+          "id": "unimet-isl-afl-n05194578",
+          "lemma": "afl",
+          "word_id": "unimet-isl-afl",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        },
+        {
+          "id": "unimet-isl-afl-n10461424",
+          "lemma": "afl",
+          "word_id": "unimet-isl-afl",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-afl-n05194578",
+          "lemma": "afl",
+          "word_id": "unimet-isl-afl",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-afl-n10461424",
+          "lemma": "afl",
+          "word_id": "unimet-isl-afl",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-afl-n05194578::unimet-isl-afl-n10461424": {
+          "source": "unimet-isl-afl-n05194578",
+          "target": "unimet-isl-afl-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "baka",
+      "all_senses": [
+        {
+          "id": "unimet-isl-baka-n07625493",
+          "lemma": "baka",
+          "word_id": "unimet-isl-baka",
+          "synset": {
+            "id": "omw-en-07625493-n",
+            "ili": "i76921",
+            "pos": "n",
+            "lemmas": [
+              "pie"
+            ],
+            "definition": "dish baked in pastry-lined pan often with a pastry top"
+          }
+        },
+        {
+          "id": "unimet-isl-baka-v01663749",
+          "lemma": "baka",
+          "word_id": "unimet-isl-baka",
+          "synset": {
+            "id": "omw-en-01663749-v",
+            "ili": "i30052",
+            "pos": "v",
+            "lemmas": [
+              "bake"
+            ],
+            "definition": "prepare with dry heat in an oven"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-baka-v01663749",
+          "lemma": "baka",
+          "word_id": "unimet-isl-baka",
+          "synset": {
+            "id": "omw-en-01663749-v",
+            "ili": "i30052",
+            "pos": "v",
+            "lemmas": [
+              "bake"
+            ],
+            "definition": "prepare with dry heat in an oven"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-baka-n07625493",
+          "lemma": "baka",
+          "word_id": "unimet-isl-baka",
+          "synset": {
+            "id": "omw-en-07625493-n",
+            "ili": "i76921",
+            "pos": "n",
+            "lemmas": [
+              "pie"
+            ],
+            "definition": "dish baked in pastry-lined pan often with a pastry top"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-baka-v01663749::unimet-isl-baka-n07625493": {
+          "source": "unimet-isl-baka-v01663749",
+          "target": "unimet-isl-baka-n07625493",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bindi",
+      "all_senses": [
+        {
+          "id": "unimet-isl-bindi-n02870092",
+          "lemma": "bindi",
+          "word_id": "unimet-isl-bindi",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-isl-bindi-n06413666",
+          "lemma": "bindi",
+          "word_id": "unimet-isl-bindi",
+          "synset": {
+            "id": "omw-en-06413666-n",
+            "ili": "i70194",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "a publication that is one of a set of several similar publications"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-bindi-n02870092",
+          "lemma": "bindi",
+          "word_id": "unimet-isl-bindi",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-bindi-n06413666",
+          "lemma": "bindi",
+          "word_id": "unimet-isl-bindi",
+          "synset": {
+            "id": "omw-en-06413666-n",
+            "ili": "i70194",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "a publication that is one of a set of several similar publications"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-bindi-n02870092::unimet-isl-bindi-n06413666": {
+          "source": "unimet-isl-bindi-n02870092",
+          "target": "unimet-isl-bindi-n06413666",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "blót",
+      "all_senses": [
+        {
+          "id": "unimet-isl-blót-n07447261",
+          "lemma": "blót",
+          "word_id": "unimet-isl-blót",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-isl-blót-n07578093",
+          "lemma": "blót",
+          "word_id": "unimet-isl-blót",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-blót-n08253640",
+          "lemma": "blót",
+          "word_id": "unimet-isl-blót",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-blót-n07447261",
+          "lemma": "blót",
+          "word_id": "unimet-isl-blót",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-isl-blót-n07578093",
+          "lemma": "blót",
+          "word_id": "unimet-isl-blót",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-blót-n08253640",
+          "lemma": "blót",
+          "word_id": "unimet-isl-blót",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-blót-n07447261::unimet-isl-blót-n08253640": {
+          "source": "unimet-isl-blót-n07447261",
+          "target": "unimet-isl-blót-n08253640",
+          "type": "metonymy"
+        },
+        "unimet-isl-blót-n07578093::unimet-isl-blót-n08253640": {
+          "source": "unimet-isl-blót-n07578093",
+          "target": "unimet-isl-blót-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "boð",
+      "all_senses": [
+        {
+          "id": "unimet-isl-boð-n07578093",
+          "lemma": "boð",
+          "word_id": "unimet-isl-boð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-boð-n08253640",
+          "lemma": "boð",
+          "word_id": "unimet-isl-boð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-boð-n07578093",
+          "lemma": "boð",
+          "word_id": "unimet-isl-boð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-boð-n08253640",
+          "lemma": "boð",
+          "word_id": "unimet-isl-boð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-boð-n07578093::unimet-isl-boð-n08253640": {
+          "source": "unimet-isl-boð-n07578093",
+          "target": "unimet-isl-boð-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dæla",
+      "all_senses": [
+        {
+          "id": "unimet-isl-dæla-n04021798",
+          "lemma": "dæla",
+          "word_id": "unimet-isl-dæla",
+          "synset": {
+            "id": "omw-en-04021798-n",
+            "ili": "i57766",
+            "pos": "n",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "a mechanical device that moves fluid or gas by pressure or suction"
+          }
+        },
+        {
+          "id": "unimet-isl-dæla-v01853069",
+          "lemma": "dæla",
+          "word_id": "unimet-isl-dæla",
+          "synset": {
+            "id": "omw-en-01853069-v",
+            "ili": "i30965",
+            "pos": "v",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "raise (gases or fluids) with a pump"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-dæla-n04021798",
+          "lemma": "dæla",
+          "word_id": "unimet-isl-dæla",
+          "synset": {
+            "id": "omw-en-04021798-n",
+            "ili": "i57766",
+            "pos": "n",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "a mechanical device that moves fluid or gas by pressure or suction"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-dæla-v01853069",
+          "lemma": "dæla",
+          "word_id": "unimet-isl-dæla",
+          "synset": {
+            "id": "omw-en-01853069-v",
+            "ili": "i30965",
+            "pos": "v",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "raise (gases or fluids) with a pump"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-dæla-n04021798::unimet-isl-dæla-v01853069": {
+          "source": "unimet-isl-dæla-n04021798",
+          "target": "unimet-isl-dæla-v01853069",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "eðalsteinn",
+      "all_senses": [
+        {
+          "id": "unimet-isl-eðalsteinn-n03596787",
+          "lemma": "eðalsteinn",
+          "word_id": "unimet-isl-eðalsteinn",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-isl-eðalsteinn-n14699752",
+          "lemma": "eðalsteinn",
+          "word_id": "unimet-isl-eðalsteinn",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-eðalsteinn-n14699752",
+          "lemma": "eðalsteinn",
+          "word_id": "unimet-isl-eðalsteinn",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-eðalsteinn-n03596787",
+          "lemma": "eðalsteinn",
+          "word_id": "unimet-isl-eðalsteinn",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-eðalsteinn-n14699752::unimet-isl-eðalsteinn-n03596787": {
+          "source": "unimet-isl-eðalsteinn-n14699752",
+          "target": "unimet-isl-eðalsteinn-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fagnaður",
+      "all_senses": [
+        {
+          "id": "unimet-isl-fagnaður-n07578093",
+          "lemma": "fagnaður",
+          "word_id": "unimet-isl-fagnaður",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-fagnaður-n08253640",
+          "lemma": "fagnaður",
+          "word_id": "unimet-isl-fagnaður",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-fagnaður-n07578093",
+          "lemma": "fagnaður",
+          "word_id": "unimet-isl-fagnaður",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-fagnaður-n08253640",
+          "lemma": "fagnaður",
+          "word_id": "unimet-isl-fagnaður",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-fagnaður-n07578093::unimet-isl-fagnaður-n08253640": {
+          "source": "unimet-isl-fagnaður-n07578093",
+          "target": "unimet-isl-fagnaður-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "filma",
+      "all_senses": [
+        {
+          "id": "unimet-isl-filma-n03338821",
+          "lemma": "filma",
+          "word_id": "unimet-isl-filma",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        },
+        {
+          "id": "unimet-isl-filma-v01711965",
+          "lemma": "filma",
+          "word_id": "unimet-isl-filma",
+          "synset": {
+            "id": "omw-en-01711965-v",
+            "ili": "i30304",
+            "pos": "v",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "record in film"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-filma-n03338821",
+          "lemma": "filma",
+          "word_id": "unimet-isl-filma",
+          "synset": {
+            "id": "omw-en-03338821-n",
+            "ili": "i53700",
+            "pos": "n",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-filma-v01711965",
+          "lemma": "filma",
+          "word_id": "unimet-isl-filma",
+          "synset": {
+            "id": "omw-en-01711965-v",
+            "ili": "i30304",
+            "pos": "v",
+            "lemmas": [
+              "film"
+            ],
+            "definition": "record in film"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-filma-n03338821::unimet-isl-filma-v01711965": {
+          "source": "unimet-isl-filma-n03338821",
+          "target": "unimet-isl-filma-v01711965",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gestaboð",
+      "all_senses": [
+        {
+          "id": "unimet-isl-gestaboð-n07578093",
+          "lemma": "gestaboð",
+          "word_id": "unimet-isl-gestaboð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-gestaboð-n08253640",
+          "lemma": "gestaboð",
+          "word_id": "unimet-isl-gestaboð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-gestaboð-n07578093",
+          "lemma": "gestaboð",
+          "word_id": "unimet-isl-gestaboð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-gestaboð-n08253640",
+          "lemma": "gestaboð",
+          "word_id": "unimet-isl-gestaboð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-gestaboð-n07578093::unimet-isl-gestaboð-n08253640": {
+          "source": "unimet-isl-gestaboð-n07578093",
+          "target": "unimet-isl-gestaboð-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gimsteinn",
+      "all_senses": [
+        {
+          "id": "unimet-isl-gimsteinn-n03596787",
+          "lemma": "gimsteinn",
+          "word_id": "unimet-isl-gimsteinn",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-isl-gimsteinn-n14699752",
+          "lemma": "gimsteinn",
+          "word_id": "unimet-isl-gimsteinn",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-gimsteinn-n14699752",
+          "lemma": "gimsteinn",
+          "word_id": "unimet-isl-gimsteinn",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-gimsteinn-n03596787",
+          "lemma": "gimsteinn",
+          "word_id": "unimet-isl-gimsteinn",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-gimsteinn-n14699752::unimet-isl-gimsteinn-n03596787": {
+          "source": "unimet-isl-gimsteinn-n14699752",
+          "target": "unimet-isl-gimsteinn-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gler",
+      "all_senses": [
+        {
+          "id": "unimet-isl-gler-n02876657",
+          "lemma": "gler",
+          "word_id": "unimet-isl-gler",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        },
+        {
+          "id": "unimet-isl-gler-n14881303",
+          "lemma": "gler",
+          "word_id": "unimet-isl-gler",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-gler-n14881303",
+          "lemma": "gler",
+          "word_id": "unimet-isl-gler",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-gler-n02876657",
+          "lemma": "gler",
+          "word_id": "unimet-isl-gler",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-gler-n14881303::unimet-isl-gler-n02876657": {
+          "source": "unimet-isl-gler-n14881303",
+          "target": "unimet-isl-gler-n02876657",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gleði",
+      "all_senses": [
+        {
+          "id": "unimet-isl-gleði-n07578093",
+          "lemma": "gleði",
+          "word_id": "unimet-isl-gleði",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-gleði-n08253640",
+          "lemma": "gleði",
+          "word_id": "unimet-isl-gleði",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-gleði-n07578093",
+          "lemma": "gleði",
+          "word_id": "unimet-isl-gleði",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-gleði-n08253640",
+          "lemma": "gleði",
+          "word_id": "unimet-isl-gleði",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-gleði-n07578093::unimet-isl-gleði-n08253640": {
+          "source": "unimet-isl-gleði-n07578093",
+          "target": "unimet-isl-gleði-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "greiða",
+      "all_senses": [
+        {
+          "id": "unimet-isl-greiða-n03075097",
+          "lemma": "greiða",
+          "word_id": "unimet-isl-greiða",
+          "synset": {
+            "id": "omw-en-03075097-n",
+            "ili": "i52195",
+            "pos": "n",
+            "lemmas": [
+              "comb"
+            ],
+            "definition": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair"
+          }
+        },
+        {
+          "id": "unimet-isl-greiða-v00038365",
+          "lemma": "greiða",
+          "word_id": "unimet-isl-greiða",
+          "synset": {
+            "id": "omw-en-00038365-v",
+            "ili": "i21958",
+            "pos": "v",
+            "lemmas": [
+              "disentangle"
+            ],
+            "definition": "smoothen and neaten with or as with a comb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-greiða-n03075097",
+          "lemma": "greiða",
+          "word_id": "unimet-isl-greiða",
+          "synset": {
+            "id": "omw-en-03075097-n",
+            "ili": "i52195",
+            "pos": "n",
+            "lemmas": [
+              "comb"
+            ],
+            "definition": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-greiða-v00038365",
+          "lemma": "greiða",
+          "word_id": "unimet-isl-greiða",
+          "synset": {
+            "id": "omw-en-00038365-v",
+            "ili": "i21958",
+            "pos": "v",
+            "lemmas": [
+              "disentangle"
+            ],
+            "definition": "smoothen and neaten with or as with a comb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-greiða-n03075097::unimet-isl-greiða-v00038365": {
+          "source": "unimet-isl-greiða-n03075097",
+          "target": "unimet-isl-greiða-v00038365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "heimboð",
+      "all_senses": [
+        {
+          "id": "unimet-isl-heimboð-n07578093",
+          "lemma": "heimboð",
+          "word_id": "unimet-isl-heimboð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-heimboð-n08253640",
+          "lemma": "heimboð",
+          "word_id": "unimet-isl-heimboð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-heimboð-n07578093",
+          "lemma": "heimboð",
+          "word_id": "unimet-isl-heimboð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-heimboð-n08253640",
+          "lemma": "heimboð",
+          "word_id": "unimet-isl-heimboð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-heimboð-n07578093::unimet-isl-heimboð-n08253640": {
+          "source": "unimet-isl-heimboð-n07578093",
+          "target": "unimet-isl-heimboð-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hátíð",
+      "all_senses": [
+        {
+          "id": "unimet-isl-hátíð-n07578093",
+          "lemma": "hátíð",
+          "word_id": "unimet-isl-hátíð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-hátíð-n08253640",
+          "lemma": "hátíð",
+          "word_id": "unimet-isl-hátíð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-hátíð-n07578093",
+          "lemma": "hátíð",
+          "word_id": "unimet-isl-hátíð",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-hátíð-n08253640",
+          "lemma": "hátíð",
+          "word_id": "unimet-isl-hátíð",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-hátíð-n07578093::unimet-isl-hátíð-n08253640": {
+          "source": "unimet-isl-hátíð-n07578093",
+          "target": "unimet-isl-hátíð-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hóf",
+      "all_senses": [
+        {
+          "id": "unimet-isl-hóf-n07578093",
+          "lemma": "hóf",
+          "word_id": "unimet-isl-hóf",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-hóf-n08253640",
+          "lemma": "hóf",
+          "word_id": "unimet-isl-hóf",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-hóf-n07578093",
+          "lemma": "hóf",
+          "word_id": "unimet-isl-hóf",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-hóf-n08253640",
+          "lemma": "hóf",
+          "word_id": "unimet-isl-hóf",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-hóf-n07578093::unimet-isl-hóf-n08253640": {
+          "source": "unimet-isl-hóf-n07578093",
+          "target": "unimet-isl-hóf-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "höfuð",
+      "all_senses": [
+        {
+          "id": "unimet-isl-höfuð-n05538625",
+          "lemma": "höfuð",
+          "word_id": "unimet-isl-höfuð",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-isl-höfuð-n10162991",
+          "lemma": "höfuð",
+          "word_id": "unimet-isl-höfuð",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-höfuð-n05538625",
+          "lemma": "höfuð",
+          "word_id": "unimet-isl-höfuð",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-höfuð-n10162991",
+          "lemma": "höfuð",
+          "word_id": "unimet-isl-höfuð",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-höfuð-n05538625::unimet-isl-höfuð-n10162991": {
+          "source": "unimet-isl-höfuð-n05538625",
+          "target": "unimet-isl-höfuð-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jarknasteinn",
+      "all_senses": [
+        {
+          "id": "unimet-isl-jarknasteinn-n03596787",
+          "lemma": "jarknasteinn",
+          "word_id": "unimet-isl-jarknasteinn",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-isl-jarknasteinn-n14699752",
+          "lemma": "jarknasteinn",
+          "word_id": "unimet-isl-jarknasteinn",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-jarknasteinn-n14699752",
+          "lemma": "jarknasteinn",
+          "word_id": "unimet-isl-jarknasteinn",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-jarknasteinn-n03596787",
+          "lemma": "jarknasteinn",
+          "word_id": "unimet-isl-jarknasteinn",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-jarknasteinn-n14699752::unimet-isl-jarknasteinn-n03596787": {
+          "source": "unimet-isl-jarknasteinn-n14699752",
+          "target": "unimet-isl-jarknasteinn-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kraftur",
+      "all_senses": [
+        {
+          "id": "unimet-isl-kraftur-n05194578",
+          "lemma": "kraftur",
+          "word_id": "unimet-isl-kraftur",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        },
+        {
+          "id": "unimet-isl-kraftur-n10461424",
+          "lemma": "kraftur",
+          "word_id": "unimet-isl-kraftur",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-kraftur-n05194578",
+          "lemma": "kraftur",
+          "word_id": "unimet-isl-kraftur",
+          "synset": {
+            "id": "omw-en-05194578-n",
+            "ili": "i64268",
+            "pos": "n",
+            "lemmas": [
+              "force"
+            ],
+            "definition": "a powerful effect or influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-kraftur-n10461424",
+          "lemma": "kraftur",
+          "word_id": "unimet-isl-kraftur",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-kraftur-n05194578::unimet-isl-kraftur-n10461424": {
+          "source": "unimet-isl-kraftur-n05194578",
+          "target": "unimet-isl-kraftur-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kunningi",
+      "all_senses": [
+        {
+          "id": "unimet-isl-kunningi-n09763784",
+          "lemma": "kunningi",
+          "word_id": "unimet-isl-kunningi",
+          "synset": {
+            "id": "omw-en-09763784-n",
+            "ili": "i88061",
+            "pos": "n",
+            "lemmas": [
+              "friend"
+            ],
+            "definition": "a person with whom you are acquainted"
+          }
+        },
+        {
+          "id": "unimet-isl-kunningi-n13930245",
+          "lemma": "kunningi",
+          "word_id": "unimet-isl-kunningi",
+          "synset": {
+            "id": "omw-en-13930245-n",
+            "ili": "i110147",
+            "pos": "n",
+            "lemmas": [
+              "acquaintance"
+            ],
+            "definition": "a relationship less intimate than friendship"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-kunningi-n13930245",
+          "lemma": "kunningi",
+          "word_id": "unimet-isl-kunningi",
+          "synset": {
+            "id": "omw-en-13930245-n",
+            "ili": "i110147",
+            "pos": "n",
+            "lemmas": [
+              "acquaintance"
+            ],
+            "definition": "a relationship less intimate than friendship"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-kunningi-n09763784",
+          "lemma": "kunningi",
+          "word_id": "unimet-isl-kunningi",
+          "synset": {
+            "id": "omw-en-09763784-n",
+            "ili": "i88061",
+            "pos": "n",
+            "lemmas": [
+              "friend"
+            ],
+            "definition": "a person with whom you are acquainted"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-kunningi-n13930245::unimet-isl-kunningi-n09763784": {
+          "source": "unimet-isl-kunningi-n13930245",
+          "target": "unimet-isl-kunningi-n09763784",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-isl-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-isl-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-isl-land-n08493064",
+          "lemma": "land",
+          "word_id": "unimet-isl-land",
+          "synset": {
+            "id": "omw-en-08493064-n",
+            "ili": "i81687",
+            "pos": "n",
+            "lemmas": [
+              "soil"
+            ],
+            "definition": "the geographical area under the jurisdiction of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-isl-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-isl-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-isl-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-land-n08493064",
+          "lemma": "land",
+          "word_id": "unimet-isl-land",
+          "synset": {
+            "id": "omw-en-08493064-n",
+            "ili": "i81687",
+            "pos": "n",
+            "lemmas": [
+              "soil"
+            ],
+            "definition": "the geographical area under the jurisdiction of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-isl-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-isl-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-land-n08168978::unimet-isl-land-n08493064": {
+          "source": "unimet-isl-land-n08168978",
+          "target": "unimet-isl-land-n08493064",
+          "type": "metonymy"
+        },
+        "unimet-isl-land-n08168978::unimet-isl-land-n08544813": {
+          "source": "unimet-isl-land-n08168978",
+          "target": "unimet-isl-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "partí",
+      "all_senses": [
+        {
+          "id": "unimet-isl-partí-n07578093",
+          "lemma": "partí",
+          "word_id": "unimet-isl-partí",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-partí-n08253640",
+          "lemma": "partí",
+          "word_id": "unimet-isl-partí",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-partí-n07578093",
+          "lemma": "partí",
+          "word_id": "unimet-isl-partí",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-partí-n08253640",
+          "lemma": "partí",
+          "word_id": "unimet-isl-partí",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-partí-n07578093::unimet-isl-partí-n08253640": {
+          "source": "unimet-isl-partí-n07578093",
+          "target": "unimet-isl-partí-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pumpa",
+      "all_senses": [
+        {
+          "id": "unimet-isl-pumpa-n04021798",
+          "lemma": "pumpa",
+          "word_id": "unimet-isl-pumpa",
+          "synset": {
+            "id": "omw-en-04021798-n",
+            "ili": "i57766",
+            "pos": "n",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "a mechanical device that moves fluid or gas by pressure or suction"
+          }
+        },
+        {
+          "id": "unimet-isl-pumpa-v01853069",
+          "lemma": "pumpa",
+          "word_id": "unimet-isl-pumpa",
+          "synset": {
+            "id": "omw-en-01853069-v",
+            "ili": "i30965",
+            "pos": "v",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "raise (gases or fluids) with a pump"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-pumpa-n04021798",
+          "lemma": "pumpa",
+          "word_id": "unimet-isl-pumpa",
+          "synset": {
+            "id": "omw-en-04021798-n",
+            "ili": "i57766",
+            "pos": "n",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "a mechanical device that moves fluid or gas by pressure or suction"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-pumpa-v01853069",
+          "lemma": "pumpa",
+          "word_id": "unimet-isl-pumpa",
+          "synset": {
+            "id": "omw-en-01853069-v",
+            "ili": "i30965",
+            "pos": "v",
+            "lemmas": [
+              "pump"
+            ],
+            "definition": "raise (gases or fluids) with a pump"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-pumpa-n04021798::unimet-isl-pumpa-v01853069": {
+          "source": "unimet-isl-pumpa-n04021798",
+          "target": "unimet-isl-pumpa-v01853069",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ríki",
+      "all_senses": [
+        {
+          "id": "unimet-isl-ríki-n08168978",
+          "lemma": "ríki",
+          "word_id": "unimet-isl-ríki",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-isl-ríki-n08654360",
+          "lemma": "ríki",
+          "word_id": "unimet-isl-ríki",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-ríki-n08168978",
+          "lemma": "ríki",
+          "word_id": "unimet-isl-ríki",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-ríki-n08654360",
+          "lemma": "ríki",
+          "word_id": "unimet-isl-ríki",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-ríki-n08168978::unimet-isl-ríki-n08654360": {
+          "source": "unimet-isl-ríki-n08168978",
+          "target": "unimet-isl-ríki-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "samkvæmi",
+      "all_senses": [
+        {
+          "id": "unimet-isl-samkvæmi-n07447261",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-isl-samkvæmi-n07578093",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-samkvæmi-n08252602",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        },
+        {
+          "id": "unimet-isl-samkvæmi-n08253640",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-samkvæmi-n07447261",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-07447261-n",
+            "ili": "i75849",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a vaguely specified social event"
+          }
+        },
+        {
+          "id": "unimet-isl-samkvæmi-n07578093",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-samkvæmi-n08252602",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        },
+        {
+          "id": "unimet-isl-samkvæmi-n08253640",
+          "lemma": "samkvæmi",
+          "word_id": "unimet-isl-samkvæmi",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-samkvæmi-n07447261::unimet-isl-samkvæmi-n08252602": {
+          "source": "unimet-isl-samkvæmi-n07447261",
+          "target": "unimet-isl-samkvæmi-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-isl-samkvæmi-n07447261::unimet-isl-samkvæmi-n08253640": {
+          "source": "unimet-isl-samkvæmi-n07447261",
+          "target": "unimet-isl-samkvæmi-n08253640",
+          "type": "metonymy"
+        },
+        "unimet-isl-samkvæmi-n07578093::unimet-isl-samkvæmi-n08253640": {
+          "source": "unimet-isl-samkvæmi-n07578093",
+          "target": "unimet-isl-samkvæmi-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skrúfa",
+      "all_senses": [
+        {
+          "id": "unimet-isl-skrúfa-n04153751",
+          "lemma": "skrúfa",
+          "word_id": "unimet-isl-skrúfa",
+          "synset": {
+            "id": "omw-en-04153751-n",
+            "ili": "i58562",
+            "pos": "n",
+            "lemmas": [
+              "screw"
+            ],
+            "definition": "a fastener with a tapered threaded shank and a slotted head"
+          }
+        },
+        {
+          "id": "unimet-isl-skrúfa-v01352806",
+          "lemma": "skrúfa",
+          "word_id": "unimet-isl-skrúfa",
+          "synset": {
+            "id": "omw-en-01352806-v",
+            "ili": "i28457",
+            "pos": "v",
+            "lemmas": [
+              "screw"
+            ],
+            "definition": "tighten or fasten by means of screwing motions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-skrúfa-n04153751",
+          "lemma": "skrúfa",
+          "word_id": "unimet-isl-skrúfa",
+          "synset": {
+            "id": "omw-en-04153751-n",
+            "ili": "i58562",
+            "pos": "n",
+            "lemmas": [
+              "screw"
+            ],
+            "definition": "a fastener with a tapered threaded shank and a slotted head"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-skrúfa-v01352806",
+          "lemma": "skrúfa",
+          "word_id": "unimet-isl-skrúfa",
+          "synset": {
+            "id": "omw-en-01352806-v",
+            "ili": "i28457",
+            "pos": "v",
+            "lemmas": [
+              "screw"
+            ],
+            "definition": "tighten or fasten by means of screwing motions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-skrúfa-n04153751::unimet-isl-skrúfa-v01352806": {
+          "source": "unimet-isl-skrúfa-n04153751",
+          "target": "unimet-isl-skrúfa-v01352806",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "smaragður",
+      "all_senses": [
+        {
+          "id": "unimet-isl-smaragður-n03596787",
+          "lemma": "smaragður",
+          "word_id": "unimet-isl-smaragður",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-isl-smaragður-n14699752",
+          "lemma": "smaragður",
+          "word_id": "unimet-isl-smaragður",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-smaragður-n14699752",
+          "lemma": "smaragður",
+          "word_id": "unimet-isl-smaragður",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-smaragður-n03596787",
+          "lemma": "smaragður",
+          "word_id": "unimet-isl-smaragður",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-smaragður-n14699752::unimet-isl-smaragður-n03596787": {
+          "source": "unimet-isl-smaragður-n14699752",
+          "target": "unimet-isl-smaragður-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "smella",
+      "all_senses": [
+        {
+          "id": "unimet-isl-smella-n04248209",
+          "lemma": "smella",
+          "word_id": "unimet-isl-smella",
+          "synset": {
+            "id": "omw-en-04248209-n",
+            "ili": "i59129",
+            "pos": "n",
+            "lemmas": [
+              "press stud"
+            ],
+            "definition": "a fastener used on clothing; fastens with a snapping sound"
+          }
+        },
+        {
+          "id": "unimet-isl-smella-v01242208",
+          "lemma": "smella",
+          "word_id": "unimet-isl-smella",
+          "synset": {
+            "id": "omw-en-01242208-v",
+            "ili": "i27842",
+            "pos": "v",
+            "lemmas": [
+              "click"
+            ],
+            "definition": "cause to make a snapping sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-smella-v01242208",
+          "lemma": "smella",
+          "word_id": "unimet-isl-smella",
+          "synset": {
+            "id": "omw-en-01242208-v",
+            "ili": "i27842",
+            "pos": "v",
+            "lemmas": [
+              "click"
+            ],
+            "definition": "cause to make a snapping sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-smella-n04248209",
+          "lemma": "smella",
+          "word_id": "unimet-isl-smella",
+          "synset": {
+            "id": "omw-en-04248209-n",
+            "ili": "i59129",
+            "pos": "n",
+            "lemmas": [
+              "press stud"
+            ],
+            "definition": "a fastener used on clothing; fastens with a snapping sound"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-smella-v01242208::unimet-isl-smella-n04248209": {
+          "source": "unimet-isl-smella-v01242208",
+          "target": "unimet-isl-smella-n04248209",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sorg",
+      "all_senses": [
+        {
+          "id": "unimet-isl-sorg-n05833683",
+          "lemma": "sorg",
+          "word_id": "unimet-isl-sorg",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-isl-sorg-n07535010",
+          "lemma": "sorg",
+          "word_id": "unimet-isl-sorg",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-sorg-n07535010",
+          "lemma": "sorg",
+          "word_id": "unimet-isl-sorg",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-sorg-n05833683",
+          "lemma": "sorg",
+          "word_id": "unimet-isl-sorg",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-sorg-n07535010::unimet-isl-sorg-n05833683": {
+          "source": "unimet-isl-sorg-n07535010",
+          "target": "unimet-isl-sorg-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "spenna",
+      "all_senses": [
+        {
+          "id": "unimet-isl-spenna-n14544335",
+          "lemma": "spenna",
+          "word_id": "unimet-isl-spenna",
+          "synset": {
+            "id": "omw-en-14544335-n",
+            "ili": "i113435",
+            "pos": "n",
+            "lemmas": [
+              "tension"
+            ],
+            "definition": "the physical condition of being stretched or strained"
+          }
+        },
+        {
+          "id": "unimet-isl-spenna-v00101434",
+          "lemma": "spenna",
+          "word_id": "unimet-isl-spenna",
+          "synset": {
+            "id": "omw-en-00101434-v",
+            "ili": "i22280",
+            "pos": "v",
+            "lemmas": [
+              "stretch"
+            ],
+            "definition": "extend one's body or limbs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-spenna-v00101434",
+          "lemma": "spenna",
+          "word_id": "unimet-isl-spenna",
+          "synset": {
+            "id": "omw-en-00101434-v",
+            "ili": "i22280",
+            "pos": "v",
+            "lemmas": [
+              "stretch"
+            ],
+            "definition": "extend one's body or limbs"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-spenna-n14544335",
+          "lemma": "spenna",
+          "word_id": "unimet-isl-spenna",
+          "synset": {
+            "id": "omw-en-14544335-n",
+            "ili": "i113435",
+            "pos": "n",
+            "lemmas": [
+              "tension"
+            ],
+            "definition": "the physical condition of being stretched or strained"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-spenna-v00101434::unimet-isl-spenna-n14544335": {
+          "source": "unimet-isl-spenna-v00101434",
+          "target": "unimet-isl-spenna-n14544335",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sprengja",
+      "all_senses": [
+        {
+          "id": "unimet-isl-sprengja-n02866578",
+          "lemma": "sprengja",
+          "word_id": "unimet-isl-sprengja",
+          "synset": {
+            "id": "omw-en-02866578-n",
+            "ili": "i50934",
+            "pos": "n",
+            "lemmas": [
+              "bomb"
+            ],
+            "definition": "an explosive device fused to explode under specific conditions"
+          }
+        },
+        {
+          "id": "unimet-isl-sprengja-n03768132",
+          "lemma": "sprengja",
+          "word_id": "unimet-isl-sprengja",
+          "synset": {
+            "id": "omw-en-03768132-n",
+            "ili": "i56261",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel"
+          }
+        },
+        {
+          "id": "unimet-isl-sprengja-v01131902",
+          "lemma": "sprengja",
+          "word_id": "unimet-isl-sprengja",
+          "synset": {
+            "id": "omw-en-01131902-v",
+            "ili": "i27260",
+            "pos": "v",
+            "lemmas": [
+              "bombard"
+            ],
+            "definition": "throw bombs at or attack with bombs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-sprengja-n02866578",
+          "lemma": "sprengja",
+          "word_id": "unimet-isl-sprengja",
+          "synset": {
+            "id": "omw-en-02866578-n",
+            "ili": "i50934",
+            "pos": "n",
+            "lemmas": [
+              "bomb"
+            ],
+            "definition": "an explosive device fused to explode under specific conditions"
+          }
+        },
+        {
+          "id": "unimet-isl-sprengja-n03768132",
+          "lemma": "sprengja",
+          "word_id": "unimet-isl-sprengja",
+          "synset": {
+            "id": "omw-en-03768132-n",
+            "ili": "i56261",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-sprengja-v01131902",
+          "lemma": "sprengja",
+          "word_id": "unimet-isl-sprengja",
+          "synset": {
+            "id": "omw-en-01131902-v",
+            "ili": "i27260",
+            "pos": "v",
+            "lemmas": [
+              "bombard"
+            ],
+            "definition": "throw bombs at or attack with bombs"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-sprengja-n02866578::unimet-isl-sprengja-v01131902": {
+          "source": "unimet-isl-sprengja-n02866578",
+          "target": "unimet-isl-sprengja-v01131902",
+          "type": "metonymy"
+        },
+        "unimet-isl-sprengja-n03768132::unimet-isl-sprengja-v01131902": {
+          "source": "unimet-isl-sprengja-n03768132",
+          "target": "unimet-isl-sprengja-v01131902",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "teiti",
+      "all_senses": [
+        {
+          "id": "unimet-isl-teiti-n07578093",
+          "lemma": "teiti",
+          "word_id": "unimet-isl-teiti",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-teiti-n08253640",
+          "lemma": "teiti",
+          "word_id": "unimet-isl-teiti",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-teiti-n07578093",
+          "lemma": "teiti",
+          "word_id": "unimet-isl-teiti",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-teiti-n08253640",
+          "lemma": "teiti",
+          "word_id": "unimet-isl-teiti",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-teiti-n07578093::unimet-isl-teiti-n08253640": {
+          "source": "unimet-isl-teiti-n07578093",
+          "target": "unimet-isl-teiti-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "trjástofn",
+      "all_senses": [
+        {
+          "id": "unimet-isl-trjástofn-n02815950",
+          "lemma": "trjástofn",
+          "word_id": "unimet-isl-trjástofn",
+          "synset": {
+            "id": "omw-en-02815950-n",
+            "ili": "i50617",
+            "pos": "n",
+            "lemmas": [
+              "beam"
+            ],
+            "definition": "long thick piece of wood or metal or concrete, etc., used in construction"
+          }
+        },
+        {
+          "id": "unimet-isl-trjástofn-n14942762",
+          "lemma": "trjástofn",
+          "word_id": "unimet-isl-trjástofn",
+          "synset": {
+            "id": "omw-en-14942762-n",
+            "ili": "i115647",
+            "pos": "n",
+            "lemmas": [
+              "log"
+            ],
+            "definition": "a segment of the trunk of a tree when stripped of branches"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-trjástofn-n14942762",
+          "lemma": "trjástofn",
+          "word_id": "unimet-isl-trjástofn",
+          "synset": {
+            "id": "omw-en-14942762-n",
+            "ili": "i115647",
+            "pos": "n",
+            "lemmas": [
+              "log"
+            ],
+            "definition": "a segment of the trunk of a tree when stripped of branches"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-trjástofn-n02815950",
+          "lemma": "trjástofn",
+          "word_id": "unimet-isl-trjástofn",
+          "synset": {
+            "id": "omw-en-02815950-n",
+            "ili": "i50617",
+            "pos": "n",
+            "lemmas": [
+              "beam"
+            ],
+            "definition": "long thick piece of wood or metal or concrete, etc., used in construction"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-trjástofn-n14942762::unimet-isl-trjástofn-n02815950": {
+          "source": "unimet-isl-trjástofn-n14942762",
+          "target": "unimet-isl-trjástofn-n02815950",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tré",
+      "all_senses": [
+        {
+          "id": "unimet-isl-tré-n02815950",
+          "lemma": "tré",
+          "word_id": "unimet-isl-tré",
+          "synset": {
+            "id": "omw-en-02815950-n",
+            "ili": "i50617",
+            "pos": "n",
+            "lemmas": [
+              "beam"
+            ],
+            "definition": "long thick piece of wood or metal or concrete, etc., used in construction"
+          }
+        },
+        {
+          "id": "unimet-isl-tré-n15098161",
+          "lemma": "tré",
+          "word_id": "unimet-isl-tré",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-tré-n15098161",
+          "lemma": "tré",
+          "word_id": "unimet-isl-tré",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-tré-n02815950",
+          "lemma": "tré",
+          "word_id": "unimet-isl-tré",
+          "synset": {
+            "id": "omw-en-02815950-n",
+            "ili": "i50617",
+            "pos": "n",
+            "lemmas": [
+              "beam"
+            ],
+            "definition": "long thick piece of wood or metal or concrete, etc., used in construction"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-tré-n15098161::unimet-isl-tré-n02815950": {
+          "source": "unimet-isl-tré-n15098161",
+          "target": "unimet-isl-tré-n02815950",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ull",
+      "all_senses": [
+        {
+          "id": "unimet-isl-ull-n04599235",
+          "lemma": "ull",
+          "word_id": "unimet-isl-ull",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-isl-ull-n15104217",
+          "lemma": "ull",
+          "word_id": "unimet-isl-ull",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-ull-n15104217",
+          "lemma": "ull",
+          "word_id": "unimet-isl-ull",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-ull-n04599235",
+          "lemma": "ull",
+          "word_id": "unimet-isl-ull",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-ull-n15104217::unimet-isl-ull-n04599235": {
+          "source": "unimet-isl-ull-n15104217",
+          "target": "unimet-isl-ull-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "veisla",
+      "all_senses": [
+        {
+          "id": "unimet-isl-veisla-n07578093",
+          "lemma": "veisla",
+          "word_id": "unimet-isl-veisla",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        },
+        {
+          "id": "unimet-isl-veisla-n08253640",
+          "lemma": "veisla",
+          "word_id": "unimet-isl-veisla",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-veisla-n07578093",
+          "lemma": "veisla",
+          "word_id": "unimet-isl-veisla",
+          "synset": {
+            "id": "omw-en-07578093-n",
+            "ili": "i76586",
+            "pos": "n",
+            "lemmas": [
+              "spread"
+            ],
+            "definition": "a meal that is well prepared and greatly enjoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-veisla-n08253640",
+          "lemma": "veisla",
+          "word_id": "unimet-isl-veisla",
+          "synset": {
+            "id": "omw-en-08253640-n",
+            "ili": "i80505",
+            "pos": "n",
+            "lemmas": [
+              "banquet"
+            ],
+            "definition": "a ceremonial dinner party for many people"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-veisla-n07578093::unimet-isl-veisla-n08253640": {
+          "source": "unimet-isl-veisla-n07578093",
+          "target": "unimet-isl-veisla-n08253640",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vinna",
+      "all_senses": [
+        {
+          "id": "unimet-isl-vinna-n13968092",
+          "lemma": "vinna",
+          "word_id": "unimet-isl-vinna",
+          "synset": {
+            "id": "omw-en-13968092-n",
+            "ili": "i110340",
+            "pos": "n",
+            "lemmas": [
+              "employment"
+            ],
+            "definition": "the state of being employed or having a job"
+          }
+        },
+        {
+          "id": "unimet-isl-vinna-v02410855",
+          "lemma": "vinna",
+          "word_id": "unimet-isl-vinna",
+          "synset": {
+            "id": "omw-en-02410855-v",
+            "ili": "i33794",
+            "pos": "v",
+            "lemmas": [
+              "work"
+            ],
+            "definition": "be employed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-vinna-v02410855",
+          "lemma": "vinna",
+          "word_id": "unimet-isl-vinna",
+          "synset": {
+            "id": "omw-en-02410855-v",
+            "ili": "i33794",
+            "pos": "v",
+            "lemmas": [
+              "work"
+            ],
+            "definition": "be employed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-vinna-n13968092",
+          "lemma": "vinna",
+          "word_id": "unimet-isl-vinna",
+          "synset": {
+            "id": "omw-en-13968092-n",
+            "ili": "i110340",
+            "pos": "n",
+            "lemmas": [
+              "employment"
+            ],
+            "definition": "the state of being employed or having a job"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-vinna-v02410855::unimet-isl-vinna-n13968092": {
+          "source": "unimet-isl-vinna-v02410855",
+          "target": "unimet-isl-vinna-n13968092",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "önd",
+      "all_senses": [
+        {
+          "id": "unimet-isl-önd-n10627082",
+          "lemma": "önd",
+          "word_id": "unimet-isl-önd",
+          "synset": {
+            "id": "omw-en-10627082-n",
+            "ili": "i93161",
+            "pos": "n",
+            "lemmas": [
+              "psyche"
+            ],
+            "definition": "the immaterial part of a person; the actuating cause of an individual life"
+          }
+        },
+        {
+          "id": "unimet-isl-önd-n13961399",
+          "lemma": "önd",
+          "word_id": "unimet-isl-önd",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-önd-n13961399",
+          "lemma": "önd",
+          "word_id": "unimet-isl-önd",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-önd-n10627082",
+          "lemma": "önd",
+          "word_id": "unimet-isl-önd",
+          "synset": {
+            "id": "omw-en-10627082-n",
+            "ili": "i93161",
+            "pos": "n",
+            "lemmas": [
+              "psyche"
+            ],
+            "definition": "the immaterial part of a person; the actuating cause of an individual life"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-önd-n13961399::unimet-isl-önd-n10627082": {
+          "source": "unimet-isl-önd-n13961399",
+          "target": "unimet-isl-önd-n10627082",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "þorp",
+      "all_senses": [
+        {
+          "id": "unimet-isl-þorp-n08226699",
+          "lemma": "þorp",
+          "word_id": "unimet-isl-þorp",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-isl-þorp-n08672738",
+          "lemma": "þorp",
+          "word_id": "unimet-isl-þorp",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-þorp-n08226699",
+          "lemma": "þorp",
+          "word_id": "unimet-isl-þorp",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-þorp-n08672738",
+          "lemma": "þorp",
+          "word_id": "unimet-isl-þorp",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-þorp-n08226699::unimet-isl-þorp-n08672738": {
+          "source": "unimet-isl-þorp-n08226699",
+          "target": "unimet-isl-þorp-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "þráður",
+      "all_senses": [
+        {
+          "id": "unimet-isl-þráður-n04426788",
+          "lemma": "þráður",
+          "word_id": "unimet-isl-þráður",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-isl-þráður-n14866889",
+          "lemma": "þráður",
+          "word_id": "unimet-isl-þráður",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-isl-þráður-n14866889",
+          "lemma": "þráður",
+          "word_id": "unimet-isl-þráður",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-isl-þráður-n04426788",
+          "lemma": "þráður",
+          "word_id": "unimet-isl-þráður",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-isl-þráður-n14866889::unimet-isl-þráður-n04426788": {
+          "source": "unimet-isl-þráður-n14866889",
+          "target": "unimet-isl-þráður-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

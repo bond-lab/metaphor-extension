@@ -1,0 +1,92 @@
+{
+  "id": "59c18cb506ec5e6a",
+  "name": "unimet-Burmese",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mya",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ကမ္ဗလာ",
+      "all_senses": [
+        {
+          "id": "unimet-mya-ကမ္ဗလာ-n07747607",
+          "lemma": "ကမ္ဗလာ",
+          "word_id": "unimet-mya-ကမ္ဗလာ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-mya-ကမ္ဗလာ-n12708293",
+          "lemma": "ကမ္ဗလာ",
+          "word_id": "unimet-mya-ကမ္ဗလာ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mya-ကမ္ဗလာ-n07747607",
+          "lemma": "ကမ္ဗလာ",
+          "word_id": "unimet-mya-ကမ္ဗလာ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mya-ကမ္ဗလာ-n12708293",
+          "lemma": "ကမ္ဗလာ",
+          "word_id": "unimet-mya-ကမ္ဗလာ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mya-ကမ္ဗလာ-n07747607::unimet-mya-ကမ္ဗလာ-n12708293": {
+          "source": "unimet-mya-ကမ္ဗလာ-n07747607",
+          "target": "unimet-mya-ကမ္ဗလာ-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

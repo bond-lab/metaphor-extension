@@ -1,0 +1,168 @@
+{
+  "id": "bfc3270831489653",
+  "name": "unimet-Aromanian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "rup",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "nod",
+      "all_senses": [
+        {
+          "id": "unimet-rup-nod-n03627232",
+          "lemma": "nod",
+          "word_id": "unimet-rup-nod",
+          "synset": {
+            "id": "omw-en-03627232-n",
+            "ili": "i55444",
+            "pos": "n",
+            "lemmas": [
+              "knot"
+            ],
+            "definition": "any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object"
+          }
+        },
+        {
+          "id": "unimet-rup-nod-v01300144",
+          "lemma": "nod",
+          "word_id": "unimet-rup-nod",
+          "synset": {
+            "id": "omw-en-01300144-v",
+            "ili": "i28176",
+            "pos": "v",
+            "lemmas": [
+              "knot"
+            ],
+            "definition": "tie or fasten into a knot"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-rup-nod-n03627232",
+          "lemma": "nod",
+          "word_id": "unimet-rup-nod",
+          "synset": {
+            "id": "omw-en-03627232-n",
+            "ili": "i55444",
+            "pos": "n",
+            "lemmas": [
+              "knot"
+            ],
+            "definition": "any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-rup-nod-v01300144",
+          "lemma": "nod",
+          "word_id": "unimet-rup-nod",
+          "synset": {
+            "id": "omw-en-01300144-v",
+            "ili": "i28176",
+            "pos": "v",
+            "lemmas": [
+              "knot"
+            ],
+            "definition": "tie or fasten into a knot"
+          }
+        }
+      ],
+      "links": {
+        "unimet-rup-nod-n03627232::unimet-rup-nod-v01300144": {
+          "source": "unimet-rup-nod-n03627232",
+          "target": "unimet-rup-nod-v01300144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sugljits",
+      "all_senses": [
+        {
+          "id": "unimet-rup-sugljits-n14359459",
+          "lemma": "sugljits",
+          "word_id": "unimet-rup-sugljits",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        },
+        {
+          "id": "unimet-rup-sugljits-v00003826",
+          "lemma": "sugljits",
+          "word_id": "unimet-rup-sugljits",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-rup-sugljits-v00003826",
+          "lemma": "sugljits",
+          "word_id": "unimet-rup-sugljits",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-rup-sugljits-n14359459",
+          "lemma": "sugljits",
+          "word_id": "unimet-rup-sugljits",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-rup-sugljits-v00003826::unimet-rup-sugljits-n14359459": {
+          "source": "unimet-rup-sugljits-v00003826",
+          "target": "unimet-rup-sugljits-n14359459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

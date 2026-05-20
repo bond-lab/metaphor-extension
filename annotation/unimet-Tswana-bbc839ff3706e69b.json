@@ -1,0 +1,4028 @@
+{
+  "id": "bbc839ff3706e69b",
+  "name": "unimet-Tswana",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tsn",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "boitumêlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-boitumêlô-n05829782",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-tsn-boitumêlô-n07491038",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        },
+        {
+          "id": "unimet-tsn-boitumêlô-n07526757",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-07526757-n",
+            "ili": "i76307",
+            "pos": "n",
+            "lemmas": [
+              "happiness"
+            ],
+            "definition": "emotions experienced when in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-tsn-boitumêlô-n07527352",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-boitumêlô-n07491038",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-07491038-n",
+            "ili": "i76107",
+            "pos": "n",
+            "lemmas": [
+              "delectation"
+            ],
+            "definition": "a feeling of extreme pleasure or satisfaction"
+          }
+        },
+        {
+          "id": "unimet-tsn-boitumêlô-n07526757",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-07526757-n",
+            "ili": "i76307",
+            "pos": "n",
+            "lemmas": [
+              "happiness"
+            ],
+            "definition": "emotions experienced when in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-tsn-boitumêlô-n07527352",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-boitumêlô-n05829782",
+          "lemma": "boitumêlô",
+          "word_id": "unimet-tsn-boitumêlô",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-boitumêlô-n07491038::unimet-tsn-boitumêlô-n05829782": {
+          "source": "unimet-tsn-boitumêlô-n07491038",
+          "target": "unimet-tsn-boitumêlô-n05829782",
+          "type": "metonymy"
+        },
+        "unimet-tsn-boitumêlô-n07526757::unimet-tsn-boitumêlô-n05829782": {
+          "source": "unimet-tsn-boitumêlô-n07526757",
+          "target": "unimet-tsn-boitumêlô-n05829782",
+          "type": "metonymy"
+        },
+        "unimet-tsn-boitumêlô-n07527352::unimet-tsn-boitumêlô-n05829782": {
+          "source": "unimet-tsn-boitumêlô-n07527352",
+          "target": "unimet-tsn-boitumêlô-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bophelô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-bophelô-n10260706",
+          "lemma": "bophelô",
+          "word_id": "unimet-tsn-bophelô",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        },
+        {
+          "id": "unimet-tsn-bophelô-n13961399",
+          "lemma": "bophelô",
+          "word_id": "unimet-tsn-bophelô",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        },
+        {
+          "id": "unimet-tsn-bophelô-n13961642",
+          "lemma": "bophelô",
+          "word_id": "unimet-tsn-bophelô",
+          "synset": {
+            "id": "omw-en-13961642-n",
+            "ili": "i110305",
+            "pos": "n",
+            "lemmas": [
+              "living"
+            ],
+            "definition": "the condition of living or the state of being alive"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-bophelô-n13961399",
+          "lemma": "bophelô",
+          "word_id": "unimet-tsn-bophelô",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        },
+        {
+          "id": "unimet-tsn-bophelô-n13961642",
+          "lemma": "bophelô",
+          "word_id": "unimet-tsn-bophelô",
+          "synset": {
+            "id": "omw-en-13961642-n",
+            "ili": "i110305",
+            "pos": "n",
+            "lemmas": [
+              "living"
+            ],
+            "definition": "the condition of living or the state of being alive"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-bophelô-n10260706",
+          "lemma": "bophelô",
+          "word_id": "unimet-tsn-bophelô",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-bophelô-n13961399::unimet-tsn-bophelô-n10260706": {
+          "source": "unimet-tsn-bophelô-n13961399",
+          "target": "unimet-tsn-bophelô-n10260706",
+          "type": "metonymy"
+        },
+        "unimet-tsn-bophelô-n13961642::unimet-tsn-bophelô-n10260706": {
+          "source": "unimet-tsn-bophelô-n13961642",
+          "target": "unimet-tsn-bophelô-n10260706",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "buka",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-buka-n02870092",
+          "lemma": "buka",
+          "word_id": "unimet-tsn-buka",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-tsn-buka-n06410904",
+          "lemma": "buka",
+          "word_id": "unimet-tsn-buka",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-buka-n02870092",
+          "lemma": "buka",
+          "word_id": "unimet-tsn-buka",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-buka-n06410904",
+          "lemma": "buka",
+          "word_id": "unimet-tsn-buka",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-buka-n02870092::unimet-tsn-buka-n06410904": {
+          "source": "unimet-tsn-buka-n02870092",
+          "target": "unimet-tsn-buka-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "galase",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-galase-n03438257",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-tsn-galase-n03439064",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-03439064-n",
+            "ili": "i54307",
+            "pos": "n",
+            "lemmas": [
+              "glassware"
+            ],
+            "definition": "an article of tableware made of glass"
+          }
+        },
+        {
+          "id": "unimet-tsn-galase-n03961070",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-03961070-n",
+            "ili": "i57423",
+            "pos": "n",
+            "lemmas": [
+              "plate glass"
+            ],
+            "definition": "glass formed into large thin sheets"
+          }
+        },
+        {
+          "id": "unimet-tsn-galase-n14881303",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-galase-n14881303",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-galase-n03438257",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-tsn-galase-n03439064",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-03439064-n",
+            "ili": "i54307",
+            "pos": "n",
+            "lemmas": [
+              "glassware"
+            ],
+            "definition": "an article of tableware made of glass"
+          }
+        },
+        {
+          "id": "unimet-tsn-galase-n03961070",
+          "lemma": "galase",
+          "word_id": "unimet-tsn-galase",
+          "synset": {
+            "id": "omw-en-03961070-n",
+            "ili": "i57423",
+            "pos": "n",
+            "lemmas": [
+              "plate glass"
+            ],
+            "definition": "glass formed into large thin sheets"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-galase-n14881303::unimet-tsn-galase-n03438257": {
+          "source": "unimet-tsn-galase-n14881303",
+          "target": "unimet-tsn-galase-n03438257",
+          "type": "metonymy"
+        },
+        "unimet-tsn-galase-n14881303::unimet-tsn-galase-n03439064": {
+          "source": "unimet-tsn-galase-n14881303",
+          "target": "unimet-tsn-galase-n03439064",
+          "type": "metonymy"
+        },
+        "unimet-tsn-galase-n14881303::unimet-tsn-galase-n03961070": {
+          "source": "unimet-tsn-galase-n14881303",
+          "target": "unimet-tsn-galase-n03961070",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ganse",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-ganse-n01855672",
+          "lemma": "ganse",
+          "word_id": "unimet-tsn-ganse",
+          "synset": {
+            "id": "omw-en-01855672-n",
+            "ili": "i45102",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks"
+          }
+        },
+        {
+          "id": "unimet-tsn-ganse-n07646821",
+          "lemma": "ganse",
+          "word_id": "unimet-tsn-ganse",
+          "synset": {
+            "id": "omw-en-07646821-n",
+            "ili": "i77078",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "flesh of a goose (domestic or wild)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-ganse-n01855672",
+          "lemma": "ganse",
+          "word_id": "unimet-tsn-ganse",
+          "synset": {
+            "id": "omw-en-01855672-n",
+            "ili": "i45102",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-ganse-n07646821",
+          "lemma": "ganse",
+          "word_id": "unimet-tsn-ganse",
+          "synset": {
+            "id": "omw-en-07646821-n",
+            "ili": "i77078",
+            "pos": "n",
+            "lemmas": [
+              "goose"
+            ],
+            "definition": "flesh of a goose (domestic or wild)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-ganse-n01855672::unimet-tsn-ganse-n07646821": {
+          "source": "unimet-tsn-ganse-n01855672",
+          "target": "unimet-tsn-ganse-n07646821",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kampa",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-kampa-n02944826",
+          "lemma": "kampa",
+          "word_id": "unimet-tsn-kampa",
+          "synset": {
+            "id": "omw-en-02944826-n",
+            "ili": "i51413",
+            "pos": "n",
+            "lemmas": [
+              "barrack"
+            ],
+            "definition": "temporary living quarters specially built by the army for soldiers"
+          }
+        },
+        {
+          "id": "unimet-tsn-kampa-n02945161",
+          "lemma": "kampa",
+          "word_id": "unimet-tsn-kampa",
+          "synset": {
+            "id": "omw-en-02945161-n",
+            "ili": "i51414",
+            "pos": "n",
+            "lemmas": [
+              "camp"
+            ],
+            "definition": "temporary lodgings in the country for travelers or vacationers"
+          }
+        },
+        {
+          "id": "unimet-tsn-kampa-v02653996",
+          "lemma": "kampa",
+          "word_id": "unimet-tsn-kampa",
+          "synset": {
+            "id": "omw-en-02653996-v",
+            "ili": "i34938",
+            "pos": "v",
+            "lemmas": [
+              "encamp"
+            ],
+            "definition": "live in or as if in a tent"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-kampa-n02944826",
+          "lemma": "kampa",
+          "word_id": "unimet-tsn-kampa",
+          "synset": {
+            "id": "omw-en-02944826-n",
+            "ili": "i51413",
+            "pos": "n",
+            "lemmas": [
+              "barrack"
+            ],
+            "definition": "temporary living quarters specially built by the army for soldiers"
+          }
+        },
+        {
+          "id": "unimet-tsn-kampa-n02945161",
+          "lemma": "kampa",
+          "word_id": "unimet-tsn-kampa",
+          "synset": {
+            "id": "omw-en-02945161-n",
+            "ili": "i51414",
+            "pos": "n",
+            "lemmas": [
+              "camp"
+            ],
+            "definition": "temporary lodgings in the country for travelers or vacationers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-kampa-v02653996",
+          "lemma": "kampa",
+          "word_id": "unimet-tsn-kampa",
+          "synset": {
+            "id": "omw-en-02653996-v",
+            "ili": "i34938",
+            "pos": "v",
+            "lemmas": [
+              "encamp"
+            ],
+            "definition": "live in or as if in a tent"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-kampa-n02944826::unimet-tsn-kampa-v02653996": {
+          "source": "unimet-tsn-kampa-n02944826",
+          "target": "unimet-tsn-kampa-v02653996",
+          "type": "metonymy"
+        },
+        "unimet-tsn-kampa-n02945161::unimet-tsn-kampa-v02653996": {
+          "source": "unimet-tsn-kampa-n02945161",
+          "target": "unimet-tsn-kampa-v02653996",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kgaolô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-kgaolô-n08077292",
+          "lemma": "kgaolô",
+          "word_id": "unimet-tsn-kgaolô",
+          "synset": {
+            "id": "omw-en-08077292-n",
+            "ili": "i79668",
+            "pos": "n",
+            "lemmas": [
+              "administrative unit"
+            ],
+            "definition": "a unit with administrative responsibilities"
+          }
+        },
+        {
+          "id": "unimet-tsn-kgaolô-n08552138",
+          "lemma": "kgaolô",
+          "word_id": "unimet-tsn-kgaolô",
+          "synset": {
+            "id": "omw-en-08552138-n",
+            "ili": "i81923",
+            "pos": "n",
+            "lemmas": [
+              "territorial dominion"
+            ],
+            "definition": "a region marked off for administrative or other purposes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-kgaolô-n08077292",
+          "lemma": "kgaolô",
+          "word_id": "unimet-tsn-kgaolô",
+          "synset": {
+            "id": "omw-en-08077292-n",
+            "ili": "i79668",
+            "pos": "n",
+            "lemmas": [
+              "administrative unit"
+            ],
+            "definition": "a unit with administrative responsibilities"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-kgaolô-n08552138",
+          "lemma": "kgaolô",
+          "word_id": "unimet-tsn-kgaolô",
+          "synset": {
+            "id": "omw-en-08552138-n",
+            "ili": "i81923",
+            "pos": "n",
+            "lemmas": [
+              "territorial dominion"
+            ],
+            "definition": "a region marked off for administrative or other purposes"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-kgaolô-n08077292::unimet-tsn-kgaolô-n08552138": {
+          "source": "unimet-tsn-kgaolô-n08077292",
+          "target": "unimet-tsn-kgaolô-n08552138",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kgatisô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-kgatisô-n04004475",
+          "lemma": "kgatisô",
+          "word_id": "unimet-tsn-kgatisô",
+          "synset": {
+            "id": "omw-en-04004475-n",
+            "ili": "i57679",
+            "pos": "n",
+            "lemmas": [
+              "printing machine"
+            ],
+            "definition": "a machine that prints"
+          }
+        },
+        {
+          "id": "unimet-tsn-kgatisô-n06263369",
+          "lemma": "kgatisô",
+          "word_id": "unimet-tsn-kgatisô",
+          "synset": {
+            "id": "omw-en-06263369-n",
+            "ili": "i69420",
+            "pos": "n",
+            "lemmas": [
+              "press"
+            ],
+            "definition": "the gathering and publishing of news in the form of newspapers or magazines"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-kgatisô-n04004475",
+          "lemma": "kgatisô",
+          "word_id": "unimet-tsn-kgatisô",
+          "synset": {
+            "id": "omw-en-04004475-n",
+            "ili": "i57679",
+            "pos": "n",
+            "lemmas": [
+              "printing machine"
+            ],
+            "definition": "a machine that prints"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-kgatisô-n06263369",
+          "lemma": "kgatisô",
+          "word_id": "unimet-tsn-kgatisô",
+          "synset": {
+            "id": "omw-en-06263369-n",
+            "ili": "i69420",
+            "pos": "n",
+            "lemmas": [
+              "press"
+            ],
+            "definition": "the gathering and publishing of news in the form of newspapers or magazines"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-kgatisô-n04004475::unimet-tsn-kgatisô-n06263369": {
+          "source": "unimet-tsn-kgatisô-n04004475",
+          "target": "unimet-tsn-kgatisô-n06263369",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kuranta",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-kuranta-n03822171",
+          "lemma": "kuranta",
+          "word_id": "unimet-tsn-kuranta",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-tsn-kuranta-n06267145",
+          "lemma": "kuranta",
+          "word_id": "unimet-tsn-kuranta",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-kuranta-n03822171",
+          "lemma": "kuranta",
+          "word_id": "unimet-tsn-kuranta",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-kuranta-n06267145",
+          "lemma": "kuranta",
+          "word_id": "unimet-tsn-kuranta",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-kuranta-n03822171::unimet-tsn-kuranta-n06267145": {
+          "source": "unimet-tsn-kuranta-n03822171",
+          "target": "unimet-tsn-kuranta-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lebôtê",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lebôtê-n05832264",
+          "lemma": "lebôtê",
+          "word_id": "unimet-tsn-lebôtê",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-tsn-lebôtê-n07524242",
+          "lemma": "lebôtê",
+          "word_id": "unimet-tsn-lebôtê",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lebôtê-n07524242",
+          "lemma": "lebôtê",
+          "word_id": "unimet-tsn-lebôtê",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lebôtê-n05832264",
+          "lemma": "lebôtê",
+          "word_id": "unimet-tsn-lebôtê",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lebôtê-n07524242::unimet-tsn-lebôtê-n05832264": {
+          "source": "unimet-tsn-lebôtê-n07524242",
+          "target": "unimet-tsn-lebôtê-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lehunêlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lehunêlô-n05832264",
+          "lemma": "lehunêlô",
+          "word_id": "unimet-tsn-lehunêlô",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-tsn-lehunêlô-n07524242",
+          "lemma": "lehunêlô",
+          "word_id": "unimet-tsn-lehunêlô",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lehunêlô-n07524242",
+          "lemma": "lehunêlô",
+          "word_id": "unimet-tsn-lehunêlô",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lehunêlô-n05832264",
+          "lemma": "lehunêlô",
+          "word_id": "unimet-tsn-lehunêlô",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lehunêlô-n07524242::unimet-tsn-lehunêlô-n05832264": {
+          "source": "unimet-tsn-lehunêlô-n07524242",
+          "target": "unimet-tsn-lehunêlô-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lekwalodikgang",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lekwalodikgang-n03822171",
+          "lemma": "lekwalodikgang",
+          "word_id": "unimet-tsn-lekwalodikgang",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-tsn-lekwalodikgang-n06267145",
+          "lemma": "lekwalodikgang",
+          "word_id": "unimet-tsn-lekwalodikgang",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lekwalodikgang-n03822171",
+          "lemma": "lekwalodikgang",
+          "word_id": "unimet-tsn-lekwalodikgang",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lekwalodikgang-n06267145",
+          "lemma": "lekwalodikgang",
+          "word_id": "unimet-tsn-lekwalodikgang",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lekwalodikgang-n03822171::unimet-tsn-lekwalodikgang-n06267145": {
+          "source": "unimet-tsn-lekwalodikgang-n03822171",
+          "target": "unimet-tsn-lekwalodikgang-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lelapa",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lelapa-n08078020",
+          "lemma": "lelapa",
+          "word_id": "unimet-tsn-lelapa",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        },
+        {
+          "id": "unimet-tsn-lelapa-n08559508",
+          "lemma": "lelapa",
+          "word_id": "unimet-tsn-lelapa",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lelapa-n08078020",
+          "lemma": "lelapa",
+          "word_id": "unimet-tsn-lelapa",
+          "synset": {
+            "id": "omw-en-08078020-n",
+            "ili": "i79671",
+            "pos": "n",
+            "lemmas": [
+              "lineage"
+            ],
+            "definition": "a social unit living together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lelapa-n08559508",
+          "lemma": "lelapa",
+          "word_id": "unimet-tsn-lelapa",
+          "synset": {
+            "id": "omw-en-08559508-n",
+            "ili": "i81964",
+            "pos": "n",
+            "lemmas": [
+              "home"
+            ],
+            "definition": "where you live at a particular time"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lelapa-n08078020::unimet-tsn-lelapa-n08559508": {
+          "source": "unimet-tsn-lelapa-n08078020",
+          "target": "unimet-tsn-lelapa-n08559508",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lerumô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lerumô-n02916350",
+          "lemma": "lerumô",
+          "word_id": "unimet-tsn-lerumô",
+          "synset": {
+            "id": "omw-en-02916350-n",
+            "ili": "i51232",
+            "pos": "n",
+            "lemmas": [
+              "slug"
+            ],
+            "definition": "a projectile that is fired from a gun"
+          }
+        },
+        {
+          "id": "unimet-tsn-lerumô-n14643467",
+          "lemma": "lerumô",
+          "word_id": "unimet-tsn-lerumô",
+          "synset": {
+            "id": "omw-en-14643467-n",
+            "ili": "i113959",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 82"
+            ],
+            "definition": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lerumô-n14643467",
+          "lemma": "lerumô",
+          "word_id": "unimet-tsn-lerumô",
+          "synset": {
+            "id": "omw-en-14643467-n",
+            "ili": "i113959",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 82"
+            ],
+            "definition": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lerumô-n02916350",
+          "lemma": "lerumô",
+          "word_id": "unimet-tsn-lerumô",
+          "synset": {
+            "id": "omw-en-02916350-n",
+            "ili": "i51232",
+            "pos": "n",
+            "lemmas": [
+              "slug"
+            ],
+            "definition": "a projectile that is fired from a gun"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lerumô-n14643467::unimet-tsn-lerumô-n02916350": {
+          "source": "unimet-tsn-lerumô-n14643467",
+          "target": "unimet-tsn-lerumô-n02916350",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lesêlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lesêlô-n02801938",
+          "lemma": "lesêlô",
+          "word_id": "unimet-tsn-lesêlô",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        },
+        {
+          "id": "unimet-tsn-lesêlô-n13765207",
+          "lemma": "lesêlô",
+          "word_id": "unimet-tsn-lesêlô",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lesêlô-n02801938",
+          "lemma": "lesêlô",
+          "word_id": "unimet-tsn-lesêlô",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lesêlô-n13765207",
+          "lemma": "lesêlô",
+          "word_id": "unimet-tsn-lesêlô",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lesêlô-n02801938::unimet-tsn-lesêlô-n13765207": {
+          "source": "unimet-tsn-lesêlô-n02801938",
+          "target": "unimet-tsn-lesêlô-n13765207",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "letsôgô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-letsôgô-n05563770",
+          "lemma": "letsôgô",
+          "word_id": "unimet-tsn-letsôgô",
+          "synset": {
+            "id": "omw-en-05563770-n",
+            "ili": "i66150",
+            "pos": "n",
+            "lemmas": [
+              "arm"
+            ],
+            "definition": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb"
+          }
+        },
+        {
+          "id": "unimet-tsn-letsôgô-n09815790",
+          "lemma": "letsôgô",
+          "word_id": "unimet-tsn-letsôgô",
+          "synset": {
+            "id": "omw-en-09815790-n",
+            "ili": "i88333",
+            "pos": "n",
+            "lemmas": [
+              "assistant"
+            ],
+            "definition": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-letsôgô-n05563770",
+          "lemma": "letsôgô",
+          "word_id": "unimet-tsn-letsôgô",
+          "synset": {
+            "id": "omw-en-05563770-n",
+            "ili": "i66150",
+            "pos": "n",
+            "lemmas": [
+              "arm"
+            ],
+            "definition": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-letsôgô-n09815790",
+          "lemma": "letsôgô",
+          "word_id": "unimet-tsn-letsôgô",
+          "synset": {
+            "id": "omw-en-09815790-n",
+            "ili": "i88333",
+            "pos": "n",
+            "lemmas": [
+              "assistant"
+            ],
+            "definition": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-letsôgô-n05563770::unimet-tsn-letsôgô-n09815790": {
+          "source": "unimet-tsn-letsôgô-n05563770",
+          "target": "unimet-tsn-letsôgô-n09815790",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lokwalô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-lokwalô-n02870092",
+          "lemma": "lokwalô",
+          "word_id": "unimet-tsn-lokwalô",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-tsn-lokwalô-n06410904",
+          "lemma": "lokwalô",
+          "word_id": "unimet-tsn-lokwalô",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-lokwalô-n02870092",
+          "lemma": "lokwalô",
+          "word_id": "unimet-tsn-lokwalô",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-lokwalô-n06410904",
+          "lemma": "lokwalô",
+          "word_id": "unimet-tsn-lokwalô",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-lokwalô-n02870092::unimet-tsn-lokwalô-n06410904": {
+          "source": "unimet-tsn-lokwalô-n02870092",
+          "target": "unimet-tsn-lokwalô-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "maatla",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-maatla-n05190804",
+          "lemma": "maatla",
+          "word_id": "unimet-tsn-maatla",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        },
+        {
+          "id": "unimet-tsn-maatla-n10461424",
+          "lemma": "maatla",
+          "word_id": "unimet-tsn-maatla",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-maatla-n05190804",
+          "lemma": "maatla",
+          "word_id": "unimet-tsn-maatla",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-maatla-n10461424",
+          "lemma": "maatla",
+          "word_id": "unimet-tsn-maatla",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-maatla-n05190804::unimet-tsn-maatla-n10461424": {
+          "source": "unimet-tsn-maatla-n05190804",
+          "target": "unimet-tsn-maatla-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mmusô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-mmusô-n08052413",
+          "lemma": "mmusô",
+          "word_id": "unimet-tsn-mmusô",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-tsn-mmusô-n08168978",
+          "lemma": "mmusô",
+          "word_id": "unimet-tsn-mmusô",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-tsn-mmusô-n08558155",
+          "lemma": "mmusô",
+          "word_id": "unimet-tsn-mmusô",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-mmusô-n08052413",
+          "lemma": "mmusô",
+          "word_id": "unimet-tsn-mmusô",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-tsn-mmusô-n08168978",
+          "lemma": "mmusô",
+          "word_id": "unimet-tsn-mmusô",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-mmusô-n08558155",
+          "lemma": "mmusô",
+          "word_id": "unimet-tsn-mmusô",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-mmusô-n08052413::unimet-tsn-mmusô-n08558155": {
+          "source": "unimet-tsn-mmusô-n08052413",
+          "target": "unimet-tsn-mmusô-n08558155",
+          "type": "metonymy"
+        },
+        "unimet-tsn-mmusô-n08168978::unimet-tsn-mmusô-n08558155": {
+          "source": "unimet-tsn-mmusô-n08168978",
+          "target": "unimet-tsn-mmusô-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mmutla",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-mmutla-n02326432",
+          "lemma": "mmutla",
+          "word_id": "unimet-tsn-mmutla",
+          "synset": {
+            "id": "omw-en-02326432-n",
+            "ili": "i47778",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes"
+          }
+        },
+        {
+          "id": "unimet-tsn-mmutla-n07666521",
+          "lemma": "mmutla",
+          "word_id": "unimet-tsn-mmutla",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-mmutla-n02326432",
+          "lemma": "mmutla",
+          "word_id": "unimet-tsn-mmutla",
+          "synset": {
+            "id": "omw-en-02326432-n",
+            "ili": "i47778",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-mmutla-n07666521",
+          "lemma": "mmutla",
+          "word_id": "unimet-tsn-mmutla",
+          "synset": {
+            "id": "omw-en-07666521-n",
+            "ili": "i77220",
+            "pos": "n",
+            "lemmas": [
+              "hare"
+            ],
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-mmutla-n02326432::unimet-tsn-mmutla-n07666521": {
+          "source": "unimet-tsn-mmutla-n02326432",
+          "target": "unimet-tsn-mmutla-n07666521",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mogala",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-mogala-n03488438",
+          "lemma": "mogala",
+          "word_id": "unimet-tsn-mogala",
+          "synset": {
+            "id": "omw-en-03488438-n",
+            "ili": "i54624",
+            "pos": "n",
+            "lemmas": [
+              "receiver"
+            ],
+            "definition": "telephone set with the mouthpiece and earpiece mounted on a single handle"
+          }
+        },
+        {
+          "id": "unimet-tsn-mogala-n04401088",
+          "lemma": "mogala",
+          "word_id": "unimet-tsn-mogala",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-tsn-mogala-n06272803",
+          "lemma": "mogala",
+          "word_id": "unimet-tsn-mogala",
+          "synset": {
+            "id": "omw-en-06272803-n",
+            "ili": "i69471",
+            "pos": "n",
+            "lemmas": [
+              "phone"
+            ],
+            "definition": "a telephone connection"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-mogala-n03488438",
+          "lemma": "mogala",
+          "word_id": "unimet-tsn-mogala",
+          "synset": {
+            "id": "omw-en-03488438-n",
+            "ili": "i54624",
+            "pos": "n",
+            "lemmas": [
+              "receiver"
+            ],
+            "definition": "telephone set with the mouthpiece and earpiece mounted on a single handle"
+          }
+        },
+        {
+          "id": "unimet-tsn-mogala-n04401088",
+          "lemma": "mogala",
+          "word_id": "unimet-tsn-mogala",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-mogala-n06272803",
+          "lemma": "mogala",
+          "word_id": "unimet-tsn-mogala",
+          "synset": {
+            "id": "omw-en-06272803-n",
+            "ili": "i69471",
+            "pos": "n",
+            "lemmas": [
+              "phone"
+            ],
+            "definition": "a telephone connection"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-mogala-n03488438::unimet-tsn-mogala-n06272803": {
+          "source": "unimet-tsn-mogala-n03488438",
+          "target": "unimet-tsn-mogala-n06272803",
+          "type": "metonymy"
+        },
+        "unimet-tsn-mogala-n04401088::unimet-tsn-mogala-n06272803": {
+          "source": "unimet-tsn-mogala-n04401088",
+          "target": "unimet-tsn-mogala-n06272803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mokete",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-mokete-n07448038",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-07448038-n",
+            "ili": "i75851",
+            "pos": "n",
+            "lemmas": [
+              "brawl"
+            ],
+            "definition": "an uproarious party"
+          }
+        },
+        {
+          "id": "unimet-tsn-mokete-n07450343",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-07450343-n",
+            "ili": "i75867",
+            "pos": "n",
+            "lemmas": [
+              "jolly"
+            ],
+            "definition": "a happy party"
+          }
+        },
+        {
+          "id": "unimet-tsn-mokete-n07450651",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-07450651-n",
+            "ili": "i75870",
+            "pos": "n",
+            "lemmas": [
+              "jubilation"
+            ],
+            "definition": "a joyful occasion for special festivities to mark some happy event"
+          }
+        },
+        {
+          "id": "unimet-tsn-mokete-n08252602",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-mokete-n07448038",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-07448038-n",
+            "ili": "i75851",
+            "pos": "n",
+            "lemmas": [
+              "brawl"
+            ],
+            "definition": "an uproarious party"
+          }
+        },
+        {
+          "id": "unimet-tsn-mokete-n07450343",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-07450343-n",
+            "ili": "i75867",
+            "pos": "n",
+            "lemmas": [
+              "jolly"
+            ],
+            "definition": "a happy party"
+          }
+        },
+        {
+          "id": "unimet-tsn-mokete-n07450651",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-07450651-n",
+            "ili": "i75870",
+            "pos": "n",
+            "lemmas": [
+              "jubilation"
+            ],
+            "definition": "a joyful occasion for special festivities to mark some happy event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-mokete-n08252602",
+          "lemma": "mokete",
+          "word_id": "unimet-tsn-mokete",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-mokete-n07448038::unimet-tsn-mokete-n08252602": {
+          "source": "unimet-tsn-mokete-n07448038",
+          "target": "unimet-tsn-mokete-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-tsn-mokete-n07450343::unimet-tsn-mokete-n08252602": {
+          "source": "unimet-tsn-mokete-n07450343",
+          "target": "unimet-tsn-mokete-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-tsn-mokete-n07450651::unimet-tsn-mokete-n08252602": {
+          "source": "unimet-tsn-mokete-n07450651",
+          "target": "unimet-tsn-mokete-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "molêtlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-molêtlô-n07447641",
+          "lemma": "molêtlô",
+          "word_id": "unimet-tsn-molêtlô",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-tsn-molêtlô-n07450651",
+          "lemma": "molêtlô",
+          "word_id": "unimet-tsn-molêtlô",
+          "synset": {
+            "id": "omw-en-07450651-n",
+            "ili": "i75870",
+            "pos": "n",
+            "lemmas": [
+              "jubilation"
+            ],
+            "definition": "a joyful occasion for special festivities to mark some happy event"
+          }
+        },
+        {
+          "id": "unimet-tsn-molêtlô-n08252602",
+          "lemma": "molêtlô",
+          "word_id": "unimet-tsn-molêtlô",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-molêtlô-n07447641",
+          "lemma": "molêtlô",
+          "word_id": "unimet-tsn-molêtlô",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-tsn-molêtlô-n07450651",
+          "lemma": "molêtlô",
+          "word_id": "unimet-tsn-molêtlô",
+          "synset": {
+            "id": "omw-en-07450651-n",
+            "ili": "i75870",
+            "pos": "n",
+            "lemmas": [
+              "jubilation"
+            ],
+            "definition": "a joyful occasion for special festivities to mark some happy event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-molêtlô-n08252602",
+          "lemma": "molêtlô",
+          "word_id": "unimet-tsn-molêtlô",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-molêtlô-n07447641::unimet-tsn-molêtlô-n08252602": {
+          "source": "unimet-tsn-molêtlô-n07447641",
+          "target": "unimet-tsn-molêtlô-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-tsn-molêtlô-n07450651::unimet-tsn-molêtlô-n08252602": {
+          "source": "unimet-tsn-molêtlô-n07450651",
+          "target": "unimet-tsn-molêtlô-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mong",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-mong-n10389398",
+          "lemma": "mong",
+          "word_id": "unimet-tsn-mong",
+          "synset": {
+            "id": "omw-en-10389398-n",
+            "ili": "i91808",
+            "pos": "n",
+            "lemmas": [
+              "owner"
+            ],
+            "definition": "a person who owns something"
+          }
+        },
+        {
+          "id": "unimet-tsn-mong-n14479488",
+          "lemma": "mong",
+          "word_id": "unimet-tsn-mong",
+          "synset": {
+            "id": "omw-en-14479488-n",
+            "ili": "i113096",
+            "pos": "n",
+            "lemmas": [
+              "ownership"
+            ],
+            "definition": "the state or fact of being an owner"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-mong-n14479488",
+          "lemma": "mong",
+          "word_id": "unimet-tsn-mong",
+          "synset": {
+            "id": "omw-en-14479488-n",
+            "ili": "i113096",
+            "pos": "n",
+            "lemmas": [
+              "ownership"
+            ],
+            "definition": "the state or fact of being an owner"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-mong-n10389398",
+          "lemma": "mong",
+          "word_id": "unimet-tsn-mong",
+          "synset": {
+            "id": "omw-en-10389398-n",
+            "ili": "i91808",
+            "pos": "n",
+            "lemmas": [
+              "owner"
+            ],
+            "definition": "a person who owns something"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-mong-n14479488::unimet-tsn-mong-n10389398": {
+          "source": "unimet-tsn-mong-n14479488",
+          "target": "unimet-tsn-mong-n10389398",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "motse",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-motse-n08225581",
+          "lemma": "motse",
+          "word_id": "unimet-tsn-motse",
+          "synset": {
+            "id": "omw-en-08225581-n",
+            "ili": "i80336",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "people living in a town or city having local self-government"
+          }
+        },
+        {
+          "id": "unimet-tsn-motse-n08665504",
+          "lemma": "motse",
+          "word_id": "unimet-tsn-motse",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        },
+        {
+          "id": "unimet-tsn-motse-n11346710",
+          "lemma": "motse",
+          "word_id": "unimet-tsn-motse",
+          "synset": {
+            "id": "omw-en-11346710-n",
+            "ili": "i97189",
+            "pos": "n",
+            "lemmas": [
+              "city"
+            ],
+            "definition": "an administrative division of a county"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-motse-n08225581",
+          "lemma": "motse",
+          "word_id": "unimet-tsn-motse",
+          "synset": {
+            "id": "omw-en-08225581-n",
+            "ili": "i80336",
+            "pos": "n",
+            "lemmas": [
+              "municipality"
+            ],
+            "definition": "people living in a town or city having local self-government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-motse-n08665504",
+          "lemma": "motse",
+          "word_id": "unimet-tsn-motse",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        },
+        {
+          "id": "unimet-tsn-motse-n11346710",
+          "lemma": "motse",
+          "word_id": "unimet-tsn-motse",
+          "synset": {
+            "id": "omw-en-11346710-n",
+            "ili": "i97189",
+            "pos": "n",
+            "lemmas": [
+              "city"
+            ],
+            "definition": "an administrative division of a county"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-motse-n08225581::unimet-tsn-motse-n08665504": {
+          "source": "unimet-tsn-motse-n08225581",
+          "target": "unimet-tsn-motse-n08665504",
+          "type": "metonymy"
+        },
+        "unimet-tsn-motse-n08225581::unimet-tsn-motse-n11346710": {
+          "source": "unimet-tsn-motse-n08225581",
+          "target": "unimet-tsn-motse-n11346710",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "moêmêdi",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-moêmêdi-n09777353",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-09777353-n",
+            "ili": "i88114",
+            "pos": "n",
+            "lemmas": [
+              "agent"
+            ],
+            "definition": "a representative who acts on behalf of other persons or organizations"
+          }
+        },
+        {
+          "id": "unimet-tsn-moêmêdi-n10373801",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-10373801-n",
+            "ili": "i91711",
+            "pos": "n",
+            "lemmas": [
+              "agent"
+            ],
+            "definition": "any agent or representative of a federal agency or bureau"
+          }
+        },
+        {
+          "id": "unimet-tsn-moêmêdi-n10522035",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-10522035-n",
+            "ili": "i92534",
+            "pos": "n",
+            "lemmas": [
+              "representative"
+            ],
+            "definition": "a person who represents others"
+          }
+        },
+        {
+          "id": "unimet-tsn-moêmêdi-n14000403",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-14000403-n",
+            "ili": "i110509",
+            "pos": "n",
+            "lemmas": [
+              "representation"
+            ],
+            "definition": "the state of serving as an official and authorized delegate or agent"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-moêmêdi-n14000403",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-14000403-n",
+            "ili": "i110509",
+            "pos": "n",
+            "lemmas": [
+              "representation"
+            ],
+            "definition": "the state of serving as an official and authorized delegate or agent"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-moêmêdi-n09777353",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-09777353-n",
+            "ili": "i88114",
+            "pos": "n",
+            "lemmas": [
+              "agent"
+            ],
+            "definition": "a representative who acts on behalf of other persons or organizations"
+          }
+        },
+        {
+          "id": "unimet-tsn-moêmêdi-n10373801",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-10373801-n",
+            "ili": "i91711",
+            "pos": "n",
+            "lemmas": [
+              "agent"
+            ],
+            "definition": "any agent or representative of a federal agency or bureau"
+          }
+        },
+        {
+          "id": "unimet-tsn-moêmêdi-n10522035",
+          "lemma": "moêmêdi",
+          "word_id": "unimet-tsn-moêmêdi",
+          "synset": {
+            "id": "omw-en-10522035-n",
+            "ili": "i92534",
+            "pos": "n",
+            "lemmas": [
+              "representative"
+            ],
+            "definition": "a person who represents others"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-moêmêdi-n14000403::unimet-tsn-moêmêdi-n09777353": {
+          "source": "unimet-tsn-moêmêdi-n14000403",
+          "target": "unimet-tsn-moêmêdi-n09777353",
+          "type": "metonymy"
+        },
+        "unimet-tsn-moêmêdi-n14000403::unimet-tsn-moêmêdi-n10373801": {
+          "source": "unimet-tsn-moêmêdi-n14000403",
+          "target": "unimet-tsn-moêmêdi-n10373801",
+          "type": "metonymy"
+        },
+        "unimet-tsn-moêmêdi-n14000403::unimet-tsn-moêmêdi-n10522035": {
+          "source": "unimet-tsn-moêmêdi-n14000403",
+          "target": "unimet-tsn-moêmêdi-n10522035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mêtsi",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-mêtsi-n04562658",
+          "lemma": "mêtsi",
+          "word_id": "unimet-tsn-mêtsi",
+          "synset": {
+            "id": "omw-en-04562658-n",
+            "ili": "i61023",
+            "pos": "n",
+            "lemmas": [
+              "water system"
+            ],
+            "definition": "a facility that provides a source of water"
+          }
+        },
+        {
+          "id": "unimet-tsn-mêtsi-n14845743",
+          "lemma": "mêtsi",
+          "word_id": "unimet-tsn-mêtsi",
+          "synset": {
+            "id": "omw-en-14845743-n",
+            "ili": "i115069",
+            "pos": "n",
+            "lemmas": [
+              "water"
+            ],
+            "definition": "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-mêtsi-n14845743",
+          "lemma": "mêtsi",
+          "word_id": "unimet-tsn-mêtsi",
+          "synset": {
+            "id": "omw-en-14845743-n",
+            "ili": "i115069",
+            "pos": "n",
+            "lemmas": [
+              "water"
+            ],
+            "definition": "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-mêtsi-n04562658",
+          "lemma": "mêtsi",
+          "word_id": "unimet-tsn-mêtsi",
+          "synset": {
+            "id": "omw-en-04562658-n",
+            "ili": "i61023",
+            "pos": "n",
+            "lemmas": [
+              "water system"
+            ],
+            "definition": "a facility that provides a source of water"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-mêtsi-n14845743::unimet-tsn-mêtsi-n04562658": {
+          "source": "unimet-tsn-mêtsi-n14845743",
+          "target": "unimet-tsn-mêtsi-n04562658",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pampiri",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-pampiri-n03822171",
+          "lemma": "pampiri",
+          "word_id": "unimet-tsn-pampiri",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        },
+        {
+          "id": "unimet-tsn-pampiri-n06267145",
+          "lemma": "pampiri",
+          "word_id": "unimet-tsn-pampiri",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-pampiri-n03822171",
+          "lemma": "pampiri",
+          "word_id": "unimet-tsn-pampiri",
+          "synset": {
+            "id": "omw-en-03822171-n",
+            "ili": "i56582",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "the physical object that is the product of a newspaper publisher"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-pampiri-n06267145",
+          "lemma": "pampiri",
+          "word_id": "unimet-tsn-pampiri",
+          "synset": {
+            "id": "omw-en-06267145-n",
+            "ili": "i69441",
+            "pos": "n",
+            "lemmas": [
+              "newspaper"
+            ],
+            "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-pampiri-n03822171::unimet-tsn-pampiri-n06267145": {
+          "source": "unimet-tsn-pampiri-n03822171",
+          "target": "unimet-tsn-pampiri-n06267145",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pusô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-pusô-n08168978",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-tsn-pusô-n08558155",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-tsn-pusô-n09824609",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        },
+        {
+          "id": "unimet-tsn-pusô-n13945102",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-13945102-n",
+            "ili": "i110224",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "(of a government or government official) holding an office means being in power"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-pusô-n08168978",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-tsn-pusô-n13945102",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-13945102-n",
+            "ili": "i110224",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "(of a government or government official) holding an office means being in power"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-pusô-n08558155",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        },
+        {
+          "id": "unimet-tsn-pusô-n09824609",
+          "lemma": "pusô",
+          "word_id": "unimet-tsn-pusô",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-pusô-n08168978::unimet-tsn-pusô-n08558155": {
+          "source": "unimet-tsn-pusô-n08168978",
+          "target": "unimet-tsn-pusô-n08558155",
+          "type": "metonymy"
+        },
+        "unimet-tsn-pusô-n13945102::unimet-tsn-pusô-n09824609": {
+          "source": "unimet-tsn-pusô-n13945102",
+          "target": "unimet-tsn-pusô-n09824609",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sefatlhêgô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-sefatlhêgô-n05600637",
+          "lemma": "sefatlhêgô",
+          "word_id": "unimet-tsn-sefatlhêgô",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-tsn-sefatlhêgô-n05601198",
+          "lemma": "sefatlhêgô",
+          "word_id": "unimet-tsn-sefatlhêgô",
+          "synset": {
+            "id": "omw-en-05601198-n",
+            "ili": "i66345",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "the part of an animal corresponding to the human face"
+          }
+        },
+        {
+          "id": "unimet-tsn-sefatlhêgô-n09618957",
+          "lemma": "sefatlhêgô",
+          "word_id": "unimet-tsn-sefatlhêgô",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-sefatlhêgô-n05600637",
+          "lemma": "sefatlhêgô",
+          "word_id": "unimet-tsn-sefatlhêgô",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-tsn-sefatlhêgô-n05601198",
+          "lemma": "sefatlhêgô",
+          "word_id": "unimet-tsn-sefatlhêgô",
+          "synset": {
+            "id": "omw-en-05601198-n",
+            "ili": "i66345",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "the part of an animal corresponding to the human face"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-sefatlhêgô-n09618957",
+          "lemma": "sefatlhêgô",
+          "word_id": "unimet-tsn-sefatlhêgô",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-sefatlhêgô-n05600637::unimet-tsn-sefatlhêgô-n09618957": {
+          "source": "unimet-tsn-sefatlhêgô-n05600637",
+          "target": "unimet-tsn-sefatlhêgô-n09618957",
+          "type": "metonymy"
+        },
+        "unimet-tsn-sefatlhêgô-n05601198::unimet-tsn-sefatlhêgô-n09618957": {
+          "source": "unimet-tsn-sefatlhêgô-n05601198",
+          "target": "unimet-tsn-sefatlhêgô-n09618957",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sefatlhôgô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-sefatlhôgô-n05600637",
+          "lemma": "sefatlhôgô",
+          "word_id": "unimet-tsn-sefatlhôgô",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-tsn-sefatlhôgô-n05601198",
+          "lemma": "sefatlhôgô",
+          "word_id": "unimet-tsn-sefatlhôgô",
+          "synset": {
+            "id": "omw-en-05601198-n",
+            "ili": "i66345",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "the part of an animal corresponding to the human face"
+          }
+        },
+        {
+          "id": "unimet-tsn-sefatlhôgô-n09618957",
+          "lemma": "sefatlhôgô",
+          "word_id": "unimet-tsn-sefatlhôgô",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-sefatlhôgô-n05600637",
+          "lemma": "sefatlhôgô",
+          "word_id": "unimet-tsn-sefatlhôgô",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-tsn-sefatlhôgô-n05601198",
+          "lemma": "sefatlhôgô",
+          "word_id": "unimet-tsn-sefatlhôgô",
+          "synset": {
+            "id": "omw-en-05601198-n",
+            "ili": "i66345",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "the part of an animal corresponding to the human face"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-sefatlhôgô-n09618957",
+          "lemma": "sefatlhôgô",
+          "word_id": "unimet-tsn-sefatlhôgô",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-sefatlhôgô-n05600637::unimet-tsn-sefatlhôgô-n09618957": {
+          "source": "unimet-tsn-sefatlhôgô-n05600637",
+          "target": "unimet-tsn-sefatlhôgô-n09618957",
+          "type": "metonymy"
+        },
+        "unimet-tsn-sefatlhôgô-n05601198::unimet-tsn-sefatlhôgô-n09618957": {
+          "source": "unimet-tsn-sefatlhôgô-n05601198",
+          "target": "unimet-tsn-sefatlhôgô-n09618957",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sekôlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-sekôlô-n04146050",
+          "lemma": "sekôlô",
+          "word_id": "unimet-tsn-sekôlô",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-tsn-sekôlô-n08276720",
+          "lemma": "sekôlô",
+          "word_id": "unimet-tsn-sekôlô",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-sekôlô-n04146050",
+          "lemma": "sekôlô",
+          "word_id": "unimet-tsn-sekôlô",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-sekôlô-n08276720",
+          "lemma": "sekôlô",
+          "word_id": "unimet-tsn-sekôlô",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-sekôlô-n04146050::unimet-tsn-sekôlô-n08276720": {
+          "source": "unimet-tsn-sekôlô-n04146050",
+          "target": "unimet-tsn-sekôlô-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "seyalemowa",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-seyalemowa-n04041544",
+          "lemma": "seyalemowa",
+          "word_id": "unimet-tsn-seyalemowa",
+          "synset": {
+            "id": "omw-en-04041544-n",
+            "ili": "i57892",
+            "pos": "n",
+            "lemmas": [
+              "wireless"
+            ],
+            "definition": "a communication system based on broadcasting electromagnetic waves"
+          }
+        },
+        {
+          "id": "unimet-tsn-seyalemowa-n06277135",
+          "lemma": "seyalemowa",
+          "word_id": "unimet-tsn-seyalemowa",
+          "synset": {
+            "id": "omw-en-06277135-n",
+            "ili": "i69498",
+            "pos": "n",
+            "lemmas": [
+              "radio"
+            ],
+            "definition": "medium for communication"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-seyalemowa-n04041544",
+          "lemma": "seyalemowa",
+          "word_id": "unimet-tsn-seyalemowa",
+          "synset": {
+            "id": "omw-en-04041544-n",
+            "ili": "i57892",
+            "pos": "n",
+            "lemmas": [
+              "wireless"
+            ],
+            "definition": "a communication system based on broadcasting electromagnetic waves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-seyalemowa-n06277135",
+          "lemma": "seyalemowa",
+          "word_id": "unimet-tsn-seyalemowa",
+          "synset": {
+            "id": "omw-en-06277135-n",
+            "ili": "i69498",
+            "pos": "n",
+            "lemmas": [
+              "radio"
+            ],
+            "definition": "medium for communication"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-seyalemowa-n04041544::unimet-tsn-seyalemowa-n06277135": {
+          "source": "unimet-tsn-seyalemowa-n04041544",
+          "target": "unimet-tsn-seyalemowa-n06277135",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "thaka",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-thaka-n09945905",
+          "lemma": "thaka",
+          "word_id": "unimet-tsn-thaka",
+          "synset": {
+            "id": "omw-en-09945905-n",
+            "ili": "i89126",
+            "pos": "n",
+            "lemmas": [
+              "associate"
+            ],
+            "definition": "a person who is frequently in the company of another"
+          }
+        },
+        {
+          "id": "unimet-tsn-thaka-n13929588",
+          "lemma": "thaka",
+          "word_id": "unimet-tsn-thaka",
+          "synset": {
+            "id": "omw-en-13929588-n",
+            "ili": "i110144",
+            "pos": "n",
+            "lemmas": [
+              "fellowship"
+            ],
+            "definition": "the state of being with someone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-thaka-n13929588",
+          "lemma": "thaka",
+          "word_id": "unimet-tsn-thaka",
+          "synset": {
+            "id": "omw-en-13929588-n",
+            "ili": "i110144",
+            "pos": "n",
+            "lemmas": [
+              "fellowship"
+            ],
+            "definition": "the state of being with someone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-thaka-n09945905",
+          "lemma": "thaka",
+          "word_id": "unimet-tsn-thaka",
+          "synset": {
+            "id": "omw-en-09945905-n",
+            "ili": "i89126",
+            "pos": "n",
+            "lemmas": [
+              "associate"
+            ],
+            "definition": "a person who is frequently in the company of another"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-thaka-n13929588::unimet-tsn-thaka-n09945905": {
+          "source": "unimet-tsn-thaka-n13929588",
+          "target": "unimet-tsn-thaka-n09945905",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "thata",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-thata-n05190804",
+          "lemma": "thata",
+          "word_id": "unimet-tsn-thata",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        },
+        {
+          "id": "unimet-tsn-thata-n09824609",
+          "lemma": "thata",
+          "word_id": "unimet-tsn-thata",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        },
+        {
+          "id": "unimet-tsn-thata-n10461424",
+          "lemma": "thata",
+          "word_id": "unimet-tsn-thata",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-thata-n05190804",
+          "lemma": "thata",
+          "word_id": "unimet-tsn-thata",
+          "synset": {
+            "id": "omw-en-05190804-n",
+            "ili": "i64253",
+            "pos": "n",
+            "lemmas": [
+              "hardiness"
+            ],
+            "definition": "possession of controlling influence"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-thata-n09824609",
+          "lemma": "thata",
+          "word_id": "unimet-tsn-thata",
+          "synset": {
+            "id": "omw-en-09824609-n",
+            "ili": "i88364",
+            "pos": "n",
+            "lemmas": [
+              "authority"
+            ],
+            "definition": "(usually plural) persons who exercise (administrative) control over others"
+          }
+        },
+        {
+          "id": "unimet-tsn-thata-n10461424",
+          "lemma": "thata",
+          "word_id": "unimet-tsn-thata",
+          "synset": {
+            "id": "omw-en-10461424-n",
+            "ili": "i92181",
+            "pos": "n",
+            "lemmas": [
+              "power"
+            ],
+            "definition": "one possessing or exercising power or influence or authority"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-thata-n05190804::unimet-tsn-thata-n09824609": {
+          "source": "unimet-tsn-thata-n05190804",
+          "target": "unimet-tsn-thata-n09824609",
+          "type": "metonymy"
+        },
+        "unimet-tsn-thata-n05190804::unimet-tsn-thata-n10461424": {
+          "source": "unimet-tsn-thata-n05190804",
+          "target": "unimet-tsn-thata-n10461424",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tlelapa",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-tlelapa-n03054311",
+          "lemma": "tlelapa",
+          "word_id": "unimet-tsn-tlelapa",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        },
+        {
+          "id": "unimet-tsn-tlelapa-n08227214",
+          "lemma": "tlelapa",
+          "word_id": "unimet-tsn-tlelapa",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-tlelapa-n03054311",
+          "lemma": "tlelapa",
+          "word_id": "unimet-tsn-tlelapa",
+          "synset": {
+            "id": "omw-en-03054311-n",
+            "ili": "i52068",
+            "pos": "n",
+            "lemmas": [
+              "club"
+            ],
+            "definition": "a building that is occupied by a social club"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-tlelapa-n08227214",
+          "lemma": "tlelapa",
+          "word_id": "unimet-tsn-tlelapa",
+          "synset": {
+            "id": "omw-en-08227214-n",
+            "ili": "i80347",
+            "pos": "n",
+            "lemmas": [
+              "gild"
+            ],
+            "definition": "a formal association of people with similar interests"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-tlelapa-n03054311::unimet-tsn-tlelapa-n08227214": {
+          "source": "unimet-tsn-tlelapa-n03054311",
+          "target": "unimet-tsn-tlelapa-n08227214",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tlhale",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-tlhale-n04426788",
+          "lemma": "tlhale",
+          "word_id": "unimet-tsn-tlhale",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-tsn-tlhale-n14866889",
+          "lemma": "tlhale",
+          "word_id": "unimet-tsn-tlhale",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-tlhale-n14866889",
+          "lemma": "tlhale",
+          "word_id": "unimet-tsn-tlhale",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-tlhale-n04426788",
+          "lemma": "tlhale",
+          "word_id": "unimet-tsn-tlhale",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-tlhale-n14866889::unimet-tsn-tlhale-n04426788": {
+          "source": "unimet-tsn-tlhale-n14866889",
+          "target": "unimet-tsn-tlhale-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tlhobaêlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-tlhobaêlô-n05832264",
+          "lemma": "tlhobaêlô",
+          "word_id": "unimet-tsn-tlhobaêlô",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-tsn-tlhobaêlô-n07523905",
+          "lemma": "tlhobaêlô",
+          "word_id": "unimet-tsn-tlhobaêlô",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        },
+        {
+          "id": "unimet-tsn-tlhobaêlô-n07524242",
+          "lemma": "tlhobaêlô",
+          "word_id": "unimet-tsn-tlhobaêlô",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-tlhobaêlô-n07523905",
+          "lemma": "tlhobaêlô",
+          "word_id": "unimet-tsn-tlhobaêlô",
+          "synset": {
+            "id": "omw-en-07523905-n",
+            "ili": "i76293",
+            "pos": "n",
+            "lemmas": [
+              "anxiety"
+            ],
+            "definition": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+          }
+        },
+        {
+          "id": "unimet-tsn-tlhobaêlô-n07524242",
+          "lemma": "tlhobaêlô",
+          "word_id": "unimet-tsn-tlhobaêlô",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-tlhobaêlô-n05832264",
+          "lemma": "tlhobaêlô",
+          "word_id": "unimet-tsn-tlhobaêlô",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-tlhobaêlô-n07523905::unimet-tsn-tlhobaêlô-n05832264": {
+          "source": "unimet-tsn-tlhobaêlô-n07523905",
+          "target": "unimet-tsn-tlhobaêlô-n05832264",
+          "type": "metonymy"
+        },
+        "unimet-tsn-tlhobaêlô-n07524242::unimet-tsn-tlhobaêlô-n05832264": {
+          "source": "unimet-tsn-tlhobaêlô-n07524242",
+          "target": "unimet-tsn-tlhobaêlô-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tshipi",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-tshipi-n03585337",
+          "lemma": "tshipi",
+          "word_id": "unimet-tsn-tshipi",
+          "synset": {
+            "id": "omw-en-03585337-n",
+            "ili": "i55183",
+            "pos": "n",
+            "lemmas": [
+              "crimper"
+            ],
+            "definition": "implement used to brand live stock"
+          }
+        },
+        {
+          "id": "unimet-tsn-tshipi-n14642417",
+          "lemma": "tshipi",
+          "word_id": "unimet-tsn-tshipi",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        },
+        {
+          "id": "unimet-tsn-tshipi-n14801921",
+          "lemma": "tshipi",
+          "word_id": "unimet-tsn-tshipi",
+          "synset": {
+            "id": "omw-en-14801921-n",
+            "ili": "i114823",
+            "pos": "n",
+            "lemmas": [
+              "cast iron"
+            ],
+            "definition": "an alloy of iron containing so much carbon that it is brittle and so cannot be wrought but must be shaped by casting"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-tshipi-n14642417",
+          "lemma": "tshipi",
+          "word_id": "unimet-tsn-tshipi",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        },
+        {
+          "id": "unimet-tsn-tshipi-n14801921",
+          "lemma": "tshipi",
+          "word_id": "unimet-tsn-tshipi",
+          "synset": {
+            "id": "omw-en-14801921-n",
+            "ili": "i114823",
+            "pos": "n",
+            "lemmas": [
+              "cast iron"
+            ],
+            "definition": "an alloy of iron containing so much carbon that it is brittle and so cannot be wrought but must be shaped by casting"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-tshipi-n03585337",
+          "lemma": "tshipi",
+          "word_id": "unimet-tsn-tshipi",
+          "synset": {
+            "id": "omw-en-03585337-n",
+            "ili": "i55183",
+            "pos": "n",
+            "lemmas": [
+              "crimper"
+            ],
+            "definition": "implement used to brand live stock"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-tshipi-n14642417::unimet-tsn-tshipi-n03585337": {
+          "source": "unimet-tsn-tshipi-n14642417",
+          "target": "unimet-tsn-tshipi-n03585337",
+          "type": "metonymy"
+        },
+        "unimet-tsn-tshipi-n14801921::unimet-tsn-tshipi-n03585337": {
+          "source": "unimet-tsn-tshipi-n14801921",
+          "target": "unimet-tsn-tshipi-n03585337",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tsholofêlô",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-tsholofêlô-n07510923",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07510923-n",
+            "ili": "i76220",
+            "pos": "n",
+            "lemmas": [
+              "expectation"
+            ],
+            "definition": "the feeling that something is about to happen"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n07511080",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07511080-n",
+            "ili": "i76221",
+            "pos": "n",
+            "lemmas": [
+              "anticipation"
+            ],
+            "definition": "pleasurable expectation"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n07511733",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n07541053",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n10184946",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-tsholofêlô-n07510923",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07510923-n",
+            "ili": "i76220",
+            "pos": "n",
+            "lemmas": [
+              "expectation"
+            ],
+            "definition": "the feeling that something is about to happen"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n07511080",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07511080-n",
+            "ili": "i76221",
+            "pos": "n",
+            "lemmas": [
+              "anticipation"
+            ],
+            "definition": "pleasurable expectation"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n07511733",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-tsn-tsholofêlô-n07541053",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-tsholofêlô-n10184946",
+          "lemma": "tsholofêlô",
+          "word_id": "unimet-tsn-tsholofêlô",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-tsholofêlô-n07510923::unimet-tsn-tsholofêlô-n10184946": {
+          "source": "unimet-tsn-tsholofêlô-n07510923",
+          "target": "unimet-tsn-tsholofêlô-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-tsn-tsholofêlô-n07511080::unimet-tsn-tsholofêlô-n10184946": {
+          "source": "unimet-tsn-tsholofêlô-n07511080",
+          "target": "unimet-tsn-tsholofêlô-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-tsn-tsholofêlô-n07511733::unimet-tsn-tsholofêlô-n10184946": {
+          "source": "unimet-tsn-tsholofêlô-n07511733",
+          "target": "unimet-tsn-tsholofêlô-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-tsn-tsholofêlô-n07541053::unimet-tsn-tsholofêlô-n10184946": {
+          "source": "unimet-tsn-tsholofêlô-n07541053",
+          "target": "unimet-tsn-tsholofêlô-n10184946",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tutuma",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-tutuma-n14336539",
+          "lemma": "tutuma",
+          "word_id": "unimet-tsn-tutuma",
+          "synset": {
+            "id": "omw-en-14336539-n",
+            "ili": "i112305",
+            "pos": "n",
+            "lemmas": [
+              "rubor"
+            ],
+            "definition": "a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat"
+          }
+        },
+        {
+          "id": "unimet-tsn-tutuma-v00063724",
+          "lemma": "tutuma",
+          "word_id": "unimet-tsn-tutuma",
+          "synset": {
+            "id": "omw-en-00063724-v",
+            "ili": "i22096",
+            "pos": "v",
+            "lemmas": [
+              "inflame"
+            ],
+            "definition": "cause inflammation in"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-tutuma-v00063724",
+          "lemma": "tutuma",
+          "word_id": "unimet-tsn-tutuma",
+          "synset": {
+            "id": "omw-en-00063724-v",
+            "ili": "i22096",
+            "pos": "v",
+            "lemmas": [
+              "inflame"
+            ],
+            "definition": "cause inflammation in"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-tutuma-n14336539",
+          "lemma": "tutuma",
+          "word_id": "unimet-tsn-tutuma",
+          "synset": {
+            "id": "omw-en-14336539-n",
+            "ili": "i112305",
+            "pos": "n",
+            "lemmas": [
+              "rubor"
+            ],
+            "definition": "a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-tutuma-v00063724::unimet-tsn-tutuma-n14336539": {
+          "source": "unimet-tsn-tutuma-v00063724",
+          "target": "unimet-tsn-tutuma-n14336539",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "šaga",
+      "all_senses": [
+        {
+          "id": "unimet-tsn-šaga-n03996145",
+          "lemma": "šaga",
+          "word_id": "unimet-tsn-šaga",
+          "synset": {
+            "id": "omw-en-03996145-n",
+            "ili": "i57630",
+            "pos": "n",
+            "lemmas": [
+              "chainsaw"
+            ],
+            "definition": "a power tool for cutting wood"
+          }
+        },
+        {
+          "id": "unimet-tsn-šaga-n04140064",
+          "lemma": "šaga",
+          "word_id": "unimet-tsn-šaga",
+          "synset": {
+            "id": "omw-en-04140064-n",
+            "ili": "i58480",
+            "pos": "n",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "hand tool having a toothed blade for cutting"
+          }
+        },
+        {
+          "id": "unimet-tsn-šaga-v01559590",
+          "lemma": "šaga",
+          "word_id": "unimet-tsn-šaga",
+          "synset": {
+            "id": "omw-en-01559590-v",
+            "ili": "i29527",
+            "pos": "v",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "cut with a saw"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tsn-šaga-n03996145",
+          "lemma": "šaga",
+          "word_id": "unimet-tsn-šaga",
+          "synset": {
+            "id": "omw-en-03996145-n",
+            "ili": "i57630",
+            "pos": "n",
+            "lemmas": [
+              "chainsaw"
+            ],
+            "definition": "a power tool for cutting wood"
+          }
+        },
+        {
+          "id": "unimet-tsn-šaga-n04140064",
+          "lemma": "šaga",
+          "word_id": "unimet-tsn-šaga",
+          "synset": {
+            "id": "omw-en-04140064-n",
+            "ili": "i58480",
+            "pos": "n",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "hand tool having a toothed blade for cutting"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tsn-šaga-v01559590",
+          "lemma": "šaga",
+          "word_id": "unimet-tsn-šaga",
+          "synset": {
+            "id": "omw-en-01559590-v",
+            "ili": "i29527",
+            "pos": "v",
+            "lemmas": [
+              "saw"
+            ],
+            "definition": "cut with a saw"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tsn-šaga-n03996145::unimet-tsn-šaga-v01559590": {
+          "source": "unimet-tsn-šaga-n03996145",
+          "target": "unimet-tsn-šaga-v01559590",
+          "type": "metonymy"
+        },
+        "unimet-tsn-šaga-n04140064::unimet-tsn-šaga-v01559590": {
+          "source": "unimet-tsn-šaga-n04140064",
+          "target": "unimet-tsn-šaga-v01559590",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

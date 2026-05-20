@@ -1,0 +1,1265 @@
+{
+  "id": "f9ab4eaa465c1e46",
+  "name": "unimet-Georgian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kat",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ანანასი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ანანასი-n07753275",
+          "lemma": "ანანასი",
+          "word_id": "unimet-kat-ანანასი",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-kat-ანანასი-n12607456",
+          "lemma": "ანანასი",
+          "word_id": "unimet-kat-ანანასი",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ანანასი-n07753275",
+          "lemma": "ანანასი",
+          "word_id": "unimet-kat-ანანასი",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ანანასი-n12607456",
+          "lemma": "ანანასი",
+          "word_id": "unimet-kat-ანანასი",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ანანასი-n07753275::unimet-kat-ანანასი-n12607456": {
+          "source": "unimet-kat-ანანასი-n07753275",
+          "target": "unimet-kat-ანანასი-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ბოლოკი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ბოლოკი-n07735687",
+          "lemma": "ბოლოკი",
+          "word_id": "unimet-kat-ბოლოკი",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-kat-ბოლოკი-n11894327",
+          "lemma": "ბოლოკი",
+          "word_id": "unimet-kat-ბოლოკი",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ბოლოკი-n11894327",
+          "lemma": "ბოლოკი",
+          "word_id": "unimet-kat-ბოლოკი",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ბოლოკი-n07735687",
+          "lemma": "ბოლოკი",
+          "word_id": "unimet-kat-ბოლოკი",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ბოლოკი-n11894327::unimet-kat-ბოლოკი-n07735687": {
+          "source": "unimet-kat-ბოლოკი-n11894327",
+          "target": "unimet-kat-ბოლოკი-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "კაკალი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-კაკალი-n12318378",
+          "lemma": "კაკალი",
+          "word_id": "unimet-kat-კაკალი",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        },
+        {
+          "id": "unimet-kat-კაკალი-n13136556",
+          "lemma": "კაკალი",
+          "word_id": "unimet-kat-კაკალი",
+          "synset": {
+            "id": "omw-en-13136556-n",
+            "ili": "i105680",
+            "pos": "n",
+            "lemmas": [
+              "nut"
+            ],
+            "definition": "usually large hard-shelled seed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-კაკალი-n12318378",
+          "lemma": "კაკალი",
+          "word_id": "unimet-kat-კაკალი",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-კაკალი-n13136556",
+          "lemma": "კაკალი",
+          "word_id": "unimet-kat-კაკალი",
+          "synset": {
+            "id": "omw-en-13136556-n",
+            "ili": "i105680",
+            "pos": "n",
+            "lemmas": [
+              "nut"
+            ],
+            "definition": "usually large hard-shelled seed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-კაკალი-n12318378::unimet-kat-კაკალი-n13136556": {
+          "source": "unimet-kat-კაკალი-n12318378",
+          "target": "unimet-kat-კაკალი-n13136556",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "კრისტალი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-კრისტალი-n03142834",
+          "lemma": "კრისტალი",
+          "word_id": "unimet-kat-კრისტალი",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-kat-კრისტალი-n14883206",
+          "lemma": "კრისტალი",
+          "word_id": "unimet-kat-კრისტალი",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-კრისტალი-n14883206",
+          "lemma": "კრისტალი",
+          "word_id": "unimet-kat-კრისტალი",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-კრისტალი-n03142834",
+          "lemma": "კრისტალი",
+          "word_id": "unimet-kat-კრისტალი",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-კრისტალი-n14883206::unimet-kat-კრისტალი-n03142834": {
+          "source": "unimet-kat-კრისტალი-n14883206",
+          "target": "unimet-kat-კრისტალი-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "მატყლი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-მატყლი-n04599235",
+          "lemma": "მატყლი",
+          "word_id": "unimet-kat-მატყლი",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-kat-მატყლი-n15104217",
+          "lemma": "მატყლი",
+          "word_id": "unimet-kat-მატყლი",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-მატყლი-n15104217",
+          "lemma": "მატყლი",
+          "word_id": "unimet-kat-მატყლი",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-მატყლი-n04599235",
+          "lemma": "მატყლი",
+          "word_id": "unimet-kat-მატყლი",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-მატყლი-n15104217::unimet-kat-მატყლი-n04599235": {
+          "source": "unimet-kat-მატყლი-n15104217",
+          "target": "unimet-kat-მატყლი-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ოსპი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ოსპი-n07725255",
+          "lemma": "ოსპი",
+          "word_id": "unimet-kat-ოსპი",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-kat-ოსპი-n12544240",
+          "lemma": "ოსპი",
+          "word_id": "unimet-kat-ოსპი",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ოსპი-n12544240",
+          "lemma": "ოსპი",
+          "word_id": "unimet-kat-ოსპი",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ოსპი-n07725255",
+          "lemma": "ოსპი",
+          "word_id": "unimet-kat-ოსპი",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ოსპი-n12544240::unimet-kat-ოსპი-n07725255": {
+          "source": "unimet-kat-ოსპი-n12544240",
+          "target": "unimet-kat-ოსპი-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "სამეფო",
+      "all_senses": [
+        {
+          "id": "unimet-kat-სამეფო-n08405603",
+          "lemma": "სამეფო",
+          "word_id": "unimet-kat-სამეფო",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-kat-სამეფო-n08558155",
+          "lemma": "სამეფო",
+          "word_id": "unimet-kat-სამეფო",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-სამეფო-n08405603",
+          "lemma": "სამეფო",
+          "word_id": "unimet-kat-სამეფო",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-სამეფო-n08558155",
+          "lemma": "სამეფო",
+          "word_id": "unimet-kat-სამეფო",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-სამეფო-n08405603::unimet-kat-სამეფო-n08558155": {
+          "source": "unimet-kat-სამეფო-n08405603",
+          "target": "unimet-kat-სამეფო-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "სოკო",
+      "all_senses": [
+        {
+          "id": "unimet-kat-სოკო-n07734744",
+          "lemma": "სოკო",
+          "word_id": "unimet-kat-სოკო",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-kat-სოკო-n12992868",
+          "lemma": "სოკო",
+          "word_id": "unimet-kat-სოკო",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-სოკო-n12992868",
+          "lemma": "სოკო",
+          "word_id": "unimet-kat-სოკო",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-სოკო-n07734744",
+          "lemma": "სოკო",
+          "word_id": "unimet-kat-სოკო",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-სოკო-n12992868::unimet-kat-სოკო-n07734744": {
+          "source": "unimet-kat-სოკო-n12992868",
+          "target": "unimet-kat-სოკო-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "სოფელი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-სოფელი-n08226699",
+          "lemma": "სოფელი",
+          "word_id": "unimet-kat-სოფელი",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-kat-სოფელი-n08644722",
+          "lemma": "სოფელი",
+          "word_id": "unimet-kat-სოფელი",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-kat-სოფელი-n08672738",
+          "lemma": "სოფელი",
+          "word_id": "unimet-kat-სოფელი",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-სოფელი-n08226699",
+          "lemma": "სოფელი",
+          "word_id": "unimet-kat-სოფელი",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-სოფელი-n08644722",
+          "lemma": "სოფელი",
+          "word_id": "unimet-kat-სოფელი",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-kat-სოფელი-n08672738",
+          "lemma": "სოფელი",
+          "word_id": "unimet-kat-სოფელი",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-სოფელი-n08226699::unimet-kat-სოფელი-n08644722": {
+          "source": "unimet-kat-სოფელი-n08226699",
+          "target": "unimet-kat-სოფელი-n08644722",
+          "type": "metonymy"
+        },
+        "unimet-kat-სოფელი-n08226699::unimet-kat-სოფელი-n08672738": {
+          "source": "unimet-kat-სოფელი-n08226699",
+          "target": "unimet-kat-სოფელი-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ტყვია",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ტყვია-n02916350",
+          "lemma": "ტყვია",
+          "word_id": "unimet-kat-ტყვია",
+          "synset": {
+            "id": "omw-en-02916350-n",
+            "ili": "i51232",
+            "pos": "n",
+            "lemmas": [
+              "slug"
+            ],
+            "definition": "a projectile that is fired from a gun"
+          }
+        },
+        {
+          "id": "unimet-kat-ტყვია-n14643467",
+          "lemma": "ტყვია",
+          "word_id": "unimet-kat-ტყვია",
+          "synset": {
+            "id": "omw-en-14643467-n",
+            "ili": "i113959",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 82"
+            ],
+            "definition": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ტყვია-n14643467",
+          "lemma": "ტყვია",
+          "word_id": "unimet-kat-ტყვია",
+          "synset": {
+            "id": "omw-en-14643467-n",
+            "ili": "i113959",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 82"
+            ],
+            "definition": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ტყვია-n02916350",
+          "lemma": "ტყვია",
+          "word_id": "unimet-kat-ტყვია",
+          "synset": {
+            "id": "omw-en-02916350-n",
+            "ili": "i51232",
+            "pos": "n",
+            "lemmas": [
+              "slug"
+            ],
+            "definition": "a projectile that is fired from a gun"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ტყვია-n14643467::unimet-kat-ტყვია-n02916350": {
+          "source": "unimet-kat-ტყვია-n14643467",
+          "target": "unimet-kat-ტყვია-n02916350",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ფორთოხალი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ფორთოხალი-n07747607",
+          "lemma": "ფორთოხალი",
+          "word_id": "unimet-kat-ფორთოხალი",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-kat-ფორთოხალი-n12708293",
+          "lemma": "ფორთოხალი",
+          "word_id": "unimet-kat-ფორთოხალი",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ფორთოხალი-n07747607",
+          "lemma": "ფორთოხალი",
+          "word_id": "unimet-kat-ფორთოხალი",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ფორთოხალი-n12708293",
+          "lemma": "ფორთოხალი",
+          "word_id": "unimet-kat-ფორთოხალი",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ფორთოხალი-n07747607::unimet-kat-ფორთოხალი-n12708293": {
+          "source": "unimet-kat-ფორთოხალი-n07747607",
+          "target": "unimet-kat-ფორთოხალი-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ქვეყანა",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ქვეყანა-n08168978",
+          "lemma": "ქვეყანა",
+          "word_id": "unimet-kat-ქვეყანა",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-kat-ქვეყანა-n08544813",
+          "lemma": "ქვეყანა",
+          "word_id": "unimet-kat-ქვეყანა",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ქვეყანა-n08168978",
+          "lemma": "ქვეყანა",
+          "word_id": "unimet-kat-ქვეყანა",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ქვეყანა-n08544813",
+          "lemma": "ქვეყანა",
+          "word_id": "unimet-kat-ქვეყანა",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ქვეყანა-n08168978::unimet-kat-ქვეყანა-n08544813": {
+          "source": "unimet-kat-ქვეყანა-n08168978",
+          "target": "unimet-kat-ქვეყანა-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ქოქოსი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ქოქოსი-n07772935",
+          "lemma": "ქოქოსი",
+          "word_id": "unimet-kat-ქოქოსი",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-kat-ქოქოსი-n12587803",
+          "lemma": "ქოქოსი",
+          "word_id": "unimet-kat-ქოქოსი",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ქოქოსი-n07772935",
+          "lemma": "ქოქოსი",
+          "word_id": "unimet-kat-ქოქოსი",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ქოქოსი-n12587803",
+          "lemma": "ქოქოსი",
+          "word_id": "unimet-kat-ქოქოსი",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ქოქოსი-n07772935::unimet-kat-ქოქოსი-n12587803": {
+          "source": "unimet-kat-ქოქოსი-n07772935",
+          "target": "unimet-kat-ქოქოსი-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ჭამა",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ჭამა-n07573696",
+          "lemma": "ჭამა",
+          "word_id": "unimet-kat-ჭამა",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        },
+        {
+          "id": "unimet-kat-ჭამა-v01168468",
+          "lemma": "ჭამა",
+          "word_id": "unimet-kat-ჭამა",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ჭამა-n07573696",
+          "lemma": "ჭამა",
+          "word_id": "unimet-kat-ჭამა",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ჭამა-v01168468",
+          "lemma": "ჭამა",
+          "word_id": "unimet-kat-ჭამა",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ჭამა-n07573696::unimet-kat-ჭამა-v01168468": {
+          "source": "unimet-kat-ჭამა-n07573696",
+          "target": "unimet-kat-ჭამა-v01168468",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ჭერამი",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ჭერამი-n07750872",
+          "lemma": "ჭერამი",
+          "word_id": "unimet-kat-ჭერამი",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-kat-ჭერამი-n12640607",
+          "lemma": "ჭერამი",
+          "word_id": "unimet-kat-ჭერამი",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ჭერამი-n07750872",
+          "lemma": "ჭერამი",
+          "word_id": "unimet-kat-ჭერამი",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ჭერამი-n12640607",
+          "lemma": "ჭერამი",
+          "word_id": "unimet-kat-ჭერამი",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ჭერამი-n07750872::unimet-kat-ჭერამი-n12640607": {
+          "source": "unimet-kat-ჭერამი-n07750872",
+          "target": "unimet-kat-ჭერამი-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ხურმა",
+      "all_senses": [
+        {
+          "id": "unimet-kat-ხურმა-n07746186",
+          "lemma": "ხურმა",
+          "word_id": "unimet-kat-ხურმა",
+          "synset": {
+            "id": "omw-en-07746186-n",
+            "ili": "i77755",
+            "pos": "n",
+            "lemmas": [
+              "persimmon"
+            ],
+            "definition": "orange fruit resembling a plum; edible when fully ripe"
+          }
+        },
+        {
+          "id": "unimet-kat-ხურმა-n12771192",
+          "lemma": "ხურმა",
+          "word_id": "unimet-kat-ხურმა",
+          "synset": {
+            "id": "omw-en-12771192-n",
+            "ili": "i103941",
+            "pos": "n",
+            "lemmas": [
+              "persimmon tree"
+            ],
+            "definition": "any of several tropical trees of the genus Diospyros"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kat-ხურმა-n07746186",
+          "lemma": "ხურმა",
+          "word_id": "unimet-kat-ხურმა",
+          "synset": {
+            "id": "omw-en-07746186-n",
+            "ili": "i77755",
+            "pos": "n",
+            "lemmas": [
+              "persimmon"
+            ],
+            "definition": "orange fruit resembling a plum; edible when fully ripe"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kat-ხურმა-n12771192",
+          "lemma": "ხურმა",
+          "word_id": "unimet-kat-ხურმა",
+          "synset": {
+            "id": "omw-en-12771192-n",
+            "ili": "i103941",
+            "pos": "n",
+            "lemmas": [
+              "persimmon tree"
+            ],
+            "definition": "any of several tropical trees of the genus Diospyros"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kat-ხურმა-n07746186::unimet-kat-ხურმა-n12771192": {
+          "source": "unimet-kat-ხურმა-n07746186",
+          "target": "unimet-kat-ხურმა-n12771192",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

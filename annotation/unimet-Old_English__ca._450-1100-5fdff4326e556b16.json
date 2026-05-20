@@ -1,0 +1,244 @@
+{
+  "id": "5fdff4326e556b16",
+  "name": "unimet-Old English (ca. 450-1100)",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ang",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "plume",
+      "all_senses": [
+        {
+          "id": "unimet-ang-plume-n07751451",
+          "lemma": "plume",
+          "word_id": "unimet-ang-plume",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-ang-plume-n12638218",
+          "lemma": "plume",
+          "word_id": "unimet-ang-plume",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ang-plume-n07751451",
+          "lemma": "plume",
+          "word_id": "unimet-ang-plume",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ang-plume-n12638218",
+          "lemma": "plume",
+          "word_id": "unimet-ang-plume",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ang-plume-n07751451::unimet-ang-plume-n12638218": {
+          "source": "unimet-ang-plume-n07751451",
+          "target": "unimet-ang-plume-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "streawberige",
+      "all_senses": [
+        {
+          "id": "unimet-ang-streawberige-n07745940",
+          "lemma": "streawberige",
+          "word_id": "unimet-ang-streawberige",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-ang-streawberige-n12630144",
+          "lemma": "streawberige",
+          "word_id": "unimet-ang-streawberige",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ang-streawberige-n07745940",
+          "lemma": "streawberige",
+          "word_id": "unimet-ang-streawberige",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ang-streawberige-n12630144",
+          "lemma": "streawberige",
+          "word_id": "unimet-ang-streawberige",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ang-streawberige-n07745940::unimet-ang-streawberige-n12630144": {
+          "source": "unimet-ang-streawberige-n07745940",
+          "target": "unimet-ang-streawberige-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "wynn",
+      "all_senses": [
+        {
+          "id": "unimet-ang-wynn-n05829782",
+          "lemma": "wynn",
+          "word_id": "unimet-ang-wynn",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-ang-wynn-n07527352",
+          "lemma": "wynn",
+          "word_id": "unimet-ang-wynn",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ang-wynn-n07527352",
+          "lemma": "wynn",
+          "word_id": "unimet-ang-wynn",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ang-wynn-n05829782",
+          "lemma": "wynn",
+          "word_id": "unimet-ang-wynn",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ang-wynn-n07527352::unimet-ang-wynn-n05829782": {
+          "source": "unimet-ang-wynn-n07527352",
+          "target": "unimet-ang-wynn-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

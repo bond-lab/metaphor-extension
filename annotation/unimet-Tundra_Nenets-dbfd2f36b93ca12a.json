@@ -1,0 +1,92 @@
+{
+  "id": "dbfd2f36b93ca12a",
+  "name": "unimet-Tundra Nenets",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "yrk",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "сидерˮ",
+      "all_senses": [
+        {
+          "id": "unimet-yrk-сидерˮ-n04587648",
+          "lemma": "сидерˮ",
+          "word_id": "unimet-yrk-сидерˮ",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "unimet-yrk-сидерˮ-n14881303",
+          "lemma": "сидерˮ",
+          "word_id": "unimet-yrk-сидерˮ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-yrk-сидерˮ-n14881303",
+          "lemma": "сидерˮ",
+          "word_id": "unimet-yrk-сидерˮ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-yrk-сидерˮ-n04587648",
+          "lemma": "сидерˮ",
+          "word_id": "unimet-yrk-сидерˮ",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-yrk-сидерˮ-n14881303::unimet-yrk-сидерˮ-n04587648": {
+          "source": "unimet-yrk-сидерˮ-n14881303",
+          "target": "unimet-yrk-сидерˮ-n04587648",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

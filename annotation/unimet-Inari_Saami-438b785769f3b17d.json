@@ -1,0 +1,168 @@
+{
+  "id": "438b785769f3b17d",
+  "name": "unimet-Inari Saami",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "smn",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "laasâ",
+      "all_senses": [
+        {
+          "id": "unimet-smn-laasâ-n04587648",
+          "lemma": "laasâ",
+          "word_id": "unimet-smn-laasâ",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "unimet-smn-laasâ-n14881303",
+          "lemma": "laasâ",
+          "word_id": "unimet-smn-laasâ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-smn-laasâ-n14881303",
+          "lemma": "laasâ",
+          "word_id": "unimet-smn-laasâ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-smn-laasâ-n04587648",
+          "lemma": "laasâ",
+          "word_id": "unimet-smn-laasâ",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-smn-laasâ-n14881303::unimet-smn-laasâ-n04587648": {
+          "source": "unimet-smn-laasâ-n14881303",
+          "target": "unimet-smn-laasâ-n04587648",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "uái'vi",
+      "all_senses": [
+        {
+          "id": "unimet-smn-uái'vi-n05538625",
+          "lemma": "uái'vi",
+          "word_id": "unimet-smn-uái'vi",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-smn-uái'vi-n10104209",
+          "lemma": "uái'vi",
+          "word_id": "unimet-smn-uái'vi",
+          "synset": {
+            "id": "omw-en-10104209-n",
+            "ili": "i90042",
+            "pos": "n",
+            "lemmas": [
+              "chief"
+            ],
+            "definition": "a person who exercises control over workers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-smn-uái'vi-n05538625",
+          "lemma": "uái'vi",
+          "word_id": "unimet-smn-uái'vi",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-smn-uái'vi-n10104209",
+          "lemma": "uái'vi",
+          "word_id": "unimet-smn-uái'vi",
+          "synset": {
+            "id": "omw-en-10104209-n",
+            "ili": "i90042",
+            "pos": "n",
+            "lemmas": [
+              "chief"
+            ],
+            "definition": "a person who exercises control over workers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-smn-uái'vi-n05538625::unimet-smn-uái'vi-n10104209": {
+          "source": "unimet-smn-uái'vi-n05538625",
+          "target": "unimet-smn-uái'vi-n10104209",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

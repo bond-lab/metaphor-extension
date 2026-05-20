@@ -1,0 +1,201 @@
+{
+  "id": "e61941aaa30d7895",
+  "name": "unimet-Novial",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nov",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "lande",
+      "all_senses": [
+        {
+          "id": "unimet-nov-lande-n08168978",
+          "lemma": "lande",
+          "word_id": "unimet-nov-lande",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-nov-lande-n08544813",
+          "lemma": "lande",
+          "word_id": "unimet-nov-lande",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nov-lande-n08168978",
+          "lemma": "lande",
+          "word_id": "unimet-nov-lande",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nov-lande-n08544813",
+          "lemma": "lande",
+          "word_id": "unimet-nov-lande",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nov-lande-n08168978::unimet-nov-lande-n08544813": {
+          "source": "unimet-nov-lande-n08168978",
+          "target": "unimet-nov-lande-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "natione",
+      "all_senses": [
+        {
+          "id": "unimet-nov-natione-n08166552",
+          "lemma": "natione",
+          "word_id": "unimet-nov-natione",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-nov-natione-n08168978",
+          "lemma": "natione",
+          "word_id": "unimet-nov-natione",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-nov-natione-n08544813",
+          "lemma": "natione",
+          "word_id": "unimet-nov-natione",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nov-natione-n08166552",
+          "lemma": "natione",
+          "word_id": "unimet-nov-natione",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-nov-natione-n08168978",
+          "lemma": "natione",
+          "word_id": "unimet-nov-natione",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nov-natione-n08544813",
+          "lemma": "natione",
+          "word_id": "unimet-nov-natione",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nov-natione-n08166552::unimet-nov-natione-n08544813": {
+          "source": "unimet-nov-natione-n08166552",
+          "target": "unimet-nov-natione-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-nov-natione-n08168978::unimet-nov-natione-n08544813": {
+          "source": "unimet-nov-natione-n08168978",
+          "target": "unimet-nov-natione-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

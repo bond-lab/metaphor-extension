@@ -1,0 +1,168 @@
+{
+  "id": "9fa04c2c6e573d92",
+  "name": "unimet-Ewe",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ewe",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "agbalẽ",
+      "all_senses": [
+        {
+          "id": "unimet-ewe-agbalẽ-n02870526",
+          "lemma": "agbalẽ",
+          "word_id": "unimet-ewe-agbalẽ",
+          "synset": {
+            "id": "omw-en-02870526-n",
+            "ili": "i50954",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge"
+          }
+        },
+        {
+          "id": "unimet-ewe-agbalẽ-n06410904",
+          "lemma": "agbalẽ",
+          "word_id": "unimet-ewe-agbalẽ",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ewe-agbalẽ-n02870526",
+          "lemma": "agbalẽ",
+          "word_id": "unimet-ewe-agbalẽ",
+          "synset": {
+            "id": "omw-en-02870526-n",
+            "ili": "i50954",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ewe-agbalẽ-n06410904",
+          "lemma": "agbalẽ",
+          "word_id": "unimet-ewe-agbalẽ",
+          "synset": {
+            "id": "omw-en-06410904-n",
+            "ili": "i70180",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a written work or composition that has been published (printed on pages bound together)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ewe-agbalẽ-n02870526::unimet-ewe-agbalẽ-n06410904": {
+          "source": "unimet-ewe-agbalẽ-n02870526",
+          "target": "unimet-ewe-agbalẽ-n06410904",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lɔlɔ̃",
+      "all_senses": [
+        {
+          "id": "unimet-ewe-lɔlɔ̃-n07543288",
+          "lemma": "lɔlɔ̃",
+          "word_id": "unimet-ewe-lɔlɔ̃",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-ewe-lɔlɔ̃-n09849598",
+          "lemma": "lɔlɔ̃",
+          "word_id": "unimet-ewe-lɔlɔ̃",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ewe-lɔlɔ̃-n07543288",
+          "lemma": "lɔlɔ̃",
+          "word_id": "unimet-ewe-lɔlɔ̃",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ewe-lɔlɔ̃-n09849598",
+          "lemma": "lɔlɔ̃",
+          "word_id": "unimet-ewe-lɔlɔ̃",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ewe-lɔlɔ̃-n07543288::unimet-ewe-lɔlɔ̃-n09849598": {
+          "source": "unimet-ewe-lɔlɔ̃-n07543288",
+          "target": "unimet-ewe-lɔlɔ̃-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ecd3ea98be83a894",
+  "name": "unimet-Tagalog",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tgl",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "salamin",
+      "all_senses": [
+        {
+          "id": "unimet-tgl-salamin-n03773035",
+          "lemma": "salamin",
+          "word_id": "unimet-tgl-salamin",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        },
+        {
+          "id": "unimet-tgl-salamin-n14881303",
+          "lemma": "salamin",
+          "word_id": "unimet-tgl-salamin",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tgl-salamin-n14881303",
+          "lemma": "salamin",
+          "word_id": "unimet-tgl-salamin",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tgl-salamin-n03773035",
+          "lemma": "salamin",
+          "word_id": "unimet-tgl-salamin",
+          "synset": {
+            "id": "omw-en-03773035-n",
+            "ili": "i56291",
+            "pos": "n",
+            "lemmas": [
+              "mirror"
+            ],
+            "definition": "polished surface that forms images by reflecting light"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tgl-salamin-n14881303::unimet-tgl-salamin-n03773035": {
+          "source": "unimet-tgl-salamin-n14881303",
+          "target": "unimet-tgl-salamin-n03773035",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

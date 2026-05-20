@@ -1,0 +1,92 @@
+{
+  "id": "adafa731c7ca5657",
+  "name": "unimet-Turkmen",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tuk",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "garpyz",
+      "all_senses": [
+        {
+          "id": "unimet-tuk-garpyz-n07756951",
+          "lemma": "garpyz",
+          "word_id": "unimet-tuk-garpyz",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-tuk-garpyz-n12164065",
+          "lemma": "garpyz",
+          "word_id": "unimet-tuk-garpyz",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tuk-garpyz-n07756951",
+          "lemma": "garpyz",
+          "word_id": "unimet-tuk-garpyz",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tuk-garpyz-n12164065",
+          "lemma": "garpyz",
+          "word_id": "unimet-tuk-garpyz",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tuk-garpyz-n07756951::unimet-tuk-garpyz-n12164065": {
+          "source": "unimet-tuk-garpyz-n07756951",
+          "target": "unimet-tuk-garpyz-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,1493 @@
+{
+  "id": "f0c59b1b1738de64",
+  "name": "unimet-Korean",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kor",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "寶石",
+      "all_senses": [
+        {
+          "id": "unimet-kor-寶石-n03596787",
+          "lemma": "寶石",
+          "word_id": "unimet-kor-寶石",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-kor-寶石-n14699752",
+          "lemma": "寶石",
+          "word_id": "unimet-kor-寶石",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-寶石-n14699752",
+          "lemma": "寶石",
+          "word_id": "unimet-kor-寶石",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-寶石-n03596787",
+          "lemma": "寶石",
+          "word_id": "unimet-kor-寶石",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-寶石-n14699752::unimet-kor-寶石-n03596787": {
+          "source": "unimet-kor-寶石-n14699752",
+          "target": "unimet-kor-寶石-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "고리",
+      "all_senses": [
+        {
+          "id": "unimet-kor-고리-n02801938",
+          "lemma": "고리",
+          "word_id": "unimet-kor-고리",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        },
+        {
+          "id": "unimet-kor-고리-n15097849",
+          "lemma": "고리",
+          "word_id": "unimet-kor-고리",
+          "synset": {
+            "id": "omw-en-15097849-n",
+            "ili": "i116547",
+            "pos": "n",
+            "lemmas": [
+              "wicker"
+            ],
+            "definition": "slender flexible branches or twigs (especially of willow or some canes); used for wickerwork"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-고리-n15097849",
+          "lemma": "고리",
+          "word_id": "unimet-kor-고리",
+          "synset": {
+            "id": "omw-en-15097849-n",
+            "ili": "i116547",
+            "pos": "n",
+            "lemmas": [
+              "wicker"
+            ],
+            "definition": "slender flexible branches or twigs (especially of willow or some canes); used for wickerwork"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-고리-n02801938",
+          "lemma": "고리",
+          "word_id": "unimet-kor-고리",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-고리-n15097849::unimet-kor-고리-n02801938": {
+          "source": "unimet-kor-고리-n15097849",
+          "target": "unimet-kor-고리-n02801938",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "국가",
+      "all_senses": [
+        {
+          "id": "unimet-kor-국가-n08168978",
+          "lemma": "국가",
+          "word_id": "unimet-kor-국가",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-kor-국가-n08178547",
+          "lemma": "국가",
+          "word_id": "unimet-kor-국가",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-kor-국가-n08654360",
+          "lemma": "국가",
+          "word_id": "unimet-kor-국가",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-국가-n08168978",
+          "lemma": "국가",
+          "word_id": "unimet-kor-국가",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-kor-국가-n08178547",
+          "lemma": "국가",
+          "word_id": "unimet-kor-국가",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-국가-n08654360",
+          "lemma": "국가",
+          "word_id": "unimet-kor-국가",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-국가-n08168978::unimet-kor-국가-n08654360": {
+          "source": "unimet-kor-국가-n08168978",
+          "target": "unimet-kor-국가-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-kor-국가-n08178547::unimet-kor-국가-n08654360": {
+          "source": "unimet-kor-국가-n08178547",
+          "target": "unimet-kor-국가-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "기쁨",
+      "all_senses": [
+        {
+          "id": "unimet-kor-기쁨-n05829782",
+          "lemma": "기쁨",
+          "word_id": "unimet-kor-기쁨",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-kor-기쁨-n07527352",
+          "lemma": "기쁨",
+          "word_id": "unimet-kor-기쁨",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-기쁨-n07527352",
+          "lemma": "기쁨",
+          "word_id": "unimet-kor-기쁨",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-기쁨-n05829782",
+          "lemma": "기쁨",
+          "word_id": "unimet-kor-기쁨",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-기쁨-n07527352::unimet-kor-기쁨-n05829782": {
+          "source": "unimet-kor-기쁨-n07527352",
+          "target": "unimet-kor-기쁨-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "나라",
+      "all_senses": [
+        {
+          "id": "unimet-kor-나라-n08168978",
+          "lemma": "나라",
+          "word_id": "unimet-kor-나라",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-kor-나라-n08544813",
+          "lemma": "나라",
+          "word_id": "unimet-kor-나라",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-나라-n08168978",
+          "lemma": "나라",
+          "word_id": "unimet-kor-나라",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-나라-n08544813",
+          "lemma": "나라",
+          "word_id": "unimet-kor-나라",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-나라-n08168978::unimet-kor-나라-n08544813": {
+          "source": "unimet-kor-나라-n08168978",
+          "target": "unimet-kor-나라-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "대사관",
+      "all_senses": [
+        {
+          "id": "unimet-kor-대사관-n03282295",
+          "lemma": "대사관",
+          "word_id": "unimet-kor-대사관",
+          "synset": {
+            "id": "omw-en-03282295-n",
+            "ili": "i53393",
+            "pos": "n",
+            "lemmas": [
+              "embassy"
+            ],
+            "definition": "a diplomatic building where ambassadors live or work"
+          }
+        },
+        {
+          "id": "unimet-kor-대사관-n08402693",
+          "lemma": "대사관",
+          "word_id": "unimet-kor-대사관",
+          "synset": {
+            "id": "omw-en-08402693-n",
+            "ili": "i81256",
+            "pos": "n",
+            "lemmas": [
+              "diplomatic corps"
+            ],
+            "definition": "a mission serving diplomatic ends"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-대사관-n03282295",
+          "lemma": "대사관",
+          "word_id": "unimet-kor-대사관",
+          "synset": {
+            "id": "omw-en-03282295-n",
+            "ili": "i53393",
+            "pos": "n",
+            "lemmas": [
+              "embassy"
+            ],
+            "definition": "a diplomatic building where ambassadors live or work"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-대사관-n08402693",
+          "lemma": "대사관",
+          "word_id": "unimet-kor-대사관",
+          "synset": {
+            "id": "omw-en-08402693-n",
+            "ili": "i81256",
+            "pos": "n",
+            "lemmas": [
+              "diplomatic corps"
+            ],
+            "definition": "a mission serving diplomatic ends"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-대사관-n03282295::unimet-kor-대사관-n08402693": {
+          "source": "unimet-kor-대사관-n03282295",
+          "target": "unimet-kor-대사관-n08402693",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "레몬",
+      "all_senses": [
+        {
+          "id": "unimet-kor-레몬-n07749582",
+          "lemma": "레몬",
+          "word_id": "unimet-kor-레몬",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-kor-레몬-n12711596",
+          "lemma": "레몬",
+          "word_id": "unimet-kor-레몬",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-레몬-n07749582",
+          "lemma": "레몬",
+          "word_id": "unimet-kor-레몬",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-레몬-n12711596",
+          "lemma": "레몬",
+          "word_id": "unimet-kor-레몬",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-레몬-n07749582::unimet-kor-레몬-n12711596": {
+          "source": "unimet-kor-레몬-n07749582",
+          "target": "unimet-kor-레몬-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "무",
+      "all_senses": [
+        {
+          "id": "unimet-kor-무-n07735687",
+          "lemma": "무",
+          "word_id": "unimet-kor-무",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-kor-무-n11894327",
+          "lemma": "무",
+          "word_id": "unimet-kor-무",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-무-n11894327",
+          "lemma": "무",
+          "word_id": "unimet-kor-무",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-무-n07735687",
+          "lemma": "무",
+          "word_id": "unimet-kor-무",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-무-n11894327::unimet-kor-무-n07735687": {
+          "source": "unimet-kor-무-n11894327",
+          "target": "unimet-kor-무-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "보석",
+      "all_senses": [
+        {
+          "id": "unimet-kor-보석-n03596787",
+          "lemma": "보석",
+          "word_id": "unimet-kor-보석",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-kor-보석-n14699752",
+          "lemma": "보석",
+          "word_id": "unimet-kor-보석",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-보석-n14699752",
+          "lemma": "보석",
+          "word_id": "unimet-kor-보석",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-보석-n03596787",
+          "lemma": "보석",
+          "word_id": "unimet-kor-보석",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-보석-n14699752::unimet-kor-보석-n03596787": {
+          "source": "unimet-kor-보석-n14699752",
+          "target": "unimet-kor-보석-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "불",
+      "all_senses": [
+        {
+          "id": "unimet-kor-불-n03665366",
+          "lemma": "불",
+          "word_id": "unimet-kor-불",
+          "synset": {
+            "id": "omw-en-03665366-n",
+            "ili": "i55679",
+            "pos": "n",
+            "lemmas": [
+              "glow"
+            ],
+            "definition": "any device serving as a source of illumination"
+          }
+        },
+        {
+          "id": "unimet-kor-불-n14842847",
+          "lemma": "불",
+          "word_id": "unimet-kor-불",
+          "synset": {
+            "id": "omw-en-14842847-n",
+            "ili": "i115054",
+            "pos": "n",
+            "lemmas": [
+              "fire"
+            ],
+            "definition": "once thought to be one of four elements composing the universe (Empedocles)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-불-n14842847",
+          "lemma": "불",
+          "word_id": "unimet-kor-불",
+          "synset": {
+            "id": "omw-en-14842847-n",
+            "ili": "i115054",
+            "pos": "n",
+            "lemmas": [
+              "fire"
+            ],
+            "definition": "once thought to be one of four elements composing the universe (Empedocles)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-불-n03665366",
+          "lemma": "불",
+          "word_id": "unimet-kor-불",
+          "synset": {
+            "id": "omw-en-03665366-n",
+            "ili": "i55679",
+            "pos": "n",
+            "lemmas": [
+              "glow"
+            ],
+            "definition": "any device serving as a source of illumination"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-불-n14842847::unimet-kor-불-n03665366": {
+          "source": "unimet-kor-불-n14842847",
+          "target": "unimet-kor-불-n03665366",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "수박",
+      "all_senses": [
+        {
+          "id": "unimet-kor-수박-n07756951",
+          "lemma": "수박",
+          "word_id": "unimet-kor-수박",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-kor-수박-n12164065",
+          "lemma": "수박",
+          "word_id": "unimet-kor-수박",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-수박-n07756951",
+          "lemma": "수박",
+          "word_id": "unimet-kor-수박",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-수박-n12164065",
+          "lemma": "수박",
+          "word_id": "unimet-kor-수박",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-수박-n07756951::unimet-kor-수박-n12164065": {
+          "source": "unimet-kor-수박-n07756951",
+          "target": "unimet-kor-수박-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "악어",
+      "all_senses": [
+        {
+          "id": "unimet-kor-악어-n01697178",
+          "lemma": "악어",
+          "word_id": "unimet-kor-악어",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        },
+        {
+          "id": "unimet-kor-악어-n14760447",
+          "lemma": "악어",
+          "word_id": "unimet-kor-악어",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-악어-n01697178",
+          "lemma": "악어",
+          "word_id": "unimet-kor-악어",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-악어-n14760447",
+          "lemma": "악어",
+          "word_id": "unimet-kor-악어",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-악어-n01697178::unimet-kor-악어-n14760447": {
+          "source": "unimet-kor-악어-n01697178",
+          "target": "unimet-kor-악어-n14760447",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "즐거움",
+      "all_senses": [
+        {
+          "id": "unimet-kor-즐거움-n05829782",
+          "lemma": "즐거움",
+          "word_id": "unimet-kor-즐거움",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-kor-즐거움-n07527352",
+          "lemma": "즐거움",
+          "word_id": "unimet-kor-즐거움",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-즐거움-n07527352",
+          "lemma": "즐거움",
+          "word_id": "unimet-kor-즐거움",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-즐거움-n05829782",
+          "lemma": "즐거움",
+          "word_id": "unimet-kor-즐거움",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-즐거움-n07527352::unimet-kor-즐거움-n05829782": {
+          "source": "unimet-kor-즐거움-n07527352",
+          "target": "unimet-kor-즐거움-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "채소",
+      "all_senses": [
+        {
+          "id": "unimet-kor-채소-n07707451",
+          "lemma": "채소",
+          "word_id": "unimet-kor-채소",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-kor-채소-n12212361",
+          "lemma": "채소",
+          "word_id": "unimet-kor-채소",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-채소-n12212361",
+          "lemma": "채소",
+          "word_id": "unimet-kor-채소",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-채소-n07707451",
+          "lemma": "채소",
+          "word_id": "unimet-kor-채소",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-채소-n12212361::unimet-kor-채소-n07707451": {
+          "source": "unimet-kor-채소-n12212361",
+          "target": "unimet-kor-채소-n07707451",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "코코넛",
+      "all_senses": [
+        {
+          "id": "unimet-kor-코코넛-n07772935",
+          "lemma": "코코넛",
+          "word_id": "unimet-kor-코코넛",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-kor-코코넛-n12587803",
+          "lemma": "코코넛",
+          "word_id": "unimet-kor-코코넛",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-코코넛-n07772935",
+          "lemma": "코코넛",
+          "word_id": "unimet-kor-코코넛",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-코코넛-n12587803",
+          "lemma": "코코넛",
+          "word_id": "unimet-kor-코코넛",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-코코넛-n07772935::unimet-kor-코코넛-n12587803": {
+          "source": "unimet-kor-코코넛-n07772935",
+          "target": "unimet-kor-코코넛-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "콩",
+      "all_senses": [
+        {
+          "id": "unimet-kor-콩-n07729485",
+          "lemma": "콩",
+          "word_id": "unimet-kor-콩",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        },
+        {
+          "id": "unimet-kor-콩-n12532168",
+          "lemma": "콩",
+          "word_id": "unimet-kor-콩",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-콩-n12532168",
+          "lemma": "콩",
+          "word_id": "unimet-kor-콩",
+          "synset": {
+            "id": "omw-en-12532168-n",
+            "ili": "i102777",
+            "pos": "n",
+            "lemmas": [
+              "soja bean"
+            ],
+            "definition": "erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-콩-n07729485",
+          "lemma": "콩",
+          "word_id": "unimet-kor-콩",
+          "synset": {
+            "id": "omw-en-07729485-n",
+            "ili": "i77644",
+            "pos": "n",
+            "lemmas": [
+              "soy"
+            ],
+            "definition": "most highly proteinaceous vegetable crop known"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-콩-n12532168::unimet-kor-콩-n07729485": {
+          "source": "unimet-kor-콩-n12532168",
+          "target": "unimet-kor-콩-n07729485",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "텔레비전",
+      "all_senses": [
+        {
+          "id": "unimet-kor-텔레비전-n04405907",
+          "lemma": "텔레비전",
+          "word_id": "unimet-kor-텔레비전",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        },
+        {
+          "id": "unimet-kor-텔레비전-n06277280",
+          "lemma": "텔레비전",
+          "word_id": "unimet-kor-텔레비전",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-텔레비전-n04405907",
+          "lemma": "텔레비전",
+          "word_id": "unimet-kor-텔레비전",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-텔레비전-n06277280",
+          "lemma": "텔레비전",
+          "word_id": "unimet-kor-텔레비전",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-텔레비전-n04405907::unimet-kor-텔레비전-n06277280": {
+          "source": "unimet-kor-텔레비전-n04405907",
+          "target": "unimet-kor-텔레비전-n06277280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "파인애플",
+      "all_senses": [
+        {
+          "id": "unimet-kor-파인애플-n07753275",
+          "lemma": "파인애플",
+          "word_id": "unimet-kor-파인애플",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-kor-파인애플-n12607456",
+          "lemma": "파인애플",
+          "word_id": "unimet-kor-파인애플",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-파인애플-n07753275",
+          "lemma": "파인애플",
+          "word_id": "unimet-kor-파인애플",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-파인애플-n12607456",
+          "lemma": "파인애플",
+          "word_id": "unimet-kor-파인애플",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-파인애플-n07753275::unimet-kor-파인애플-n12607456": {
+          "source": "unimet-kor-파인애플-n07753275",
+          "target": "unimet-kor-파인애플-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "학교",
+      "all_senses": [
+        {
+          "id": "unimet-kor-학교-n04146050",
+          "lemma": "학교",
+          "word_id": "unimet-kor-학교",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-kor-학교-n08276720",
+          "lemma": "학교",
+          "word_id": "unimet-kor-학교",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kor-학교-n04146050",
+          "lemma": "학교",
+          "word_id": "unimet-kor-학교",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kor-학교-n08276720",
+          "lemma": "학교",
+          "word_id": "unimet-kor-학교",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kor-학교-n04146050::unimet-kor-학교-n08276720": {
+          "source": "unimet-kor-학교-n04146050",
+          "target": "unimet-kor-학교-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

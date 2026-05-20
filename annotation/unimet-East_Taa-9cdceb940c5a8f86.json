@@ -1,0 +1,92 @@
+{
+  "id": "9cdceb940c5a8f86",
+  "name": "unimet-East Taa",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nmn",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "kxʻāhã",
+      "all_senses": [
+        {
+          "id": "unimet-nmn-kxʻāhã-n07881800",
+          "lemma": "kxʻāhã",
+          "word_id": "unimet-nmn-kxʻāhã",
+          "synset": {
+            "id": "omw-en-07881800-n",
+            "ili": "i78658",
+            "pos": "n",
+            "lemmas": [
+              "drink"
+            ],
+            "definition": "any liquid suitable for drinking"
+          }
+        },
+        {
+          "id": "unimet-nmn-kxʻāhã-v01170052",
+          "lemma": "kxʻāhã",
+          "word_id": "unimet-nmn-kxʻāhã",
+          "synset": {
+            "id": "omw-en-01170052-v",
+            "ili": "i27466",
+            "pos": "v",
+            "lemmas": [
+              "imbibe"
+            ],
+            "definition": "take in liquids"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nmn-kxʻāhã-v01170052",
+          "lemma": "kxʻāhã",
+          "word_id": "unimet-nmn-kxʻāhã",
+          "synset": {
+            "id": "omw-en-01170052-v",
+            "ili": "i27466",
+            "pos": "v",
+            "lemmas": [
+              "imbibe"
+            ],
+            "definition": "take in liquids"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nmn-kxʻāhã-n07881800",
+          "lemma": "kxʻāhã",
+          "word_id": "unimet-nmn-kxʻāhã",
+          "synset": {
+            "id": "omw-en-07881800-n",
+            "ili": "i78658",
+            "pos": "n",
+            "lemmas": [
+              "drink"
+            ],
+            "definition": "any liquid suitable for drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nmn-kxʻāhã-v01170052::unimet-nmn-kxʻāhã-n07881800": {
+          "source": "unimet-nmn-kxʻāhã-v01170052",
+          "target": "unimet-nmn-kxʻāhã-n07881800",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "a643a35a38fc4bbc",
+  "name": "unimet-West Circassian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ady",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "дэ",
+      "all_senses": [
+        {
+          "id": "unimet-ady-дэ-n07771212",
+          "lemma": "дэ",
+          "word_id": "unimet-ady-дэ",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        },
+        {
+          "id": "unimet-ady-дэ-n12318378",
+          "lemma": "дэ",
+          "word_id": "unimet-ady-дэ",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ady-дэ-n07771212",
+          "lemma": "дэ",
+          "word_id": "unimet-ady-дэ",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ady-дэ-n12318378",
+          "lemma": "дэ",
+          "word_id": "unimet-ady-дэ",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ady-дэ-n07771212::unimet-ady-дэ-n12318378": {
+          "source": "unimet-ady-дэ-n07771212",
+          "target": "unimet-ady-дэ-n12318378",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

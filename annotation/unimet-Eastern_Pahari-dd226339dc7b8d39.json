@@ -1,0 +1,3317 @@
+{
+  "id": "dd226339dc7b8d39",
+  "name": "unimet-Eastern Pahari",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nep",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "अल्छी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-अल्छी-n04637290",
+          "lemma": "अल्छी",
+          "word_id": "unimet-nep-अल्छी",
+          "synset": {
+            "id": "omw-en-04637290-n",
+            "ili": "i61443",
+            "pos": "n",
+            "lemmas": [
+              "sloth"
+            ],
+            "definition": "the trait of being idle out of a reluctance to work"
+          }
+        },
+        {
+          "id": "unimet-nep-अल्छी-n10197967",
+          "lemma": "अल्छी",
+          "word_id": "unimet-nep-अल्छी",
+          "synset": {
+            "id": "omw-en-10197967-n",
+            "ili": "i90653",
+            "pos": "n",
+            "lemmas": [
+              "idler"
+            ],
+            "definition": "person who does no work"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-अल्छी-n04637290",
+          "lemma": "अल्छी",
+          "word_id": "unimet-nep-अल्छी",
+          "synset": {
+            "id": "omw-en-04637290-n",
+            "ili": "i61443",
+            "pos": "n",
+            "lemmas": [
+              "sloth"
+            ],
+            "definition": "the trait of being idle out of a reluctance to work"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-अल्छी-n10197967",
+          "lemma": "अल्छी",
+          "word_id": "unimet-nep-अल्छी",
+          "synset": {
+            "id": "omw-en-10197967-n",
+            "ili": "i90653",
+            "pos": "n",
+            "lemmas": [
+              "idler"
+            ],
+            "definition": "person who does no work"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-अल्छी-n04637290::unimet-nep-अल्छी-n10197967": {
+          "source": "unimet-nep-अल्छी-n04637290",
+          "target": "unimet-nep-अल्छी-n10197967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "आलु",
+      "all_senses": [
+        {
+          "id": "unimet-nep-आलु-n07710616",
+          "lemma": "आलु",
+          "word_id": "unimet-nep-आलु",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        },
+        {
+          "id": "unimet-nep-आलु-n12897493",
+          "lemma": "आलु",
+          "word_id": "unimet-nep-आलु",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-आलु-n12897493",
+          "lemma": "आलु",
+          "word_id": "unimet-nep-आलु",
+          "synset": {
+            "id": "omw-en-12897493-n",
+            "ili": "i104549",
+            "pos": "n",
+            "lemmas": [
+              "white potato"
+            ],
+            "definition": "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-आलु-n07710616",
+          "lemma": "आलु",
+          "word_id": "unimet-nep-आलु",
+          "synset": {
+            "id": "omw-en-07710616-n",
+            "ili": "i77515",
+            "pos": "n",
+            "lemmas": [
+              "irish potato"
+            ],
+            "definition": "an edible tuber native to South America; a staple food of Ireland"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-आलु-n12897493::unimet-nep-आलु-n07710616": {
+          "source": "unimet-nep-आलु-n12897493",
+          "target": "unimet-nep-आलु-n07710616",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "आलुबखडा",
+      "all_senses": [
+        {
+          "id": "unimet-nep-आलुबखडा-n07751451",
+          "lemma": "आलुबखडा",
+          "word_id": "unimet-nep-आलुबखडा",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-nep-आलुबखडा-n12638218",
+          "lemma": "आलुबखडा",
+          "word_id": "unimet-nep-आलुबखडा",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-आलुबखडा-n07751451",
+          "lemma": "आलुबखडा",
+          "word_id": "unimet-nep-आलुबखडा",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-आलुबखडा-n12638218",
+          "lemma": "आलुबखडा",
+          "word_id": "unimet-nep-आलुबखडा",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-आलुबखडा-n07751451::unimet-nep-आलुबखडा-n12638218": {
+          "source": "unimet-nep-आलुबखडा-n07751451",
+          "target": "unimet-nep-आलुबखडा-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ओखर",
+      "all_senses": [
+        {
+          "id": "unimet-nep-ओखर-n07771212",
+          "lemma": "ओखर",
+          "word_id": "unimet-nep-ओखर",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        },
+        {
+          "id": "unimet-nep-ओखर-n12318378",
+          "lemma": "ओखर",
+          "word_id": "unimet-nep-ओखर",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-ओखर-n07771212",
+          "lemma": "ओखर",
+          "word_id": "unimet-nep-ओखर",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-ओखर-n12318378",
+          "lemma": "ओखर",
+          "word_id": "unimet-nep-ओखर",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-ओखर-n07771212::unimet-nep-ओखर-n12318378": {
+          "source": "unimet-nep-ओखर-n07771212",
+          "target": "unimet-nep-ओखर-n12318378",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कटहर",
+      "all_senses": [
+        {
+          "id": "unimet-nep-कटहर-n07754684",
+          "lemma": "कटहर",
+          "word_id": "unimet-nep-कटहर",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        },
+        {
+          "id": "unimet-nep-कटहर-n12400720",
+          "lemma": "कटहर",
+          "word_id": "unimet-nep-कटहर",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-कटहर-n07754684",
+          "lemma": "कटहर",
+          "word_id": "unimet-nep-कटहर",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-कटहर-n12400720",
+          "lemma": "कटहर",
+          "word_id": "unimet-nep-कटहर",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-कटहर-n07754684::unimet-nep-कटहर-n12400720": {
+          "source": "unimet-nep-कटहर-n07754684",
+          "target": "unimet-nep-कटहर-n12400720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कफी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-कफी-n07929351",
+          "lemma": "कफी",
+          "word_id": "unimet-nep-कफी",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-nep-कफी-n12662772",
+          "lemma": "कफी",
+          "word_id": "unimet-nep-कफी",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-कफी-n07929351",
+          "lemma": "कफी",
+          "word_id": "unimet-nep-कफी",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-कफी-n12662772",
+          "lemma": "कफी",
+          "word_id": "unimet-nep-कफी",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-कफी-n07929351::unimet-nep-कफी-n12662772": {
+          "source": "unimet-nep-कफी-n07929351",
+          "target": "unimet-nep-कफी-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कमजोर",
+      "all_senses": [
+        {
+          "id": "unimet-nep-कमजोर-n05040275",
+          "lemma": "कमजोर",
+          "word_id": "unimet-nep-कमजोर",
+          "synset": {
+            "id": "omw-en-05040275-n",
+            "ili": "i63487",
+            "pos": "n",
+            "lemmas": [
+              "weakness"
+            ],
+            "definition": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+          }
+        },
+        {
+          "id": "unimet-nep-कमजोर-n10771636",
+          "lemma": "कमजोर",
+          "word_id": "unimet-nep-कमजोर",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-कमजोर-n05040275",
+          "lemma": "कमजोर",
+          "word_id": "unimet-nep-कमजोर",
+          "synset": {
+            "id": "omw-en-05040275-n",
+            "ili": "i63487",
+            "pos": "n",
+            "lemmas": [
+              "weakness"
+            ],
+            "definition": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-कमजोर-n10771636",
+          "lemma": "कमजोर",
+          "word_id": "unimet-nep-कमजोर",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-कमजोर-n05040275::unimet-nep-कमजोर-n10771636": {
+          "source": "unimet-nep-कमजोर-n05040275",
+          "target": "unimet-nep-कमजोर-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "काउली",
+      "all_senses": [
+        {
+          "id": "unimet-nep-काउली-n07715103",
+          "lemma": "काउली",
+          "word_id": "unimet-nep-काउली",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-nep-काउली-n11876634",
+          "lemma": "काउली",
+          "word_id": "unimet-nep-काउली",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-काउली-n11876634",
+          "lemma": "काउली",
+          "word_id": "unimet-nep-काउली",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-काउली-n07715103",
+          "lemma": "काउली",
+          "word_id": "unimet-nep-काउली",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-काउली-n11876634::unimet-nep-काउली-n07715103": {
+          "source": "unimet-nep-काउली-n11876634",
+          "target": "unimet-nep-काउली-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कुभिन्डो",
+      "all_senses": [
+        {
+          "id": "unimet-nep-कुभिन्डो-n07735510",
+          "lemma": "कुभिन्डो",
+          "word_id": "unimet-nep-कुभिन्डो",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-nep-कुभिन्डो-n12158443",
+          "lemma": "कुभिन्डो",
+          "word_id": "unimet-nep-कुभिन्डो",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-कुभिन्डो-n12158443",
+          "lemma": "कुभिन्डो",
+          "word_id": "unimet-nep-कुभिन्डो",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-कुभिन्डो-n07735510",
+          "lemma": "कुभिन्डो",
+          "word_id": "unimet-nep-कुभिन्डो",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-कुभिन्डो-n12158443::unimet-nep-कुभिन्डो-n07735510": {
+          "source": "unimet-nep-कुभिन्डो-n12158443",
+          "target": "unimet-nep-कुभिन्डो-n07735510",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "कोपी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-कोपी-n07715103",
+          "lemma": "कोपी",
+          "word_id": "unimet-nep-कोपी",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-nep-कोपी-n11876634",
+          "lemma": "कोपी",
+          "word_id": "unimet-nep-कोपी",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-कोपी-n11876634",
+          "lemma": "कोपी",
+          "word_id": "unimet-nep-कोपी",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-कोपी-n07715103",
+          "lemma": "कोपी",
+          "word_id": "unimet-nep-कोपी",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-कोपी-n11876634::unimet-nep-कोपी-n07715103": {
+          "source": "unimet-nep-कोपी-n11876634",
+          "target": "unimet-nep-कोपी-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "खरबुजो",
+      "all_senses": [
+        {
+          "id": "unimet-nep-खरबुजो-n07756951",
+          "lemma": "खरबुजो",
+          "word_id": "unimet-nep-खरबुजो",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-nep-खरबुजो-n12164065",
+          "lemma": "खरबुजो",
+          "word_id": "unimet-nep-खरबुजो",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        },
+        {
+          "id": "unimet-nep-खरबुजो-n12164363",
+          "lemma": "खरबुजो",
+          "word_id": "unimet-nep-खरबुजो",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-खरबुजो-n07756951",
+          "lemma": "खरबुजो",
+          "word_id": "unimet-nep-खरबुजो",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-खरबुजो-n12164065",
+          "lemma": "खरबुजो",
+          "word_id": "unimet-nep-खरबुजो",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        },
+        {
+          "id": "unimet-nep-खरबुजो-n12164363",
+          "lemma": "खरबुजो",
+          "word_id": "unimet-nep-खरबुजो",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-खरबुजो-n07756951::unimet-nep-खरबुजो-n12164065": {
+          "source": "unimet-nep-खरबुजो-n07756951",
+          "target": "unimet-nep-खरबुजो-n12164065",
+          "type": "metonymy"
+        },
+        "unimet-nep-खरबुजो-n07756951::unimet-nep-खरबुजो-n12164363": {
+          "source": "unimet-nep-खरबुजो-n07756951",
+          "target": "unimet-nep-खरबुजो-n12164363",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "टमाटर",
+      "all_senses": [
+        {
+          "id": "unimet-nep-टमाटर-n07734017",
+          "lemma": "टमाटर",
+          "word_id": "unimet-nep-टमाटर",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        },
+        {
+          "id": "unimet-nep-टमाटर-n12905817",
+          "lemma": "टमाटर",
+          "word_id": "unimet-nep-टमाटर",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-टमाटर-n12905817",
+          "lemma": "टमाटर",
+          "word_id": "unimet-nep-टमाटर",
+          "synset": {
+            "id": "omw-en-12905817-n",
+            "ili": "i104588",
+            "pos": "n",
+            "lemmas": [
+              "tomato plant"
+            ],
+            "definition": "native to South America; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-टमाटर-n07734017",
+          "lemma": "टमाटर",
+          "word_id": "unimet-nep-टमाटर",
+          "synset": {
+            "id": "omw-en-07734017-n",
+            "ili": "i77675",
+            "pos": "n",
+            "lemmas": [
+              "tomato"
+            ],
+            "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-टमाटर-n12905817::unimet-nep-टमाटर-n07734017": {
+          "source": "unimet-nep-टमाटर-n12905817",
+          "target": "unimet-nep-टमाटर-n07734017",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "टेलिफोन",
+      "all_senses": [
+        {
+          "id": "unimet-nep-टेलिफोन-n04401088",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-nep-टेलिफोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-nep-टेलिफोन-n06272290",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-nep-टेलिफोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-टेलिफोन-n04401088",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-nep-टेलिफोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-टेलिफोन-n06272290",
+          "lemma": "टेलिफोन",
+          "word_id": "unimet-nep-टेलिफोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-टेलिफोन-n04401088::unimet-nep-टेलिफोन-n06272290": {
+          "source": "unimet-nep-टेलिफोन-n04401088",
+          "target": "unimet-nep-टेलिफोन-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "तित्री",
+      "all_senses": [
+        {
+          "id": "unimet-nep-तित्री-n07764630",
+          "lemma": "तित्री",
+          "word_id": "unimet-nep-तित्री",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        },
+        {
+          "id": "unimet-nep-तित्री-n12501202",
+          "lemma": "तित्री",
+          "word_id": "unimet-nep-तित्री",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-तित्री-n07764630",
+          "lemma": "तित्री",
+          "word_id": "unimet-nep-तित्री",
+          "synset": {
+            "id": "omw-en-07764630-n",
+            "ili": "i77872",
+            "pos": "n",
+            "lemmas": [
+              "tamarindo"
+            ],
+            "definition": "large tropical seed pod with very tangy pulp that is eaten fresh or cooked with rice and fish or preserved for curries and chutneys"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-तित्री-n12501202",
+          "lemma": "तित्री",
+          "word_id": "unimet-nep-तित्री",
+          "synset": {
+            "id": "omw-en-12501202-n",
+            "ili": "i102639",
+            "pos": "n",
+            "lemmas": [
+              "tamarind tree"
+            ],
+            "definition": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with edible chocolate-colored acidic pulp"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-तित्री-n07764630::unimet-nep-तित्री-n12501202": {
+          "source": "unimet-nep-तित्री-n07764630",
+          "target": "unimet-nep-तित्री-n12501202",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "दाडिम",
+      "all_senses": [
+        {
+          "id": "unimet-nep-दाडिम-n07768694",
+          "lemma": "दाडिम",
+          "word_id": "unimet-nep-दाडिम",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-nep-दाडिम-n12345280",
+          "lemma": "दाडिम",
+          "word_id": "unimet-nep-दाडिम",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-दाडिम-n07768694",
+          "lemma": "दाडिम",
+          "word_id": "unimet-nep-दाडिम",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-दाडिम-n12345280",
+          "lemma": "दाडिम",
+          "word_id": "unimet-nep-दाडिम",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-दाडिम-n07768694::unimet-nep-दाडिम-n12345280": {
+          "source": "unimet-nep-दाडिम-n07768694",
+          "target": "unimet-nep-दाडिम-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "दारिम",
+      "all_senses": [
+        {
+          "id": "unimet-nep-दारिम-n07768694",
+          "lemma": "दारिम",
+          "word_id": "unimet-nep-दारिम",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-nep-दारिम-n12345280",
+          "lemma": "दारिम",
+          "word_id": "unimet-nep-दारिम",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-दारिम-n07768694",
+          "lemma": "दारिम",
+          "word_id": "unimet-nep-दारिम",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-दारिम-n12345280",
+          "lemma": "दारिम",
+          "word_id": "unimet-nep-दारिम",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-दारिम-n07768694::unimet-nep-दारिम-n12345280": {
+          "source": "unimet-nep-दारिम-n07768694",
+          "target": "unimet-nep-दारिम-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "दुर्बल",
+      "all_senses": [
+        {
+          "id": "unimet-nep-दुर्बल-n05040275",
+          "lemma": "दुर्बल",
+          "word_id": "unimet-nep-दुर्बल",
+          "synset": {
+            "id": "omw-en-05040275-n",
+            "ili": "i63487",
+            "pos": "n",
+            "lemmas": [
+              "weakness"
+            ],
+            "definition": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+          }
+        },
+        {
+          "id": "unimet-nep-दुर्बल-n10771636",
+          "lemma": "दुर्बल",
+          "word_id": "unimet-nep-दुर्बल",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-दुर्बल-n05040275",
+          "lemma": "दुर्बल",
+          "word_id": "unimet-nep-दुर्बल",
+          "synset": {
+            "id": "omw-en-05040275-n",
+            "ili": "i63487",
+            "pos": "n",
+            "lemmas": [
+              "weakness"
+            ],
+            "definition": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-दुर्बल-n10771636",
+          "lemma": "दुर्बल",
+          "word_id": "unimet-nep-दुर्बल",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-दुर्बल-n05040275::unimet-nep-दुर्बल-n10771636": {
+          "source": "unimet-nep-दुर्बल-n05040275",
+          "target": "unimet-nep-दुर्बल-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "दूरभाष",
+      "all_senses": [
+        {
+          "id": "unimet-nep-दूरभाष-n04401088",
+          "lemma": "दूरभाष",
+          "word_id": "unimet-nep-दूरभाष",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-nep-दूरभाष-n06272290",
+          "lemma": "दूरभाष",
+          "word_id": "unimet-nep-दूरभाष",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-दूरभाष-n04401088",
+          "lemma": "दूरभाष",
+          "word_id": "unimet-nep-दूरभाष",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-दूरभाष-n06272290",
+          "lemma": "दूरभाष",
+          "word_id": "unimet-nep-दूरभाष",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-दूरभाष-n04401088::unimet-nep-दूरभाष-n06272290": {
+          "source": "unimet-nep-दूरभाष-n04401088",
+          "target": "unimet-nep-दूरभाष-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "नासपाती",
+      "all_senses": [
+        {
+          "id": "unimet-nep-नासपाती-n07767847",
+          "lemma": "नासपाती",
+          "word_id": "unimet-nep-नासपाती",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-nep-नासपाती-n12651611",
+          "lemma": "नासपाती",
+          "word_id": "unimet-nep-नासपाती",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-नासपाती-n07767847",
+          "lemma": "नासपाती",
+          "word_id": "unimet-nep-नासपाती",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-नासपाती-n12651611",
+          "lemma": "नासपाती",
+          "word_id": "unimet-nep-नासपाती",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-नासपाती-n07767847::unimet-nep-नासपाती-n12651611": {
+          "source": "unimet-nep-नासपाती-n07767847",
+          "target": "unimet-nep-नासपाती-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "नास्पाती",
+      "all_senses": [
+        {
+          "id": "unimet-nep-नास्पाती-n07767847",
+          "lemma": "नास्पाती",
+          "word_id": "unimet-nep-नास्पाती",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-nep-नास्पाती-n12651611",
+          "lemma": "नास्पाती",
+          "word_id": "unimet-nep-नास्पाती",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-नास्पाती-n07767847",
+          "lemma": "नास्पाती",
+          "word_id": "unimet-nep-नास्पाती",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-नास्पाती-n12651611",
+          "lemma": "नास्पाती",
+          "word_id": "unimet-nep-नास्पाती",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-नास्पाती-n07767847::unimet-nep-नास्पाती-n12651611": {
+          "source": "unimet-nep-नास्पाती-n07767847",
+          "target": "unimet-nep-नास्पाती-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "निबुवा",
+      "all_senses": [
+        {
+          "id": "unimet-nep-निबुवा-n07749582",
+          "lemma": "निबुवा",
+          "word_id": "unimet-nep-निबुवा",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-nep-निबुवा-n12711596",
+          "lemma": "निबुवा",
+          "word_id": "unimet-nep-निबुवा",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-निबुवा-n07749582",
+          "lemma": "निबुवा",
+          "word_id": "unimet-nep-निबुवा",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-निबुवा-n12711596",
+          "lemma": "निबुवा",
+          "word_id": "unimet-nep-निबुवा",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-निबुवा-n07749582::unimet-nep-निबुवा-n12711596": {
+          "source": "unimet-nep-निबुवा-n07749582",
+          "target": "unimet-nep-निबुवा-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "पियाज",
+      "all_senses": [
+        {
+          "id": "unimet-nep-पियाज-n07722217",
+          "lemma": "पियाज",
+          "word_id": "unimet-nep-पियाज",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-nep-पियाज-n12432808",
+          "lemma": "पियाज",
+          "word_id": "unimet-nep-पियाज",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-पियाज-n12432808",
+          "lemma": "पियाज",
+          "word_id": "unimet-nep-पियाज",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-पियाज-n07722217",
+          "lemma": "पियाज",
+          "word_id": "unimet-nep-पियाज",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-पियाज-n12432808::unimet-nep-पियाज-n07722217": {
+          "source": "unimet-nep-पियाज-n12432808",
+          "target": "unimet-nep-पियाज-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "प्याज",
+      "all_senses": [
+        {
+          "id": "unimet-nep-प्याज-n07722217",
+          "lemma": "प्याज",
+          "word_id": "unimet-nep-प्याज",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-nep-प्याज-n12432808",
+          "lemma": "प्याज",
+          "word_id": "unimet-nep-प्याज",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-प्याज-n12432808",
+          "lemma": "प्याज",
+          "word_id": "unimet-nep-प्याज",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-प्याज-n07722217",
+          "lemma": "प्याज",
+          "word_id": "unimet-nep-प्याज",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-प्याज-n12432808::unimet-nep-प्याज-n07722217": {
+          "source": "unimet-nep-प्याज-n12432808",
+          "target": "unimet-nep-प्याज-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "फुलकोपी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-फुलकोपी-n07715103",
+          "lemma": "फुलकोपी",
+          "word_id": "unimet-nep-फुलकोपी",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-nep-फुलकोपी-n11876634",
+          "lemma": "फुलकोपी",
+          "word_id": "unimet-nep-फुलकोपी",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-फुलकोपी-n11876634",
+          "lemma": "फुलकोपी",
+          "word_id": "unimet-nep-फुलकोपी",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-फुलकोपी-n07715103",
+          "lemma": "फुलकोपी",
+          "word_id": "unimet-nep-फुलकोपी",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-फुलकोपी-n11876634::unimet-nep-फुलकोपी-n07715103": {
+          "source": "unimet-nep-फुलकोपी-n11876634",
+          "target": "unimet-nep-फुलकोपी-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "फुलगोभी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-फुलगोभी-n07715103",
+          "lemma": "फुलगोभी",
+          "word_id": "unimet-nep-फुलगोभी",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-nep-फुलगोभी-n11876634",
+          "lemma": "फुलगोभी",
+          "word_id": "unimet-nep-फुलगोभी",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-फुलगोभी-n11876634",
+          "lemma": "फुलगोभी",
+          "word_id": "unimet-nep-फुलगोभी",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-फुलगोभी-n07715103",
+          "lemma": "फुलगोभी",
+          "word_id": "unimet-nep-फुलगोभी",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-फुलगोभी-n11876634::unimet-nep-फुलगोभी-n07715103": {
+          "source": "unimet-nep-फुलगोभी-n11876634",
+          "target": "unimet-nep-फुलगोभी-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "फोन",
+      "all_senses": [
+        {
+          "id": "unimet-nep-फोन-n04401088",
+          "lemma": "फोन",
+          "word_id": "unimet-nep-फोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-nep-फोन-n06272290",
+          "lemma": "फोन",
+          "word_id": "unimet-nep-फोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-फोन-n04401088",
+          "lemma": "फोन",
+          "word_id": "unimet-nep-फोन",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-फोन-n06272290",
+          "lemma": "फोन",
+          "word_id": "unimet-nep-फोन",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-फोन-n04401088::unimet-nep-फोन-n06272290": {
+          "source": "unimet-nep-फोन-n04401088",
+          "target": "unimet-nep-फोन-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बैगन",
+      "all_senses": [
+        {
+          "id": "unimet-nep-बैगन-n07713074",
+          "lemma": "बैगन",
+          "word_id": "unimet-nep-बैगन",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-nep-बैगन-n12896000",
+          "lemma": "बैगन",
+          "word_id": "unimet-nep-बैगन",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-बैगन-n12896000",
+          "lemma": "बैगन",
+          "word_id": "unimet-nep-बैगन",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-बैगन-n07713074",
+          "lemma": "बैगन",
+          "word_id": "unimet-nep-बैगन",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-बैगन-n12896000::unimet-nep-बैगन-n07713074": {
+          "source": "unimet-nep-बैगन-n12896000",
+          "target": "unimet-nep-बैगन-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "बैगुन",
+      "all_senses": [
+        {
+          "id": "unimet-nep-बैगुन-n07713074",
+          "lemma": "बैगुन",
+          "word_id": "unimet-nep-बैगुन",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-nep-बैगुन-n12896000",
+          "lemma": "बैगुन",
+          "word_id": "unimet-nep-बैगुन",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-बैगुन-n12896000",
+          "lemma": "बैगुन",
+          "word_id": "unimet-nep-बैगुन",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-बैगुन-n07713074",
+          "lemma": "बैगुन",
+          "word_id": "unimet-nep-बैगुन",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-बैगुन-n12896000::unimet-nep-बैगुन-n07713074": {
+          "source": "unimet-nep-बैगुन-n12896000",
+          "target": "unimet-nep-बैगुन-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "भन्टा",
+      "all_senses": [
+        {
+          "id": "unimet-nep-भन्टा-n07713074",
+          "lemma": "भन्टा",
+          "word_id": "unimet-nep-भन्टा",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-nep-भन्टा-n12896000",
+          "lemma": "भन्टा",
+          "word_id": "unimet-nep-भन्टा",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-भन्टा-n12896000",
+          "lemma": "भन्टा",
+          "word_id": "unimet-nep-भन्टा",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-भन्टा-n07713074",
+          "lemma": "भन्टा",
+          "word_id": "unimet-nep-भन्टा",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-भन्टा-n12896000::unimet-nep-भन्टा-n07713074": {
+          "source": "unimet-nep-भन्टा-n12896000",
+          "target": "unimet-nep-भन्टा-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "भ्यान्टा",
+      "all_senses": [
+        {
+          "id": "unimet-nep-भ्यान्टा-n07713074",
+          "lemma": "भ्यान्टा",
+          "word_id": "unimet-nep-भ्यान्टा",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-nep-भ्यान्टा-n12896000",
+          "lemma": "भ्यान्टा",
+          "word_id": "unimet-nep-भ्यान्टा",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-भ्यान्टा-n12896000",
+          "lemma": "भ्यान्टा",
+          "word_id": "unimet-nep-भ्यान्टा",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-भ्यान्टा-n07713074",
+          "lemma": "भ्यान्टा",
+          "word_id": "unimet-nep-भ्यान्टा",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-भ्यान्टा-n12896000::unimet-nep-भ्यान्टा-n07713074": {
+          "source": "unimet-nep-भ्यान्टा-n12896000",
+          "target": "unimet-nep-भ्यान्टा-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मकैबोडी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-मकैबोडी-n12578626",
+          "lemma": "मकैबोडी",
+          "word_id": "unimet-nep-मकैबोडी",
+          "synset": {
+            "id": "omw-en-12578626-n",
+            "ili": "i102994",
+            "pos": "n",
+            "lemmas": [
+              "vigna sinensis"
+            ],
+            "definition": "sprawling Old World annual cultivated especially in southern United States for food and forage and green manure"
+          }
+        },
+        {
+          "id": "unimet-nep-मकैबोडी-n12578916",
+          "lemma": "मकैबोडी",
+          "word_id": "unimet-nep-मकैबोडी",
+          "synset": {
+            "id": "omw-en-12578916-n",
+            "ili": "i102995",
+            "pos": "n",
+            "lemmas": [
+              "cowpea"
+            ],
+            "definition": "fruit or seed of the cowpea plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-मकैबोडी-n12578626",
+          "lemma": "मकैबोडी",
+          "word_id": "unimet-nep-मकैबोडी",
+          "synset": {
+            "id": "omw-en-12578626-n",
+            "ili": "i102994",
+            "pos": "n",
+            "lemmas": [
+              "vigna sinensis"
+            ],
+            "definition": "sprawling Old World annual cultivated especially in southern United States for food and forage and green manure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-मकैबोडी-n12578916",
+          "lemma": "मकैबोडी",
+          "word_id": "unimet-nep-मकैबोडी",
+          "synset": {
+            "id": "omw-en-12578916-n",
+            "ili": "i102995",
+            "pos": "n",
+            "lemmas": [
+              "cowpea"
+            ],
+            "definition": "fruit or seed of the cowpea plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-मकैबोडी-n12578626::unimet-nep-मकैबोडी-n12578916": {
+          "source": "unimet-nep-मकैबोडी-n12578626",
+          "target": "unimet-nep-मकैबोडी-n12578916",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मुसुरी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-मुसुरी-n07725255",
+          "lemma": "मुसुरी",
+          "word_id": "unimet-nep-मुसुरी",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-nep-मुसुरी-n12544240",
+          "lemma": "मुसुरी",
+          "word_id": "unimet-nep-मुसुरी",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-मुसुरी-n12544240",
+          "lemma": "मुसुरी",
+          "word_id": "unimet-nep-मुसुरी",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-मुसुरी-n07725255",
+          "lemma": "मुसुरी",
+          "word_id": "unimet-nep-मुसुरी",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-मुसुरी-n12544240::unimet-nep-मुसुरी-n07725255": {
+          "source": "unimet-nep-मुसुरी-n12544240",
+          "target": "unimet-nep-मुसुरी-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मुसुरो",
+      "all_senses": [
+        {
+          "id": "unimet-nep-मुसुरो-n07725255",
+          "lemma": "मुसुरो",
+          "word_id": "unimet-nep-मुसुरो",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-nep-मुसुरो-n12544240",
+          "lemma": "मुसुरो",
+          "word_id": "unimet-nep-मुसुरो",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-मुसुरो-n12544240",
+          "lemma": "मुसुरो",
+          "word_id": "unimet-nep-मुसुरो",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-मुसुरो-n07725255",
+          "lemma": "मुसुरो",
+          "word_id": "unimet-nep-मुसुरो",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-मुसुरो-n12544240::unimet-nep-मुसुरो-n07725255": {
+          "source": "unimet-nep-मुसुरो-n12544240",
+          "target": "unimet-nep-मुसुरो-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "मेवा",
+      "all_senses": [
+        {
+          "id": "unimet-nep-मेवा-n07762244",
+          "lemma": "मेवा",
+          "word_id": "unimet-nep-मेवा",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-nep-मेवा-n12373100",
+          "lemma": "मेवा",
+          "word_id": "unimet-nep-मेवा",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-मेवा-n07762244",
+          "lemma": "मेवा",
+          "word_id": "unimet-nep-मेवा",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-मेवा-n12373100",
+          "lemma": "मेवा",
+          "word_id": "unimet-nep-मेवा",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-मेवा-n07762244::unimet-nep-मेवा-n12373100": {
+          "source": "unimet-nep-मेवा-n07762244",
+          "target": "unimet-nep-मेवा-n12373100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "रबड",
+      "all_senses": [
+        {
+          "id": "unimet-nep-रबड-n04116512",
+          "lemma": "रबड",
+          "word_id": "unimet-nep-रबड",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-nep-रबड-n15006258",
+          "lemma": "रबड",
+          "word_id": "unimet-nep-रबड",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-रबड-n15006258",
+          "lemma": "रबड",
+          "word_id": "unimet-nep-रबड",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-रबड-n04116512",
+          "lemma": "रबड",
+          "word_id": "unimet-nep-रबड",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-रबड-n15006258::unimet-nep-रबड-n04116512": {
+          "source": "unimet-nep-रबड-n15006258",
+          "target": "unimet-nep-रबड-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "रबर",
+      "all_senses": [
+        {
+          "id": "unimet-nep-रबर-n04116512",
+          "lemma": "रबर",
+          "word_id": "unimet-nep-रबर",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-nep-रबर-n15006258",
+          "lemma": "रबर",
+          "word_id": "unimet-nep-रबर",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-रबर-n15006258",
+          "lemma": "रबर",
+          "word_id": "unimet-nep-रबर",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-रबर-n04116512",
+          "lemma": "रबर",
+          "word_id": "unimet-nep-रबर",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-रबर-n15006258::unimet-nep-रबर-n04116512": {
+          "source": "unimet-nep-रबर-n15006258",
+          "target": "unimet-nep-रबर-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "रामतोरिया",
+      "all_senses": [
+        {
+          "id": "unimet-nep-रामतोरिया-n12171966",
+          "lemma": "रामतोरिया",
+          "word_id": "unimet-nep-रामतोरिया",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-nep-रामतोरिया-n12172364",
+          "lemma": "रामतोरिया",
+          "word_id": "unimet-nep-रामतोरिया",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-रामतोरिया-n12171966",
+          "lemma": "रामतोरिया",
+          "word_id": "unimet-nep-रामतोरिया",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-रामतोरिया-n12172364",
+          "lemma": "रामतोरिया",
+          "word_id": "unimet-nep-रामतोरिया",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-रामतोरिया-n12171966::unimet-nep-रामतोरिया-n12172364": {
+          "source": "unimet-nep-रामतोरिया-n12171966",
+          "target": "unimet-nep-रामतोरिया-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "लिची",
+      "all_senses": [
+        {
+          "id": "unimet-nep-लिची-n07766173",
+          "lemma": "लिची",
+          "word_id": "unimet-nep-लिची",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-nep-लिची-n12744387",
+          "lemma": "लिची",
+          "word_id": "unimet-nep-लिची",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-लिची-n07766173",
+          "lemma": "लिची",
+          "word_id": "unimet-nep-लिची",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-लिची-n12744387",
+          "lemma": "लिची",
+          "word_id": "unimet-nep-लिची",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-लिची-n07766173::unimet-nep-लिची-n12744387": {
+          "source": "unimet-nep-लिची-n07766173",
+          "target": "unimet-nep-लिची-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "लिच्ची",
+      "all_senses": [
+        {
+          "id": "unimet-nep-लिच्ची-n07766173",
+          "lemma": "लिच्ची",
+          "word_id": "unimet-nep-लिच्ची",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-nep-लिच्ची-n12744387",
+          "lemma": "लिच्ची",
+          "word_id": "unimet-nep-लिच्ची",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-लिच्ची-n07766173",
+          "lemma": "लिच्ची",
+          "word_id": "unimet-nep-लिच्ची",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-लिच्ची-n12744387",
+          "lemma": "लिच्ची",
+          "word_id": "unimet-nep-लिच्ची",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-लिच्ची-n07766173::unimet-nep-लिच्ची-n12744387": {
+          "source": "unimet-nep-लिच्ची-n07766173",
+          "target": "unimet-nep-लिच्ची-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "सखरखण्ड",
+      "all_senses": [
+        {
+          "id": "unimet-nep-सखरखण्ड-n07712063",
+          "lemma": "सखरखण्ड",
+          "word_id": "unimet-nep-सखरखण्ड",
+          "synset": {
+            "id": "omw-en-07712063-n",
+            "ili": "i77525",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "the edible tuberous root of the sweet potato vine which is grown widely in warm regions of the United States"
+          }
+        },
+        {
+          "id": "unimet-nep-सखरखण्ड-n12827684",
+          "lemma": "सखरखण्ड",
+          "word_id": "unimet-nep-सखरखण्ड",
+          "synset": {
+            "id": "omw-en-12827684-n",
+            "ili": "i104212",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "pantropical vine widely cultivated in several varieties for its large sweet tuberous root with orange flesh"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-सखरखण्ड-n12827684",
+          "lemma": "सखरखण्ड",
+          "word_id": "unimet-nep-सखरखण्ड",
+          "synset": {
+            "id": "omw-en-12827684-n",
+            "ili": "i104212",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "pantropical vine widely cultivated in several varieties for its large sweet tuberous root with orange flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-सखरखण्ड-n07712063",
+          "lemma": "सखरखण्ड",
+          "word_id": "unimet-nep-सखरखण्ड",
+          "synset": {
+            "id": "omw-en-07712063-n",
+            "ili": "i77525",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "the edible tuberous root of the sweet potato vine which is grown widely in warm regions of the United States"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-सखरखण्ड-n12827684::unimet-nep-सखरखण्ड-n07712063": {
+          "source": "unimet-nep-सखरखण्ड-n12827684",
+          "target": "unimet-nep-सखरखण्ड-n07712063",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "सुठनी",
+      "all_senses": [
+        {
+          "id": "unimet-nep-सुठनी-n07712063",
+          "lemma": "सुठनी",
+          "word_id": "unimet-nep-सुठनी",
+          "synset": {
+            "id": "omw-en-07712063-n",
+            "ili": "i77525",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "the edible tuberous root of the sweet potato vine which is grown widely in warm regions of the United States"
+          }
+        },
+        {
+          "id": "unimet-nep-सुठनी-n12827684",
+          "lemma": "सुठनी",
+          "word_id": "unimet-nep-सुठनी",
+          "synset": {
+            "id": "omw-en-12827684-n",
+            "ili": "i104212",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "pantropical vine widely cultivated in several varieties for its large sweet tuberous root with orange flesh"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-सुठनी-n12827684",
+          "lemma": "सुठनी",
+          "word_id": "unimet-nep-सुठनी",
+          "synset": {
+            "id": "omw-en-12827684-n",
+            "ili": "i104212",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "pantropical vine widely cultivated in several varieties for its large sweet tuberous root with orange flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-सुठनी-n07712063",
+          "lemma": "सुठनी",
+          "word_id": "unimet-nep-सुठनी",
+          "synset": {
+            "id": "omw-en-07712063-n",
+            "ili": "i77525",
+            "pos": "n",
+            "lemmas": [
+              "sweet potato"
+            ],
+            "definition": "the edible tuberous root of the sweet potato vine which is grown widely in warm regions of the United States"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-सुठनी-n12827684::unimet-nep-सुठनी-n07712063": {
+          "source": "unimet-nep-सुठनी-n12827684",
+          "target": "unimet-nep-सुठनी-n07712063",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "सुन्तला",
+      "all_senses": [
+        {
+          "id": "unimet-nep-सुन्तला-n07747607",
+          "lemma": "सुन्तला",
+          "word_id": "unimet-nep-सुन्तला",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-nep-सुन्तला-n12708293",
+          "lemma": "सुन्तला",
+          "word_id": "unimet-nep-सुन्तला",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-सुन्तला-n07747607",
+          "lemma": "सुन्तला",
+          "word_id": "unimet-nep-सुन्तला",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-सुन्तला-n12708293",
+          "lemma": "सुन्तला",
+          "word_id": "unimet-nep-सुन्तला",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-सुन्तला-n07747607::unimet-nep-सुन्तला-n12708293": {
+          "source": "unimet-nep-सुन्तला-n07747607",
+          "target": "unimet-nep-सुन्तला-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "स्याउ",
+      "all_senses": [
+        {
+          "id": "unimet-nep-स्याउ-n07739125",
+          "lemma": "स्याउ",
+          "word_id": "unimet-nep-स्याउ",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-nep-स्याउ-n12633994",
+          "lemma": "स्याउ",
+          "word_id": "unimet-nep-स्याउ",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nep-स्याउ-n07739125",
+          "lemma": "स्याउ",
+          "word_id": "unimet-nep-स्याउ",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nep-स्याउ-n12633994",
+          "lemma": "स्याउ",
+          "word_id": "unimet-nep-स्याउ",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nep-स्याउ-n07739125::unimet-nep-स्याउ-n12633994": {
+          "source": "unimet-nep-स्याउ-n07739125",
+          "target": "unimet-nep-स्याउ-n12633994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

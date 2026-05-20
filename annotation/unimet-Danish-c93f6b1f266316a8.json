@@ -1,0 +1,2481 @@
+{
+  "id": "c93f6b1f266316a8",
+  "name": "unimet-Danish",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "dan",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "agerhøne",
+      "all_senses": [
+        {
+          "id": "unimet-dan-agerhøne-n01807828",
+          "lemma": "agerhøne",
+          "word_id": "unimet-dan-agerhøne",
+          "synset": {
+            "id": "omw-en-01807828-n",
+            "ili": "i44813",
+            "pos": "n",
+            "lemmas": [
+              "perdix perdix"
+            ],
+            "definition": "common European partridge"
+          }
+        },
+        {
+          "id": "unimet-dan-agerhøne-n07647496",
+          "lemma": "agerhøne",
+          "word_id": "unimet-dan-agerhøne",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-agerhøne-n01807828",
+          "lemma": "agerhøne",
+          "word_id": "unimet-dan-agerhøne",
+          "synset": {
+            "id": "omw-en-01807828-n",
+            "ili": "i44813",
+            "pos": "n",
+            "lemmas": [
+              "perdix perdix"
+            ],
+            "definition": "common European partridge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-agerhøne-n07647496",
+          "lemma": "agerhøne",
+          "word_id": "unimet-dan-agerhøne",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-agerhøne-n01807828::unimet-dan-agerhøne-n07647496": {
+          "source": "unimet-dan-agerhøne-n01807828",
+          "target": "unimet-dan-agerhøne-n07647496",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "akvarel",
+      "all_senses": [
+        {
+          "id": "unimet-dan-akvarel-n04558578",
+          "lemma": "akvarel",
+          "word_id": "unimet-dan-akvarel",
+          "synset": {
+            "id": "omw-en-04558578-n",
+            "ili": "i60995",
+            "pos": "n",
+            "lemmas": [
+              "water-colour"
+            ],
+            "definition": "a painting produced with watercolors"
+          }
+        },
+        {
+          "id": "unimet-dan-akvarel-n14991319",
+          "lemma": "akvarel",
+          "word_id": "unimet-dan-akvarel",
+          "synset": {
+            "id": "omw-en-14991319-n",
+            "ili": "i115925",
+            "pos": "n",
+            "lemmas": [
+              "water-colour"
+            ],
+            "definition": "water-soluble pigment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-akvarel-n14991319",
+          "lemma": "akvarel",
+          "word_id": "unimet-dan-akvarel",
+          "synset": {
+            "id": "omw-en-14991319-n",
+            "ili": "i115925",
+            "pos": "n",
+            "lemmas": [
+              "water-colour"
+            ],
+            "definition": "water-soluble pigment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-akvarel-n04558578",
+          "lemma": "akvarel",
+          "word_id": "unimet-dan-akvarel",
+          "synset": {
+            "id": "omw-en-04558578-n",
+            "ili": "i60995",
+            "pos": "n",
+            "lemmas": [
+              "water-colour"
+            ],
+            "definition": "a painting produced with watercolors"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-akvarel-n14991319::unimet-dan-akvarel-n04558578": {
+          "source": "unimet-dan-akvarel-n14991319",
+          "target": "unimet-dan-akvarel-n04558578",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ananas",
+      "all_senses": [
+        {
+          "id": "unimet-dan-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-dan-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-dan-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-dan-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-dan-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-dan-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-ananas-n07753275::unimet-dan-ananas-n12607456": {
+          "source": "unimet-dan-ananas-n07753275",
+          "target": "unimet-dan-ananas-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "blomme",
+      "all_senses": [
+        {
+          "id": "unimet-dan-blomme-n07751451",
+          "lemma": "blomme",
+          "word_id": "unimet-dan-blomme",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-dan-blomme-n12638218",
+          "lemma": "blomme",
+          "word_id": "unimet-dan-blomme",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-blomme-n07751451",
+          "lemma": "blomme",
+          "word_id": "unimet-dan-blomme",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-blomme-n12638218",
+          "lemma": "blomme",
+          "word_id": "unimet-dan-blomme",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-blomme-n07751451::unimet-dan-blomme-n12638218": {
+          "source": "unimet-dan-blomme-n07751451",
+          "target": "unimet-dan-blomme-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bombe",
+      "all_senses": [
+        {
+          "id": "unimet-dan-bombe-n02866578",
+          "lemma": "bombe",
+          "word_id": "unimet-dan-bombe",
+          "synset": {
+            "id": "omw-en-02866578-n",
+            "ili": "i50934",
+            "pos": "n",
+            "lemmas": [
+              "bomb"
+            ],
+            "definition": "an explosive device fused to explode under specific conditions"
+          }
+        },
+        {
+          "id": "unimet-dan-bombe-v01131902",
+          "lemma": "bombe",
+          "word_id": "unimet-dan-bombe",
+          "synset": {
+            "id": "omw-en-01131902-v",
+            "ili": "i27260",
+            "pos": "v",
+            "lemmas": [
+              "bombard"
+            ],
+            "definition": "throw bombs at or attack with bombs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-bombe-n02866578",
+          "lemma": "bombe",
+          "word_id": "unimet-dan-bombe",
+          "synset": {
+            "id": "omw-en-02866578-n",
+            "ili": "i50934",
+            "pos": "n",
+            "lemmas": [
+              "bomb"
+            ],
+            "definition": "an explosive device fused to explode under specific conditions"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-bombe-v01131902",
+          "lemma": "bombe",
+          "word_id": "unimet-dan-bombe",
+          "synset": {
+            "id": "omw-en-01131902-v",
+            "ili": "i27260",
+            "pos": "v",
+            "lemmas": [
+              "bombard"
+            ],
+            "definition": "throw bombs at or attack with bombs"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-bombe-n02866578::unimet-dan-bombe-v01131902": {
+          "source": "unimet-dan-bombe-n02866578",
+          "target": "unimet-dan-bombe-v01131902",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bor",
+      "all_senses": [
+        {
+          "id": "unimet-dan-bor-n03239726",
+          "lemma": "bor",
+          "word_id": "unimet-dan-bor",
+          "synset": {
+            "id": "omw-en-03239726-n",
+            "ili": "i53159",
+            "pos": "n",
+            "lemmas": [
+              "drill"
+            ],
+            "definition": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)"
+          }
+        },
+        {
+          "id": "unimet-dan-bor-n14631871",
+          "lemma": "bor",
+          "word_id": "unimet-dan-bor",
+          "synset": {
+            "id": "omw-en-14631871-n",
+            "ili": "i113908",
+            "pos": "n",
+            "lemmas": [
+              "boron"
+            ],
+            "definition": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-bor-n14631871",
+          "lemma": "bor",
+          "word_id": "unimet-dan-bor",
+          "synset": {
+            "id": "omw-en-14631871-n",
+            "ili": "i113908",
+            "pos": "n",
+            "lemmas": [
+              "boron"
+            ],
+            "definition": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-bor-n03239726",
+          "lemma": "bor",
+          "word_id": "unimet-dan-bor",
+          "synset": {
+            "id": "omw-en-03239726-n",
+            "ili": "i53159",
+            "pos": "n",
+            "lemmas": [
+              "drill"
+            ],
+            "definition": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-bor-n14631871::unimet-dan-bor-n03239726": {
+          "source": "unimet-dan-bor-n14631871",
+          "target": "unimet-dan-bor-n03239726",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "brombær",
+      "all_senses": [
+        {
+          "id": "unimet-dan-brombær-n07744811",
+          "lemma": "brombær",
+          "word_id": "unimet-dan-brombær",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-dan-brombær-n12653762",
+          "lemma": "brombær",
+          "word_id": "unimet-dan-brombær",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-brombær-n07744811",
+          "lemma": "brombær",
+          "word_id": "unimet-dan-brombær",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-brombær-n12653762",
+          "lemma": "brombær",
+          "word_id": "unimet-dan-brombær",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-brombær-n07744811::unimet-dan-brombær-n12653762": {
+          "source": "unimet-dan-brombær-n07744811",
+          "target": "unimet-dan-brombær-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bronze",
+      "all_senses": [
+        {
+          "id": "unimet-dan-bronze-n02906175",
+          "lemma": "bronze",
+          "word_id": "unimet-dan-bronze",
+          "synset": {
+            "id": "omw-en-02906175-n",
+            "ili": "i51178",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "a sculpture made of bronze"
+          }
+        },
+        {
+          "id": "unimet-dan-bronze-n14717275",
+          "lemma": "bronze",
+          "word_id": "unimet-dan-bronze",
+          "synset": {
+            "id": "omw-en-14717275-n",
+            "ili": "i114335",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "an alloy of copper and tin and sometimes other elements; also any copper-base alloy containing other elements in place of tin"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-bronze-n14717275",
+          "lemma": "bronze",
+          "word_id": "unimet-dan-bronze",
+          "synset": {
+            "id": "omw-en-14717275-n",
+            "ili": "i114335",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "an alloy of copper and tin and sometimes other elements; also any copper-base alloy containing other elements in place of tin"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-bronze-n02906175",
+          "lemma": "bronze",
+          "word_id": "unimet-dan-bronze",
+          "synset": {
+            "id": "omw-en-02906175-n",
+            "ili": "i51178",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "a sculpture made of bronze"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-bronze-n14717275::unimet-dan-bronze-n02906175": {
+          "source": "unimet-dan-bronze-n14717275",
+          "target": "unimet-dan-bronze-n02906175",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "børste",
+      "all_senses": [
+        {
+          "id": "unimet-dan-børste-n02908217",
+          "lemma": "børste",
+          "word_id": "unimet-dan-børste",
+          "synset": {
+            "id": "omw-en-02908217-n",
+            "ili": "i51192",
+            "pos": "n",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "an implement that has hairs or bristles firmly set into a handle"
+          }
+        },
+        {
+          "id": "unimet-dan-børste-v01243809",
+          "lemma": "børste",
+          "word_id": "unimet-dan-børste",
+          "synset": {
+            "id": "omw-en-01243809-v",
+            "ili": "i27852",
+            "pos": "v",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "rub with a brush, or as if with a brush"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-børste-n02908217",
+          "lemma": "børste",
+          "word_id": "unimet-dan-børste",
+          "synset": {
+            "id": "omw-en-02908217-n",
+            "ili": "i51192",
+            "pos": "n",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "an implement that has hairs or bristles firmly set into a handle"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-børste-v01243809",
+          "lemma": "børste",
+          "word_id": "unimet-dan-børste",
+          "synset": {
+            "id": "omw-en-01243809-v",
+            "ili": "i27852",
+            "pos": "v",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "rub with a brush, or as if with a brush"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-børste-n02908217::unimet-dan-børste-v01243809": {
+          "source": "unimet-dan-børste-n02908217",
+          "target": "unimet-dan-børste-v01243809",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-dan-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-dan-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-dan-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-dan-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-dan-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-dan-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-glas-n14881303::unimet-dan-glas-n03438257": {
+          "source": "unimet-dan-glas-n14881303",
+          "target": "unimet-dan-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "granatæble",
+      "all_senses": [
+        {
+          "id": "unimet-dan-granatæble-n07768694",
+          "lemma": "granatæble",
+          "word_id": "unimet-dan-granatæble",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-dan-granatæble-n12345280",
+          "lemma": "granatæble",
+          "word_id": "unimet-dan-granatæble",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-granatæble-n07768694",
+          "lemma": "granatæble",
+          "word_id": "unimet-dan-granatæble",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-granatæble-n12345280",
+          "lemma": "granatæble",
+          "word_id": "unimet-dan-granatæble",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-granatæble-n07768694::unimet-dan-granatæble-n12345280": {
+          "source": "unimet-dan-granatæble-n07768694",
+          "target": "unimet-dan-granatæble-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hikke",
+      "all_senses": [
+        {
+          "id": "unimet-dan-hikke-n14359459",
+          "lemma": "hikke",
+          "word_id": "unimet-dan-hikke",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        },
+        {
+          "id": "unimet-dan-hikke-v00003826",
+          "lemma": "hikke",
+          "word_id": "unimet-dan-hikke",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-hikke-v00003826",
+          "lemma": "hikke",
+          "word_id": "unimet-dan-hikke",
+          "synset": {
+            "id": "omw-en-00003826-v",
+            "ili": "i21787",
+            "pos": "v",
+            "lemmas": [
+              "hiccup"
+            ],
+            "definition": "breathe spasmodically, and make a sound"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-hikke-n14359459",
+          "lemma": "hikke",
+          "word_id": "unimet-dan-hikke",
+          "synset": {
+            "id": "omw-en-14359459-n",
+            "ili": "i112456",
+            "pos": "n",
+            "lemmas": [
+              "hiccough"
+            ],
+            "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-hikke-v00003826::unimet-dan-hikke-n14359459": {
+          "source": "unimet-dan-hikke-v00003826",
+          "target": "unimet-dan-hikke-n14359459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hoste",
+      "all_senses": [
+        {
+          "id": "unimet-dan-hoste-n14359174",
+          "lemma": "hoste",
+          "word_id": "unimet-dan-hoste",
+          "synset": {
+            "id": "omw-en-14359174-n",
+            "ili": "i112455",
+            "pos": "n",
+            "lemmas": [
+              "coughing"
+            ],
+            "definition": "sudden expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis"
+          }
+        },
+        {
+          "id": "unimet-dan-hoste-v00005815",
+          "lemma": "hoste",
+          "word_id": "unimet-dan-hoste",
+          "synset": {
+            "id": "omw-en-00005815-v",
+            "ili": "i21795",
+            "pos": "v",
+            "lemmas": [
+              "cough"
+            ],
+            "definition": "exhale abruptly, as when one has a chest cold or congestion"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-hoste-v00005815",
+          "lemma": "hoste",
+          "word_id": "unimet-dan-hoste",
+          "synset": {
+            "id": "omw-en-00005815-v",
+            "ili": "i21795",
+            "pos": "v",
+            "lemmas": [
+              "cough"
+            ],
+            "definition": "exhale abruptly, as when one has a chest cold or congestion"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-hoste-n14359174",
+          "lemma": "hoste",
+          "word_id": "unimet-dan-hoste",
+          "synset": {
+            "id": "omw-en-14359174-n",
+            "ili": "i112455",
+            "pos": "n",
+            "lemmas": [
+              "coughing"
+            ],
+            "definition": "sudden expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-hoste-v00005815::unimet-dan-hoste-n14359174": {
+          "source": "unimet-dan-hoste-v00005815",
+          "target": "unimet-dan-hoste-n14359174",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "høne",
+      "all_senses": [
+        {
+          "id": "unimet-dan-høne-n01791625",
+          "lemma": "høne",
+          "word_id": "unimet-dan-høne",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-dan-høne-n01792640",
+          "lemma": "høne",
+          "word_id": "unimet-dan-høne",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-dan-høne-n07644967",
+          "lemma": "høne",
+          "word_id": "unimet-dan-høne",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-høne-n01791625",
+          "lemma": "høne",
+          "word_id": "unimet-dan-høne",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-dan-høne-n01792640",
+          "lemma": "høne",
+          "word_id": "unimet-dan-høne",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-høne-n07644967",
+          "lemma": "høne",
+          "word_id": "unimet-dan-høne",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-høne-n01791625::unimet-dan-høne-n07644967": {
+          "source": "unimet-dan-høne-n01791625",
+          "target": "unimet-dan-høne-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-dan-høne-n01792640::unimet-dan-høne-n07644967": {
+          "source": "unimet-dan-høne-n01792640",
+          "target": "unimet-dan-høne-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jordbær",
+      "all_senses": [
+        {
+          "id": "unimet-dan-jordbær-n07745940",
+          "lemma": "jordbær",
+          "word_id": "unimet-dan-jordbær",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-dan-jordbær-n12630144",
+          "lemma": "jordbær",
+          "word_id": "unimet-dan-jordbær",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-jordbær-n07745940",
+          "lemma": "jordbær",
+          "word_id": "unimet-dan-jordbær",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-jordbær-n12630144",
+          "lemma": "jordbær",
+          "word_id": "unimet-dan-jordbær",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-jordbær-n07745940::unimet-dan-jordbær-n12630144": {
+          "source": "unimet-dan-jordbær-n07745940",
+          "target": "unimet-dan-jordbær-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kokosnød",
+      "all_senses": [
+        {
+          "id": "unimet-dan-kokosnød-n07772935",
+          "lemma": "kokosnød",
+          "word_id": "unimet-dan-kokosnød",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-dan-kokosnød-n12587803",
+          "lemma": "kokosnød",
+          "word_id": "unimet-dan-kokosnød",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-kokosnød-n07772935",
+          "lemma": "kokosnød",
+          "word_id": "unimet-dan-kokosnød",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-kokosnød-n12587803",
+          "lemma": "kokosnød",
+          "word_id": "unimet-dan-kokosnød",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-kokosnød-n07772935::unimet-dan-kokosnød-n12587803": {
+          "source": "unimet-dan-kokosnød-n07772935",
+          "target": "unimet-dan-kokosnød-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kylling",
+      "all_senses": [
+        {
+          "id": "unimet-dan-kylling-n01792042",
+          "lemma": "kylling",
+          "word_id": "unimet-dan-kylling",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-dan-kylling-n07644967",
+          "lemma": "kylling",
+          "word_id": "unimet-dan-kylling",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-kylling-n01792042",
+          "lemma": "kylling",
+          "word_id": "unimet-dan-kylling",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-kylling-n07644967",
+          "lemma": "kylling",
+          "word_id": "unimet-dan-kylling",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-kylling-n01792042::unimet-dan-kylling-n07644967": {
+          "source": "unimet-dan-kylling-n01792042",
+          "target": "unimet-dan-kylling-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-dan-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-dan-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-dan-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-dan-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-dan-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-dan-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-land-n08168978::unimet-dan-land-n08544813": {
+          "source": "unimet-dan-land-n08168978",
+          "target": "unimet-dan-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "landsby",
+      "all_senses": [
+        {
+          "id": "unimet-dan-landsby-n08226699",
+          "lemma": "landsby",
+          "word_id": "unimet-dan-landsby",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-dan-landsby-n08672738",
+          "lemma": "landsby",
+          "word_id": "unimet-dan-landsby",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-landsby-n08226699",
+          "lemma": "landsby",
+          "word_id": "unimet-dan-landsby",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-landsby-n08672738",
+          "lemma": "landsby",
+          "word_id": "unimet-dan-landsby",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-landsby-n08226699::unimet-dan-landsby-n08672738": {
+          "source": "unimet-dan-landsby-n08226699",
+          "target": "unimet-dan-landsby-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "linse",
+      "all_senses": [
+        {
+          "id": "unimet-dan-linse-n07725255",
+          "lemma": "linse",
+          "word_id": "unimet-dan-linse",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-dan-linse-n12544240",
+          "lemma": "linse",
+          "word_id": "unimet-dan-linse",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-linse-n12544240",
+          "lemma": "linse",
+          "word_id": "unimet-dan-linse",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-linse-n07725255",
+          "lemma": "linse",
+          "word_id": "unimet-dan-linse",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-linse-n12544240::unimet-dan-linse-n07725255": {
+          "source": "unimet-dan-linse-n12544240",
+          "target": "unimet-dan-linse-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mandarin",
+      "all_senses": [
+        {
+          "id": "unimet-dan-mandarin-n07747951",
+          "lemma": "mandarin",
+          "word_id": "unimet-dan-mandarin",
+          "synset": {
+            "id": "omw-en-07747951-n",
+            "ili": "i77764",
+            "pos": "n",
+            "lemmas": [
+              "mandarin"
+            ],
+            "definition": "a somewhat flat reddish-orange loose skinned citrus of China"
+          }
+        },
+        {
+          "id": "unimet-dan-mandarin-n12710295",
+          "lemma": "mandarin",
+          "word_id": "unimet-dan-mandarin",
+          "synset": {
+            "id": "omw-en-12710295-n",
+            "ili": "i103645",
+            "pos": "n",
+            "lemmas": [
+              "tangerine"
+            ],
+            "definition": "a variety of mandarin orange"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-mandarin-n07747951",
+          "lemma": "mandarin",
+          "word_id": "unimet-dan-mandarin",
+          "synset": {
+            "id": "omw-en-07747951-n",
+            "ili": "i77764",
+            "pos": "n",
+            "lemmas": [
+              "mandarin"
+            ],
+            "definition": "a somewhat flat reddish-orange loose skinned citrus of China"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-mandarin-n12710295",
+          "lemma": "mandarin",
+          "word_id": "unimet-dan-mandarin",
+          "synset": {
+            "id": "omw-en-12710295-n",
+            "ili": "i103645",
+            "pos": "n",
+            "lemmas": [
+              "tangerine"
+            ],
+            "definition": "a variety of mandarin orange"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-mandarin-n07747951::unimet-dan-mandarin-n12710295": {
+          "source": "unimet-dan-mandarin-n07747951",
+          "target": "unimet-dan-mandarin-n12710295",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "paranød",
+      "all_senses": [
+        {
+          "id": "unimet-dan-paranød-n07771731",
+          "lemma": "paranød",
+          "word_id": "unimet-dan-paranød",
+          "synset": {
+            "id": "omw-en-07771731-n",
+            "ili": "i77919",
+            "pos": "n",
+            "lemmas": [
+              "brazil nut"
+            ],
+            "definition": "three-sided tropical American nut with white oily meat and hard brown shell"
+          }
+        },
+        {
+          "id": "unimet-dan-paranød-n12327846",
+          "lemma": "paranød",
+          "word_id": "unimet-dan-paranød",
+          "synset": {
+            "id": "omw-en-12327846-n",
+            "ili": "i101817",
+            "pos": "n",
+            "lemmas": [
+              "brazil nut"
+            ],
+            "definition": "tall South American tree bearing brazil nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-paranød-n07771731",
+          "lemma": "paranød",
+          "word_id": "unimet-dan-paranød",
+          "synset": {
+            "id": "omw-en-07771731-n",
+            "ili": "i77919",
+            "pos": "n",
+            "lemmas": [
+              "brazil nut"
+            ],
+            "definition": "three-sided tropical American nut with white oily meat and hard brown shell"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-paranød-n12327846",
+          "lemma": "paranød",
+          "word_id": "unimet-dan-paranød",
+          "synset": {
+            "id": "omw-en-12327846-n",
+            "ili": "i101817",
+            "pos": "n",
+            "lemmas": [
+              "brazil nut"
+            ],
+            "definition": "tall South American tree bearing brazil nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-paranød-n07771731::unimet-dan-paranød-n12327846": {
+          "source": "unimet-dan-paranød-n07771731",
+          "target": "unimet-dan-paranød-n12327846",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "rige",
+      "all_senses": [
+        {
+          "id": "unimet-dan-rige-n08052413",
+          "lemma": "rige",
+          "word_id": "unimet-dan-rige",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-dan-rige-n08558155",
+          "lemma": "rige",
+          "word_id": "unimet-dan-rige",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-rige-n08052413",
+          "lemma": "rige",
+          "word_id": "unimet-dan-rige",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-rige-n08558155",
+          "lemma": "rige",
+          "word_id": "unimet-dan-rige",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-rige-n08052413::unimet-dan-rige-n08558155": {
+          "source": "unimet-dan-rige-n08052413",
+          "target": "unimet-dan-rige-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skole",
+      "all_senses": [
+        {
+          "id": "unimet-dan-skole-n04146050",
+          "lemma": "skole",
+          "word_id": "unimet-dan-skole",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-dan-skole-n08276720",
+          "lemma": "skole",
+          "word_id": "unimet-dan-skole",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-skole-n04146050",
+          "lemma": "skole",
+          "word_id": "unimet-dan-skole",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-skole-n08276720",
+          "lemma": "skole",
+          "word_id": "unimet-dan-skole",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-skole-n04146050::unimet-dan-skole-n08276720": {
+          "source": "unimet-dan-skole-n04146050",
+          "target": "unimet-dan-skole-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "smerte",
+      "all_senses": [
+        {
+          "id": "unimet-dan-smerte-n14322699",
+          "lemma": "smerte",
+          "word_id": "unimet-dan-smerte",
+          "synset": {
+            "id": "omw-en-14322699-n",
+            "ili": "i112218",
+            "pos": "n",
+            "lemmas": [
+              "pain"
+            ],
+            "definition": "a symptom of some physical hurt or disorder"
+          }
+        },
+        {
+          "id": "unimet-dan-smerte-v02122164",
+          "lemma": "smerte",
+          "word_id": "unimet-dan-smerte",
+          "synset": {
+            "id": "omw-en-02122164-v",
+            "ili": "i32368",
+            "pos": "v",
+            "lemmas": [
+              "hurt"
+            ],
+            "definition": "be the source of pain"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-smerte-v02122164",
+          "lemma": "smerte",
+          "word_id": "unimet-dan-smerte",
+          "synset": {
+            "id": "omw-en-02122164-v",
+            "ili": "i32368",
+            "pos": "v",
+            "lemmas": [
+              "hurt"
+            ],
+            "definition": "be the source of pain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-smerte-n14322699",
+          "lemma": "smerte",
+          "word_id": "unimet-dan-smerte",
+          "synset": {
+            "id": "omw-en-14322699-n",
+            "ili": "i112218",
+            "pos": "n",
+            "lemmas": [
+              "pain"
+            ],
+            "definition": "a symptom of some physical hurt or disorder"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-smerte-v02122164::unimet-dan-smerte-n14322699": {
+          "source": "unimet-dan-smerte-v02122164",
+          "target": "unimet-dan-smerte-n14322699",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stat",
+      "all_senses": [
+        {
+          "id": "unimet-dan-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-dan-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-dan-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-dan-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-dan-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-dan-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-stat-n08178547::unimet-dan-stat-n08654360": {
+          "source": "unimet-dan-stat-n08178547",
+          "target": "unimet-dan-stat-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "støtte",
+      "all_senses": [
+        {
+          "id": "unimet-dan-støtte-n04360501",
+          "lemma": "støtte",
+          "word_id": "unimet-dan-støtte",
+          "synset": {
+            "id": "omw-en-04360501-n",
+            "ili": "i59817",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "supporting structure that holds up or provides a foundation"
+          }
+        },
+        {
+          "id": "unimet-dan-støtte-v01217043",
+          "lemma": "støtte",
+          "word_id": "unimet-dan-støtte",
+          "synset": {
+            "id": "omw-en-01217043-v",
+            "ili": "i27707",
+            "pos": "v",
+            "lemmas": [
+              "hold up"
+            ],
+            "definition": "be the physical support of; carry the weight of"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-støtte-v01217043",
+          "lemma": "støtte",
+          "word_id": "unimet-dan-støtte",
+          "synset": {
+            "id": "omw-en-01217043-v",
+            "ili": "i27707",
+            "pos": "v",
+            "lemmas": [
+              "hold up"
+            ],
+            "definition": "be the physical support of; carry the weight of"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-støtte-n04360501",
+          "lemma": "støtte",
+          "word_id": "unimet-dan-støtte",
+          "synset": {
+            "id": "omw-en-04360501-n",
+            "ili": "i59817",
+            "pos": "n",
+            "lemmas": [
+              "support"
+            ],
+            "definition": "supporting structure that holds up or provides a foundation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-støtte-v01217043::unimet-dan-støtte-n04360501": {
+          "source": "unimet-dan-støtte-v01217043",
+          "target": "unimet-dan-støtte-n04360501",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "svamp",
+      "all_senses": [
+        {
+          "id": "unimet-dan-svamp-n07734744",
+          "lemma": "svamp",
+          "word_id": "unimet-dan-svamp",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-dan-svamp-n12992868",
+          "lemma": "svamp",
+          "word_id": "unimet-dan-svamp",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-svamp-n12992868",
+          "lemma": "svamp",
+          "word_id": "unimet-dan-svamp",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-svamp-n07734744",
+          "lemma": "svamp",
+          "word_id": "unimet-dan-svamp",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-svamp-n12992868::unimet-dan-svamp-n07734744": {
+          "source": "unimet-dan-svamp-n12992868",
+          "target": "unimet-dan-svamp-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tv",
+      "all_senses": [
+        {
+          "id": "unimet-dan-tv-n04405907",
+          "lemma": "tv",
+          "word_id": "unimet-dan-tv",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        },
+        {
+          "id": "unimet-dan-tv-n06277280",
+          "lemma": "tv",
+          "word_id": "unimet-dan-tv",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-tv-n04405907",
+          "lemma": "tv",
+          "word_id": "unimet-dan-tv",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-tv-n06277280",
+          "lemma": "tv",
+          "word_id": "unimet-dan-tv",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-tv-n04405907::unimet-dan-tv-n06277280": {
+          "source": "unimet-dan-tv-n04405907",
+          "target": "unimet-dan-tv-n06277280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "valnød",
+      "all_senses": [
+        {
+          "id": "unimet-dan-valnød-n07771212",
+          "lemma": "valnød",
+          "word_id": "unimet-dan-valnød",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        },
+        {
+          "id": "unimet-dan-valnød-n12318378",
+          "lemma": "valnød",
+          "word_id": "unimet-dan-valnød",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-valnød-n07771212",
+          "lemma": "valnød",
+          "word_id": "unimet-dan-valnød",
+          "synset": {
+            "id": "omw-en-07771212-n",
+            "ili": "i77916",
+            "pos": "n",
+            "lemmas": [
+              "walnut"
+            ],
+            "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-valnød-n12318378",
+          "lemma": "valnød",
+          "word_id": "unimet-dan-valnød",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-valnød-n07771212::unimet-dan-valnød-n12318378": {
+          "source": "unimet-dan-valnød-n07771212",
+          "target": "unimet-dan-valnød-n12318378",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ædelsten",
+      "all_senses": [
+        {
+          "id": "unimet-dan-ædelsten-n03596787",
+          "lemma": "ædelsten",
+          "word_id": "unimet-dan-ædelsten",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-dan-ædelsten-n14699752",
+          "lemma": "ædelsten",
+          "word_id": "unimet-dan-ædelsten",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-ædelsten-n14699752",
+          "lemma": "ædelsten",
+          "word_id": "unimet-dan-ædelsten",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-ædelsten-n03596787",
+          "lemma": "ædelsten",
+          "word_id": "unimet-dan-ædelsten",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-ædelsten-n14699752::unimet-dan-ædelsten-n03596787": {
+          "source": "unimet-dan-ædelsten-n14699752",
+          "target": "unimet-dan-ædelsten-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "æske",
+      "all_senses": [
+        {
+          "id": "unimet-dan-æske-n02883344",
+          "lemma": "æske",
+          "word_id": "unimet-dan-æske",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        },
+        {
+          "id": "unimet-dan-æske-n13765624",
+          "lemma": "æske",
+          "word_id": "unimet-dan-æske",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-dan-æske-n02883344",
+          "lemma": "æske",
+          "word_id": "unimet-dan-æske",
+          "synset": {
+            "id": "omw-en-02883344-n",
+            "ili": "i51036",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "a (usually rectangular) container; may have a lid"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-dan-æske-n13765624",
+          "lemma": "æske",
+          "word_id": "unimet-dan-æske",
+          "synset": {
+            "id": "omw-en-13765624-n",
+            "ili": "i109222",
+            "pos": "n",
+            "lemmas": [
+              "box"
+            ],
+            "definition": "the quantity contained in a box"
+          }
+        }
+      ],
+      "links": {
+        "unimet-dan-æske-n02883344::unimet-dan-æske-n13765624": {
+          "source": "unimet-dan-æske-n02883344",
+          "target": "unimet-dan-æske-n13765624",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

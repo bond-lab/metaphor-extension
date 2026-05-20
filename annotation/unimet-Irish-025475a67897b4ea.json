@@ -1,0 +1,1222 @@
+{
+  "id": "025475a67897b4ea",
+  "name": "unimet-Irish",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "gle",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "cadás",
+      "all_senses": [
+        {
+          "id": "unimet-gle-cadás-n03115180",
+          "lemma": "cadás",
+          "word_id": "unimet-gle-cadás",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-gle-cadás-n14870078",
+          "lemma": "cadás",
+          "word_id": "unimet-gle-cadás",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-cadás-n14870078",
+          "lemma": "cadás",
+          "word_id": "unimet-gle-cadás",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-cadás-n03115180",
+          "lemma": "cadás",
+          "word_id": "unimet-gle-cadás",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-cadás-n14870078::unimet-gle-cadás-n03115180": {
+          "source": "unimet-gle-cadás-n14870078",
+          "target": "unimet-gle-cadás-n03115180",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cearc",
+      "all_senses": [
+        {
+          "id": "unimet-gle-cearc-n01791625",
+          "lemma": "cearc",
+          "word_id": "unimet-gle-cearc",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-gle-cearc-n01792640",
+          "lemma": "cearc",
+          "word_id": "unimet-gle-cearc",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-gle-cearc-n07644967",
+          "lemma": "cearc",
+          "word_id": "unimet-gle-cearc",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-cearc-n01791625",
+          "lemma": "cearc",
+          "word_id": "unimet-gle-cearc",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-gle-cearc-n01792640",
+          "lemma": "cearc",
+          "word_id": "unimet-gle-cearc",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-cearc-n07644967",
+          "lemma": "cearc",
+          "word_id": "unimet-gle-cearc",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-cearc-n01791625::unimet-gle-cearc-n07644967": {
+          "source": "unimet-gle-cearc-n01791625",
+          "target": "unimet-gle-cearc-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-gle-cearc-n01792640::unimet-gle-cearc-n07644967": {
+          "source": "unimet-gle-cearc-n01792640",
+          "target": "unimet-gle-cearc-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cruan",
+      "all_senses": [
+        {
+          "id": "unimet-gle-cruan-n03284743",
+          "lemma": "cruan",
+          "word_id": "unimet-gle-cruan",
+          "synset": {
+            "id": "omw-en-03284743-n",
+            "ili": "i53406",
+            "pos": "n",
+            "lemmas": [
+              "enamel"
+            ],
+            "definition": "any smooth glossy coating that resembles ceramic glaze"
+          }
+        },
+        {
+          "id": "unimet-gle-cruan-v01681723",
+          "lemma": "cruan",
+          "word_id": "unimet-gle-cruan",
+          "synset": {
+            "id": "omw-en-01681723-v",
+            "ili": "i30155",
+            "pos": "v",
+            "lemmas": [
+              "enamel"
+            ],
+            "definition": "coat, inlay, or surface with enamel"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-cruan-n03284743",
+          "lemma": "cruan",
+          "word_id": "unimet-gle-cruan",
+          "synset": {
+            "id": "omw-en-03284743-n",
+            "ili": "i53406",
+            "pos": "n",
+            "lemmas": [
+              "enamel"
+            ],
+            "definition": "any smooth glossy coating that resembles ceramic glaze"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-cruan-v01681723",
+          "lemma": "cruan",
+          "word_id": "unimet-gle-cruan",
+          "synset": {
+            "id": "omw-en-01681723-v",
+            "ili": "i30155",
+            "pos": "v",
+            "lemmas": [
+              "enamel"
+            ],
+            "definition": "coat, inlay, or surface with enamel"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-cruan-n03284743::unimet-gle-cruan-v01681723": {
+          "source": "unimet-gle-cruan-n03284743",
+          "target": "unimet-gle-cruan-v01681723",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cíor",
+      "all_senses": [
+        {
+          "id": "unimet-gle-cíor-n03075097",
+          "lemma": "cíor",
+          "word_id": "unimet-gle-cíor",
+          "synset": {
+            "id": "omw-en-03075097-n",
+            "ili": "i52195",
+            "pos": "n",
+            "lemmas": [
+              "comb"
+            ],
+            "definition": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair"
+          }
+        },
+        {
+          "id": "unimet-gle-cíor-v00038365",
+          "lemma": "cíor",
+          "word_id": "unimet-gle-cíor",
+          "synset": {
+            "id": "omw-en-00038365-v",
+            "ili": "i21958",
+            "pos": "v",
+            "lemmas": [
+              "disentangle"
+            ],
+            "definition": "smoothen and neaten with or as with a comb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-cíor-n03075097",
+          "lemma": "cíor",
+          "word_id": "unimet-gle-cíor",
+          "synset": {
+            "id": "omw-en-03075097-n",
+            "ili": "i52195",
+            "pos": "n",
+            "lemmas": [
+              "comb"
+            ],
+            "definition": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-cíor-v00038365",
+          "lemma": "cíor",
+          "word_id": "unimet-gle-cíor",
+          "synset": {
+            "id": "omw-en-00038365-v",
+            "ili": "i21958",
+            "pos": "v",
+            "lemmas": [
+              "disentangle"
+            ],
+            "definition": "smoothen and neaten with or as with a comb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-cíor-n03075097::unimet-gle-cíor-v00038365": {
+          "source": "unimet-gle-cíor-n03075097",
+          "target": "unimet-gle-cíor-v00038365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gloine",
+      "all_senses": [
+        {
+          "id": "unimet-gle-gloine-n03438257",
+          "lemma": "gloine",
+          "word_id": "unimet-gle-gloine",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-gle-gloine-n14881303",
+          "lemma": "gloine",
+          "word_id": "unimet-gle-gloine",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-gloine-n14881303",
+          "lemma": "gloine",
+          "word_id": "unimet-gle-gloine",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-gloine-n03438257",
+          "lemma": "gloine",
+          "word_id": "unimet-gle-gloine",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-gloine-n14881303::unimet-gle-gloine-n03438257": {
+          "source": "unimet-gle-gloine-n14881303",
+          "target": "unimet-gle-gloine-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "grá",
+      "all_senses": [
+        {
+          "id": "unimet-gle-grá-n07543288",
+          "lemma": "grá",
+          "word_id": "unimet-gle-grá",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-gle-grá-n09849598",
+          "lemma": "grá",
+          "word_id": "unimet-gle-grá",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-grá-n07543288",
+          "lemma": "grá",
+          "word_id": "unimet-gle-grá",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-grá-n09849598",
+          "lemma": "grá",
+          "word_id": "unimet-gle-grá",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-grá-n07543288::unimet-gle-grá-n09849598": {
+          "source": "unimet-gle-grá-n07543288",
+          "target": "unimet-gle-grá-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mianach",
+      "all_senses": [
+        {
+          "id": "unimet-gle-mianach-n03768346",
+          "lemma": "mianach",
+          "word_id": "unimet-gle-mianach",
+          "synset": {
+            "id": "omw-en-03768346-n",
+            "ili": "i56262",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "excavation in the earth from which ores and minerals are extracted"
+          }
+        },
+        {
+          "id": "unimet-gle-mianach-n14688500",
+          "lemma": "mianach",
+          "word_id": "unimet-gle-mianach",
+          "synset": {
+            "id": "omw-en-14688500-n",
+            "ili": "i114170",
+            "pos": "n",
+            "lemmas": [
+              "ore"
+            ],
+            "definition": "a mineral that contains metal that is valuable enough to be mined"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-mianach-n14688500",
+          "lemma": "mianach",
+          "word_id": "unimet-gle-mianach",
+          "synset": {
+            "id": "omw-en-14688500-n",
+            "ili": "i114170",
+            "pos": "n",
+            "lemmas": [
+              "ore"
+            ],
+            "definition": "a mineral that contains metal that is valuable enough to be mined"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-mianach-n03768346",
+          "lemma": "mianach",
+          "word_id": "unimet-gle-mianach",
+          "synset": {
+            "id": "omw-en-03768346-n",
+            "ili": "i56262",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "excavation in the earth from which ores and minerals are extracted"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-mianach-n14688500::unimet-gle-mianach-n03768346": {
+          "source": "unimet-gle-mianach-n14688500",
+          "target": "unimet-gle-mianach-n03768346",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mún",
+      "all_senses": [
+        {
+          "id": "unimet-gle-mún-n14855724",
+          "lemma": "mún",
+          "word_id": "unimet-gle-mún",
+          "synset": {
+            "id": "omw-en-14855724-n",
+            "ili": "i115125",
+            "pos": "n",
+            "lemmas": [
+              "piddle"
+            ],
+            "definition": "liquid excretory product"
+          }
+        },
+        {
+          "id": "unimet-gle-mún-v00072012",
+          "lemma": "mún",
+          "word_id": "unimet-gle-mún",
+          "synset": {
+            "id": "omw-en-00072012-v",
+            "ili": "i22135",
+            "pos": "v",
+            "lemmas": [
+              "urinate"
+            ],
+            "definition": "eliminate urine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-mún-n14855724",
+          "lemma": "mún",
+          "word_id": "unimet-gle-mún",
+          "synset": {
+            "id": "omw-en-14855724-n",
+            "ili": "i115125",
+            "pos": "n",
+            "lemmas": [
+              "piddle"
+            ],
+            "definition": "liquid excretory product"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-mún-v00072012",
+          "lemma": "mún",
+          "word_id": "unimet-gle-mún",
+          "synset": {
+            "id": "omw-en-00072012-v",
+            "ili": "i22135",
+            "pos": "v",
+            "lemmas": [
+              "urinate"
+            ],
+            "definition": "eliminate urine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-mún-n14855724::unimet-gle-mún-v00072012": {
+          "source": "unimet-gle-mún-n14855724",
+          "target": "unimet-gle-mún-v00072012",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "olann",
+      "all_senses": [
+        {
+          "id": "unimet-gle-olann-n04599235",
+          "lemma": "olann",
+          "word_id": "unimet-gle-olann",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-gle-olann-n15104217",
+          "lemma": "olann",
+          "word_id": "unimet-gle-olann",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-olann-n15104217",
+          "lemma": "olann",
+          "word_id": "unimet-gle-olann",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-olann-n04599235",
+          "lemma": "olann",
+          "word_id": "unimet-gle-olann",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-olann-n15104217::unimet-gle-olann-n04599235": {
+          "source": "unimet-gle-olann-n15104217",
+          "target": "unimet-gle-olann-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "rua",
+      "all_senses": [
+        {
+          "id": "unimet-gle-rua-n04962784",
+          "lemma": "rua",
+          "word_id": "unimet-gle-rua",
+          "synset": {
+            "id": "omw-en-04962784-n",
+            "ili": "i63054",
+            "pos": "n",
+            "lemmas": [
+              "redness"
+            ],
+            "definition": "red color or pigment; the chromatic color resembling the hue of blood"
+          }
+        },
+        {
+          "id": "unimet-gle-rua-n10513823",
+          "lemma": "rua",
+          "word_id": "unimet-gle-rua",
+          "synset": {
+            "id": "omw-en-10513823-n",
+            "ili": "i92487",
+            "pos": "n",
+            "lemmas": [
+              "redheader"
+            ],
+            "definition": "someone who has red hair"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-rua-n04962784",
+          "lemma": "rua",
+          "word_id": "unimet-gle-rua",
+          "synset": {
+            "id": "omw-en-04962784-n",
+            "ili": "i63054",
+            "pos": "n",
+            "lemmas": [
+              "redness"
+            ],
+            "definition": "red color or pigment; the chromatic color resembling the hue of blood"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-rua-n10513823",
+          "lemma": "rua",
+          "word_id": "unimet-gle-rua",
+          "synset": {
+            "id": "omw-en-10513823-n",
+            "ili": "i92487",
+            "pos": "n",
+            "lemmas": [
+              "redheader"
+            ],
+            "definition": "someone who has red hair"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-rua-n04962784::unimet-gle-rua-n10513823": {
+          "source": "unimet-gle-rua-n04962784",
+          "target": "unimet-gle-rua-n10513823",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "scoil",
+      "all_senses": [
+        {
+          "id": "unimet-gle-scoil-n04146050",
+          "lemma": "scoil",
+          "word_id": "unimet-gle-scoil",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-gle-scoil-n08276720",
+          "lemma": "scoil",
+          "word_id": "unimet-gle-scoil",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-scoil-n04146050",
+          "lemma": "scoil",
+          "word_id": "unimet-gle-scoil",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-scoil-n08276720",
+          "lemma": "scoil",
+          "word_id": "unimet-gle-scoil",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-scoil-n04146050::unimet-gle-scoil-n08276720": {
+          "source": "unimet-gle-scoil-n04146050",
+          "target": "unimet-gle-scoil-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "scuab",
+      "all_senses": [
+        {
+          "id": "unimet-gle-scuab-n02906734",
+          "lemma": "scuab",
+          "word_id": "unimet-gle-scuab",
+          "synset": {
+            "id": "omw-en-02906734-n",
+            "ili": "i51182",
+            "pos": "n",
+            "lemmas": [
+              "broom"
+            ],
+            "definition": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle"
+          }
+        },
+        {
+          "id": "unimet-gle-scuab-v01393714",
+          "lemma": "scuab",
+          "word_id": "unimet-gle-scuab",
+          "synset": {
+            "id": "omw-en-01393714-v",
+            "ili": "i28686",
+            "pos": "v",
+            "lemmas": [
+              "broom"
+            ],
+            "definition": "sweep with a broom or as if with a broom"
+          }
+        },
+        {
+          "id": "unimet-gle-scuab-v01393996",
+          "lemma": "scuab",
+          "word_id": "unimet-gle-scuab",
+          "synset": {
+            "id": "omw-en-01393996-v",
+            "ili": "i28687",
+            "pos": "v",
+            "lemmas": [
+              "sweep"
+            ],
+            "definition": "clean by sweeping"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-scuab-n02906734",
+          "lemma": "scuab",
+          "word_id": "unimet-gle-scuab",
+          "synset": {
+            "id": "omw-en-02906734-n",
+            "ili": "i51182",
+            "pos": "n",
+            "lemmas": [
+              "broom"
+            ],
+            "definition": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-scuab-v01393714",
+          "lemma": "scuab",
+          "word_id": "unimet-gle-scuab",
+          "synset": {
+            "id": "omw-en-01393714-v",
+            "ili": "i28686",
+            "pos": "v",
+            "lemmas": [
+              "broom"
+            ],
+            "definition": "sweep with a broom or as if with a broom"
+          }
+        },
+        {
+          "id": "unimet-gle-scuab-v01393996",
+          "lemma": "scuab",
+          "word_id": "unimet-gle-scuab",
+          "synset": {
+            "id": "omw-en-01393996-v",
+            "ili": "i28687",
+            "pos": "v",
+            "lemmas": [
+              "sweep"
+            ],
+            "definition": "clean by sweeping"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-scuab-n02906734::unimet-gle-scuab-v01393714": {
+          "source": "unimet-gle-scuab-n02906734",
+          "target": "unimet-gle-scuab-v01393714",
+          "type": "metonymy"
+        },
+        "unimet-gle-scuab-n02906734::unimet-gle-scuab-v01393996": {
+          "source": "unimet-gle-scuab-n02906734",
+          "target": "unimet-gle-scuab-v01393996",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "siofón",
+      "all_senses": [
+        {
+          "id": "unimet-gle-siofón-n04224155",
+          "lemma": "siofón",
+          "word_id": "unimet-gle-siofón",
+          "synset": {
+            "id": "omw-en-04224155-n",
+            "ili": "i58971",
+            "pos": "n",
+            "lemmas": [
+              "syphon"
+            ],
+            "definition": "a tube running from the liquid in a vessel to a lower level outside the vessel so that atmospheric pressure forces the liquid through the tube"
+          }
+        },
+        {
+          "id": "unimet-gle-siofón-v01613391",
+          "lemma": "siofón",
+          "word_id": "unimet-gle-siofón",
+          "synset": {
+            "id": "omw-en-01613391-v",
+            "ili": "i29823",
+            "pos": "v",
+            "lemmas": [
+              "siphon"
+            ],
+            "definition": "move a liquid from one container into another by means of a siphon or a siphoning action"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-siofón-n04224155",
+          "lemma": "siofón",
+          "word_id": "unimet-gle-siofón",
+          "synset": {
+            "id": "omw-en-04224155-n",
+            "ili": "i58971",
+            "pos": "n",
+            "lemmas": [
+              "syphon"
+            ],
+            "definition": "a tube running from the liquid in a vessel to a lower level outside the vessel so that atmospheric pressure forces the liquid through the tube"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-siofón-v01613391",
+          "lemma": "siofón",
+          "word_id": "unimet-gle-siofón",
+          "synset": {
+            "id": "omw-en-01613391-v",
+            "ili": "i29823",
+            "pos": "v",
+            "lemmas": [
+              "siphon"
+            ],
+            "definition": "move a liquid from one container into another by means of a siphon or a siphoning action"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-siofón-n04224155::unimet-gle-siofón-v01613391": {
+          "source": "unimet-gle-siofón-n04224155",
+          "target": "unimet-gle-siofón-v01613391",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sráidbhaile",
+      "all_senses": [
+        {
+          "id": "unimet-gle-sráidbhaile-n08226699",
+          "lemma": "sráidbhaile",
+          "word_id": "unimet-gle-sráidbhaile",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-gle-sráidbhaile-n08672738",
+          "lemma": "sráidbhaile",
+          "word_id": "unimet-gle-sráidbhaile",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-sráidbhaile-n08226699",
+          "lemma": "sráidbhaile",
+          "word_id": "unimet-gle-sráidbhaile",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-sráidbhaile-n08672738",
+          "lemma": "sráidbhaile",
+          "word_id": "unimet-gle-sráidbhaile",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-sráidbhaile-n08226699::unimet-gle-sráidbhaile-n08672738": {
+          "source": "unimet-gle-sráidbhaile-n08226699",
+          "target": "unimet-gle-sráidbhaile-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sú talún",
+      "all_senses": [
+        {
+          "id": "unimet-gle-sú talún-n07745940",
+          "lemma": "sú talún",
+          "word_id": "unimet-gle-sú talún",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-gle-sú talún-n12630144",
+          "lemma": "sú talún",
+          "word_id": "unimet-gle-sú talún",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gle-sú talún-n07745940",
+          "lemma": "sú talún",
+          "word_id": "unimet-gle-sú talún",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gle-sú talún-n12630144",
+          "lemma": "sú talún",
+          "word_id": "unimet-gle-sú talún",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gle-sú talún-n07745940::unimet-gle-sú talún-n12630144": {
+          "source": "unimet-gle-sú talún-n07745940",
+          "target": "unimet-gle-sú talún-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

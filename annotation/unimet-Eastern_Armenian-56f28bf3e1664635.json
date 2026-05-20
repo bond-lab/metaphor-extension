@@ -1,0 +1,2375 @@
+{
+  "id": "56f28bf3e1664635",
+  "name": "unimet-Eastern Armenian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "hye",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "անանաս",
+      "all_senses": [
+        {
+          "id": "unimet-hye-անանաս-n07753275",
+          "lemma": "անանաս",
+          "word_id": "unimet-hye-անանաս",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-hye-անանաս-n12607456",
+          "lemma": "անանաս",
+          "word_id": "unimet-hye-անանաս",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-անանաս-n07753275",
+          "lemma": "անանաս",
+          "word_id": "unimet-hye-անանաս",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-անանաս-n12607456",
+          "lemma": "անանաս",
+          "word_id": "unimet-hye-անանաս",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-անանաս-n07753275::unimet-hye-անանաս-n12607456": {
+          "source": "unimet-hye-անանաս-n07753275",
+          "target": "unimet-hye-անանաս-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "արքայախնձոր",
+      "all_senses": [
+        {
+          "id": "unimet-hye-արքայախնձոր-n07753275",
+          "lemma": "արքայախնձոր",
+          "word_id": "unimet-hye-արքայախնձոր",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-hye-արքայախնձոր-n12607456",
+          "lemma": "արքայախնձոր",
+          "word_id": "unimet-hye-արքայախնձոր",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-արքայախնձոր-n07753275",
+          "lemma": "արքայախնձոր",
+          "word_id": "unimet-hye-արքայախնձոր",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-արքայախնձոր-n12607456",
+          "lemma": "արքայախնձոր",
+          "word_id": "unimet-hye-արքայախնձոր",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-արքայախնձոր-n07753275::unimet-hye-արքայախնձոր-n12607456": {
+          "source": "unimet-hye-արքայախնձոր-n07753275",
+          "target": "unimet-hye-արքայախնձոր-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "աքլոր",
+      "all_senses": [
+        {
+          "id": "unimet-hye-աքլոր-n01792158",
+          "lemma": "աքլոր",
+          "word_id": "unimet-hye-աքլոր",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        },
+        {
+          "id": "unimet-hye-աքլոր-n07644967",
+          "lemma": "աքլոր",
+          "word_id": "unimet-hye-աքլոր",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-աքլոր-n01792158",
+          "lemma": "աքլոր",
+          "word_id": "unimet-hye-աքլոր",
+          "synset": {
+            "id": "omw-en-01792158-n",
+            "ili": "i44710",
+            "pos": "n",
+            "lemmas": [
+              "hen"
+            ],
+            "definition": "adult male chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-աքլոր-n07644967",
+          "lemma": "աքլոր",
+          "word_id": "unimet-hye-աքլոր",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-աքլոր-n01792158::unimet-hye-աքլոր-n07644967": {
+          "source": "unimet-hye-աքլոր-n01792158",
+          "target": "unimet-hye-աքլոր-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "բյուրեղ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-բյուրեղ-n03142834",
+          "lemma": "բյուրեղ",
+          "word_id": "unimet-hye-բյուրեղ",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-hye-բյուրեղ-n14883206",
+          "lemma": "բյուրեղ",
+          "word_id": "unimet-hye-բյուրեղ",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-բյուրեղ-n14883206",
+          "lemma": "բյուրեղ",
+          "word_id": "unimet-hye-բյուրեղ",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-բյուրեղ-n03142834",
+          "lemma": "բյուրեղ",
+          "word_id": "unimet-hye-բյուրեղ",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-բյուրեղ-n14883206::unimet-hye-բյուրեղ-n03142834": {
+          "source": "unimet-hye-բյուրեղ-n14883206",
+          "target": "unimet-hye-բյուրեղ-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "բողկ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-բողկ-n07735687",
+          "lemma": "բողկ",
+          "word_id": "unimet-hye-բողկ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-hye-բողկ-n11894327",
+          "lemma": "բողկ",
+          "word_id": "unimet-hye-բողկ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-բողկ-n11894327",
+          "lemma": "բողկ",
+          "word_id": "unimet-hye-բողկ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-բողկ-n07735687",
+          "lemma": "բողկ",
+          "word_id": "unimet-hye-բողկ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-բողկ-n11894327::unimet-hye-բողկ-n07735687": {
+          "source": "unimet-hye-բողկ-n11894327",
+          "target": "unimet-hye-բողկ-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "գեղմ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-գեղմ-n04599235",
+          "lemma": "գեղմ",
+          "word_id": "unimet-hye-գեղմ",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-hye-գեղմ-n15104752",
+          "lemma": "գեղմ",
+          "word_id": "unimet-hye-գեղմ",
+          "synset": {
+            "id": "omw-en-15104752-n",
+            "ili": "i116583",
+            "pos": "n",
+            "lemmas": [
+              "fleece"
+            ],
+            "definition": "the wool of a sheep or similar animal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-գեղմ-n15104752",
+          "lemma": "գեղմ",
+          "word_id": "unimet-hye-գեղմ",
+          "synset": {
+            "id": "omw-en-15104752-n",
+            "ili": "i116583",
+            "pos": "n",
+            "lemmas": [
+              "fleece"
+            ],
+            "definition": "the wool of a sheep or similar animal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-գեղմ-n04599235",
+          "lemma": "գեղմ",
+          "word_id": "unimet-hye-գեղմ",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-գեղմ-n15104752::unimet-hye-գեղմ-n04599235": {
+          "source": "unimet-hye-գեղմ-n15104752",
+          "target": "unimet-hye-գեղմ-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "գլուխ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-գլուխ-n05538625",
+          "lemma": "գլուխ",
+          "word_id": "unimet-hye-գլուխ",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-hye-գլուխ-n10162991",
+          "lemma": "գլուխ",
+          "word_id": "unimet-hye-գլուխ",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-գլուխ-n05538625",
+          "lemma": "գլուխ",
+          "word_id": "unimet-hye-գլուխ",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-գլուխ-n10162991",
+          "lemma": "գլուխ",
+          "word_id": "unimet-hye-գլուխ",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-գլուխ-n05538625::unimet-hye-գլուխ-n10162991": {
+          "source": "unimet-hye-գլուխ-n05538625",
+          "target": "unimet-hye-գլուխ-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "գյուղ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-գյուղ-n08226699",
+          "lemma": "գյուղ",
+          "word_id": "unimet-hye-գյուղ",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-hye-գյուղ-n08644722",
+          "lemma": "գյուղ",
+          "word_id": "unimet-hye-գյուղ",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-hye-գյուղ-n08672738",
+          "lemma": "գյուղ",
+          "word_id": "unimet-hye-գյուղ",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-գյուղ-n08226699",
+          "lemma": "գյուղ",
+          "word_id": "unimet-hye-գյուղ",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-գյուղ-n08644722",
+          "lemma": "գյուղ",
+          "word_id": "unimet-hye-գյուղ",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-hye-գյուղ-n08672738",
+          "lemma": "գյուղ",
+          "word_id": "unimet-hye-գյուղ",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-գյուղ-n08226699::unimet-hye-գյուղ-n08644722": {
+          "source": "unimet-hye-գյուղ-n08226699",
+          "target": "unimet-hye-գյուղ-n08644722",
+          "type": "metonymy"
+        },
+        "unimet-hye-գյուղ-n08226699::unimet-hye-գյուղ-n08672738": {
+          "source": "unimet-hye-գյուղ-n08226699",
+          "target": "unimet-hye-գյուղ-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "դպրոց",
+      "all_senses": [
+        {
+          "id": "unimet-hye-դպրոց-n04146050",
+          "lemma": "դպրոց",
+          "word_id": "unimet-hye-դպրոց",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-hye-դպրոց-n08276720",
+          "lemma": "դպրոց",
+          "word_id": "unimet-hye-դպրոց",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-դպրոց-n04146050",
+          "lemma": "դպրոց",
+          "word_id": "unimet-hye-դպրոց",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-դպրոց-n08276720",
+          "lemma": "դպրոց",
+          "word_id": "unimet-hye-դպրոց",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-դպրոց-n04146050::unimet-hye-դպրոց-n08276720": {
+          "source": "unimet-hye-դպրոց-n04146050",
+          "target": "unimet-hye-դպրոց-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "երկիր",
+      "all_senses": [
+        {
+          "id": "unimet-hye-երկիր-n08168978",
+          "lemma": "երկիր",
+          "word_id": "unimet-hye-երկիր",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-hye-երկիր-n08178547",
+          "lemma": "երկիր",
+          "word_id": "unimet-hye-երկիր",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-hye-երկիր-n08544813",
+          "lemma": "երկիր",
+          "word_id": "unimet-hye-երկիր",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-երկիր-n08168978",
+          "lemma": "երկիր",
+          "word_id": "unimet-hye-երկիր",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-hye-երկիր-n08178547",
+          "lemma": "երկիր",
+          "word_id": "unimet-hye-երկիր",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-երկիր-n08544813",
+          "lemma": "երկիր",
+          "word_id": "unimet-hye-երկիր",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-երկիր-n08168978::unimet-hye-երկիր-n08544813": {
+          "source": "unimet-hye-երկիր-n08168978",
+          "target": "unimet-hye-երկիր-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-hye-երկիր-n08178547::unimet-hye-երկիր-n08544813": {
+          "source": "unimet-hye-երկիր-n08178547",
+          "target": "unimet-hye-երկիր-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "թագավորություն",
+      "all_senses": [
+        {
+          "id": "unimet-hye-թագավորություն-n08405603",
+          "lemma": "թագավորություն",
+          "word_id": "unimet-hye-թագավորություն",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-hye-թագավորություն-n08558155",
+          "lemma": "թագավորություն",
+          "word_id": "unimet-hye-թագավորություն",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-թագավորություն-n08405603",
+          "lemma": "թագավորություն",
+          "word_id": "unimet-hye-թագավորություն",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-թագավորություն-n08558155",
+          "lemma": "թագավորություն",
+          "word_id": "unimet-hye-թագավորություն",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-թագավորություն-n08405603::unimet-hye-թագավորություն-n08558155": {
+          "source": "unimet-hye-թագավորություն-n08405603",
+          "target": "unimet-hye-թագավորություն-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "լոբի",
+      "all_senses": [
+        {
+          "id": "unimet-hye-լոբի-n07724943",
+          "lemma": "լոբի",
+          "word_id": "unimet-hye-լոբի",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        },
+        {
+          "id": "unimet-hye-լոբի-n12557064",
+          "lemma": "լոբի",
+          "word_id": "unimet-hye-լոբի",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-լոբի-n12557064",
+          "lemma": "լոբի",
+          "word_id": "unimet-hye-լոբի",
+          "synset": {
+            "id": "omw-en-12557064-n",
+            "ili": "i102892",
+            "pos": "n",
+            "lemmas": [
+              "kidney bean"
+            ],
+            "definition": "the common bean plant grown for the beans rather than the pods (especially a variety with large red kidney-shaped beans)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-լոբի-n07724943",
+          "lemma": "լոբի",
+          "word_id": "unimet-hye-լոբի",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-լոբի-n12557064::unimet-hye-լոբի-n07724943": {
+          "source": "unimet-hye-լոբի-n12557064",
+          "target": "unimet-hye-լոբի-n07724943",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "խաղող",
+      "all_senses": [
+        {
+          "id": "unimet-hye-խաղող-n07758680",
+          "lemma": "խաղող",
+          "word_id": "unimet-hye-խաղող",
+          "synset": {
+            "id": "omw-en-07758680-n",
+            "ili": "i77835",
+            "pos": "n",
+            "lemmas": [
+              "grape"
+            ],
+            "definition": "any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters"
+          }
+        },
+        {
+          "id": "unimet-hye-խաղող-n13144794",
+          "lemma": "խաղող",
+          "word_id": "unimet-hye-խաղող",
+          "synset": {
+            "id": "omw-en-13144794-n",
+            "ili": "i105723",
+            "pos": "n",
+            "lemmas": [
+              "grapevine"
+            ],
+            "definition": "any of numerous woody vines of genus Vitis bearing clusters of edible berries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-խաղող-n07758680",
+          "lemma": "խաղող",
+          "word_id": "unimet-hye-խաղող",
+          "synset": {
+            "id": "omw-en-07758680-n",
+            "ili": "i77835",
+            "pos": "n",
+            "lemmas": [
+              "grape"
+            ],
+            "definition": "any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-խաղող-n13144794",
+          "lemma": "խաղող",
+          "word_id": "unimet-hye-խաղող",
+          "synset": {
+            "id": "omw-en-13144794-n",
+            "ili": "i105723",
+            "pos": "n",
+            "lemmas": [
+              "grapevine"
+            ],
+            "definition": "any of numerous woody vines of genus Vitis bearing clusters of edible berries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-խաղող-n07758680::unimet-hye-խաղող-n13144794": {
+          "source": "unimet-hye-խաղող-n07758680",
+          "target": "unimet-hye-խաղող-n13144794",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "կաղամբ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-կաղամբ-n07713895",
+          "lemma": "կաղամբ",
+          "word_id": "unimet-hye-կաղամբ",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-hye-կաղամբ-n11875691",
+          "lemma": "կաղամբ",
+          "word_id": "unimet-hye-կաղամբ",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-կաղամբ-n11875691",
+          "lemma": "կաղամբ",
+          "word_id": "unimet-hye-կաղամբ",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-կաղամբ-n07713895",
+          "lemma": "կաղամբ",
+          "word_id": "unimet-hye-կաղամբ",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-կաղամբ-n11875691::unimet-hye-կաղամբ-n07713895": {
+          "source": "unimet-hye-կաղամբ-n11875691",
+          "target": "unimet-hye-կաղամբ-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "կոկոս",
+      "all_senses": [
+        {
+          "id": "unimet-hye-կոկոս-n07772935",
+          "lemma": "կոկոս",
+          "word_id": "unimet-hye-կոկոս",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-hye-կոկոս-n07773238",
+          "lemma": "կոկոս",
+          "word_id": "unimet-hye-կոկոս",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        },
+        {
+          "id": "unimet-hye-կոկոս-n12587803",
+          "lemma": "կոկոս",
+          "word_id": "unimet-hye-կոկոս",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-կոկոս-n07772935",
+          "lemma": "կոկոս",
+          "word_id": "unimet-hye-կոկոս",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-կոկոս-n12587803",
+          "lemma": "կոկոս",
+          "word_id": "unimet-hye-կոկոս",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        },
+        {
+          "id": "unimet-hye-կոկոս-n07773238",
+          "lemma": "կոկոս",
+          "word_id": "unimet-hye-կոկոս",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-կոկոս-n07772935::unimet-hye-կոկոս-n12587803": {
+          "source": "unimet-hye-կոկոս-n07772935",
+          "target": "unimet-hye-կոկոս-n12587803",
+          "type": "metonymy"
+        },
+        "unimet-hye-կոկոս-n12587803::unimet-hye-կոկոս-n07773238": {
+          "source": "unimet-hye-կոկոս-n12587803",
+          "target": "unimet-hye-կոկոս-n07773238",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "հավ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-հավ-n01791625",
+          "lemma": "հավ",
+          "word_id": "unimet-hye-հավ",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-hye-հավ-n01792640",
+          "lemma": "հավ",
+          "word_id": "unimet-hye-հավ",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-hye-հավ-n07644967",
+          "lemma": "հավ",
+          "word_id": "unimet-hye-հավ",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-հավ-n01791625",
+          "lemma": "հավ",
+          "word_id": "unimet-hye-հավ",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-hye-հավ-n01792640",
+          "lemma": "հավ",
+          "word_id": "unimet-hye-հավ",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-հավ-n07644967",
+          "lemma": "հավ",
+          "word_id": "unimet-hye-հավ",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-հավ-n01791625::unimet-hye-հավ-n07644967": {
+          "source": "unimet-hye-հավ-n01791625",
+          "target": "unimet-hye-հավ-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-hye-հավ-n01792640::unimet-hye-հավ-n07644967": {
+          "source": "unimet-hye-հավ-n01792640",
+          "target": "unimet-hye-հավ-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "հատոր",
+      "all_senses": [
+        {
+          "id": "unimet-hye-հատոր-n02870092",
+          "lemma": "հատոր",
+          "word_id": "unimet-hye-հատոր",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        },
+        {
+          "id": "unimet-hye-հատոր-n06413579",
+          "lemma": "հատոր",
+          "word_id": "unimet-hye-հատոր",
+          "synset": {
+            "id": "omw-en-06413579-n",
+            "ili": "i70193",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a (usually) large and scholarly book"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-հատոր-n02870092",
+          "lemma": "հատոր",
+          "word_id": "unimet-hye-հատոր",
+          "synset": {
+            "id": "omw-en-02870092-n",
+            "ili": "i50953",
+            "pos": "n",
+            "lemmas": [
+              "volume"
+            ],
+            "definition": "physical objects consisting of a number of pages bound together"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-հատոր-n06413579",
+          "lemma": "հատոր",
+          "word_id": "unimet-hye-հատոր",
+          "synset": {
+            "id": "omw-en-06413579-n",
+            "ili": "i70193",
+            "pos": "n",
+            "lemmas": [
+              "book"
+            ],
+            "definition": "a (usually) large and scholarly book"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-հատոր-n02870092::unimet-hye-հատոր-n06413579": {
+          "source": "unimet-hye-հատոր-n02870092",
+          "target": "unimet-hye-հատոր-n06413579",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "հնդկական ընկույզ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-հնդկական ընկույզ-n07772935",
+          "lemma": "հնդկական ընկույզ",
+          "word_id": "unimet-hye-հնդկական ընկույզ",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-hye-հնդկական ընկույզ-n12587803",
+          "lemma": "հնդկական ընկույզ",
+          "word_id": "unimet-hye-հնդկական ընկույզ",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-հնդկական ընկույզ-n07772935",
+          "lemma": "հնդկական ընկույզ",
+          "word_id": "unimet-hye-հնդկական ընկույզ",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-հնդկական ընկույզ-n12587803",
+          "lemma": "հնդկական ընկույզ",
+          "word_id": "unimet-hye-հնդկական ընկույզ",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-հնդկական ընկույզ-n07772935::unimet-hye-հնդկական ընկույզ-n12587803": {
+          "source": "unimet-hye-հնդկական ընկույզ-n07772935",
+          "target": "unimet-hye-հնդկական ընկույզ-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "հնդկընկույզ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-հնդկընկույզ-n07772935",
+          "lemma": "հնդկընկույզ",
+          "word_id": "unimet-hye-հնդկընկույզ",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-hye-հնդկընկույզ-n12587803",
+          "lemma": "հնդկընկույզ",
+          "word_id": "unimet-hye-հնդկընկույզ",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-հնդկընկույզ-n07772935",
+          "lemma": "հնդկընկույզ",
+          "word_id": "unimet-hye-հնդկընկույզ",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-հնդկընկույզ-n12587803",
+          "lemma": "հնդկընկույզ",
+          "word_id": "unimet-hye-հնդկընկույզ",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-հնդկընկույզ-n07772935::unimet-hye-հնդկընկույզ-n12587803": {
+          "source": "unimet-hye-հնդկընկույզ-n07772935",
+          "target": "unimet-hye-հնդկընկույզ-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ձմերուկ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-ձմերուկ-n07756951",
+          "lemma": "ձմերուկ",
+          "word_id": "unimet-hye-ձմերուկ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-hye-ձմերուկ-n12164065",
+          "lemma": "ձմերուկ",
+          "word_id": "unimet-hye-ձմերուկ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-ձմերուկ-n07756951",
+          "lemma": "ձմերուկ",
+          "word_id": "unimet-hye-ձմերուկ",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-ձմերուկ-n12164065",
+          "lemma": "ձմերուկ",
+          "word_id": "unimet-hye-ձմերուկ",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-ձմերուկ-n07756951::unimet-hye-ձմերուկ-n12164065": {
+          "source": "unimet-hye-ձմերուկ-n07756951",
+          "target": "unimet-hye-ձմերուկ-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ճուտ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-ճուտ-n01792042",
+          "lemma": "ճուտ",
+          "word_id": "unimet-hye-ճուտ",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-hye-ճուտ-n07644967",
+          "lemma": "ճուտ",
+          "word_id": "unimet-hye-ճուտ",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-ճուտ-n01792042",
+          "lemma": "ճուտ",
+          "word_id": "unimet-hye-ճուտ",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-ճուտ-n07644967",
+          "lemma": "ճուտ",
+          "word_id": "unimet-hye-ճուտ",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-ճուտ-n01792042::unimet-hye-ճուտ-n07644967": {
+          "source": "unimet-hye-ճուտ-n01792042",
+          "target": "unimet-hye-ճուտ-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "նարինջ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-նարինջ-n07747607",
+          "lemma": "նարինջ",
+          "word_id": "unimet-hye-նարինջ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-hye-նարինջ-n12708293",
+          "lemma": "նարինջ",
+          "word_id": "unimet-hye-նարինջ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-նարինջ-n07747607",
+          "lemma": "նարինջ",
+          "word_id": "unimet-hye-նարինջ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-նարինջ-n12708293",
+          "lemma": "նարինջ",
+          "word_id": "unimet-hye-նարինջ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-նարինջ-n07747607::unimet-hye-նարինջ-n12708293": {
+          "source": "unimet-hye-նարինջ-n07747607",
+          "target": "unimet-hye-նարինջ-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "շեն",
+      "all_senses": [
+        {
+          "id": "unimet-hye-շեն-n08226699",
+          "lemma": "շեն",
+          "word_id": "unimet-hye-շեն",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-hye-շեն-n08644722",
+          "lemma": "շեն",
+          "word_id": "unimet-hye-շեն",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-hye-շեն-n08672738",
+          "lemma": "շեն",
+          "word_id": "unimet-hye-շեն",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-շեն-n08226699",
+          "lemma": "շեն",
+          "word_id": "unimet-hye-շեն",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-շեն-n08644722",
+          "lemma": "շեն",
+          "word_id": "unimet-hye-շեն",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        },
+        {
+          "id": "unimet-hye-շեն-n08672738",
+          "lemma": "շեն",
+          "word_id": "unimet-hye-շեն",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-շեն-n08226699::unimet-hye-շեն-n08644722": {
+          "source": "unimet-hye-շեն-n08226699",
+          "target": "unimet-hye-շեն-n08644722",
+          "type": "metonymy"
+        },
+        "unimet-hye-շեն-n08226699::unimet-hye-շեն-n08672738": {
+          "source": "unimet-hye-շեն-n08226699",
+          "target": "unimet-hye-շեն-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ոսպ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-ոսպ-n07725255",
+          "lemma": "ոսպ",
+          "word_id": "unimet-hye-ոսպ",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-hye-ոսպ-n12544240",
+          "lemma": "ոսպ",
+          "word_id": "unimet-hye-ոսպ",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-ոսպ-n12544240",
+          "lemma": "ոսպ",
+          "word_id": "unimet-hye-ոսպ",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-ոսպ-n07725255",
+          "lemma": "ոսպ",
+          "word_id": "unimet-hye-ոսպ",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-ոսպ-n12544240::unimet-hye-ոսպ-n07725255": {
+          "source": "unimet-hye-ոսպ-n12544240",
+          "target": "unimet-hye-ոսպ-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "պետություն",
+      "all_senses": [
+        {
+          "id": "unimet-hye-պետություն-n08168978",
+          "lemma": "պետություն",
+          "word_id": "unimet-hye-պետություն",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-hye-պետություն-n08544813",
+          "lemma": "պետություն",
+          "word_id": "unimet-hye-պետություն",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-hye-պետություն-n08654360",
+          "lemma": "պետություն",
+          "word_id": "unimet-hye-պետություն",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-պետություն-n08168978",
+          "lemma": "պետություն",
+          "word_id": "unimet-hye-պետություն",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-պետություն-n08544813",
+          "lemma": "պետություն",
+          "word_id": "unimet-hye-պետություն",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-hye-պետություն-n08654360",
+          "lemma": "պետություն",
+          "word_id": "unimet-hye-պետություն",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-պետություն-n08168978::unimet-hye-պետություն-n08544813": {
+          "source": "unimet-hye-պետություն-n08168978",
+          "target": "unimet-hye-պետություն-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-hye-պետություն-n08168978::unimet-hye-պետություն-n08654360": {
+          "source": "unimet-hye-պետություն-n08168978",
+          "target": "unimet-hye-պետություն-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "սեր",
+      "all_senses": [
+        {
+          "id": "unimet-hye-սեր-n07543288",
+          "lemma": "սեր",
+          "word_id": "unimet-hye-սեր",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-hye-սեր-n09849598",
+          "lemma": "սեր",
+          "word_id": "unimet-hye-սեր",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-սեր-n07543288",
+          "lemma": "սեր",
+          "word_id": "unimet-hye-սեր",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-սեր-n09849598",
+          "lemma": "սեր",
+          "word_id": "unimet-hye-սեր",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-սեր-n07543288::unimet-hye-սեր-n09849598": {
+          "source": "unimet-hye-սեր-n07543288",
+          "target": "unimet-hye-սեր-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "սերկեւիլ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-սերկեւիլ-n07769584",
+          "lemma": "սերկեւիլ",
+          "word_id": "unimet-hye-սերկեւիլ",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-hye-սերկեւիլ-n12628986",
+          "lemma": "սերկեւիլ",
+          "word_id": "unimet-hye-սերկեւիլ",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-սերկեւիլ-n07769584",
+          "lemma": "սերկեւիլ",
+          "word_id": "unimet-hye-սերկեւիլ",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-սերկեւիլ-n12628986",
+          "lemma": "սերկեւիլ",
+          "word_id": "unimet-hye-սերկեւիլ",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-սերկեւիլ-n07769584::unimet-hye-սերկեւիլ-n12628986": {
+          "source": "unimet-hye-սերկեւիլ-n07769584",
+          "target": "unimet-hye-սերկեւիլ-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "փայտ",
+      "all_senses": [
+        {
+          "id": "unimet-hye-փայտ-n02949084",
+          "lemma": "փայտ",
+          "word_id": "unimet-hye-փայտ",
+          "synset": {
+            "id": "omw-en-02949084-n",
+            "ili": "i51438",
+            "pos": "n",
+            "lemmas": [
+              "cane"
+            ],
+            "definition": "a stiff switch used to hit students as punishment"
+          }
+        },
+        {
+          "id": "unimet-hye-փայտ-n04317420",
+          "lemma": "փայտ",
+          "word_id": "unimet-hye-փայտ",
+          "synset": {
+            "id": "omw-en-04317420-n",
+            "ili": "i59571",
+            "pos": "n",
+            "lemmas": [
+              "stick"
+            ],
+            "definition": "an implement consisting of a length of wood"
+          }
+        },
+        {
+          "id": "unimet-hye-փայտ-n15098161",
+          "lemma": "փայտ",
+          "word_id": "unimet-hye-փայտ",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-hye-փայտ-n15098161",
+          "lemma": "փայտ",
+          "word_id": "unimet-hye-փայտ",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-hye-փայտ-n02949084",
+          "lemma": "փայտ",
+          "word_id": "unimet-hye-փայտ",
+          "synset": {
+            "id": "omw-en-02949084-n",
+            "ili": "i51438",
+            "pos": "n",
+            "lemmas": [
+              "cane"
+            ],
+            "definition": "a stiff switch used to hit students as punishment"
+          }
+        },
+        {
+          "id": "unimet-hye-փայտ-n04317420",
+          "lemma": "փայտ",
+          "word_id": "unimet-hye-փայտ",
+          "synset": {
+            "id": "omw-en-04317420-n",
+            "ili": "i59571",
+            "pos": "n",
+            "lemmas": [
+              "stick"
+            ],
+            "definition": "an implement consisting of a length of wood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-hye-փայտ-n15098161::unimet-hye-փայտ-n02949084": {
+          "source": "unimet-hye-փայտ-n15098161",
+          "target": "unimet-hye-փայտ-n02949084",
+          "type": "metonymy"
+        },
+        "unimet-hye-փայտ-n15098161::unimet-hye-փայտ-n04317420": {
+          "source": "unimet-hye-փայտ-n15098161",
+          "target": "unimet-hye-փայտ-n04317420",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "8730de013c56a615",
+  "name": "unimet-Lezgian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "lez",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "тӏуьн",
+      "all_senses": [
+        {
+          "id": "unimet-lez-тӏуьн-n07555863",
+          "lemma": "тӏуьн",
+          "word_id": "unimet-lez-тӏуьн",
+          "synset": {
+            "id": "omw-en-07555863-n",
+            "ili": "i76470",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+          }
+        },
+        {
+          "id": "unimet-lez-тӏуьн-n07573696",
+          "lemma": "тӏуьн",
+          "word_id": "unimet-lez-тӏуьн",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        },
+        {
+          "id": "unimet-lez-тӏуьн-v01168468",
+          "lemma": "тӏуьн",
+          "word_id": "unimet-lez-тӏуьн",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lez-тӏуьн-n07555863",
+          "lemma": "тӏуьн",
+          "word_id": "unimet-lez-тӏуьн",
+          "synset": {
+            "id": "omw-en-07555863-n",
+            "ili": "i76470",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+          }
+        },
+        {
+          "id": "unimet-lez-тӏуьн-n07573696",
+          "lemma": "тӏуьн",
+          "word_id": "unimet-lez-тӏуьн",
+          "synset": {
+            "id": "omw-en-07573696-n",
+            "ili": "i76560",
+            "pos": "n",
+            "lemmas": [
+              "food"
+            ],
+            "definition": "the food served and eaten at one time"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lez-тӏуьн-v01168468",
+          "lemma": "тӏуьн",
+          "word_id": "unimet-lez-тӏуьн",
+          "synset": {
+            "id": "omw-en-01168468-v",
+            "ili": "i27459",
+            "pos": "v",
+            "lemmas": [
+              "eat"
+            ],
+            "definition": "take in solid food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lez-тӏуьн-n07555863::unimet-lez-тӏуьн-v01168468": {
+          "source": "unimet-lez-тӏуьн-n07555863",
+          "target": "unimet-lez-тӏуьн-v01168468",
+          "type": "metonymy"
+        },
+        "unimet-lez-тӏуьн-n07573696::unimet-lez-тӏуьн-v01168468": {
+          "source": "unimet-lez-тӏуьн-n07573696",
+          "target": "unimet-lez-тӏуьн-v01168468",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

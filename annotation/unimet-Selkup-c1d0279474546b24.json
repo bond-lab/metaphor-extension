@@ -1,0 +1,92 @@
+{
+  "id": "c1d0279474546b24",
+  "name": "unimet-Selkup",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "sel",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "по",
+      "all_senses": [
+        {
+          "id": "unimet-sel-по-n03976657",
+          "lemma": "по",
+          "word_id": "unimet-sel-по",
+          "synset": {
+            "id": "omw-en-03976657-n",
+            "ili": "i57505",
+            "pos": "n",
+            "lemmas": [
+              "pole"
+            ],
+            "definition": "a long (usually round) rod of wood or metal or plastic"
+          }
+        },
+        {
+          "id": "unimet-sel-по-n15098161",
+          "lemma": "по",
+          "word_id": "unimet-sel-по",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-sel-по-n15098161",
+          "lemma": "по",
+          "word_id": "unimet-sel-по",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-sel-по-n03976657",
+          "lemma": "по",
+          "word_id": "unimet-sel-по",
+          "synset": {
+            "id": "omw-en-03976657-n",
+            "ili": "i57505",
+            "pos": "n",
+            "lemmas": [
+              "pole"
+            ],
+            "definition": "a long (usually round) rod of wood or metal or plastic"
+          }
+        }
+      ],
+      "links": {
+        "unimet-sel-по-n15098161::unimet-sel-по-n03976657": {
+          "source": "unimet-sel-по-n15098161",
+          "target": "unimet-sel-по-n03976657",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

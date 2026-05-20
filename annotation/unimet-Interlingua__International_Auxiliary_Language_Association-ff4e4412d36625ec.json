@@ -1,0 +1,244 @@
+{
+  "id": "ff4e4412d36625ec",
+  "name": "unimet-Interlingua (International Auxiliary Language Association)",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ina",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ferro",
+      "all_senses": [
+        {
+          "id": "unimet-ina-ferro-n03584829",
+          "lemma": "ferro",
+          "word_id": "unimet-ina-ferro",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        },
+        {
+          "id": "unimet-ina-ferro-n14642417",
+          "lemma": "ferro",
+          "word_id": "unimet-ina-ferro",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ina-ferro-n14642417",
+          "lemma": "ferro",
+          "word_id": "unimet-ina-ferro",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ina-ferro-n03584829",
+          "lemma": "ferro",
+          "word_id": "unimet-ina-ferro",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ina-ferro-n14642417::unimet-ina-ferro-n03584829": {
+          "source": "unimet-ina-ferro-n14642417",
+          "target": "unimet-ina-ferro-n03584829",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pais",
+      "all_senses": [
+        {
+          "id": "unimet-ina-pais-n08168978",
+          "lemma": "pais",
+          "word_id": "unimet-ina-pais",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ina-pais-n08544813",
+          "lemma": "pais",
+          "word_id": "unimet-ina-pais",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ina-pais-n08168978",
+          "lemma": "pais",
+          "word_id": "unimet-ina-pais",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ina-pais-n08544813",
+          "lemma": "pais",
+          "word_id": "unimet-ina-pais",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ina-pais-n08168978::unimet-ina-pais-n08544813": {
+          "source": "unimet-ina-pais-n08168978",
+          "target": "unimet-ina-pais-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "schola",
+      "all_senses": [
+        {
+          "id": "unimet-ina-schola-n04146050",
+          "lemma": "schola",
+          "word_id": "unimet-ina-schola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-ina-schola-n08276720",
+          "lemma": "schola",
+          "word_id": "unimet-ina-schola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ina-schola-n04146050",
+          "lemma": "schola",
+          "word_id": "unimet-ina-schola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ina-schola-n08276720",
+          "lemma": "schola",
+          "word_id": "unimet-ina-schola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ina-schola-n04146050::unimet-ina-schola-n08276720": {
+          "source": "unimet-ina-schola-n04146050",
+          "target": "unimet-ina-schola-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

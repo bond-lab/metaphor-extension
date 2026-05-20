@@ -1,0 +1,1595 @@
+{
+  "id": "659d3efd556f2aa8",
+  "name": "unimet-Zulu",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "zul",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ibhodlela",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ibhodlela-n02876657",
+          "lemma": "ibhodlela",
+          "word_id": "unimet-zul-ibhodlela",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        },
+        {
+          "id": "unimet-zul-ibhodlela-n13765396",
+          "lemma": "ibhodlela",
+          "word_id": "unimet-zul-ibhodlela",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ibhodlela-n02876657",
+          "lemma": "ibhodlela",
+          "word_id": "unimet-zul-ibhodlela",
+          "synset": {
+            "id": "omw-en-02876657-n",
+            "ili": "i50995",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ibhodlela-n13765396",
+          "lemma": "ibhodlela",
+          "word_id": "unimet-zul-ibhodlela",
+          "synset": {
+            "id": "omw-en-13765396-n",
+            "ili": "i109220",
+            "pos": "n",
+            "lemmas": [
+              "bottle"
+            ],
+            "definition": "the quantity contained in a bottle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ibhodlela-n02876657::unimet-zul-ibhodlela-n13765396": {
+          "source": "unimet-zul-ibhodlela-n02876657",
+          "target": "unimet-zul-ibhodlela-n13765396",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "idili",
+      "all_senses": [
+        {
+          "id": "unimet-zul-idili-n07447641",
+          "lemma": "idili",
+          "word_id": "unimet-zul-idili",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-zul-idili-n07450651",
+          "lemma": "idili",
+          "word_id": "unimet-zul-idili",
+          "synset": {
+            "id": "omw-en-07450651-n",
+            "ili": "i75870",
+            "pos": "n",
+            "lemmas": [
+              "jubilation"
+            ],
+            "definition": "a joyful occasion for special festivities to mark some happy event"
+          }
+        },
+        {
+          "id": "unimet-zul-idili-n08252602",
+          "lemma": "idili",
+          "word_id": "unimet-zul-idili",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-idili-n07447641",
+          "lemma": "idili",
+          "word_id": "unimet-zul-idili",
+          "synset": {
+            "id": "omw-en-07447641-n",
+            "ili": "i75850",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "an occasion on which people can assemble for social interaction and entertainment"
+          }
+        },
+        {
+          "id": "unimet-zul-idili-n07450651",
+          "lemma": "idili",
+          "word_id": "unimet-zul-idili",
+          "synset": {
+            "id": "omw-en-07450651-n",
+            "ili": "i75870",
+            "pos": "n",
+            "lemmas": [
+              "jubilation"
+            ],
+            "definition": "a joyful occasion for special festivities to mark some happy event"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-idili-n08252602",
+          "lemma": "idili",
+          "word_id": "unimet-zul-idili",
+          "synset": {
+            "id": "omw-en-08252602-n",
+            "ili": "i80500",
+            "pos": "n",
+            "lemmas": [
+              "party"
+            ],
+            "definition": "a group of people gathered together for pleasure"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-idili-n07447641::unimet-zul-idili-n08252602": {
+          "source": "unimet-zul-idili-n07447641",
+          "target": "unimet-zul-idili-n08252602",
+          "type": "metonymy"
+        },
+        "unimet-zul-idili-n07450651::unimet-zul-idili-n08252602": {
+          "source": "unimet-zul-idili-n07450651",
+          "target": "unimet-zul-idili-n08252602",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "idolobhana",
+      "all_senses": [
+        {
+          "id": "unimet-zul-idolobhana-n08226514",
+          "lemma": "idolobhana",
+          "word_id": "unimet-zul-idolobhana",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        },
+        {
+          "id": "unimet-zul-idolobhana-n08665504",
+          "lemma": "idolobhana",
+          "word_id": "unimet-zul-idolobhana",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-idolobhana-n08226514",
+          "lemma": "idolobhana",
+          "word_id": "unimet-zul-idolobhana",
+          "synset": {
+            "id": "omw-en-08226514-n",
+            "ili": "i80342",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the people living in a municipality smaller than a city"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-idolobhana-n08665504",
+          "lemma": "idolobhana",
+          "word_id": "unimet-zul-idolobhana",
+          "synset": {
+            "id": "omw-en-08665504-n",
+            "ili": "i82504",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "an urban area with a fixed boundary that is smaller than a city"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-idolobhana-n08226514::unimet-zul-idolobhana-n08665504": {
+          "source": "unimet-zul-idolobhana-n08226514",
+          "target": "unimet-zul-idolobhana-n08665504",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "impilo",
+      "all_senses": [
+        {
+          "id": "unimet-zul-impilo-n10260706",
+          "lemma": "impilo",
+          "word_id": "unimet-zul-impilo",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        },
+        {
+          "id": "unimet-zul-impilo-n13961399",
+          "lemma": "impilo",
+          "word_id": "unimet-zul-impilo",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-impilo-n13961399",
+          "lemma": "impilo",
+          "word_id": "unimet-zul-impilo",
+          "synset": {
+            "id": "omw-en-13961399-n",
+            "ili": "i110304",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "the course of existence of an individual; the actions and events that occur in living"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-impilo-n10260706",
+          "lemma": "impilo",
+          "word_id": "unimet-zul-impilo",
+          "synset": {
+            "id": "omw-en-10260706-n",
+            "ili": "i91009",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a living person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-impilo-n13961399::unimet-zul-impilo-n10260706": {
+          "source": "unimet-zul-impilo-n13961399",
+          "target": "unimet-zul-impilo-n10260706",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "inhloko",
+      "all_senses": [
+        {
+          "id": "unimet-zul-inhloko-n05538625",
+          "lemma": "inhloko",
+          "word_id": "unimet-zul-inhloko",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-zul-inhloko-n09623038",
+          "lemma": "inhloko",
+          "word_id": "unimet-zul-inhloko",
+          "synset": {
+            "id": "omw-en-09623038-n",
+            "ili": "i87225",
+            "pos": "n",
+            "lemmas": [
+              "leader"
+            ],
+            "definition": "a person who rules or guides or inspires others"
+          }
+        },
+        {
+          "id": "unimet-zul-inhloko-n10162991",
+          "lemma": "inhloko",
+          "word_id": "unimet-zul-inhloko",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-inhloko-n05538625",
+          "lemma": "inhloko",
+          "word_id": "unimet-zul-inhloko",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-inhloko-n09623038",
+          "lemma": "inhloko",
+          "word_id": "unimet-zul-inhloko",
+          "synset": {
+            "id": "omw-en-09623038-n",
+            "ili": "i87225",
+            "pos": "n",
+            "lemmas": [
+              "leader"
+            ],
+            "definition": "a person who rules or guides or inspires others"
+          }
+        },
+        {
+          "id": "unimet-zul-inhloko-n10162991",
+          "lemma": "inhloko",
+          "word_id": "unimet-zul-inhloko",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-inhloko-n05538625::unimet-zul-inhloko-n09623038": {
+          "source": "unimet-zul-inhloko-n05538625",
+          "target": "unimet-zul-inhloko-n09623038",
+          "type": "metonymy"
+        },
+        "unimet-zul-inhloko-n05538625::unimet-zul-inhloko-n10162991": {
+          "source": "unimet-zul-inhloko-n05538625",
+          "target": "unimet-zul-inhloko-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "isikole",
+      "all_senses": [
+        {
+          "id": "unimet-zul-isikole-n04146050",
+          "lemma": "isikole",
+          "word_id": "unimet-zul-isikole",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-zul-isikole-n08276720",
+          "lemma": "isikole",
+          "word_id": "unimet-zul-isikole",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-isikole-n04146050",
+          "lemma": "isikole",
+          "word_id": "unimet-zul-isikole",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-isikole-n08276720",
+          "lemma": "isikole",
+          "word_id": "unimet-zul-isikole",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-isikole-n04146050::unimet-zul-isikole-n08276720": {
+          "source": "unimet-zul-isikole-n04146050",
+          "target": "unimet-zul-isikole-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "isiqhumane",
+      "all_senses": [
+        {
+          "id": "unimet-zul-isiqhumane-n03304730",
+          "lemma": "isiqhumane",
+          "word_id": "unimet-zul-isiqhumane",
+          "synset": {
+            "id": "omw-en-03304730-n",
+            "ili": "i53521",
+            "pos": "n",
+            "lemmas": [
+              "explosive"
+            ],
+            "definition": "a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck"
+          }
+        },
+        {
+          "id": "unimet-zul-isiqhumane-n03305522",
+          "lemma": "isiqhumane",
+          "word_id": "unimet-zul-isiqhumane",
+          "synset": {
+            "id": "omw-en-03305522-n",
+            "ili": "i53524",
+            "pos": "n",
+            "lemmas": [
+              "explosive device"
+            ],
+            "definition": "device that bursts with sudden violence from internal energy"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-isiqhumane-n03304730",
+          "lemma": "isiqhumane",
+          "word_id": "unimet-zul-isiqhumane",
+          "synset": {
+            "id": "omw-en-03304730-n",
+            "ili": "i53521",
+            "pos": "n",
+            "lemmas": [
+              "explosive"
+            ],
+            "definition": "a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-isiqhumane-n03305522",
+          "lemma": "isiqhumane",
+          "word_id": "unimet-zul-isiqhumane",
+          "synset": {
+            "id": "omw-en-03305522-n",
+            "ili": "i53524",
+            "pos": "n",
+            "lemmas": [
+              "explosive device"
+            ],
+            "definition": "device that bursts with sudden violence from internal energy"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-isiqhumane-n03304730::unimet-zul-isiqhumane-n03305522": {
+          "source": "unimet-zul-isiqhumane-n03304730",
+          "target": "unimet-zul-isiqhumane-n03305522",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "isiqukathi",
+      "all_senses": [
+        {
+          "id": "unimet-zul-isiqukathi-n03094503",
+          "lemma": "isiqukathi",
+          "word_id": "unimet-zul-isiqukathi",
+          "synset": {
+            "id": "omw-en-03094503-n",
+            "ili": "i52294",
+            "pos": "n",
+            "lemmas": [
+              "container"
+            ],
+            "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+          }
+        },
+        {
+          "id": "unimet-zul-isiqukathi-n13756125",
+          "lemma": "isiqukathi",
+          "word_id": "unimet-zul-isiqukathi",
+          "synset": {
+            "id": "omw-en-13756125-n",
+            "ili": "i109174",
+            "pos": "n",
+            "lemmas": [
+              "containerful"
+            ],
+            "definition": "the quantity that a container will hold"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-isiqukathi-n03094503",
+          "lemma": "isiqukathi",
+          "word_id": "unimet-zul-isiqukathi",
+          "synset": {
+            "id": "omw-en-03094503-n",
+            "ili": "i52294",
+            "pos": "n",
+            "lemmas": [
+              "container"
+            ],
+            "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-isiqukathi-n13756125",
+          "lemma": "isiqukathi",
+          "word_id": "unimet-zul-isiqukathi",
+          "synset": {
+            "id": "omw-en-13756125-n",
+            "ili": "i109174",
+            "pos": "n",
+            "lemmas": [
+              "containerful"
+            ],
+            "definition": "the quantity that a container will hold"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-isiqukathi-n03094503::unimet-zul-isiqukathi-n13756125": {
+          "source": "unimet-zul-isiqukathi-n03094503",
+          "target": "unimet-zul-isiqukathi-n13756125",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ithemba",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ithemba-n07510923",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07510923-n",
+            "ili": "i76220",
+            "pos": "n",
+            "lemmas": [
+              "expectation"
+            ],
+            "definition": "the feeling that something is about to happen"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n07511080",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07511080-n",
+            "ili": "i76221",
+            "pos": "n",
+            "lemmas": [
+              "anticipation"
+            ],
+            "definition": "pleasurable expectation"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n07511733",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n07541053",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n10184946",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n14482968",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-14482968-n",
+            "ili": "i113108",
+            "pos": "n",
+            "lemmas": [
+              "chance"
+            ],
+            "definition": "the possibility of future success"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ithemba-n07510923",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07510923-n",
+            "ili": "i76220",
+            "pos": "n",
+            "lemmas": [
+              "expectation"
+            ],
+            "definition": "the feeling that something is about to happen"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n07511080",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07511080-n",
+            "ili": "i76221",
+            "pos": "n",
+            "lemmas": [
+              "anticipation"
+            ],
+            "definition": "pleasurable expectation"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n07511733",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07511733-n",
+            "ili": "i76226",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "a specific instance of feeling hopeful"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n07541053",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-07541053-n",
+            "ili": "i76382",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "the general feeling that some desire will be fulfilled"
+          }
+        },
+        {
+          "id": "unimet-zul-ithemba-n14482968",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-14482968-n",
+            "ili": "i113108",
+            "pos": "n",
+            "lemmas": [
+              "chance"
+            ],
+            "definition": "the possibility of future success"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ithemba-n10184946",
+          "lemma": "ithemba",
+          "word_id": "unimet-zul-ithemba",
+          "synset": {
+            "id": "omw-en-10184946-n",
+            "ili": "i90564",
+            "pos": "n",
+            "lemmas": [
+              "hope"
+            ],
+            "definition": "someone (or something) on which expectations are centered"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ithemba-n07510923::unimet-zul-ithemba-n10184946": {
+          "source": "unimet-zul-ithemba-n07510923",
+          "target": "unimet-zul-ithemba-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-zul-ithemba-n07511080::unimet-zul-ithemba-n10184946": {
+          "source": "unimet-zul-ithemba-n07511080",
+          "target": "unimet-zul-ithemba-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-zul-ithemba-n07511733::unimet-zul-ithemba-n10184946": {
+          "source": "unimet-zul-ithemba-n07511733",
+          "target": "unimet-zul-ithemba-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-zul-ithemba-n07541053::unimet-zul-ithemba-n10184946": {
+          "source": "unimet-zul-ithemba-n07541053",
+          "target": "unimet-zul-ithemba-n10184946",
+          "type": "metonymy"
+        },
+        "unimet-zul-ithemba-n14482968::unimet-zul-ithemba-n10184946": {
+          "source": "unimet-zul-ithemba-n14482968",
+          "target": "unimet-zul-ithemba-n10184946",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ubhasikidi",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ubhasikidi-n02801938",
+          "lemma": "ubhasikidi",
+          "word_id": "unimet-zul-ubhasikidi",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        },
+        {
+          "id": "unimet-zul-ubhasikidi-n13765207",
+          "lemma": "ubhasikidi",
+          "word_id": "unimet-zul-ubhasikidi",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ubhasikidi-n02801938",
+          "lemma": "ubhasikidi",
+          "word_id": "unimet-zul-ubhasikidi",
+          "synset": {
+            "id": "omw-en-02801938-n",
+            "ili": "i50522",
+            "pos": "n",
+            "lemmas": [
+              "handbasket"
+            ],
+            "definition": "a container that is usually woven and has handles"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ubhasikidi-n13765207",
+          "lemma": "ubhasikidi",
+          "word_id": "unimet-zul-ubhasikidi",
+          "synset": {
+            "id": "omw-en-13765207-n",
+            "ili": "i109218",
+            "pos": "n",
+            "lemmas": [
+              "basket"
+            ],
+            "definition": "the quantity contained in a basket"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ubhasikidi-n02801938::unimet-zul-ubhasikidi-n13765207": {
+          "source": "unimet-zul-ubhasikidi-n02801938",
+          "target": "unimet-zul-ubhasikidi-n13765207",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ubuso",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ubuso-n05600637",
+          "lemma": "ubuso",
+          "word_id": "unimet-zul-ubuso",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-zul-ubuso-n05601198",
+          "lemma": "ubuso",
+          "word_id": "unimet-zul-ubuso",
+          "synset": {
+            "id": "omw-en-05601198-n",
+            "ili": "i66345",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "the part of an animal corresponding to the human face"
+          }
+        },
+        {
+          "id": "unimet-zul-ubuso-n09618957",
+          "lemma": "ubuso",
+          "word_id": "unimet-zul-ubuso",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ubuso-n05600637",
+          "lemma": "ubuso",
+          "word_id": "unimet-zul-ubuso",
+          "synset": {
+            "id": "omw-en-05600637-n",
+            "ili": "i66344",
+            "pos": "n",
+            "lemmas": [
+              "countenance"
+            ],
+            "definition": "the front of the human head from the forehead to the chin and ear to ear"
+          }
+        },
+        {
+          "id": "unimet-zul-ubuso-n05601198",
+          "lemma": "ubuso",
+          "word_id": "unimet-zul-ubuso",
+          "synset": {
+            "id": "omw-en-05601198-n",
+            "ili": "i66345",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "the part of an animal corresponding to the human face"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ubuso-n09618957",
+          "lemma": "ubuso",
+          "word_id": "unimet-zul-ubuso",
+          "synset": {
+            "id": "omw-en-09618957-n",
+            "ili": "i87210",
+            "pos": "n",
+            "lemmas": [
+              "face"
+            ],
+            "definition": "a part of a person that is used to refer to a person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ubuso-n05600637::unimet-zul-ubuso-n09618957": {
+          "source": "unimet-zul-ubuso-n05600637",
+          "target": "unimet-zul-ubuso-n09618957",
+          "type": "metonymy"
+        },
+        "unimet-zul-ubuso-n05601198::unimet-zul-ubuso-n09618957": {
+          "source": "unimet-zul-ubuso-n05601198",
+          "target": "unimet-zul-ubuso-n09618957",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ukotini",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ukotini-n03115180",
+          "lemma": "ukotini",
+          "word_id": "unimet-zul-ukotini",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-zul-ukotini-n03115301",
+          "lemma": "ukotini",
+          "word_id": "unimet-zul-ukotini",
+          "synset": {
+            "id": "omw-en-03115301-n",
+            "ili": "i52407",
+            "pos": "n",
+            "lemmas": [
+              "cotton"
+            ],
+            "definition": "thread made of cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-zul-ukotini-n14870078",
+          "lemma": "ukotini",
+          "word_id": "unimet-zul-ukotini",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ukotini-n14870078",
+          "lemma": "ukotini",
+          "word_id": "unimet-zul-ukotini",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ukotini-n03115180",
+          "lemma": "ukotini",
+          "word_id": "unimet-zul-ukotini",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-zul-ukotini-n03115301",
+          "lemma": "ukotini",
+          "word_id": "unimet-zul-ukotini",
+          "synset": {
+            "id": "omw-en-03115301-n",
+            "ili": "i52407",
+            "pos": "n",
+            "lemmas": [
+              "cotton"
+            ],
+            "definition": "thread made of cotton fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ukotini-n14870078::unimet-zul-ukotini-n03115180": {
+          "source": "unimet-zul-ukotini-n14870078",
+          "target": "unimet-zul-ukotini-n03115180",
+          "type": "metonymy"
+        },
+        "unimet-zul-ukotini-n14870078::unimet-zul-ukotini-n03115301": {
+          "source": "unimet-zul-ukotini-n14870078",
+          "target": "unimet-zul-ukotini-n03115301",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ukukhathazeka",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ukukhathazeka-n05832264",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        },
+        {
+          "id": "unimet-zul-ukukhathazeka-n07505047",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07505047-n",
+            "ili": "i76187",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "a cause for feeling concern"
+          }
+        },
+        {
+          "id": "unimet-zul-ukukhathazeka-n07524242",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        },
+        {
+          "id": "unimet-zul-ukukhathazeka-n07524529",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ukukhathazeka-n07505047",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07505047-n",
+            "ili": "i76187",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "a cause for feeling concern"
+          }
+        },
+        {
+          "id": "unimet-zul-ukukhathazeka-n07524242",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07524242-n",
+            "ili": "i76294",
+            "pos": "n",
+            "lemmas": [
+              "worry"
+            ],
+            "definition": "a strong feeling of anxiety"
+          }
+        },
+        {
+          "id": "unimet-zul-ukukhathazeka-n07524529",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-07524529-n",
+            "ili": "i76295",
+            "pos": "n",
+            "lemmas": [
+              "care"
+            ],
+            "definition": "an anxious feeling"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ukukhathazeka-n05832264",
+          "lemma": "ukukhathazeka",
+          "word_id": "unimet-zul-ukukhathazeka",
+          "synset": {
+            "id": "omw-en-05832264-n",
+            "ili": "i67526",
+            "pos": "n",
+            "lemmas": [
+              "vexation"
+            ],
+            "definition": "something or someone that causes anxiety; a source of unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ukukhathazeka-n07505047::unimet-zul-ukukhathazeka-n05832264": {
+          "source": "unimet-zul-ukukhathazeka-n07505047",
+          "target": "unimet-zul-ukukhathazeka-n05832264",
+          "type": "metonymy"
+        },
+        "unimet-zul-ukukhathazeka-n07524242::unimet-zul-ukukhathazeka-n05832264": {
+          "source": "unimet-zul-ukukhathazeka-n07524242",
+          "target": "unimet-zul-ukukhathazeka-n05832264",
+          "type": "metonymy"
+        },
+        "unimet-zul-ukukhathazeka-n07524529::unimet-zul-ukukhathazeka-n05832264": {
+          "source": "unimet-zul-ukukhathazeka-n07524529",
+          "target": "unimet-zul-ukukhathazeka-n05832264",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "umnyango",
+      "all_senses": [
+        {
+          "id": "unimet-zul-umnyango-n03770316",
+          "lemma": "umnyango",
+          "word_id": "unimet-zul-umnyango",
+          "synset": {
+            "id": "omw-en-03770316-n",
+            "ili": "i56275",
+            "pos": "n",
+            "lemmas": [
+              "ministry"
+            ],
+            "definition": "building where the business of a government department is transacted"
+          }
+        },
+        {
+          "id": "unimet-zul-umnyango-n08114861",
+          "lemma": "umnyango",
+          "word_id": "unimet-zul-umnyango",
+          "synset": {
+            "id": "omw-en-08114861-n",
+            "ili": "i79830",
+            "pos": "n",
+            "lemmas": [
+              "section"
+            ],
+            "definition": "a specialized division of a large organization"
+          }
+        },
+        {
+          "id": "unimet-zul-umnyango-n08220714",
+          "lemma": "umnyango",
+          "word_id": "unimet-zul-umnyango",
+          "synset": {
+            "id": "omw-en-08220714-n",
+            "ili": "i80311",
+            "pos": "n",
+            "lemmas": [
+              "division"
+            ],
+            "definition": "an administrative unit in government or business"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-umnyango-n03770316",
+          "lemma": "umnyango",
+          "word_id": "unimet-zul-umnyango",
+          "synset": {
+            "id": "omw-en-03770316-n",
+            "ili": "i56275",
+            "pos": "n",
+            "lemmas": [
+              "ministry"
+            ],
+            "definition": "building where the business of a government department is transacted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-umnyango-n08114861",
+          "lemma": "umnyango",
+          "word_id": "unimet-zul-umnyango",
+          "synset": {
+            "id": "omw-en-08114861-n",
+            "ili": "i79830",
+            "pos": "n",
+            "lemmas": [
+              "section"
+            ],
+            "definition": "a specialized division of a large organization"
+          }
+        },
+        {
+          "id": "unimet-zul-umnyango-n08220714",
+          "lemma": "umnyango",
+          "word_id": "unimet-zul-umnyango",
+          "synset": {
+            "id": "omw-en-08220714-n",
+            "ili": "i80311",
+            "pos": "n",
+            "lemmas": [
+              "division"
+            ],
+            "definition": "an administrative unit in government or business"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-umnyango-n03770316::unimet-zul-umnyango-n08114861": {
+          "source": "unimet-zul-umnyango-n03770316",
+          "target": "unimet-zul-umnyango-n08114861",
+          "type": "metonymy"
+        },
+        "unimet-zul-umnyango-n03770316::unimet-zul-umnyango-n08220714": {
+          "source": "unimet-zul-umnyango-n03770316",
+          "target": "unimet-zul-umnyango-n08220714",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "umtholampilo",
+      "all_senses": [
+        {
+          "id": "unimet-zul-umtholampilo-n03043274",
+          "lemma": "umtholampilo",
+          "word_id": "unimet-zul-umtholampilo",
+          "synset": {
+            "id": "omw-en-03043274-n",
+            "ili": "i52005",
+            "pos": "n",
+            "lemmas": [
+              "clinic"
+            ],
+            "definition": "a healthcare facility for outpatient care"
+          }
+        },
+        {
+          "id": "unimet-zul-umtholampilo-n08054076",
+          "lemma": "umtholampilo",
+          "word_id": "unimet-zul-umtholampilo",
+          "synset": {
+            "id": "omw-en-08054076-n",
+            "ili": "i79534",
+            "pos": "n",
+            "lemmas": [
+              "clinic"
+            ],
+            "definition": "a medical establishment run by a group of medical specialists"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-umtholampilo-n03043274",
+          "lemma": "umtholampilo",
+          "word_id": "unimet-zul-umtholampilo",
+          "synset": {
+            "id": "omw-en-03043274-n",
+            "ili": "i52005",
+            "pos": "n",
+            "lemmas": [
+              "clinic"
+            ],
+            "definition": "a healthcare facility for outpatient care"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-umtholampilo-n08054076",
+          "lemma": "umtholampilo",
+          "word_id": "unimet-zul-umtholampilo",
+          "synset": {
+            "id": "omw-en-08054076-n",
+            "ili": "i79534",
+            "pos": "n",
+            "lemmas": [
+              "clinic"
+            ],
+            "definition": "a medical establishment run by a group of medical specialists"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-umtholampilo-n03043274::unimet-zul-umtholampilo-n08054076": {
+          "source": "unimet-zul-umtholampilo-n03043274",
+          "target": "unimet-zul-umtholampilo-n08054076",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ushoki",
+      "all_senses": [
+        {
+          "id": "unimet-zul-ushoki-n03003091",
+          "lemma": "ushoki",
+          "word_id": "unimet-zul-ushoki",
+          "synset": {
+            "id": "omw-en-03003091-n",
+            "ili": "i51754",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a piece of calcite or a similar substance, usually in the shape of a crayon, that is used to write or draw on blackboards or other flat surfaces"
+          }
+        },
+        {
+          "id": "unimet-zul-ushoki-n14806598",
+          "lemma": "ushoki",
+          "word_id": "unimet-zul-ushoki",
+          "synset": {
+            "id": "omw-en-14806598-n",
+            "ili": "i114848",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a soft whitish calcite"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-zul-ushoki-n14806598",
+          "lemma": "ushoki",
+          "word_id": "unimet-zul-ushoki",
+          "synset": {
+            "id": "omw-en-14806598-n",
+            "ili": "i114848",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a soft whitish calcite"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-zul-ushoki-n03003091",
+          "lemma": "ushoki",
+          "word_id": "unimet-zul-ushoki",
+          "synset": {
+            "id": "omw-en-03003091-n",
+            "ili": "i51754",
+            "pos": "n",
+            "lemmas": [
+              "chalk"
+            ],
+            "definition": "a piece of calcite or a similar substance, usually in the shape of a crayon, that is used to write or draw on blackboards or other flat surfaces"
+          }
+        }
+      ],
+      "links": {
+        "unimet-zul-ushoki-n14806598::unimet-zul-ushoki-n03003091": {
+          "source": "unimet-zul-ushoki-n14806598",
+          "target": "unimet-zul-ushoki-n03003091",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

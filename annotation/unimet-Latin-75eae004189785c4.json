@@ -1,0 +1,776 @@
+{
+  "id": "75eae004189785c4",
+  "name": "unimet-Latin",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "lat",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "amygdalum",
+      "all_senses": [
+        {
+          "id": "unimet-lat-amygdalum-n07750586",
+          "lemma": "amygdalum",
+          "word_id": "unimet-lat-amygdalum",
+          "synset": {
+            "id": "omw-en-07750586-n",
+            "ili": "i77782",
+            "pos": "n",
+            "lemmas": [
+              "almond"
+            ],
+            "definition": "oval-shaped edible seed of the almond tree"
+          }
+        },
+        {
+          "id": "unimet-lat-amygdalum-n12644902",
+          "lemma": "amygdalum",
+          "word_id": "unimet-lat-amygdalum",
+          "synset": {
+            "id": "omw-en-12644902-n",
+            "ili": "i103326",
+            "pos": "n",
+            "lemmas": [
+              "almond tree"
+            ],
+            "definition": "any of several small bushy trees having pink or white blossoms and usually bearing nuts"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-amygdalum-n07750586",
+          "lemma": "amygdalum",
+          "word_id": "unimet-lat-amygdalum",
+          "synset": {
+            "id": "omw-en-07750586-n",
+            "ili": "i77782",
+            "pos": "n",
+            "lemmas": [
+              "almond"
+            ],
+            "definition": "oval-shaped edible seed of the almond tree"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-amygdalum-n12644902",
+          "lemma": "amygdalum",
+          "word_id": "unimet-lat-amygdalum",
+          "synset": {
+            "id": "omw-en-12644902-n",
+            "ili": "i103326",
+            "pos": "n",
+            "lemmas": [
+              "almond tree"
+            ],
+            "definition": "any of several small bushy trees having pink or white blossoms and usually bearing nuts"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-amygdalum-n07750586::unimet-lat-amygdalum-n12644902": {
+          "source": "unimet-lat-amygdalum-n07750586",
+          "target": "unimet-lat-amygdalum-n12644902",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "civitas",
+      "all_senses": [
+        {
+          "id": "unimet-lat-civitas-n08178547",
+          "lemma": "civitas",
+          "word_id": "unimet-lat-civitas",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-lat-civitas-n08654360",
+          "lemma": "civitas",
+          "word_id": "unimet-lat-civitas",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-civitas-n08178547",
+          "lemma": "civitas",
+          "word_id": "unimet-lat-civitas",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-civitas-n08654360",
+          "lemma": "civitas",
+          "word_id": "unimet-lat-civitas",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-civitas-n08178547::unimet-lat-civitas-n08654360": {
+          "source": "unimet-lat-civitas-n08178547",
+          "target": "unimet-lat-civitas-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fungus",
+      "all_senses": [
+        {
+          "id": "unimet-lat-fungus-n07734744",
+          "lemma": "fungus",
+          "word_id": "unimet-lat-fungus",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-lat-fungus-n12992868",
+          "lemma": "fungus",
+          "word_id": "unimet-lat-fungus",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-fungus-n12992868",
+          "lemma": "fungus",
+          "word_id": "unimet-lat-fungus",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-fungus-n07734744",
+          "lemma": "fungus",
+          "word_id": "unimet-lat-fungus",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-fungus-n12992868::unimet-lat-fungus-n07734744": {
+          "source": "unimet-lat-fungus-n12992868",
+          "target": "unimet-lat-fungus-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "holus",
+      "all_senses": [
+        {
+          "id": "unimet-lat-holus-n07707451",
+          "lemma": "holus",
+          "word_id": "unimet-lat-holus",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        },
+        {
+          "id": "unimet-lat-holus-n12212361",
+          "lemma": "holus",
+          "word_id": "unimet-lat-holus",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-holus-n12212361",
+          "lemma": "holus",
+          "word_id": "unimet-lat-holus",
+          "synset": {
+            "id": "omw-en-12212361-n",
+            "ili": "i101266",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-holus-n07707451",
+          "lemma": "holus",
+          "word_id": "unimet-lat-holus",
+          "synset": {
+            "id": "omw-en-07707451-n",
+            "ili": "i77501",
+            "pos": "n",
+            "lemmas": [
+              "vegetable"
+            ],
+            "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-holus-n12212361::unimet-lat-holus-n07707451": {
+          "source": "unimet-lat-holus-n12212361",
+          "target": "unimet-lat-holus-n07707451",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lactuca",
+      "all_senses": [
+        {
+          "id": "unimet-lat-lactuca-n07723559",
+          "lemma": "lactuca",
+          "word_id": "unimet-lat-lactuca",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        },
+        {
+          "id": "unimet-lat-lactuca-n11986306",
+          "lemma": "lactuca",
+          "word_id": "unimet-lat-lactuca",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-lactuca-n11986306",
+          "lemma": "lactuca",
+          "word_id": "unimet-lat-lactuca",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-lactuca-n07723559",
+          "lemma": "lactuca",
+          "word_id": "unimet-lat-lactuca",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-lactuca-n11986306::unimet-lat-lactuca-n07723559": {
+          "source": "unimet-lat-lactuca-n11986306",
+          "target": "unimet-lat-lactuca-n07723559",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lapis",
+      "all_senses": [
+        {
+          "id": "unimet-lat-lapis-n03455488",
+          "lemma": "lapis",
+          "word_id": "unimet-lat-lapis",
+          "synset": {
+            "id": "omw-en-03455488-n",
+            "ili": "i54413",
+            "pos": "n",
+            "lemmas": [
+              "graveyard"
+            ],
+            "definition": "a stone that is used to mark a grave"
+          }
+        },
+        {
+          "id": "unimet-lat-lapis-n14696793",
+          "lemma": "lapis",
+          "word_id": "unimet-lat-lapis",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-lapis-n14696793",
+          "lemma": "lapis",
+          "word_id": "unimet-lat-lapis",
+          "synset": {
+            "id": "omw-en-14696793-n",
+            "ili": "i114224",
+            "pos": "n",
+            "lemmas": [
+              "rock"
+            ],
+            "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-lapis-n03455488",
+          "lemma": "lapis",
+          "word_id": "unimet-lat-lapis",
+          "synset": {
+            "id": "omw-en-03455488-n",
+            "ili": "i54413",
+            "pos": "n",
+            "lemmas": [
+              "graveyard"
+            ],
+            "definition": "a stone that is used to mark a grave"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-lapis-n14696793::unimet-lat-lapis-n03455488": {
+          "source": "unimet-lat-lapis-n14696793",
+          "target": "unimet-lat-lapis-n03455488",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "morum",
+      "all_senses": [
+        {
+          "id": "unimet-lat-morum-n07744811",
+          "lemma": "morum",
+          "word_id": "unimet-lat-morum",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-lat-morum-n12653762",
+          "lemma": "morum",
+          "word_id": "unimet-lat-morum",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-morum-n07744811",
+          "lemma": "morum",
+          "word_id": "unimet-lat-morum",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-morum-n12653762",
+          "lemma": "morum",
+          "word_id": "unimet-lat-morum",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-morum-n07744811::unimet-lat-morum-n12653762": {
+          "source": "unimet-lat-morum-n07744811",
+          "target": "unimet-lat-morum-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "patria",
+      "all_senses": [
+        {
+          "id": "unimet-lat-patria-n08168978",
+          "lemma": "patria",
+          "word_id": "unimet-lat-patria",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lat-patria-n08510169",
+          "lemma": "patria",
+          "word_id": "unimet-lat-patria",
+          "synset": {
+            "id": "omw-en-08510169-n",
+            "ili": "i81771",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the country where you were born"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-patria-n08168978",
+          "lemma": "patria",
+          "word_id": "unimet-lat-patria",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-patria-n08510169",
+          "lemma": "patria",
+          "word_id": "unimet-lat-patria",
+          "synset": {
+            "id": "omw-en-08510169-n",
+            "ili": "i81771",
+            "pos": "n",
+            "lemmas": [
+              "town"
+            ],
+            "definition": "the country where you were born"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-patria-n08168978::unimet-lat-patria-n08510169": {
+          "source": "unimet-lat-patria-n08168978",
+          "target": "unimet-lat-patria-n08510169",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "rus",
+      "all_senses": [
+        {
+          "id": "unimet-lat-rus-n08226699",
+          "lemma": "rus",
+          "word_id": "unimet-lat-rus",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-lat-rus-n08644722",
+          "lemma": "rus",
+          "word_id": "unimet-lat-rus",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-rus-n08226699",
+          "lemma": "rus",
+          "word_id": "unimet-lat-rus",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-rus-n08644722",
+          "lemma": "rus",
+          "word_id": "unimet-lat-rus",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-rus-n08226699::unimet-lat-rus-n08644722": {
+          "source": "unimet-lat-rus-n08226699",
+          "target": "unimet-lat-rus-n08644722",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "terra",
+      "all_senses": [
+        {
+          "id": "unimet-lat-terra-n08168978",
+          "lemma": "terra",
+          "word_id": "unimet-lat-terra",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lat-terra-n08544813",
+          "lemma": "terra",
+          "word_id": "unimet-lat-terra",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lat-terra-n08168978",
+          "lemma": "terra",
+          "word_id": "unimet-lat-terra",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lat-terra-n08544813",
+          "lemma": "terra",
+          "word_id": "unimet-lat-terra",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lat-terra-n08168978::unimet-lat-terra-n08544813": {
+          "source": "unimet-lat-terra-n08168978",
+          "target": "unimet-lat-terra-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

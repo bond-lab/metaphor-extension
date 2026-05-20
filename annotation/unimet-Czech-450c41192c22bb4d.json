@@ -1,0 +1,2547 @@
+{
+  "id": "450c41192c22bb4d",
+  "name": "unimet-Czech",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ces",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "bavlna",
+      "all_senses": [
+        {
+          "id": "unimet-ces-bavlna-n03115180",
+          "lemma": "bavlna",
+          "word_id": "unimet-ces-bavlna",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-ces-bavlna-n14870078",
+          "lemma": "bavlna",
+          "word_id": "unimet-ces-bavlna",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-bavlna-n14870078",
+          "lemma": "bavlna",
+          "word_id": "unimet-ces-bavlna",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-bavlna-n03115180",
+          "lemma": "bavlna",
+          "word_id": "unimet-ces-bavlna",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-bavlna-n14870078::unimet-ces-bavlna-n03115180": {
+          "source": "unimet-ces-bavlna-n14870078",
+          "target": "unimet-ces-bavlna-n03115180",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "broskev",
+      "all_senses": [
+        {
+          "id": "unimet-ces-broskev-n07751004",
+          "lemma": "broskev",
+          "word_id": "unimet-ces-broskev",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-ces-broskev-n12648045",
+          "lemma": "broskev",
+          "word_id": "unimet-ces-broskev",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-broskev-n07751004",
+          "lemma": "broskev",
+          "word_id": "unimet-ces-broskev",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-broskev-n12648045",
+          "lemma": "broskev",
+          "word_id": "unimet-ces-broskev",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-broskev-n07751004::unimet-ces-broskev-n12648045": {
+          "source": "unimet-ces-broskev-n07751004",
+          "target": "unimet-ces-broskev-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "drahokam",
+      "all_senses": [
+        {
+          "id": "unimet-ces-drahokam-n03596787",
+          "lemma": "drahokam",
+          "word_id": "unimet-ces-drahokam",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-ces-drahokam-n14699752",
+          "lemma": "drahokam",
+          "word_id": "unimet-ces-drahokam",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-drahokam-n14699752",
+          "lemma": "drahokam",
+          "word_id": "unimet-ces-drahokam",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-drahokam-n03596787",
+          "lemma": "drahokam",
+          "word_id": "unimet-ces-drahokam",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-drahokam-n14699752::unimet-ces-drahokam-n03596787": {
+          "source": "unimet-ces-drahokam-n14699752",
+          "target": "unimet-ces-drahokam-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dřevo",
+      "all_senses": [
+        {
+          "id": "unimet-ces-dřevo-n04597066",
+          "lemma": "dřevo",
+          "word_id": "unimet-ces-dřevo",
+          "synset": {
+            "id": "omw-en-04597066-n",
+            "ili": "i61229",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+          }
+        },
+        {
+          "id": "unimet-ces-dřevo-n15098161",
+          "lemma": "dřevo",
+          "word_id": "unimet-ces-dřevo",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-dřevo-n15098161",
+          "lemma": "dřevo",
+          "word_id": "unimet-ces-dřevo",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-dřevo-n04597066",
+          "lemma": "dřevo",
+          "word_id": "unimet-ces-dřevo",
+          "synset": {
+            "id": "omw-en-04597066-n",
+            "ili": "i61229",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-dřevo-n15098161::unimet-ces-dřevo-n04597066": {
+          "source": "unimet-ces-dřevo-n15098161",
+          "target": "unimet-ces-dřevo-n04597066",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "guma",
+      "all_senses": [
+        {
+          "id": "unimet-ces-guma-n03294833",
+          "lemma": "guma",
+          "word_id": "unimet-ces-guma",
+          "synset": {
+            "id": "omw-en-03294833-n",
+            "ili": "i53459",
+            "pos": "n",
+            "lemmas": [
+              "rubber"
+            ],
+            "definition": "an implement used to erase something"
+          }
+        },
+        {
+          "id": "unimet-ces-guma-n04116512",
+          "lemma": "guma",
+          "word_id": "unimet-ces-guma",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        },
+        {
+          "id": "unimet-ces-guma-n15006258",
+          "lemma": "guma",
+          "word_id": "unimet-ces-guma",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-guma-n15006258",
+          "lemma": "guma",
+          "word_id": "unimet-ces-guma",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-guma-n03294833",
+          "lemma": "guma",
+          "word_id": "unimet-ces-guma",
+          "synset": {
+            "id": "omw-en-03294833-n",
+            "ili": "i53459",
+            "pos": "n",
+            "lemmas": [
+              "rubber"
+            ],
+            "definition": "an implement used to erase something"
+          }
+        },
+        {
+          "id": "unimet-ces-guma-n04116512",
+          "lemma": "guma",
+          "word_id": "unimet-ces-guma",
+          "synset": {
+            "id": "omw-en-04116512-n",
+            "ili": "i58328",
+            "pos": "n",
+            "lemmas": [
+              "pencil eraser"
+            ],
+            "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-guma-n15006258::unimet-ces-guma-n03294833": {
+          "source": "unimet-ces-guma-n15006258",
+          "target": "unimet-ces-guma-n03294833",
+          "type": "metonymy"
+        },
+        "unimet-ces-guma-n15006258::unimet-ces-guma-n04116512": {
+          "source": "unimet-ces-guma-n15006258",
+          "target": "unimet-ces-guma-n04116512",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hlava",
+      "all_senses": [
+        {
+          "id": "unimet-ces-hlava-n05538625",
+          "lemma": "hlava",
+          "word_id": "unimet-ces-hlava",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-ces-hlava-n10162991",
+          "lemma": "hlava",
+          "word_id": "unimet-ces-hlava",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-hlava-n05538625",
+          "lemma": "hlava",
+          "word_id": "unimet-ces-hlava",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-hlava-n10162991",
+          "lemma": "hlava",
+          "word_id": "unimet-ces-hlava",
+          "synset": {
+            "id": "omw-en-10162991-n",
+            "ili": "i90431",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "a person who is in charge"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-hlava-n05538625::unimet-ces-hlava-n10162991": {
+          "source": "unimet-ces-hlava-n05538625",
+          "target": "unimet-ces-hlava-n10162991",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hlávkový salát",
+      "all_senses": [
+        {
+          "id": "unimet-ces-hlávkový salát-n07723559",
+          "lemma": "hlávkový salát",
+          "word_id": "unimet-ces-hlávkový salát",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        },
+        {
+          "id": "unimet-ces-hlávkový salát-n11986306",
+          "lemma": "hlávkový salát",
+          "word_id": "unimet-ces-hlávkový salát",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-hlávkový salát-n11986306",
+          "lemma": "hlávkový salát",
+          "word_id": "unimet-ces-hlávkový salát",
+          "synset": {
+            "id": "omw-en-11986306-n",
+            "ili": "i100210",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "any of various plants of the genus Lactuca"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-hlávkový salát-n07723559",
+          "lemma": "hlávkový salát",
+          "word_id": "unimet-ces-hlávkový salát",
+          "synset": {
+            "id": "omw-en-07723559-n",
+            "ili": "i77601",
+            "pos": "n",
+            "lemmas": [
+              "lettuce"
+            ],
+            "definition": "leaves of any of various plants of Lactuca sativa"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-hlávkový salát-n11986306::unimet-ces-hlávkový salát-n07723559": {
+          "source": "unimet-ces-hlávkový salát-n11986306",
+          "target": "unimet-ces-hlávkový salát-n07723559",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "houba",
+      "all_senses": [
+        {
+          "id": "unimet-ces-houba-n07734744",
+          "lemma": "houba",
+          "word_id": "unimet-ces-houba",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-ces-houba-n12992868",
+          "lemma": "houba",
+          "word_id": "unimet-ces-houba",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-houba-n12992868",
+          "lemma": "houba",
+          "word_id": "unimet-ces-houba",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-houba-n07734744",
+          "lemma": "houba",
+          "word_id": "unimet-ces-houba",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-houba-n12992868::unimet-ces-houba-n07734744": {
+          "source": "unimet-ces-houba-n12992868",
+          "target": "unimet-ces-houba-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hranostaj",
+      "all_senses": [
+        {
+          "id": "unimet-ces-hranostaj-n02442172",
+          "lemma": "hranostaj",
+          "word_id": "unimet-ces-hranostaj",
+          "synset": {
+            "id": "omw-en-02442172-n",
+            "ili": "i48477",
+            "pos": "n",
+            "lemmas": [
+              "weasel"
+            ],
+            "definition": "mustelid of northern hemisphere in its white winter coat"
+          }
+        },
+        {
+          "id": "unimet-ces-hranostaj-n14764820",
+          "lemma": "hranostaj",
+          "word_id": "unimet-ces-hranostaj",
+          "synset": {
+            "id": "omw-en-14764820-n",
+            "ili": "i114589",
+            "pos": "n",
+            "lemmas": [
+              "ermine"
+            ],
+            "definition": "the expensive white fur of the ermine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-hranostaj-n02442172",
+          "lemma": "hranostaj",
+          "word_id": "unimet-ces-hranostaj",
+          "synset": {
+            "id": "omw-en-02442172-n",
+            "ili": "i48477",
+            "pos": "n",
+            "lemmas": [
+              "weasel"
+            ],
+            "definition": "mustelid of northern hemisphere in its white winter coat"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-hranostaj-n14764820",
+          "lemma": "hranostaj",
+          "word_id": "unimet-ces-hranostaj",
+          "synset": {
+            "id": "omw-en-14764820-n",
+            "ili": "i114589",
+            "pos": "n",
+            "lemmas": [
+              "ermine"
+            ],
+            "definition": "the expensive white fur of the ermine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-hranostaj-n02442172::unimet-ces-hranostaj-n14764820": {
+          "source": "unimet-ces-hranostaj-n02442172",
+          "target": "unimet-ces-hranostaj-n14764820",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jahoda",
+      "all_senses": [
+        {
+          "id": "unimet-ces-jahoda-n07745940",
+          "lemma": "jahoda",
+          "word_id": "unimet-ces-jahoda",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-ces-jahoda-n12630144",
+          "lemma": "jahoda",
+          "word_id": "unimet-ces-jahoda",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-jahoda-n07745940",
+          "lemma": "jahoda",
+          "word_id": "unimet-ces-jahoda",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-jahoda-n12630144",
+          "lemma": "jahoda",
+          "word_id": "unimet-ces-jahoda",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-jahoda-n07745940::unimet-ces-jahoda-n12630144": {
+          "source": "unimet-ces-jahoda-n07745940",
+          "target": "unimet-ces-jahoda-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "katalyzátor",
+      "all_senses": [
+        {
+          "id": "unimet-ces-katalyzátor-n02981321",
+          "lemma": "katalyzátor",
+          "word_id": "unimet-ces-katalyzátor",
+          "synset": {
+            "id": "omw-en-02981321-n",
+            "ili": "i51630",
+            "pos": "n",
+            "lemmas": [
+              "catalytic converter"
+            ],
+            "definition": "a converter that uses a platinum-iridium catalyst to oxidize pollutants and carbon monoxide into carbon dioxide and water; an antipollution device on an automotive exhaust system"
+          }
+        },
+        {
+          "id": "unimet-ces-katalyzátor-n14723628",
+          "lemma": "katalyzátor",
+          "word_id": "unimet-ces-katalyzátor",
+          "synset": {
+            "id": "omw-en-14723628-n",
+            "ili": "i114375",
+            "pos": "n",
+            "lemmas": [
+              "catalyst"
+            ],
+            "definition": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-katalyzátor-n14723628",
+          "lemma": "katalyzátor",
+          "word_id": "unimet-ces-katalyzátor",
+          "synset": {
+            "id": "omw-en-14723628-n",
+            "ili": "i114375",
+            "pos": "n",
+            "lemmas": [
+              "catalyst"
+            ],
+            "definition": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-katalyzátor-n02981321",
+          "lemma": "katalyzátor",
+          "word_id": "unimet-ces-katalyzátor",
+          "synset": {
+            "id": "omw-en-02981321-n",
+            "ili": "i51630",
+            "pos": "n",
+            "lemmas": [
+              "catalytic converter"
+            ],
+            "definition": "a converter that uses a platinum-iridium catalyst to oxidize pollutants and carbon monoxide into carbon dioxide and water; an antipollution device on an automotive exhaust system"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-katalyzátor-n14723628::unimet-ces-katalyzátor-n02981321": {
+          "source": "unimet-ces-katalyzátor-n14723628",
+          "target": "unimet-ces-katalyzátor-n02981321",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "klenot",
+      "all_senses": [
+        {
+          "id": "unimet-ces-klenot-n03596787",
+          "lemma": "klenot",
+          "word_id": "unimet-ces-klenot",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-ces-klenot-n14699752",
+          "lemma": "klenot",
+          "word_id": "unimet-ces-klenot",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-klenot-n14699752",
+          "lemma": "klenot",
+          "word_id": "unimet-ces-klenot",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-klenot-n03596787",
+          "lemma": "klenot",
+          "word_id": "unimet-ces-klenot",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-klenot-n14699752::unimet-ces-klenot-n03596787": {
+          "source": "unimet-ces-klenot-n14699752",
+          "target": "unimet-ces-klenot-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "králík",
+      "all_senses": [
+        {
+          "id": "unimet-ces-králík-n02324045",
+          "lemma": "králík",
+          "word_id": "unimet-ces-králík",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        },
+        {
+          "id": "unimet-ces-králík-n14765324",
+          "lemma": "králík",
+          "word_id": "unimet-ces-králík",
+          "synset": {
+            "id": "omw-en-14765324-n",
+            "ili": "i114594",
+            "pos": "n",
+            "lemmas": [
+              "rabbit"
+            ],
+            "definition": "the fur of a rabbit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-králík-n02324045",
+          "lemma": "králík",
+          "word_id": "unimet-ces-králík",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-králík-n14765324",
+          "lemma": "králík",
+          "word_id": "unimet-ces-králík",
+          "synset": {
+            "id": "omw-en-14765324-n",
+            "ili": "i114594",
+            "pos": "n",
+            "lemmas": [
+              "rabbit"
+            ],
+            "definition": "the fur of a rabbit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-králík-n02324045::unimet-ces-králík-n14765324": {
+          "source": "unimet-ces-králík-n02324045",
+          "target": "unimet-ces-králík-n14765324",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kuře",
+      "all_senses": [
+        {
+          "id": "unimet-ces-kuře-n01791625",
+          "lemma": "kuře",
+          "word_id": "unimet-ces-kuře",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ces-kuře-n01792042",
+          "lemma": "kuře",
+          "word_id": "unimet-ces-kuře",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-ces-kuře-n07644967",
+          "lemma": "kuře",
+          "word_id": "unimet-ces-kuře",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-kuře-n01791625",
+          "lemma": "kuře",
+          "word_id": "unimet-ces-kuře",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ces-kuře-n01792042",
+          "lemma": "kuře",
+          "word_id": "unimet-ces-kuře",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-kuře-n07644967",
+          "lemma": "kuře",
+          "word_id": "unimet-ces-kuře",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-kuře-n01791625::unimet-ces-kuře-n07644967": {
+          "source": "unimet-ces-kuře-n01791625",
+          "target": "unimet-ces-kuře-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-ces-kuře-n01792042::unimet-ces-kuře-n07644967": {
+          "source": "unimet-ces-kuře-n01792042",
+          "target": "unimet-ces-kuře-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "meruňka",
+      "all_senses": [
+        {
+          "id": "unimet-ces-meruňka-n07750872",
+          "lemma": "meruňka",
+          "word_id": "unimet-ces-meruňka",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-ces-meruňka-n12640607",
+          "lemma": "meruňka",
+          "word_id": "unimet-ces-meruňka",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-meruňka-n07750872",
+          "lemma": "meruňka",
+          "word_id": "unimet-ces-meruňka",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-meruňka-n12640607",
+          "lemma": "meruňka",
+          "word_id": "unimet-ces-meruňka",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-meruňka-n07750872::unimet-ces-meruňka-n12640607": {
+          "source": "unimet-ces-meruňka-n07750872",
+          "target": "unimet-ces-meruňka-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "moruše",
+      "all_senses": [
+        {
+          "id": "unimet-ces-moruše-n07767171",
+          "lemma": "moruše",
+          "word_id": "unimet-ces-moruše",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-ces-moruše-n12399132",
+          "lemma": "moruše",
+          "word_id": "unimet-ces-moruše",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-moruše-n07767171",
+          "lemma": "moruše",
+          "word_id": "unimet-ces-moruše",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-moruše-n12399132",
+          "lemma": "moruše",
+          "word_id": "unimet-ces-moruše",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-moruše-n07767171::unimet-ces-moruše-n12399132": {
+          "source": "unimet-ces-moruše-n07767171",
+          "target": "unimet-ces-moruše-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ostružina",
+      "all_senses": [
+        {
+          "id": "unimet-ces-ostružina-n07744811",
+          "lemma": "ostružina",
+          "word_id": "unimet-ces-ostružina",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-ces-ostružina-n12653762",
+          "lemma": "ostružina",
+          "word_id": "unimet-ces-ostružina",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-ostružina-n07744811",
+          "lemma": "ostružina",
+          "word_id": "unimet-ces-ostružina",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-ostružina-n12653762",
+          "lemma": "ostružina",
+          "word_id": "unimet-ces-ostružina",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-ostružina-n07744811::unimet-ces-ostružina-n12653762": {
+          "source": "unimet-ces-ostružina-n07744811",
+          "target": "unimet-ces-ostružina-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "otrava",
+      "all_senses": [
+        {
+          "id": "unimet-ces-otrava-n10391513",
+          "lemma": "otrava",
+          "word_id": "unimet-ces-otrava",
+          "synset": {
+            "id": "omw-en-10391513-n",
+            "ili": "i91822",
+            "pos": "n",
+            "lemmas": [
+              "pain in the neck"
+            ],
+            "definition": "a bothersome annoying person"
+          }
+        },
+        {
+          "id": "unimet-ces-otrava-n14406573",
+          "lemma": "otrava",
+          "word_id": "unimet-ces-otrava",
+          "synset": {
+            "id": "omw-en-14406573-n",
+            "ili": "i112715",
+            "pos": "n",
+            "lemmas": [
+              "botheration"
+            ],
+            "definition": "the psychological state of being irritated or annoyed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-otrava-n14406573",
+          "lemma": "otrava",
+          "word_id": "unimet-ces-otrava",
+          "synset": {
+            "id": "omw-en-14406573-n",
+            "ili": "i112715",
+            "pos": "n",
+            "lemmas": [
+              "botheration"
+            ],
+            "definition": "the psychological state of being irritated or annoyed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-otrava-n10391513",
+          "lemma": "otrava",
+          "word_id": "unimet-ces-otrava",
+          "synset": {
+            "id": "omw-en-10391513-n",
+            "ili": "i91822",
+            "pos": "n",
+            "lemmas": [
+              "pain in the neck"
+            ],
+            "definition": "a bothersome annoying person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-otrava-n14406573::unimet-ces-otrava-n10391513": {
+          "source": "unimet-ces-otrava-n14406573",
+          "target": "unimet-ces-otrava-n10391513",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "slepice",
+      "all_senses": [
+        {
+          "id": "unimet-ces-slepice-n01791625",
+          "lemma": "slepice",
+          "word_id": "unimet-ces-slepice",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ces-slepice-n01792640",
+          "lemma": "slepice",
+          "word_id": "unimet-ces-slepice",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-ces-slepice-n07644967",
+          "lemma": "slepice",
+          "word_id": "unimet-ces-slepice",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-slepice-n01791625",
+          "lemma": "slepice",
+          "word_id": "unimet-ces-slepice",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-ces-slepice-n01792640",
+          "lemma": "slepice",
+          "word_id": "unimet-ces-slepice",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-slepice-n07644967",
+          "lemma": "slepice",
+          "word_id": "unimet-ces-slepice",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-slepice-n01791625::unimet-ces-slepice-n07644967": {
+          "source": "unimet-ces-slepice-n01791625",
+          "target": "unimet-ces-slepice-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-ces-slepice-n01792640::unimet-ces-slepice-n07644967": {
+          "source": "unimet-ces-slepice-n01792640",
+          "target": "unimet-ces-slepice-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "slíva",
+      "all_senses": [
+        {
+          "id": "unimet-ces-slíva-n07751451",
+          "lemma": "slíva",
+          "word_id": "unimet-ces-slíva",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-ces-slíva-n12638218",
+          "lemma": "slíva",
+          "word_id": "unimet-ces-slíva",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-slíva-n07751451",
+          "lemma": "slíva",
+          "word_id": "unimet-ces-slíva",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-slíva-n12638218",
+          "lemma": "slíva",
+          "word_id": "unimet-ces-slíva",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-slíva-n07751451::unimet-ces-slíva-n12638218": {
+          "source": "unimet-ces-slíva-n07751451",
+          "target": "unimet-ces-slíva-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "smutek",
+      "all_senses": [
+        {
+          "id": "unimet-ces-smutek-n05833683",
+          "lemma": "smutek",
+          "word_id": "unimet-ces-smutek",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-ces-smutek-n07532440",
+          "lemma": "smutek",
+          "word_id": "unimet-ces-smutek",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-smutek-n07532440",
+          "lemma": "smutek",
+          "word_id": "unimet-ces-smutek",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-smutek-n05833683",
+          "lemma": "smutek",
+          "word_id": "unimet-ces-smutek",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-smutek-n07532440::unimet-ces-smutek-n05833683": {
+          "source": "unimet-ces-smutek-n07532440",
+          "target": "unimet-ces-smutek-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stát",
+      "all_senses": [
+        {
+          "id": "unimet-ces-stát-n08178547",
+          "lemma": "stát",
+          "word_id": "unimet-ces-stát",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-ces-stát-n08654360",
+          "lemma": "stát",
+          "word_id": "unimet-ces-stát",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-stát-n08178547",
+          "lemma": "stát",
+          "word_id": "unimet-ces-stát",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-stát-n08654360",
+          "lemma": "stát",
+          "word_id": "unimet-ces-stát",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-stát-n08178547::unimet-ces-stát-n08654360": {
+          "source": "unimet-ces-stát-n08178547",
+          "target": "unimet-ces-stát-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vesnice",
+      "all_senses": [
+        {
+          "id": "unimet-ces-vesnice-n08226699",
+          "lemma": "vesnice",
+          "word_id": "unimet-ces-vesnice",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-ces-vesnice-n08672738",
+          "lemma": "vesnice",
+          "word_id": "unimet-ces-vesnice",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-vesnice-n08226699",
+          "lemma": "vesnice",
+          "word_id": "unimet-ces-vesnice",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-vesnice-n08672738",
+          "lemma": "vesnice",
+          "word_id": "unimet-ces-vesnice",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-vesnice-n08226699::unimet-ces-vesnice-n08672738": {
+          "source": "unimet-ces-vesnice-n08226699",
+          "target": "unimet-ces-vesnice-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vlna",
+      "all_senses": [
+        {
+          "id": "unimet-ces-vlna-n04599235",
+          "lemma": "vlna",
+          "word_id": "unimet-ces-vlna",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-ces-vlna-n15104217",
+          "lemma": "vlna",
+          "word_id": "unimet-ces-vlna",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-vlna-n15104217",
+          "lemma": "vlna",
+          "word_id": "unimet-ces-vlna",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-vlna-n04599235",
+          "lemma": "vlna",
+          "word_id": "unimet-ces-vlna",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-vlna-n15104217::unimet-ces-vlna-n04599235": {
+          "source": "unimet-ces-vlna-n15104217",
+          "target": "unimet-ces-vlna-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vlákno",
+      "all_senses": [
+        {
+          "id": "unimet-ces-vlákno-n04426788",
+          "lemma": "vlákno",
+          "word_id": "unimet-ces-vlákno",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-ces-vlákno-n14866889",
+          "lemma": "vlákno",
+          "word_id": "unimet-ces-vlákno",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-vlákno-n14866889",
+          "lemma": "vlákno",
+          "word_id": "unimet-ces-vlákno",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-vlákno-n04426788",
+          "lemma": "vlákno",
+          "word_id": "unimet-ces-vlákno",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-vlákno-n14866889::unimet-ces-vlákno-n04426788": {
+          "source": "unimet-ces-vlákno-n14866889",
+          "target": "unimet-ces-vlákno-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vodní meloun",
+      "all_senses": [
+        {
+          "id": "unimet-ces-vodní meloun-n07756951",
+          "lemma": "vodní meloun",
+          "word_id": "unimet-ces-vodní meloun",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-ces-vodní meloun-n12164065",
+          "lemma": "vodní meloun",
+          "word_id": "unimet-ces-vodní meloun",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-vodní meloun-n07756951",
+          "lemma": "vodní meloun",
+          "word_id": "unimet-ces-vodní meloun",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-vodní meloun-n12164065",
+          "lemma": "vodní meloun",
+          "word_id": "unimet-ces-vodní meloun",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-vodní meloun-n07756951::unimet-ces-vodní meloun-n12164065": {
+          "source": "unimet-ces-vodní meloun-n07756951",
+          "target": "unimet-ces-vodní meloun-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zelí",
+      "all_senses": [
+        {
+          "id": "unimet-ces-zelí-n07713895",
+          "lemma": "zelí",
+          "word_id": "unimet-ces-zelí",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-ces-zelí-n11875691",
+          "lemma": "zelí",
+          "word_id": "unimet-ces-zelí",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-zelí-n11875691",
+          "lemma": "zelí",
+          "word_id": "unimet-ces-zelí",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-zelí-n07713895",
+          "lemma": "zelí",
+          "word_id": "unimet-ces-zelí",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-zelí-n11875691::unimet-ces-zelí-n07713895": {
+          "source": "unimet-ces-zelí-n11875691",
+          "target": "unimet-ces-zelí-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "země",
+      "all_senses": [
+        {
+          "id": "unimet-ces-země-n08168978",
+          "lemma": "země",
+          "word_id": "unimet-ces-země",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-ces-země-n08544813",
+          "lemma": "země",
+          "word_id": "unimet-ces-země",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-země-n08168978",
+          "lemma": "země",
+          "word_id": "unimet-ces-země",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-země-n08544813",
+          "lemma": "země",
+          "word_id": "unimet-ces-země",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-země-n08168978::unimet-ces-země-n08544813": {
+          "source": "unimet-ces-země-n08168978",
+          "target": "unimet-ces-země-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ředkvička",
+      "all_senses": [
+        {
+          "id": "unimet-ces-ředkvička-n07735687",
+          "lemma": "ředkvička",
+          "word_id": "unimet-ces-ředkvička",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-ces-ředkvička-n11894327",
+          "lemma": "ředkvička",
+          "word_id": "unimet-ces-ředkvička",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-ředkvička-n11894327",
+          "lemma": "ředkvička",
+          "word_id": "unimet-ces-ředkvička",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-ředkvička-n07735687",
+          "lemma": "ředkvička",
+          "word_id": "unimet-ces-ředkvička",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-ředkvička-n11894327::unimet-ces-ředkvička-n07735687": {
+          "source": "unimet-ces-ředkvička-n11894327",
+          "target": "unimet-ces-ředkvička-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "říše",
+      "all_senses": [
+        {
+          "id": "unimet-ces-říše-n08052413",
+          "lemma": "říše",
+          "word_id": "unimet-ces-říše",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-ces-říše-n08558155",
+          "lemma": "říše",
+          "word_id": "unimet-ces-říše",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-říše-n08052413",
+          "lemma": "říše",
+          "word_id": "unimet-ces-říše",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-říše-n08558155",
+          "lemma": "říše",
+          "word_id": "unimet-ces-říše",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-říše-n08052413::unimet-ces-říše-n08558155": {
+          "source": "unimet-ces-říše-n08052413",
+          "target": "unimet-ces-říše-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "škola",
+      "all_senses": [
+        {
+          "id": "unimet-ces-škola-n04146050",
+          "lemma": "škola",
+          "word_id": "unimet-ces-škola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-ces-škola-n08276720",
+          "lemma": "škola",
+          "word_id": "unimet-ces-škola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-škola-n04146050",
+          "lemma": "škola",
+          "word_id": "unimet-ces-škola",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-škola-n08276720",
+          "lemma": "škola",
+          "word_id": "unimet-ces-škola",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-škola-n04146050::unimet-ces-škola-n08276720": {
+          "source": "unimet-ces-škola-n04146050",
+          "target": "unimet-ces-škola-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "švestka",
+      "all_senses": [
+        {
+          "id": "unimet-ces-švestka-n07751451",
+          "lemma": "švestka",
+          "word_id": "unimet-ces-švestka",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-ces-švestka-n12638218",
+          "lemma": "švestka",
+          "word_id": "unimet-ces-švestka",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ces-švestka-n07751451",
+          "lemma": "švestka",
+          "word_id": "unimet-ces-švestka",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ces-švestka-n12638218",
+          "lemma": "švestka",
+          "word_id": "unimet-ces-švestka",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ces-švestka-n07751451::unimet-ces-švestka-n12638218": {
+          "source": "unimet-ces-švestka-n07751451",
+          "target": "unimet-ces-švestka-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

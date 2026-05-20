@@ -1,0 +1,548 @@
+{
+  "id": "aec9bb373f418c80",
+  "name": "unimet-North Azerbaijani",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "aze",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "alma",
+      "all_senses": [
+        {
+          "id": "unimet-aze-alma-n07739125",
+          "lemma": "alma",
+          "word_id": "unimet-aze-alma",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-aze-alma-n12633638",
+          "lemma": "alma",
+          "word_id": "unimet-aze-alma",
+          "synset": {
+            "id": "omw-en-12633638-n",
+            "ili": "i103271",
+            "pos": "n",
+            "lemmas": [
+              "apple tree"
+            ],
+            "definition": "any tree of the genus Malus especially those bearing firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-alma-n07739125",
+          "lemma": "alma",
+          "word_id": "unimet-aze-alma",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-alma-n12633638",
+          "lemma": "alma",
+          "word_id": "unimet-aze-alma",
+          "synset": {
+            "id": "omw-en-12633638-n",
+            "ili": "i103271",
+            "pos": "n",
+            "lemmas": [
+              "apple tree"
+            ],
+            "definition": "any tree of the genus Malus especially those bearing firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-alma-n07739125::unimet-aze-alma-n12633638": {
+          "source": "unimet-aze-alma-n07739125",
+          "target": "unimet-aze-alma-n12633638",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "göbələk",
+      "all_senses": [
+        {
+          "id": "unimet-aze-göbələk-n07734744",
+          "lemma": "göbələk",
+          "word_id": "unimet-aze-göbələk",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-aze-göbələk-n12992868",
+          "lemma": "göbələk",
+          "word_id": "unimet-aze-göbələk",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-göbələk-n12992868",
+          "lemma": "göbələk",
+          "word_id": "unimet-aze-göbələk",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-göbələk-n07734744",
+          "lemma": "göbələk",
+          "word_id": "unimet-aze-göbələk",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-göbələk-n12992868::unimet-aze-göbələk-n07734744": {
+          "source": "unimet-aze-göbələk-n12992868",
+          "target": "unimet-aze-göbələk-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kənd",
+      "all_senses": [
+        {
+          "id": "unimet-aze-kənd-n08226699",
+          "lemma": "kənd",
+          "word_id": "unimet-aze-kənd",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-aze-kənd-n08644722",
+          "lemma": "kənd",
+          "word_id": "unimet-aze-kənd",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-kənd-n08226699",
+          "lemma": "kənd",
+          "word_id": "unimet-aze-kənd",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-kənd-n08644722",
+          "lemma": "kənd",
+          "word_id": "unimet-aze-kənd",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-kənd-n08226699::unimet-aze-kənd-n08644722": {
+          "source": "unimet-aze-kənd-n08226699",
+          "target": "unimet-aze-kənd-n08644722",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "portağal",
+      "all_senses": [
+        {
+          "id": "unimet-aze-portağal-n07747607",
+          "lemma": "portağal",
+          "word_id": "unimet-aze-portağal",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-aze-portağal-n12708293",
+          "lemma": "portağal",
+          "word_id": "unimet-aze-portağal",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-portağal-n07747607",
+          "lemma": "portağal",
+          "word_id": "unimet-aze-portağal",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-portağal-n12708293",
+          "lemma": "portağal",
+          "word_id": "unimet-aze-portağal",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-portağal-n07747607::unimet-aze-portağal-n12708293": {
+          "source": "unimet-aze-portağal-n07747607",
+          "target": "unimet-aze-portağal-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "qarpız",
+      "all_senses": [
+        {
+          "id": "unimet-aze-qarpız-n07756951",
+          "lemma": "qarpız",
+          "word_id": "unimet-aze-qarpız",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-aze-qarpız-n12164065",
+          "lemma": "qarpız",
+          "word_id": "unimet-aze-qarpız",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-qarpız-n07756951",
+          "lemma": "qarpız",
+          "word_id": "unimet-aze-qarpız",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-qarpız-n12164065",
+          "lemma": "qarpız",
+          "word_id": "unimet-aze-qarpız",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-qarpız-n07756951::unimet-aze-qarpız-n12164065": {
+          "source": "unimet-aze-qarpız-n07756951",
+          "target": "unimet-aze-qarpız-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "toyuq",
+      "all_senses": [
+        {
+          "id": "unimet-aze-toyuq-n01792640",
+          "lemma": "toyuq",
+          "word_id": "unimet-aze-toyuq",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-aze-toyuq-n07644967",
+          "lemma": "toyuq",
+          "word_id": "unimet-aze-toyuq",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-toyuq-n01792640",
+          "lemma": "toyuq",
+          "word_id": "unimet-aze-toyuq",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-toyuq-n07644967",
+          "lemma": "toyuq",
+          "word_id": "unimet-aze-toyuq",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-toyuq-n01792640::unimet-aze-toyuq-n07644967": {
+          "source": "unimet-aze-toyuq-n01792640",
+          "target": "unimet-aze-toyuq-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ölkə",
+      "all_senses": [
+        {
+          "id": "unimet-aze-ölkə-n08168978",
+          "lemma": "ölkə",
+          "word_id": "unimet-aze-ölkə",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-aze-ölkə-n08544813",
+          "lemma": "ölkə",
+          "word_id": "unimet-aze-ölkə",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-aze-ölkə-n08168978",
+          "lemma": "ölkə",
+          "word_id": "unimet-aze-ölkə",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-aze-ölkə-n08544813",
+          "lemma": "ölkə",
+          "word_id": "unimet-aze-ölkə",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-aze-ölkə-n08168978::unimet-aze-ölkə-n08544813": {
+          "source": "unimet-aze-ölkə-n08168978",
+          "target": "unimet-aze-ölkə-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,3495 @@
+{
+  "id": "110e3ba2f5eb409d",
+  "name": "unimet-Scottish Gaelic",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "gla",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "apragod",
+      "all_senses": [
+        {
+          "id": "unimet-gla-apragod-n07750872",
+          "lemma": "apragod",
+          "word_id": "unimet-gla-apragod",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-gla-apragod-n12640607",
+          "lemma": "apragod",
+          "word_id": "unimet-gla-apragod",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-apragod-n07750872",
+          "lemma": "apragod",
+          "word_id": "unimet-gla-apragod",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-apragod-n12640607",
+          "lemma": "apragod",
+          "word_id": "unimet-gla-apragod",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-apragod-n07750872::unimet-gla-apragod-n12640607": {
+          "source": "unimet-gla-apragod-n07750872",
+          "target": "unimet-gla-apragod-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "arbhar",
+      "all_senses": [
+        {
+          "id": "unimet-gla-arbhar-n12143676",
+          "lemma": "arbhar",
+          "word_id": "unimet-gla-arbhar",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        },
+        {
+          "id": "unimet-gla-arbhar-n12144580",
+          "lemma": "arbhar",
+          "word_id": "unimet-gla-arbhar",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-arbhar-n12143676",
+          "lemma": "arbhar",
+          "word_id": "unimet-gla-arbhar",
+          "synset": {
+            "id": "omw-en-12143676-n",
+            "ili": "i100967",
+            "pos": "n",
+            "lemmas": [
+              "maize"
+            ],
+            "definition": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-arbhar-n12144580",
+          "lemma": "arbhar",
+          "word_id": "unimet-gla-arbhar",
+          "synset": {
+            "id": "omw-en-12144580-n",
+            "ili": "i100971",
+            "pos": "n",
+            "lemmas": [
+              "corn"
+            ],
+            "definition": "the dried grains or kernels or corn used as animal feed or ground for meal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-arbhar-n12143676::unimet-gla-arbhar-n12144580": {
+          "source": "unimet-gla-arbhar-n12143676",
+          "target": "unimet-gla-arbhar-n12144580",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "baga",
+      "all_senses": [
+        {
+          "id": "unimet-gla-baga-n02773037",
+          "lemma": "baga",
+          "word_id": "unimet-gla-baga",
+          "synset": {
+            "id": "omw-en-02773037-n",
+            "ili": "i50359",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a flexible container with a single opening"
+          }
+        },
+        {
+          "id": "unimet-gla-baga-n13769206",
+          "lemma": "baga",
+          "word_id": "unimet-gla-baga",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-baga-n02773037",
+          "lemma": "baga",
+          "word_id": "unimet-gla-baga",
+          "synset": {
+            "id": "omw-en-02773037-n",
+            "ili": "i50359",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a flexible container with a single opening"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-baga-n13769206",
+          "lemma": "baga",
+          "word_id": "unimet-gla-baga",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-baga-n02773037::unimet-gla-baga-n13769206": {
+          "source": "unimet-gla-baga-n02773037",
+          "target": "unimet-gla-baga-n13769206",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bròn",
+      "all_senses": [
+        {
+          "id": "unimet-gla-bròn-n05833683",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-gla-bròn-n07532440",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-gla-bròn-n07534430",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-gla-bròn-n07535209",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-07535209-n",
+            "ili": "i76353",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "a state of gloomy sorrow"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-bròn-n07532440",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-gla-bròn-n07534430",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-gla-bròn-n07535209",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-07535209-n",
+            "ili": "i76353",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "a state of gloomy sorrow"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-bròn-n05833683",
+          "lemma": "bròn",
+          "word_id": "unimet-gla-bròn",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-bròn-n07532440::unimet-gla-bròn-n05833683": {
+          "source": "unimet-gla-bròn-n07532440",
+          "target": "unimet-gla-bròn-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-gla-bròn-n07534430::unimet-gla-bròn-n05833683": {
+          "source": "unimet-gla-bròn-n07534430",
+          "target": "unimet-gla-bròn-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-gla-bròn-n07535209::unimet-gla-bròn-n05833683": {
+          "source": "unimet-gla-bròn-n07535209",
+          "target": "unimet-gla-bròn-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cac",
+      "all_senses": [
+        {
+          "id": "unimet-gla-cac-n14854581",
+          "lemma": "cac",
+          "word_id": "unimet-gla-cac",
+          "synset": {
+            "id": "omw-en-14854581-n",
+            "ili": "i115116",
+            "pos": "n",
+            "lemmas": [
+              "dirt"
+            ],
+            "definition": "obscene terms for feces"
+          }
+        },
+        {
+          "id": "unimet-gla-cac-v00074038",
+          "lemma": "cac",
+          "word_id": "unimet-gla-cac",
+          "synset": {
+            "id": "omw-en-00074038-v",
+            "ili": "i22143",
+            "pos": "v",
+            "lemmas": [
+              "take a crap"
+            ],
+            "definition": "have a bowel movement"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-cac-n14854581",
+          "lemma": "cac",
+          "word_id": "unimet-gla-cac",
+          "synset": {
+            "id": "omw-en-14854581-n",
+            "ili": "i115116",
+            "pos": "n",
+            "lemmas": [
+              "dirt"
+            ],
+            "definition": "obscene terms for feces"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-cac-v00074038",
+          "lemma": "cac",
+          "word_id": "unimet-gla-cac",
+          "synset": {
+            "id": "omw-en-00074038-v",
+            "ili": "i22143",
+            "pos": "v",
+            "lemmas": [
+              "take a crap"
+            ],
+            "definition": "have a bowel movement"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-cac-n14854581::unimet-gla-cac-v00074038": {
+          "source": "unimet-gla-cac-n14854581",
+          "target": "unimet-gla-cac-v00074038",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "caoidh",
+      "all_senses": [
+        {
+          "id": "unimet-gla-caoidh-n13989280",
+          "lemma": "caoidh",
+          "word_id": "unimet-gla-caoidh",
+          "synset": {
+            "id": "omw-en-13989280-n",
+            "ili": "i110449",
+            "pos": "n",
+            "lemmas": [
+              "mourning"
+            ],
+            "definition": "state of sorrow over the death or departure of a loved one"
+          }
+        },
+        {
+          "id": "unimet-gla-caoidh-v01797347",
+          "lemma": "caoidh",
+          "word_id": "unimet-gla-caoidh",
+          "synset": {
+            "id": "omw-en-01797347-v",
+            "ili": "i30718",
+            "pos": "v",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "feel grief; eat one's heart out"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-caoidh-v01797347",
+          "lemma": "caoidh",
+          "word_id": "unimet-gla-caoidh",
+          "synset": {
+            "id": "omw-en-01797347-v",
+            "ili": "i30718",
+            "pos": "v",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "feel grief; eat one's heart out"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-caoidh-n13989280",
+          "lemma": "caoidh",
+          "word_id": "unimet-gla-caoidh",
+          "synset": {
+            "id": "omw-en-13989280-n",
+            "ili": "i110449",
+            "pos": "n",
+            "lemmas": [
+              "mourning"
+            ],
+            "definition": "state of sorrow over the death or departure of a loved one"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-caoidh-v01797347::unimet-gla-caoidh-n13989280": {
+          "source": "unimet-gla-caoidh-v01797347",
+          "target": "unimet-gla-caoidh-n13989280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "caor-caorainn",
+      "all_senses": [
+        {
+          "id": "unimet-gla-caor-caorainn-n12658308",
+          "lemma": "caor-caorainn",
+          "word_id": "unimet-gla-caor-caorainn",
+          "synset": {
+            "id": "omw-en-12658308-n",
+            "ili": "i103392",
+            "pos": "n",
+            "lemmas": [
+              "rowan tree"
+            ],
+            "definition": "Eurasian tree with orange-red berrylike fruits"
+          }
+        },
+        {
+          "id": "unimet-gla-caor-caorainn-n12658481",
+          "lemma": "caor-caorainn",
+          "word_id": "unimet-gla-caor-caorainn",
+          "synset": {
+            "id": "omw-en-12658481-n",
+            "ili": "i103393",
+            "pos": "n",
+            "lemmas": [
+              "rowanberry"
+            ],
+            "definition": "decorative red berrylike fruit of a rowan tree"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-caor-caorainn-n12658308",
+          "lemma": "caor-caorainn",
+          "word_id": "unimet-gla-caor-caorainn",
+          "synset": {
+            "id": "omw-en-12658308-n",
+            "ili": "i103392",
+            "pos": "n",
+            "lemmas": [
+              "rowan tree"
+            ],
+            "definition": "Eurasian tree with orange-red berrylike fruits"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-caor-caorainn-n12658481",
+          "lemma": "caor-caorainn",
+          "word_id": "unimet-gla-caor-caorainn",
+          "synset": {
+            "id": "omw-en-12658481-n",
+            "ili": "i103393",
+            "pos": "n",
+            "lemmas": [
+              "rowanberry"
+            ],
+            "definition": "decorative red berrylike fruit of a rowan tree"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-caor-caorainn-n12658308::unimet-gla-caor-caorainn-n12658481": {
+          "source": "unimet-gla-caor-caorainn-n12658308",
+          "target": "unimet-gla-caor-caorainn-n12658481",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cearc",
+      "all_senses": [
+        {
+          "id": "unimet-gla-cearc-n01792640",
+          "lemma": "cearc",
+          "word_id": "unimet-gla-cearc",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-gla-cearc-n07644967",
+          "lemma": "cearc",
+          "word_id": "unimet-gla-cearc",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-cearc-n01792640",
+          "lemma": "cearc",
+          "word_id": "unimet-gla-cearc",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-cearc-n07644967",
+          "lemma": "cearc",
+          "word_id": "unimet-gla-cearc",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-cearc-n01792640::unimet-gla-cearc-n07644967": {
+          "source": "unimet-gla-cearc-n01792640",
+          "target": "unimet-gla-cearc-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cliath",
+      "all_senses": [
+        {
+          "id": "unimet-gla-cliath-n03496612",
+          "lemma": "cliath",
+          "word_id": "unimet-gla-cliath",
+          "synset": {
+            "id": "omw-en-03496612-n",
+            "ili": "i54667",
+            "pos": "n",
+            "lemmas": [
+              "harrow"
+            ],
+            "definition": "a cultivator that pulverizes or smooths the soil"
+          }
+        },
+        {
+          "id": "unimet-gla-cliath-v01742415",
+          "lemma": "cliath",
+          "word_id": "unimet-gla-cliath",
+          "synset": {
+            "id": "omw-en-01742415-v",
+            "ili": "i30446",
+            "pos": "v",
+            "lemmas": [
+              "disk"
+            ],
+            "definition": "draw a harrow over (land)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-cliath-n03496612",
+          "lemma": "cliath",
+          "word_id": "unimet-gla-cliath",
+          "synset": {
+            "id": "omw-en-03496612-n",
+            "ili": "i54667",
+            "pos": "n",
+            "lemmas": [
+              "harrow"
+            ],
+            "definition": "a cultivator that pulverizes or smooths the soil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-cliath-v01742415",
+          "lemma": "cliath",
+          "word_id": "unimet-gla-cliath",
+          "synset": {
+            "id": "omw-en-01742415-v",
+            "ili": "i30446",
+            "pos": "v",
+            "lemmas": [
+              "disk"
+            ],
+            "definition": "draw a harrow over (land)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-cliath-n03496612::unimet-gla-cliath-v01742415": {
+          "source": "unimet-gla-cliath-n03496612",
+          "target": "unimet-gla-cliath-v01742415",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "coimhearsnachd",
+      "all_senses": [
+        {
+          "id": "unimet-gla-coimhearsnachd-n08223802",
+          "lemma": "coimhearsnachd",
+          "word_id": "unimet-gla-coimhearsnachd",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        },
+        {
+          "id": "unimet-gla-coimhearsnachd-n08553535",
+          "lemma": "coimhearsnachd",
+          "word_id": "unimet-gla-coimhearsnachd",
+          "synset": {
+            "id": "omw-en-08553535-n",
+            "ili": "i81927",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a district where people live; occupied primarily by private residences"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-coimhearsnachd-n08223802",
+          "lemma": "coimhearsnachd",
+          "word_id": "unimet-gla-coimhearsnachd",
+          "synset": {
+            "id": "omw-en-08223802-n",
+            "ili": "i80327",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a group of people living in a particular local area"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-coimhearsnachd-n08553535",
+          "lemma": "coimhearsnachd",
+          "word_id": "unimet-gla-coimhearsnachd",
+          "synset": {
+            "id": "omw-en-08553535-n",
+            "ili": "i81927",
+            "pos": "n",
+            "lemmas": [
+              "community"
+            ],
+            "definition": "a district where people live; occupied primarily by private residences"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-coimhearsnachd-n08223802::unimet-gla-coimhearsnachd-n08553535": {
+          "source": "unimet-gla-coimhearsnachd-n08223802",
+          "target": "unimet-gla-coimhearsnachd-n08553535",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "coineanach",
+      "all_senses": [
+        {
+          "id": "unimet-gla-coineanach-n02324045",
+          "lemma": "coineanach",
+          "word_id": "unimet-gla-coineanach",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        },
+        {
+          "id": "unimet-gla-coineanach-n14765324",
+          "lemma": "coineanach",
+          "word_id": "unimet-gla-coineanach",
+          "synset": {
+            "id": "omw-en-14765324-n",
+            "ili": "i114594",
+            "pos": "n",
+            "lemmas": [
+              "rabbit"
+            ],
+            "definition": "the fur of a rabbit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-coineanach-n02324045",
+          "lemma": "coineanach",
+          "word_id": "unimet-gla-coineanach",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-coineanach-n14765324",
+          "lemma": "coineanach",
+          "word_id": "unimet-gla-coineanach",
+          "synset": {
+            "id": "omw-en-14765324-n",
+            "ili": "i114594",
+            "pos": "n",
+            "lemmas": [
+              "rabbit"
+            ],
+            "definition": "the fur of a rabbit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-coineanach-n02324045::unimet-gla-coineanach-n14765324": {
+          "source": "unimet-gla-coineanach-n02324045",
+          "target": "unimet-gla-coineanach-n14765324",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "creach",
+      "all_senses": [
+        {
+          "id": "unimet-gla-creach-n14476290",
+          "lemma": "creach",
+          "word_id": "unimet-gla-creach",
+          "synset": {
+            "id": "omw-en-14476290-n",
+            "ili": "i113078",
+            "pos": "n",
+            "lemmas": [
+              "catastrophe"
+            ],
+            "definition": "a state of extreme (usually irremediable) ruin and misfortune"
+          }
+        },
+        {
+          "id": "unimet-gla-creach-v02558951",
+          "lemma": "creach",
+          "word_id": "unimet-gla-creach",
+          "synset": {
+            "id": "omw-en-02558951-v",
+            "ili": "i34485",
+            "pos": "v",
+            "lemmas": [
+              "ruin"
+            ],
+            "definition": "destroy or cause to fail"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-creach-v02558951",
+          "lemma": "creach",
+          "word_id": "unimet-gla-creach",
+          "synset": {
+            "id": "omw-en-02558951-v",
+            "ili": "i34485",
+            "pos": "v",
+            "lemmas": [
+              "ruin"
+            ],
+            "definition": "destroy or cause to fail"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-creach-n14476290",
+          "lemma": "creach",
+          "word_id": "unimet-gla-creach",
+          "synset": {
+            "id": "omw-en-14476290-n",
+            "ili": "i113078",
+            "pos": "n",
+            "lemmas": [
+              "catastrophe"
+            ],
+            "definition": "a state of extreme (usually irremediable) ruin and misfortune"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-creach-v02558951::unimet-gla-creach-n14476290": {
+          "source": "unimet-gla-creach-v02558951",
+          "target": "unimet-gla-creach-n14476290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cìr",
+      "all_senses": [
+        {
+          "id": "unimet-gla-cìr-n03075097",
+          "lemma": "cìr",
+          "word_id": "unimet-gla-cìr",
+          "synset": {
+            "id": "omw-en-03075097-n",
+            "ili": "i52195",
+            "pos": "n",
+            "lemmas": [
+              "comb"
+            ],
+            "definition": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair"
+          }
+        },
+        {
+          "id": "unimet-gla-cìr-v00038365",
+          "lemma": "cìr",
+          "word_id": "unimet-gla-cìr",
+          "synset": {
+            "id": "omw-en-00038365-v",
+            "ili": "i21958",
+            "pos": "v",
+            "lemmas": [
+              "disentangle"
+            ],
+            "definition": "smoothen and neaten with or as with a comb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-cìr-n03075097",
+          "lemma": "cìr",
+          "word_id": "unimet-gla-cìr",
+          "synset": {
+            "id": "omw-en-03075097-n",
+            "ili": "i52195",
+            "pos": "n",
+            "lemmas": [
+              "comb"
+            ],
+            "definition": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-cìr-v00038365",
+          "lemma": "cìr",
+          "word_id": "unimet-gla-cìr",
+          "synset": {
+            "id": "omw-en-00038365-v",
+            "ili": "i21958",
+            "pos": "v",
+            "lemmas": [
+              "disentangle"
+            ],
+            "definition": "smoothen and neaten with or as with a comb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-cìr-n03075097::unimet-gla-cìr-v00038365": {
+          "source": "unimet-gla-cìr-n03075097",
+          "target": "unimet-gla-cìr-v00038365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "doilgheas",
+      "all_senses": [
+        {
+          "id": "unimet-gla-doilgheas-n05833683",
+          "lemma": "doilgheas",
+          "word_id": "unimet-gla-doilgheas",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-gla-doilgheas-n07535532",
+          "lemma": "doilgheas",
+          "word_id": "unimet-gla-doilgheas",
+          "synset": {
+            "id": "omw-en-07535532-n",
+            "ili": "i76355",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "(poetry) painful grief"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-doilgheas-n07535532",
+          "lemma": "doilgheas",
+          "word_id": "unimet-gla-doilgheas",
+          "synset": {
+            "id": "omw-en-07535532-n",
+            "ili": "i76355",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "(poetry) painful grief"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-doilgheas-n05833683",
+          "lemma": "doilgheas",
+          "word_id": "unimet-gla-doilgheas",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-doilgheas-n07535532::unimet-gla-doilgheas-n05833683": {
+          "source": "unimet-gla-doilgheas-n07535532",
+          "target": "unimet-gla-doilgheas-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dòlas",
+      "all_senses": [
+        {
+          "id": "unimet-gla-dòlas-n05833683",
+          "lemma": "dòlas",
+          "word_id": "unimet-gla-dòlas",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-gla-dòlas-n07533877",
+          "lemma": "dòlas",
+          "word_id": "unimet-gla-dòlas",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-dòlas-n07533877",
+          "lemma": "dòlas",
+          "word_id": "unimet-gla-dòlas",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-dòlas-n05833683",
+          "lemma": "dòlas",
+          "word_id": "unimet-gla-dòlas",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-dòlas-n07533877::unimet-gla-dòlas-n05833683": {
+          "source": "unimet-gla-dòlas-n07533877",
+          "target": "unimet-gla-dòlas-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dùthaich",
+      "all_senses": [
+        {
+          "id": "unimet-gla-dùthaich-n08168978",
+          "lemma": "dùthaich",
+          "word_id": "unimet-gla-dùthaich",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-gla-dùthaich-n08544813",
+          "lemma": "dùthaich",
+          "word_id": "unimet-gla-dùthaich",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-dùthaich-n08168978",
+          "lemma": "dùthaich",
+          "word_id": "unimet-gla-dùthaich",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-dùthaich-n08544813",
+          "lemma": "dùthaich",
+          "word_id": "unimet-gla-dùthaich",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-dùthaich-n08168978::unimet-gla-dùthaich-n08544813": {
+          "source": "unimet-gla-dùthaich-n08168978",
+          "target": "unimet-gla-dùthaich-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fòn",
+      "all_senses": [
+        {
+          "id": "unimet-gla-fòn-n04401088",
+          "lemma": "fòn",
+          "word_id": "unimet-gla-fòn",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-gla-fòn-v00789448",
+          "lemma": "fòn",
+          "word_id": "unimet-gla-fòn",
+          "synset": {
+            "id": "omw-en-00789448-v",
+            "ili": "i25628",
+            "pos": "v",
+            "lemmas": [
+              "call"
+            ],
+            "definition": "get or try to get into communication (with someone) by telephone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-fòn-n04401088",
+          "lemma": "fòn",
+          "word_id": "unimet-gla-fòn",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-fòn-v00789448",
+          "lemma": "fòn",
+          "word_id": "unimet-gla-fòn",
+          "synset": {
+            "id": "omw-en-00789448-v",
+            "ili": "i25628",
+            "pos": "v",
+            "lemmas": [
+              "call"
+            ],
+            "definition": "get or try to get into communication (with someone) by telephone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-fòn-n04401088::unimet-gla-fòn-v00789448": {
+          "source": "unimet-gla-fòn-n04401088",
+          "target": "unimet-gla-fòn-v00789448",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glainne",
+      "all_senses": [
+        {
+          "id": "unimet-gla-glainne-n03438257",
+          "lemma": "glainne",
+          "word_id": "unimet-gla-glainne",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-gla-glainne-n04272054",
+          "lemma": "glainne",
+          "word_id": "unimet-gla-glainne",
+          "synset": {
+            "id": "omw-en-04272054-n",
+            "ili": "i59285",
+            "pos": "n",
+            "lemmas": [
+              "specs"
+            ],
+            "definition": "optical instrument consisting of a pair of lenses for correcting defective vision"
+          }
+        },
+        {
+          "id": "unimet-gla-glainne-n14881303",
+          "lemma": "glainne",
+          "word_id": "unimet-gla-glainne",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-glainne-n14881303",
+          "lemma": "glainne",
+          "word_id": "unimet-gla-glainne",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-glainne-n03438257",
+          "lemma": "glainne",
+          "word_id": "unimet-gla-glainne",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-gla-glainne-n04272054",
+          "lemma": "glainne",
+          "word_id": "unimet-gla-glainne",
+          "synset": {
+            "id": "omw-en-04272054-n",
+            "ili": "i59285",
+            "pos": "n",
+            "lemmas": [
+              "specs"
+            ],
+            "definition": "optical instrument consisting of a pair of lenses for correcting defective vision"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-glainne-n14881303::unimet-gla-glainne-n03438257": {
+          "source": "unimet-gla-glainne-n14881303",
+          "target": "unimet-gla-glainne-n03438257",
+          "type": "metonymy"
+        },
+        "unimet-gla-glainne-n14881303::unimet-gla-glainne-n04272054": {
+          "source": "unimet-gla-glainne-n14881303",
+          "target": "unimet-gla-glainne-n04272054",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-gla-glas-n03682487",
+          "lemma": "glas",
+          "word_id": "unimet-gla-glas",
+          "synset": {
+            "id": "omw-en-03682487-n",
+            "ili": "i55775",
+            "pos": "n",
+            "lemmas": [
+              "lock"
+            ],
+            "definition": "a fastener fitted to a door or drawer to keep it firmly closed"
+          }
+        },
+        {
+          "id": "unimet-gla-glas-v01348174",
+          "lemma": "glas",
+          "word_id": "unimet-gla-glas",
+          "synset": {
+            "id": "omw-en-01348174-v",
+            "ili": "i28433",
+            "pos": "v",
+            "lemmas": [
+              "lock"
+            ],
+            "definition": "fasten with a lock"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-glas-n03682487",
+          "lemma": "glas",
+          "word_id": "unimet-gla-glas",
+          "synset": {
+            "id": "omw-en-03682487-n",
+            "ili": "i55775",
+            "pos": "n",
+            "lemmas": [
+              "lock"
+            ],
+            "definition": "a fastener fitted to a door or drawer to keep it firmly closed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-glas-v01348174",
+          "lemma": "glas",
+          "word_id": "unimet-gla-glas",
+          "synset": {
+            "id": "omw-en-01348174-v",
+            "ili": "i28433",
+            "pos": "v",
+            "lemmas": [
+              "lock"
+            ],
+            "definition": "fasten with a lock"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-glas-n03682487::unimet-gla-glas-v01348174": {
+          "source": "unimet-gla-glas-n03682487",
+          "target": "unimet-gla-glas-v01348174",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "iarann",
+      "all_senses": [
+        {
+          "id": "unimet-gla-iarann-n03584829",
+          "lemma": "iarann",
+          "word_id": "unimet-gla-iarann",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        },
+        {
+          "id": "unimet-gla-iarann-n14642417",
+          "lemma": "iarann",
+          "word_id": "unimet-gla-iarann",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-iarann-n14642417",
+          "lemma": "iarann",
+          "word_id": "unimet-gla-iarann",
+          "synset": {
+            "id": "omw-en-14642417-n",
+            "ili": "i113955",
+            "pos": "n",
+            "lemmas": [
+              "iron"
+            ],
+            "definition": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-iarann-n03584829",
+          "lemma": "iarann",
+          "word_id": "unimet-gla-iarann",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-iarann-n14642417::unimet-gla-iarann-n03584829": {
+          "source": "unimet-gla-iarann-n14642417",
+          "target": "unimet-gla-iarann-n03584829",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lìomh",
+      "all_senses": [
+        {
+          "id": "unimet-gla-lìomh-n14996020",
+          "lemma": "lìomh",
+          "word_id": "unimet-gla-lìomh",
+          "synset": {
+            "id": "omw-en-14996020-n",
+            "ili": "i115948",
+            "pos": "n",
+            "lemmas": [
+              "polish"
+            ],
+            "definition": "a preparation used in polishing"
+          }
+        },
+        {
+          "id": "unimet-gla-lìomh-v00473799",
+          "lemma": "lìomh",
+          "word_id": "unimet-gla-lìomh",
+          "synset": {
+            "id": "omw-en-00473799-v",
+            "ili": "i24083",
+            "pos": "v",
+            "lemmas": [
+              "round off"
+            ],
+            "definition": "bring to a highly developed, finished, or refined state"
+          }
+        },
+        {
+          "id": "unimet-gla-lìomh-v01245637",
+          "lemma": "lìomh",
+          "word_id": "unimet-gla-lìomh",
+          "synset": {
+            "id": "omw-en-01245637-v",
+            "ili": "i27863",
+            "pos": "v",
+            "lemmas": [
+              "polish"
+            ],
+            "definition": "make (a surface) shine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-lìomh-v00473799",
+          "lemma": "lìomh",
+          "word_id": "unimet-gla-lìomh",
+          "synset": {
+            "id": "omw-en-00473799-v",
+            "ili": "i24083",
+            "pos": "v",
+            "lemmas": [
+              "round off"
+            ],
+            "definition": "bring to a highly developed, finished, or refined state"
+          }
+        },
+        {
+          "id": "unimet-gla-lìomh-v01245637",
+          "lemma": "lìomh",
+          "word_id": "unimet-gla-lìomh",
+          "synset": {
+            "id": "omw-en-01245637-v",
+            "ili": "i27863",
+            "pos": "v",
+            "lemmas": [
+              "polish"
+            ],
+            "definition": "make (a surface) shine"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-lìomh-n14996020",
+          "lemma": "lìomh",
+          "word_id": "unimet-gla-lìomh",
+          "synset": {
+            "id": "omw-en-14996020-n",
+            "ili": "i115948",
+            "pos": "n",
+            "lemmas": [
+              "polish"
+            ],
+            "definition": "a preparation used in polishing"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-lìomh-v00473799::unimet-gla-lìomh-n14996020": {
+          "source": "unimet-gla-lìomh-v00473799",
+          "target": "unimet-gla-lìomh-n14996020",
+          "type": "metonymy"
+        },
+        "unimet-gla-lìomh-v01245637::unimet-gla-lìomh-n14996020": {
+          "source": "unimet-gla-lìomh-v01245637",
+          "target": "unimet-gla-lìomh-n14996020",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mulad",
+      "all_senses": [
+        {
+          "id": "unimet-gla-mulad-n05833683",
+          "lemma": "mulad",
+          "word_id": "unimet-gla-mulad",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-gla-mulad-n07533877",
+          "lemma": "mulad",
+          "word_id": "unimet-gla-mulad",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-mulad-n07533877",
+          "lemma": "mulad",
+          "word_id": "unimet-gla-mulad",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-mulad-n05833683",
+          "lemma": "mulad",
+          "word_id": "unimet-gla-mulad",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-mulad-n07533877::unimet-gla-mulad-n05833683": {
+          "source": "unimet-gla-mulad-n07533877",
+          "target": "unimet-gla-mulad-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mèinn",
+      "all_senses": [
+        {
+          "id": "unimet-gla-mèinn-n03768346",
+          "lemma": "mèinn",
+          "word_id": "unimet-gla-mèinn",
+          "synset": {
+            "id": "omw-en-03768346-n",
+            "ili": "i56262",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "excavation in the earth from which ores and minerals are extracted"
+          }
+        },
+        {
+          "id": "unimet-gla-mèinn-v01163620",
+          "lemma": "mèinn",
+          "word_id": "unimet-gla-mèinn",
+          "synset": {
+            "id": "omw-en-01163620-v",
+            "ili": "i27437",
+            "pos": "v",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "get from the earth by excavation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-mèinn-n03768346",
+          "lemma": "mèinn",
+          "word_id": "unimet-gla-mèinn",
+          "synset": {
+            "id": "omw-en-03768346-n",
+            "ili": "i56262",
+            "pos": "n",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "excavation in the earth from which ores and minerals are extracted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-mèinn-v01163620",
+          "lemma": "mèinn",
+          "word_id": "unimet-gla-mèinn",
+          "synset": {
+            "id": "omw-en-01163620-v",
+            "ili": "i27437",
+            "pos": "v",
+            "lemmas": [
+              "mine"
+            ],
+            "definition": "get from the earth by excavation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-mèinn-n03768346::unimet-gla-mèinn-v01163620": {
+          "source": "unimet-gla-mèinn-n03768346",
+          "target": "unimet-gla-mèinn-v01163620",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "paraiste",
+      "all_senses": [
+        {
+          "id": "unimet-gla-paraiste-n08223688",
+          "lemma": "paraiste",
+          "word_id": "unimet-gla-paraiste",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        },
+        {
+          "id": "unimet-gla-paraiste-n08615001",
+          "lemma": "paraiste",
+          "word_id": "unimet-gla-paraiste",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-paraiste-n08223688",
+          "lemma": "paraiste",
+          "word_id": "unimet-gla-paraiste",
+          "synset": {
+            "id": "omw-en-08223688-n",
+            "ili": "i80326",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "a local church community"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-paraiste-n08615001",
+          "lemma": "paraiste",
+          "word_id": "unimet-gla-paraiste",
+          "synset": {
+            "id": "omw-en-08615001-n",
+            "ili": "i82258",
+            "pos": "n",
+            "lemmas": [
+              "parish"
+            ],
+            "definition": "the local subdivision of a diocese committed to one pastor"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-paraiste-n08223688::unimet-gla-paraiste-n08615001": {
+          "source": "unimet-gla-paraiste-n08223688",
+          "target": "unimet-gla-paraiste-n08615001",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "peur",
+      "all_senses": [
+        {
+          "id": "unimet-gla-peur-n07767847",
+          "lemma": "peur",
+          "word_id": "unimet-gla-peur",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-gla-peur-n12651611",
+          "lemma": "peur",
+          "word_id": "unimet-gla-peur",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-peur-n07767847",
+          "lemma": "peur",
+          "word_id": "unimet-gla-peur",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-peur-n12651611",
+          "lemma": "peur",
+          "word_id": "unimet-gla-peur",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-peur-n07767847::unimet-gla-peur-n12651611": {
+          "source": "unimet-gla-peur-n07767847",
+          "target": "unimet-gla-peur-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "plumas",
+      "all_senses": [
+        {
+          "id": "unimet-gla-plumas-n07751451",
+          "lemma": "plumas",
+          "word_id": "unimet-gla-plumas",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-gla-plumas-n12638218",
+          "lemma": "plumas",
+          "word_id": "unimet-gla-plumas",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-plumas-n07751451",
+          "lemma": "plumas",
+          "word_id": "unimet-gla-plumas",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-plumas-n12638218",
+          "lemma": "plumas",
+          "word_id": "unimet-gla-plumas",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-plumas-n07751451::unimet-gla-plumas-n12638218": {
+          "source": "unimet-gla-plumas-n07751451",
+          "target": "unimet-gla-plumas-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "poca",
+      "all_senses": [
+        {
+          "id": "unimet-gla-poca-n02773037",
+          "lemma": "poca",
+          "word_id": "unimet-gla-poca",
+          "synset": {
+            "id": "omw-en-02773037-n",
+            "ili": "i50359",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a flexible container with a single opening"
+          }
+        },
+        {
+          "id": "unimet-gla-poca-n13769206",
+          "lemma": "poca",
+          "word_id": "unimet-gla-poca",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-poca-n02773037",
+          "lemma": "poca",
+          "word_id": "unimet-gla-poca",
+          "synset": {
+            "id": "omw-en-02773037-n",
+            "ili": "i50359",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a flexible container with a single opening"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-poca-n13769206",
+          "lemma": "poca",
+          "word_id": "unimet-gla-poca",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-poca-n02773037::unimet-gla-poca-n13769206": {
+          "source": "unimet-gla-poca-n02773037",
+          "target": "unimet-gla-poca-n13769206",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pònair",
+      "all_senses": [
+        {
+          "id": "unimet-gla-pònair-n07724943",
+          "lemma": "pònair",
+          "word_id": "unimet-gla-pònair",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        },
+        {
+          "id": "unimet-gla-pònair-n12556307",
+          "lemma": "pònair",
+          "word_id": "unimet-gla-pònair",
+          "synset": {
+            "id": "omw-en-12556307-n",
+            "ili": "i102888",
+            "pos": "n",
+            "lemmas": [
+              "bean plant"
+            ],
+            "definition": "any of various leguminous plants grown for their edible seeds and pods"
+          }
+        },
+        {
+          "id": "unimet-gla-pònair-n13136316",
+          "lemma": "pònair",
+          "word_id": "unimet-gla-pònair",
+          "synset": {
+            "id": "omw-en-13136316-n",
+            "ili": "i105679",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various seeds or fruits that are beans or resemble beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-pònair-n12556307",
+          "lemma": "pònair",
+          "word_id": "unimet-gla-pònair",
+          "synset": {
+            "id": "omw-en-12556307-n",
+            "ili": "i102888",
+            "pos": "n",
+            "lemmas": [
+              "bean plant"
+            ],
+            "definition": "any of various leguminous plants grown for their edible seeds and pods"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-pònair-n07724943",
+          "lemma": "pònair",
+          "word_id": "unimet-gla-pònair",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        },
+        {
+          "id": "unimet-gla-pònair-n13136316",
+          "lemma": "pònair",
+          "word_id": "unimet-gla-pònair",
+          "synset": {
+            "id": "omw-en-13136316-n",
+            "ili": "i105679",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various seeds or fruits that are beans or resemble beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-pònair-n12556307::unimet-gla-pònair-n07724943": {
+          "source": "unimet-gla-pònair-n12556307",
+          "target": "unimet-gla-pònair-n07724943",
+          "type": "metonymy"
+        },
+        "unimet-gla-pònair-n12556307::unimet-gla-pònair-n13136316": {
+          "source": "unimet-gla-pònair-n12556307",
+          "target": "unimet-gla-pònair-n13136316",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "rabaid",
+      "all_senses": [
+        {
+          "id": "unimet-gla-rabaid-n02324045",
+          "lemma": "rabaid",
+          "word_id": "unimet-gla-rabaid",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        },
+        {
+          "id": "unimet-gla-rabaid-n14765324",
+          "lemma": "rabaid",
+          "word_id": "unimet-gla-rabaid",
+          "synset": {
+            "id": "omw-en-14765324-n",
+            "ili": "i114594",
+            "pos": "n",
+            "lemmas": [
+              "rabbit"
+            ],
+            "definition": "the fur of a rabbit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-rabaid-n02324045",
+          "lemma": "rabaid",
+          "word_id": "unimet-gla-rabaid",
+          "synset": {
+            "id": "omw-en-02324045-n",
+            "ili": "i47766",
+            "pos": "n",
+            "lemmas": [
+              "cony"
+            ],
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-rabaid-n14765324",
+          "lemma": "rabaid",
+          "word_id": "unimet-gla-rabaid",
+          "synset": {
+            "id": "omw-en-14765324-n",
+            "ili": "i114594",
+            "pos": "n",
+            "lemmas": [
+              "rabbit"
+            ],
+            "definition": "the fur of a rabbit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-rabaid-n02324045::unimet-gla-rabaid-n14765324": {
+          "source": "unimet-gla-rabaid-n02324045",
+          "target": "unimet-gla-rabaid-n14765324",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "rìoghachd",
+      "all_senses": [
+        {
+          "id": "unimet-gla-rìoghachd-n08405603",
+          "lemma": "rìoghachd",
+          "word_id": "unimet-gla-rìoghachd",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-gla-rìoghachd-n08558155",
+          "lemma": "rìoghachd",
+          "word_id": "unimet-gla-rìoghachd",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-rìoghachd-n08405603",
+          "lemma": "rìoghachd",
+          "word_id": "unimet-gla-rìoghachd",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-rìoghachd-n08558155",
+          "lemma": "rìoghachd",
+          "word_id": "unimet-gla-rìoghachd",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-rìoghachd-n08405603::unimet-gla-rìoghachd-n08558155": {
+          "source": "unimet-gla-rìoghachd-n08405603",
+          "target": "unimet-gla-rìoghachd-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "seòl",
+      "all_senses": [
+        {
+          "id": "unimet-gla-seòl-n04128413",
+          "lemma": "seòl",
+          "word_id": "unimet-gla-seòl",
+          "synset": {
+            "id": "omw-en-04128413-n",
+            "ili": "i58404",
+            "pos": "n",
+            "lemmas": [
+              "canvas"
+            ],
+            "definition": "a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel"
+          }
+        },
+        {
+          "id": "unimet-gla-seòl-v01945516",
+          "lemma": "seòl",
+          "word_id": "unimet-gla-seòl",
+          "synset": {
+            "id": "omw-en-01945516-v",
+            "ili": "i31452",
+            "pos": "v",
+            "lemmas": [
+              "sail"
+            ],
+            "definition": "travel in a boat propelled by wind"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-seòl-v01945516",
+          "lemma": "seòl",
+          "word_id": "unimet-gla-seòl",
+          "synset": {
+            "id": "omw-en-01945516-v",
+            "ili": "i31452",
+            "pos": "v",
+            "lemmas": [
+              "sail"
+            ],
+            "definition": "travel in a boat propelled by wind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-seòl-n04128413",
+          "lemma": "seòl",
+          "word_id": "unimet-gla-seòl",
+          "synset": {
+            "id": "omw-en-04128413-n",
+            "ili": "i58404",
+            "pos": "n",
+            "lemmas": [
+              "canvas"
+            ],
+            "definition": "a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-seòl-v01945516::unimet-gla-seòl-n04128413": {
+          "source": "unimet-gla-seòl-v01945516",
+          "target": "unimet-gla-seòl-n04128413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sgoil",
+      "all_senses": [
+        {
+          "id": "unimet-gla-sgoil-n04146050",
+          "lemma": "sgoil",
+          "word_id": "unimet-gla-sgoil",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-gla-sgoil-n08276720",
+          "lemma": "sgoil",
+          "word_id": "unimet-gla-sgoil",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-sgoil-n04146050",
+          "lemma": "sgoil",
+          "word_id": "unimet-gla-sgoil",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-sgoil-n08276720",
+          "lemma": "sgoil",
+          "word_id": "unimet-gla-sgoil",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-sgoil-n04146050::unimet-gla-sgoil-n08276720": {
+          "source": "unimet-gla-sgoil-n04146050",
+          "target": "unimet-gla-sgoil-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sguab",
+      "all_senses": [
+        {
+          "id": "unimet-gla-sguab-n02908217",
+          "lemma": "sguab",
+          "word_id": "unimet-gla-sguab",
+          "synset": {
+            "id": "omw-en-02908217-n",
+            "ili": "i51192",
+            "pos": "n",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "an implement that has hairs or bristles firmly set into a handle"
+          }
+        },
+        {
+          "id": "unimet-gla-sguab-v01243809",
+          "lemma": "sguab",
+          "word_id": "unimet-gla-sguab",
+          "synset": {
+            "id": "omw-en-01243809-v",
+            "ili": "i27852",
+            "pos": "v",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "rub with a brush, or as if with a brush"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-sguab-n02908217",
+          "lemma": "sguab",
+          "word_id": "unimet-gla-sguab",
+          "synset": {
+            "id": "omw-en-02908217-n",
+            "ili": "i51192",
+            "pos": "n",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "an implement that has hairs or bristles firmly set into a handle"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-sguab-v01243809",
+          "lemma": "sguab",
+          "word_id": "unimet-gla-sguab",
+          "synset": {
+            "id": "omw-en-01243809-v",
+            "ili": "i27852",
+            "pos": "v",
+            "lemmas": [
+              "brush"
+            ],
+            "definition": "rub with a brush, or as if with a brush"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-sguab-n02908217::unimet-gla-sguab-v01243809": {
+          "source": "unimet-gla-sguab-n02908217",
+          "target": "unimet-gla-sguab-v01243809",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sitheann",
+      "all_senses": [
+        {
+          "id": "unimet-gla-sitheann-n02152991",
+          "lemma": "sitheann",
+          "word_id": "unimet-gla-sitheann",
+          "synset": {
+            "id": "omw-en-02152991-n",
+            "ili": "i46782",
+            "pos": "n",
+            "lemmas": [
+              "game"
+            ],
+            "definition": "animal hunted for food or sport"
+          }
+        },
+        {
+          "id": "unimet-gla-sitheann-n07653311",
+          "lemma": "sitheann",
+          "word_id": "unimet-gla-sitheann",
+          "synset": {
+            "id": "omw-en-07653311-n",
+            "ili": "i77124",
+            "pos": "n",
+            "lemmas": [
+              "venison"
+            ],
+            "definition": "meat from a deer used as food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-sitheann-n02152991",
+          "lemma": "sitheann",
+          "word_id": "unimet-gla-sitheann",
+          "synset": {
+            "id": "omw-en-02152991-n",
+            "ili": "i46782",
+            "pos": "n",
+            "lemmas": [
+              "game"
+            ],
+            "definition": "animal hunted for food or sport"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-sitheann-n07653311",
+          "lemma": "sitheann",
+          "word_id": "unimet-gla-sitheann",
+          "synset": {
+            "id": "omw-en-07653311-n",
+            "ili": "i77124",
+            "pos": "n",
+            "lemmas": [
+              "venison"
+            ],
+            "definition": "meat from a deer used as food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-sitheann-n02152991::unimet-gla-sitheann-n07653311": {
+          "source": "unimet-gla-sitheann-n02152991",
+          "target": "unimet-gla-sitheann-n07653311",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sogan",
+      "all_senses": [
+        {
+          "id": "unimet-gla-sogan-n05829782",
+          "lemma": "sogan",
+          "word_id": "unimet-gla-sogan",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        },
+        {
+          "id": "unimet-gla-sogan-n07527352",
+          "lemma": "sogan",
+          "word_id": "unimet-gla-sogan",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        },
+        {
+          "id": "unimet-gla-sogan-n07529377",
+          "lemma": "sogan",
+          "word_id": "unimet-gla-sogan",
+          "synset": {
+            "id": "omw-en-07529377-n",
+            "ili": "i76320",
+            "pos": "n",
+            "lemmas": [
+              "merriment"
+            ],
+            "definition": "great merriment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-sogan-n07527352",
+          "lemma": "sogan",
+          "word_id": "unimet-gla-sogan",
+          "synset": {
+            "id": "omw-en-07527352-n",
+            "ili": "i76310",
+            "pos": "n",
+            "lemmas": [
+              "joyfulness"
+            ],
+            "definition": "the emotion of great happiness"
+          }
+        },
+        {
+          "id": "unimet-gla-sogan-n07529377",
+          "lemma": "sogan",
+          "word_id": "unimet-gla-sogan",
+          "synset": {
+            "id": "omw-en-07529377-n",
+            "ili": "i76320",
+            "pos": "n",
+            "lemmas": [
+              "merriment"
+            ],
+            "definition": "great merriment"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-sogan-n05829782",
+          "lemma": "sogan",
+          "word_id": "unimet-gla-sogan",
+          "synset": {
+            "id": "omw-en-05829782-n",
+            "ili": "i67515",
+            "pos": "n",
+            "lemmas": [
+              "pleasure"
+            ],
+            "definition": "something or someone that provides pleasure; a source of happiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-sogan-n07527352::unimet-gla-sogan-n05829782": {
+          "source": "unimet-gla-sogan-n07527352",
+          "target": "unimet-gla-sogan-n05829782",
+          "type": "metonymy"
+        },
+        "unimet-gla-sogan-n07529377::unimet-gla-sogan-n05829782": {
+          "source": "unimet-gla-sogan-n07529377",
+          "target": "unimet-gla-sogan-n05829782",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "soilire",
+      "all_senses": [
+        {
+          "id": "unimet-gla-soilire-n07730406",
+          "lemma": "soilire",
+          "word_id": "unimet-gla-soilire",
+          "synset": {
+            "id": "omw-en-07730406-n",
+            "ili": "i77650",
+            "pos": "n",
+            "lemmas": [
+              "celery"
+            ],
+            "definition": "stalks eaten raw or cooked or used as seasoning"
+          }
+        },
+        {
+          "id": "unimet-gla-soilire-n12933403",
+          "lemma": "soilire",
+          "word_id": "unimet-gla-soilire",
+          "synset": {
+            "id": "omw-en-12933403-n",
+            "ili": "i104723",
+            "pos": "n",
+            "lemmas": [
+              "cultivated celery"
+            ],
+            "definition": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-soilire-n12933403",
+          "lemma": "soilire",
+          "word_id": "unimet-gla-soilire",
+          "synset": {
+            "id": "omw-en-12933403-n",
+            "ili": "i104723",
+            "pos": "n",
+            "lemmas": [
+              "cultivated celery"
+            ],
+            "definition": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-soilire-n07730406",
+          "lemma": "soilire",
+          "word_id": "unimet-gla-soilire",
+          "synset": {
+            "id": "omw-en-07730406-n",
+            "ili": "i77650",
+            "pos": "n",
+            "lemmas": [
+              "celery"
+            ],
+            "definition": "stalks eaten raw or cooked or used as seasoning"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-soilire-n12933403::unimet-gla-soilire-n07730406": {
+          "source": "unimet-gla-soilire-n12933403",
+          "target": "unimet-gla-soilire-n07730406",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stàit",
+      "all_senses": [
+        {
+          "id": "unimet-gla-stàit-n08178547",
+          "lemma": "stàit",
+          "word_id": "unimet-gla-stàit",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-gla-stàit-n08654360",
+          "lemma": "stàit",
+          "word_id": "unimet-gla-stàit",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-stàit-n08178547",
+          "lemma": "stàit",
+          "word_id": "unimet-gla-stàit",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-stàit-n08654360",
+          "lemma": "stàit",
+          "word_id": "unimet-gla-stàit",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-stàit-n08178547::unimet-gla-stàit-n08654360": {
+          "source": "unimet-gla-stàit-n08178547",
+          "target": "unimet-gla-stàit-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "talamh",
+      "all_senses": [
+        {
+          "id": "unimet-gla-talamh-n08168978",
+          "lemma": "talamh",
+          "word_id": "unimet-gla-talamh",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-gla-talamh-n08493064",
+          "lemma": "talamh",
+          "word_id": "unimet-gla-talamh",
+          "synset": {
+            "id": "omw-en-08493064-n",
+            "ili": "i81687",
+            "pos": "n",
+            "lemmas": [
+              "soil"
+            ],
+            "definition": "the geographical area under the jurisdiction of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-gla-talamh-n08544813",
+          "lemma": "talamh",
+          "word_id": "unimet-gla-talamh",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-talamh-n08168978",
+          "lemma": "talamh",
+          "word_id": "unimet-gla-talamh",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-talamh-n08493064",
+          "lemma": "talamh",
+          "word_id": "unimet-gla-talamh",
+          "synset": {
+            "id": "omw-en-08493064-n",
+            "ili": "i81687",
+            "pos": "n",
+            "lemmas": [
+              "soil"
+            ],
+            "definition": "the geographical area under the jurisdiction of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-gla-talamh-n08544813",
+          "lemma": "talamh",
+          "word_id": "unimet-gla-talamh",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-talamh-n08168978::unimet-gla-talamh-n08493064": {
+          "source": "unimet-gla-talamh-n08168978",
+          "target": "unimet-gla-talamh-n08493064",
+          "type": "metonymy"
+        },
+        "unimet-gla-talamh-n08168978::unimet-gla-talamh-n08544813": {
+          "source": "unimet-gla-talamh-n08168978",
+          "target": "unimet-gla-talamh-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "toll",
+      "all_senses": [
+        {
+          "id": "unimet-gla-toll-n04024396",
+          "lemma": "toll",
+          "word_id": "unimet-gla-toll",
+          "synset": {
+            "id": "omw-en-04024396-n",
+            "ili": "i57780",
+            "pos": "n",
+            "lemmas": [
+              "puncture"
+            ],
+            "definition": "a small hole made by a sharp object"
+          }
+        },
+        {
+          "id": "unimet-gla-toll-v01275182",
+          "lemma": "toll",
+          "word_id": "unimet-gla-toll",
+          "synset": {
+            "id": "omw-en-01275182-v",
+            "ili": "i28038",
+            "pos": "v",
+            "lemmas": [
+              "puncture"
+            ],
+            "definition": "make by piercing"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-toll-n04024396",
+          "lemma": "toll",
+          "word_id": "unimet-gla-toll",
+          "synset": {
+            "id": "omw-en-04024396-n",
+            "ili": "i57780",
+            "pos": "n",
+            "lemmas": [
+              "puncture"
+            ],
+            "definition": "a small hole made by a sharp object"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-toll-v01275182",
+          "lemma": "toll",
+          "word_id": "unimet-gla-toll",
+          "synset": {
+            "id": "omw-en-01275182-v",
+            "ili": "i28038",
+            "pos": "v",
+            "lemmas": [
+              "puncture"
+            ],
+            "definition": "make by piercing"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-toll-n04024396::unimet-gla-toll-v01275182": {
+          "source": "unimet-gla-toll-n04024396",
+          "target": "unimet-gla-toll-v01275182",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tìr",
+      "all_senses": [
+        {
+          "id": "unimet-gla-tìr-n08168978",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08493064",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08493064-n",
+            "ili": "i81687",
+            "pos": "n",
+            "lemmas": [
+              "soil"
+            ],
+            "definition": "the geographical area under the jurisdiction of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08497294",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08544813",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08556491",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08556491-n",
+            "ili": "i81945",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "territory over which rule or control is exercised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-tìr-n08168978",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-tìr-n08493064",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08493064-n",
+            "ili": "i81687",
+            "pos": "n",
+            "lemmas": [
+              "soil"
+            ],
+            "definition": "the geographical area under the jurisdiction of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08497294",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08497294-n",
+            "ili": "i81710",
+            "pos": "n",
+            "lemmas": [
+              "area"
+            ],
+            "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08544813",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-gla-tìr-n08556491",
+          "lemma": "tìr",
+          "word_id": "unimet-gla-tìr",
+          "synset": {
+            "id": "omw-en-08556491-n",
+            "ili": "i81945",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "territory over which rule or control is exercised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-tìr-n08168978::unimet-gla-tìr-n08493064": {
+          "source": "unimet-gla-tìr-n08168978",
+          "target": "unimet-gla-tìr-n08493064",
+          "type": "metonymy"
+        },
+        "unimet-gla-tìr-n08168978::unimet-gla-tìr-n08497294": {
+          "source": "unimet-gla-tìr-n08168978",
+          "target": "unimet-gla-tìr-n08497294",
+          "type": "metonymy"
+        },
+        "unimet-gla-tìr-n08168978::unimet-gla-tìr-n08544813": {
+          "source": "unimet-gla-tìr-n08168978",
+          "target": "unimet-gla-tìr-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-gla-tìr-n08168978::unimet-gla-tìr-n08556491": {
+          "source": "unimet-gla-tìr-n08168978",
+          "target": "unimet-gla-tìr-n08556491",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ìmpireachd",
+      "all_senses": [
+        {
+          "id": "unimet-gla-ìmpireachd-n08052413",
+          "lemma": "ìmpireachd",
+          "word_id": "unimet-gla-ìmpireachd",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-gla-ìmpireachd-n08405723",
+          "lemma": "ìmpireachd",
+          "word_id": "unimet-gla-ìmpireachd",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        },
+        {
+          "id": "unimet-gla-ìmpireachd-n08557482",
+          "lemma": "ìmpireachd",
+          "word_id": "unimet-gla-ìmpireachd",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-gla-ìmpireachd-n08052413",
+          "lemma": "ìmpireachd",
+          "word_id": "unimet-gla-ìmpireachd",
+          "synset": {
+            "id": "omw-en-08052413-n",
+            "ili": "i79524",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a group of countries under a single authority"
+          }
+        },
+        {
+          "id": "unimet-gla-ìmpireachd-n08405723",
+          "lemma": "ìmpireachd",
+          "word_id": "unimet-gla-ìmpireachd",
+          "synset": {
+            "id": "omw-en-08405723-n",
+            "ili": "i81274",
+            "pos": "n",
+            "lemmas": [
+              "empire"
+            ],
+            "definition": "a monarchy with an emperor as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-gla-ìmpireachd-n08557482",
+          "lemma": "ìmpireachd",
+          "word_id": "unimet-gla-ìmpireachd",
+          "synset": {
+            "id": "omw-en-08557482-n",
+            "ili": "i81951",
+            "pos": "n",
+            "lemmas": [
+              "imperium"
+            ],
+            "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+          }
+        }
+      ],
+      "links": {
+        "unimet-gla-ìmpireachd-n08052413::unimet-gla-ìmpireachd-n08557482": {
+          "source": "unimet-gla-ìmpireachd-n08052413",
+          "target": "unimet-gla-ìmpireachd-n08557482",
+          "type": "metonymy"
+        },
+        "unimet-gla-ìmpireachd-n08405723::unimet-gla-ìmpireachd-n08557482": {
+          "source": "unimet-gla-ìmpireachd-n08405723",
+          "target": "unimet-gla-ìmpireachd-n08557482",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "9e3e11fb72ab23c3",
+  "name": "unimet-Kazakh",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kaz",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ауыл",
+      "all_senses": [
+        {
+          "id": "unimet-kaz-ауыл-n08226699",
+          "lemma": "ауыл",
+          "word_id": "unimet-kaz-ауыл",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-kaz-ауыл-n08672738",
+          "lemma": "ауыл",
+          "word_id": "unimet-kaz-ауыл",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kaz-ауыл-n08226699",
+          "lemma": "ауыл",
+          "word_id": "unimet-kaz-ауыл",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kaz-ауыл-n08672738",
+          "lemma": "ауыл",
+          "word_id": "unimet-kaz-ауыл",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kaz-ауыл-n08226699::unimet-kaz-ауыл-n08672738": {
+          "source": "unimet-kaz-ауыл-n08226699",
+          "target": "unimet-kaz-ауыл-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "жүн",
+      "all_senses": [
+        {
+          "id": "unimet-kaz-жүн-n04599235",
+          "lemma": "жүн",
+          "word_id": "unimet-kaz-жүн",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-kaz-жүн-n15104217",
+          "lemma": "жүн",
+          "word_id": "unimet-kaz-жүн",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kaz-жүн-n15104217",
+          "lemma": "жүн",
+          "word_id": "unimet-kaz-жүн",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kaz-жүн-n04599235",
+          "lemma": "жүн",
+          "word_id": "unimet-kaz-жүн",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kaz-жүн-n15104217::unimet-kaz-жүн-n04599235": {
+          "source": "unimet-kaz-жүн-n15104217",
+          "target": "unimet-kaz-жүн-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

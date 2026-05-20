@@ -1,0 +1,353 @@
+{
+  "id": "7c9a503dd19260a9",
+  "name": "unimet-Tok Pisin",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tpi",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "guria",
+      "all_senses": [
+        {
+          "id": "unimet-tpi-guria-n14004572",
+          "lemma": "guria",
+          "word_id": "unimet-tpi-guria",
+          "synset": {
+            "id": "omw-en-14004572-n",
+            "ili": "i110531",
+            "pos": "n",
+            "lemmas": [
+              "quivering"
+            ],
+            "definition": "a shaky motion"
+          }
+        },
+        {
+          "id": "unimet-tpi-guria-v01891638",
+          "lemma": "guria",
+          "word_id": "unimet-tpi-guria",
+          "synset": {
+            "id": "omw-en-01891638-v",
+            "ili": "i31163",
+            "pos": "v",
+            "lemmas": [
+              "judder"
+            ],
+            "definition": "shake or vibrate rapidly and intensively"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tpi-guria-v01891638",
+          "lemma": "guria",
+          "word_id": "unimet-tpi-guria",
+          "synset": {
+            "id": "omw-en-01891638-v",
+            "ili": "i31163",
+            "pos": "v",
+            "lemmas": [
+              "judder"
+            ],
+            "definition": "shake or vibrate rapidly and intensively"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tpi-guria-n14004572",
+          "lemma": "guria",
+          "word_id": "unimet-tpi-guria",
+          "synset": {
+            "id": "omw-en-14004572-n",
+            "ili": "i110531",
+            "pos": "n",
+            "lemmas": [
+              "quivering"
+            ],
+            "definition": "a shaky motion"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tpi-guria-v01891638::unimet-tpi-guria-n14004572": {
+          "source": "unimet-tpi-guria-v01891638",
+          "target": "unimet-tpi-guria-n14004572",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kantri",
+      "all_senses": [
+        {
+          "id": "unimet-tpi-kantri-n08168978",
+          "lemma": "kantri",
+          "word_id": "unimet-tpi-kantri",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-tpi-kantri-n08178547",
+          "lemma": "kantri",
+          "word_id": "unimet-tpi-kantri",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-tpi-kantri-n08544813",
+          "lemma": "kantri",
+          "word_id": "unimet-tpi-kantri",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tpi-kantri-n08168978",
+          "lemma": "kantri",
+          "word_id": "unimet-tpi-kantri",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-tpi-kantri-n08178547",
+          "lemma": "kantri",
+          "word_id": "unimet-tpi-kantri",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tpi-kantri-n08544813",
+          "lemma": "kantri",
+          "word_id": "unimet-tpi-kantri",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tpi-kantri-n08168978::unimet-tpi-kantri-n08544813": {
+          "source": "unimet-tpi-kantri-n08168978",
+          "target": "unimet-tpi-kantri-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-tpi-kantri-n08178547::unimet-tpi-kantri-n08544813": {
+          "source": "unimet-tpi-kantri-n08178547",
+          "target": "unimet-tpi-kantri-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pukpuk",
+      "all_senses": [
+        {
+          "id": "unimet-tpi-pukpuk-n01697178",
+          "lemma": "pukpuk",
+          "word_id": "unimet-tpi-pukpuk",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        },
+        {
+          "id": "unimet-tpi-pukpuk-n14760447",
+          "lemma": "pukpuk",
+          "word_id": "unimet-tpi-pukpuk",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tpi-pukpuk-n01697178",
+          "lemma": "pukpuk",
+          "word_id": "unimet-tpi-pukpuk",
+          "synset": {
+            "id": "omw-en-01697178-n",
+            "ili": "i44226",
+            "pos": "n",
+            "lemmas": [
+              "crocodile"
+            ],
+            "definition": "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tpi-pukpuk-n14760447",
+          "lemma": "pukpuk",
+          "word_id": "unimet-tpi-pukpuk",
+          "synset": {
+            "id": "omw-en-14760447-n",
+            "ili": "i114556",
+            "pos": "n",
+            "lemmas": [
+              "alligator"
+            ],
+            "definition": "leather made from alligator's hide"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tpi-pukpuk-n01697178::unimet-tpi-pukpuk-n14760447": {
+          "source": "unimet-tpi-pukpuk-n01697178",
+          "target": "unimet-tpi-pukpuk-n14760447",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tin",
+      "all_senses": [
+        {
+          "id": "unimet-tpi-tin-n04438897",
+          "lemma": "tin",
+          "word_id": "unimet-tpi-tin",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        },
+        {
+          "id": "unimet-tpi-tin-n14658855",
+          "lemma": "tin",
+          "word_id": "unimet-tpi-tin",
+          "synset": {
+            "id": "omw-en-14658855-n",
+            "ili": "i114019",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 50"
+            ],
+            "definition": "a silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tpi-tin-n14658855",
+          "lemma": "tin",
+          "word_id": "unimet-tpi-tin",
+          "synset": {
+            "id": "omw-en-14658855-n",
+            "ili": "i114019",
+            "pos": "n",
+            "lemmas": [
+              "atomic number 50"
+            ],
+            "definition": "a silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tpi-tin-n04438897",
+          "lemma": "tin",
+          "word_id": "unimet-tpi-tin",
+          "synset": {
+            "id": "omw-en-04438897-n",
+            "ili": "i60286",
+            "pos": "n",
+            "lemmas": [
+              "can"
+            ],
+            "definition": "airtight sealed metal container for food or drink or paint etc."
+          }
+        }
+      ],
+      "links": {
+        "unimet-tpi-tin-n14658855::unimet-tpi-tin-n04438897": {
+          "source": "unimet-tpi-tin-n14658855",
+          "target": "unimet-tpi-tin-n04438897",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

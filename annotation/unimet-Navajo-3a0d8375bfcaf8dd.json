@@ -1,0 +1,918 @@
+{
+  "id": "3a0d8375bfcaf8dd",
+  "name": "unimet-Navajo",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nav",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "akétłʼóól łichxííʼí yázhí",
+      "all_senses": [
+        {
+          "id": "unimet-nav-akétłʼóól łichxííʼí yázhí-n07735687",
+          "lemma": "akétłʼóól łichxííʼí yázhí",
+          "word_id": "unimet-nav-akétłʼóól łichxííʼí yázhí",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-nav-akétłʼóól łichxííʼí yázhí-n11894327",
+          "lemma": "akétłʼóól łichxííʼí yázhí",
+          "word_id": "unimet-nav-akétłʼóól łichxííʼí yázhí",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-akétłʼóól łichxííʼí yázhí-n11894327",
+          "lemma": "akétłʼóól łichxííʼí yázhí",
+          "word_id": "unimet-nav-akétłʼóól łichxííʼí yázhí",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-akétłʼóól łichxííʼí yázhí-n07735687",
+          "lemma": "akétłʼóól łichxííʼí yázhí",
+          "word_id": "unimet-nav-akétłʼóól łichxííʼí yázhí",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-akétłʼóól łichxííʼí yázhí-n11894327::unimet-nav-akétłʼóól łichxííʼí yázhí-n07735687": {
+          "source": "unimet-nav-akétłʼóól łichxííʼí yázhí-n11894327",
+          "target": "unimet-nav-akétłʼóól łichxííʼí yázhí-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "azeedíchʼííʼ",
+      "all_senses": [
+        {
+          "id": "unimet-nav-azeedíchʼííʼ-n07721456",
+          "lemma": "azeedíchʼííʼ",
+          "word_id": "unimet-nav-azeedíchʼííʼ",
+          "synset": {
+            "id": "omw-en-07721456-n",
+            "ili": "i77587",
+            "pos": "n",
+            "lemmas": [
+              "red pepper"
+            ],
+            "definition": "very hot and finely tapering pepper of special pungency"
+          }
+        },
+        {
+          "id": "unimet-nav-azeedíchʼííʼ-n12900462",
+          "lemma": "azeedíchʼííʼ",
+          "word_id": "unimet-nav-azeedíchʼííʼ",
+          "synset": {
+            "id": "omw-en-12900462-n",
+            "ili": "i104563",
+            "pos": "n",
+            "lemmas": [
+              "capsicum pepper plant"
+            ],
+            "definition": "any of various tropical plants of the genus Capsicum bearing peppers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-azeedíchʼííʼ-n12900462",
+          "lemma": "azeedíchʼííʼ",
+          "word_id": "unimet-nav-azeedíchʼííʼ",
+          "synset": {
+            "id": "omw-en-12900462-n",
+            "ili": "i104563",
+            "pos": "n",
+            "lemmas": [
+              "capsicum pepper plant"
+            ],
+            "definition": "any of various tropical plants of the genus Capsicum bearing peppers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-azeedíchʼííʼ-n07721456",
+          "lemma": "azeedíchʼííʼ",
+          "word_id": "unimet-nav-azeedíchʼííʼ",
+          "synset": {
+            "id": "omw-en-07721456-n",
+            "ili": "i77587",
+            "pos": "n",
+            "lemmas": [
+              "red pepper"
+            ],
+            "definition": "very hot and finely tapering pepper of special pungency"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-azeedíchʼííʼ-n12900462::unimet-nav-azeedíchʼííʼ-n07721456": {
+          "source": "unimet-nav-azeedíchʼííʼ-n12900462",
+          "target": "unimet-nav-azeedíchʼííʼ-n07721456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bisóodi",
+      "all_senses": [
+        {
+          "id": "unimet-nav-bisóodi-n02395406",
+          "lemma": "bisóodi",
+          "word_id": "unimet-nav-bisóodi",
+          "synset": {
+            "id": "omw-en-02395406-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "squealer"
+            ],
+            "definition": "domestic swine"
+          }
+        },
+        {
+          "id": "unimet-nav-bisóodi-n07670433",
+          "lemma": "bisóodi",
+          "word_id": "unimet-nav-bisóodi",
+          "synset": {
+            "id": "omw-en-07670433-n",
+            "ili": "i77251",
+            "pos": "n",
+            "lemmas": [
+              "bacon"
+            ],
+            "definition": "back and sides of a hog salted and dried or smoked; usually sliced thin and fried"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-bisóodi-n02395406",
+          "lemma": "bisóodi",
+          "word_id": "unimet-nav-bisóodi",
+          "synset": {
+            "id": "omw-en-02395406-n",
+            "ili": "i48199",
+            "pos": "n",
+            "lemmas": [
+              "squealer"
+            ],
+            "definition": "domestic swine"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-bisóodi-n07670433",
+          "lemma": "bisóodi",
+          "word_id": "unimet-nav-bisóodi",
+          "synset": {
+            "id": "omw-en-07670433-n",
+            "ili": "i77251",
+            "pos": "n",
+            "lemmas": [
+              "bacon"
+            ],
+            "definition": "back and sides of a hog salted and dried or smoked; usually sliced thin and fried"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-bisóodi-n02395406::unimet-nav-bisóodi-n07670433": {
+          "source": "unimet-nav-bisóodi-n02395406",
+          "target": "unimet-nav-bisóodi-n07670433",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "chʼil łitsxooí",
+      "all_senses": [
+        {
+          "id": "unimet-nav-chʼil łitsxooí-n07747607",
+          "lemma": "chʼil łitsxooí",
+          "word_id": "unimet-nav-chʼil łitsxooí",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-nav-chʼil łitsxooí-n12708293",
+          "lemma": "chʼil łitsxooí",
+          "word_id": "unimet-nav-chʼil łitsxooí",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-chʼil łitsxooí-n07747607",
+          "lemma": "chʼil łitsxooí",
+          "word_id": "unimet-nav-chʼil łitsxooí",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-chʼil łitsxooí-n12708293",
+          "lemma": "chʼil łitsxooí",
+          "word_id": "unimet-nav-chʼil łitsxooí",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-chʼil łitsxooí-n07747607::unimet-nav-chʼil łitsxooí-n12708293": {
+          "source": "unimet-nav-chʼil łitsxooí-n07747607",
+          "target": "unimet-nav-chʼil łitsxooí-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "didzéchííʼ",
+      "all_senses": [
+        {
+          "id": "unimet-nav-didzéchííʼ-n07757132",
+          "lemma": "didzéchííʼ",
+          "word_id": "unimet-nav-didzéchííʼ",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-nav-didzéchííʼ-n12641413",
+          "lemma": "didzéchííʼ",
+          "word_id": "unimet-nav-didzéchííʼ",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-didzéchííʼ-n07757132",
+          "lemma": "didzéchííʼ",
+          "word_id": "unimet-nav-didzéchííʼ",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-didzéchííʼ-n12641413",
+          "lemma": "didzéchííʼ",
+          "word_id": "unimet-nav-didzéchííʼ",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-didzéchííʼ-n07757132::unimet-nav-didzéchííʼ-n12641413": {
+          "source": "unimet-nav-didzéchííʼ-n07757132",
+          "target": "unimet-nav-didzéchííʼ-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "hazaʼaleehtsoh",
+      "all_senses": [
+        {
+          "id": "unimet-nav-hazaʼaleehtsoh-n07730406",
+          "lemma": "hazaʼaleehtsoh",
+          "word_id": "unimet-nav-hazaʼaleehtsoh",
+          "synset": {
+            "id": "omw-en-07730406-n",
+            "ili": "i77650",
+            "pos": "n",
+            "lemmas": [
+              "celery"
+            ],
+            "definition": "stalks eaten raw or cooked or used as seasoning"
+          }
+        },
+        {
+          "id": "unimet-nav-hazaʼaleehtsoh-n12933403",
+          "lemma": "hazaʼaleehtsoh",
+          "word_id": "unimet-nav-hazaʼaleehtsoh",
+          "synset": {
+            "id": "omw-en-12933403-n",
+            "ili": "i104723",
+            "pos": "n",
+            "lemmas": [
+              "cultivated celery"
+            ],
+            "definition": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-hazaʼaleehtsoh-n12933403",
+          "lemma": "hazaʼaleehtsoh",
+          "word_id": "unimet-nav-hazaʼaleehtsoh",
+          "synset": {
+            "id": "omw-en-12933403-n",
+            "ili": "i104723",
+            "pos": "n",
+            "lemmas": [
+              "cultivated celery"
+            ],
+            "definition": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-hazaʼaleehtsoh-n07730406",
+          "lemma": "hazaʼaleehtsoh",
+          "word_id": "unimet-nav-hazaʼaleehtsoh",
+          "synset": {
+            "id": "omw-en-07730406-n",
+            "ili": "i77650",
+            "pos": "n",
+            "lemmas": [
+              "celery"
+            ],
+            "definition": "stalks eaten raw or cooked or used as seasoning"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-hazaʼaleehtsoh-n12933403::unimet-nav-hazaʼaleehtsoh-n07730406": {
+          "source": "unimet-nav-hazaʼaleehtsoh-n12933403",
+          "target": "unimet-nav-hazaʼaleehtsoh-n07730406",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jiłhazhí",
+      "all_senses": [
+        {
+          "id": "unimet-nav-jiłhazhí-n07746038",
+          "lemma": "jiłhazhí",
+          "word_id": "unimet-nav-jiłhazhí",
+          "synset": {
+            "id": "omw-en-07746038-n",
+            "ili": "i77754",
+            "pos": "n",
+            "lemmas": [
+              "sugarberry"
+            ],
+            "definition": "small edible dark purple to black berry with large pits; southern United States"
+          }
+        },
+        {
+          "id": "unimet-nav-jiłhazhí-n12409231",
+          "lemma": "jiłhazhí",
+          "word_id": "unimet-nav-jiłhazhí",
+          "synset": {
+            "id": "omw-en-12409231-n",
+            "ili": "i102214",
+            "pos": "n",
+            "lemmas": [
+              "nettle tree"
+            ],
+            "definition": "any of various trees of the genus Celtis having inconspicuous flowers and small berrylike fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-jiłhazhí-n07746038",
+          "lemma": "jiłhazhí",
+          "word_id": "unimet-nav-jiłhazhí",
+          "synset": {
+            "id": "omw-en-07746038-n",
+            "ili": "i77754",
+            "pos": "n",
+            "lemmas": [
+              "sugarberry"
+            ],
+            "definition": "small edible dark purple to black berry with large pits; southern United States"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-jiłhazhí-n12409231",
+          "lemma": "jiłhazhí",
+          "word_id": "unimet-nav-jiłhazhí",
+          "synset": {
+            "id": "omw-en-12409231-n",
+            "ili": "i102214",
+            "pos": "n",
+            "lemmas": [
+              "nettle tree"
+            ],
+            "definition": "any of various trees of the genus Celtis having inconspicuous flowers and small berrylike fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-jiłhazhí-n07746038::unimet-nav-jiłhazhí-n12409231": {
+          "source": "unimet-nav-jiłhazhí-n07746038",
+          "target": "unimet-nav-jiłhazhí-n12409231",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kéyah",
+      "all_senses": [
+        {
+          "id": "unimet-nav-kéyah-n08168978",
+          "lemma": "kéyah",
+          "word_id": "unimet-nav-kéyah",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-nav-kéyah-n08544813",
+          "lemma": "kéyah",
+          "word_id": "unimet-nav-kéyah",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-kéyah-n08168978",
+          "lemma": "kéyah",
+          "word_id": "unimet-nav-kéyah",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-kéyah-n08544813",
+          "lemma": "kéyah",
+          "word_id": "unimet-nav-kéyah",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-kéyah-n08168978::unimet-nav-kéyah-n08544813": {
+          "source": "unimet-nav-kéyah-n08168978",
+          "target": "unimet-nav-kéyah-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ndikʼąʼ",
+      "all_senses": [
+        {
+          "id": "unimet-nav-ndikʼąʼ-n03115180",
+          "lemma": "ndikʼąʼ",
+          "word_id": "unimet-nav-ndikʼąʼ",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-nav-ndikʼąʼ-n14870078",
+          "lemma": "ndikʼąʼ",
+          "word_id": "unimet-nav-ndikʼąʼ",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-ndikʼąʼ-n14870078",
+          "lemma": "ndikʼąʼ",
+          "word_id": "unimet-nav-ndikʼąʼ",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-ndikʼąʼ-n03115180",
+          "lemma": "ndikʼąʼ",
+          "word_id": "unimet-nav-ndikʼąʼ",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-ndikʼąʼ-n14870078::unimet-nav-ndikʼąʼ-n03115180": {
+          "source": "unimet-nav-ndikʼąʼ-n14870078",
+          "target": "unimet-nav-ndikʼąʼ-n03115180",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "taʼneeskʼání",
+      "all_senses": [
+        {
+          "id": "unimet-nav-taʼneeskʼání-n07755411",
+          "lemma": "taʼneeskʼání",
+          "word_id": "unimet-nav-taʼneeskʼání",
+          "synset": {
+            "id": "omw-en-07755411-n",
+            "ili": "i77814",
+            "pos": "n",
+            "lemmas": [
+              "melon"
+            ],
+            "definition": "any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh"
+          }
+        },
+        {
+          "id": "unimet-nav-taʼneeskʼání-n07755929",
+          "lemma": "taʼneeskʼání",
+          "word_id": "unimet-nav-taʼneeskʼání",
+          "synset": {
+            "id": "omw-en-07755929-n",
+            "ili": "i77817",
+            "pos": "n",
+            "lemmas": [
+              "cantaloup"
+            ],
+            "definition": "the fruit of a cantaloup vine; small to medium-sized melon with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-nav-taʼneeskʼání-n12164363",
+          "lemma": "taʼneeskʼání",
+          "word_id": "unimet-nav-taʼneeskʼání",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-taʼneeskʼání-n07755411",
+          "lemma": "taʼneeskʼání",
+          "word_id": "unimet-nav-taʼneeskʼání",
+          "synset": {
+            "id": "omw-en-07755411-n",
+            "ili": "i77814",
+            "pos": "n",
+            "lemmas": [
+              "melon"
+            ],
+            "definition": "any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh"
+          }
+        },
+        {
+          "id": "unimet-nav-taʼneeskʼání-n07755929",
+          "lemma": "taʼneeskʼání",
+          "word_id": "unimet-nav-taʼneeskʼání",
+          "synset": {
+            "id": "omw-en-07755929-n",
+            "ili": "i77817",
+            "pos": "n",
+            "lemmas": [
+              "cantaloup"
+            ],
+            "definition": "the fruit of a cantaloup vine; small to medium-sized melon with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-taʼneeskʼání-n12164363",
+          "lemma": "taʼneeskʼání",
+          "word_id": "unimet-nav-taʼneeskʼání",
+          "synset": {
+            "id": "omw-en-12164363-n",
+            "ili": "i101070",
+            "pos": "n",
+            "lemmas": [
+              "sweet melon"
+            ],
+            "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-taʼneeskʼání-n07755411::unimet-nav-taʼneeskʼání-n12164363": {
+          "source": "unimet-nav-taʼneeskʼání-n07755411",
+          "target": "unimet-nav-taʼneeskʼání-n12164363",
+          "type": "metonymy"
+        },
+        "unimet-nav-taʼneeskʼání-n07755929::unimet-nav-taʼneeskʼání-n12164363": {
+          "source": "unimet-nav-taʼneeskʼání-n07755929",
+          "target": "unimet-nav-taʼneeskʼání-n12164363",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tsésǫʼ",
+      "all_senses": [
+        {
+          "id": "unimet-nav-tsésǫʼ-n03881893",
+          "lemma": "tsésǫʼ",
+          "word_id": "unimet-nav-tsésǫʼ",
+          "synset": {
+            "id": "omw-en-03881893-n",
+            "ili": "i56943",
+            "pos": "n",
+            "lemmas": [
+              "pane of glass"
+            ],
+            "definition": "sheet glass cut in shapes for windows or doors"
+          }
+        },
+        {
+          "id": "unimet-nav-tsésǫʼ-n04587648",
+          "lemma": "tsésǫʼ",
+          "word_id": "unimet-nav-tsésǫʼ",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        },
+        {
+          "id": "unimet-nav-tsésǫʼ-n14881303",
+          "lemma": "tsésǫʼ",
+          "word_id": "unimet-nav-tsésǫʼ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nav-tsésǫʼ-n14881303",
+          "lemma": "tsésǫʼ",
+          "word_id": "unimet-nav-tsésǫʼ",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nav-tsésǫʼ-n03881893",
+          "lemma": "tsésǫʼ",
+          "word_id": "unimet-nav-tsésǫʼ",
+          "synset": {
+            "id": "omw-en-03881893-n",
+            "ili": "i56943",
+            "pos": "n",
+            "lemmas": [
+              "pane of glass"
+            ],
+            "definition": "sheet glass cut in shapes for windows or doors"
+          }
+        },
+        {
+          "id": "unimet-nav-tsésǫʼ-n04587648",
+          "lemma": "tsésǫʼ",
+          "word_id": "unimet-nav-tsésǫʼ",
+          "synset": {
+            "id": "omw-en-04587648-n",
+            "ili": "i61169",
+            "pos": "n",
+            "lemmas": [
+              "window"
+            ],
+            "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nav-tsésǫʼ-n14881303::unimet-nav-tsésǫʼ-n03881893": {
+          "source": "unimet-nav-tsésǫʼ-n14881303",
+          "target": "unimet-nav-tsésǫʼ-n03881893",
+          "type": "metonymy"
+        },
+        "unimet-nav-tsésǫʼ-n14881303::unimet-nav-tsésǫʼ-n04587648": {
+          "source": "unimet-nav-tsésǫʼ-n14881303",
+          "target": "unimet-nav-tsésǫʼ-n04587648",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

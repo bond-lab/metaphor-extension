@@ -1,0 +1,2590 @@
+{
+  "id": "042de6a70a9c4f72",
+  "name": "unimet-Macedonian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mkd",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "авокадо",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-авокадо-n07764847",
+          "lemma": "авокадо",
+          "word_id": "unimet-mkd-авокадо",
+          "synset": {
+            "id": "omw-en-07764847-n",
+            "ili": "i77873",
+            "pos": "n",
+            "lemmas": [
+              "alligator pear"
+            ],
+            "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+          }
+        },
+        {
+          "id": "unimet-mkd-авокадо-n11706761",
+          "lemma": "авокадо",
+          "word_id": "unimet-mkd-авокадо",
+          "synset": {
+            "id": "omw-en-11706761-n",
+            "ili": "i98863",
+            "pos": "n",
+            "lemmas": [
+              "avocado tree"
+            ],
+            "definition": "tropical American tree bearing large pulpy green fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-авокадо-n07764847",
+          "lemma": "авокадо",
+          "word_id": "unimet-mkd-авокадо",
+          "synset": {
+            "id": "omw-en-07764847-n",
+            "ili": "i77873",
+            "pos": "n",
+            "lemmas": [
+              "alligator pear"
+            ],
+            "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-авокадо-n11706761",
+          "lemma": "авокадо",
+          "word_id": "unimet-mkd-авокадо",
+          "synset": {
+            "id": "omw-en-11706761-n",
+            "ili": "i98863",
+            "pos": "n",
+            "lemmas": [
+              "avocado tree"
+            ],
+            "definition": "tropical American tree bearing large pulpy green fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-авокадо-n07764847::unimet-mkd-авокадо-n11706761": {
+          "source": "unimet-mkd-авокадо-n07764847",
+          "target": "unimet-mkd-авокадо-n11706761",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ананас",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-ананас-n07753275",
+          "lemma": "ананас",
+          "word_id": "unimet-mkd-ананас",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-mkd-ананас-n12607456",
+          "lemma": "ананас",
+          "word_id": "unimet-mkd-ананас",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-ананас-n07753275",
+          "lemma": "ананас",
+          "word_id": "unimet-mkd-ананас",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-ананас-n12607456",
+          "lemma": "ананас",
+          "word_id": "unimet-mkd-ананас",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-ананас-n07753275::unimet-mkd-ананас-n12607456": {
+          "source": "unimet-mkd-ананас-n07753275",
+          "target": "unimet-mkd-ананас-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "бадем",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-бадем-n07750586",
+          "lemma": "бадем",
+          "word_id": "unimet-mkd-бадем",
+          "synset": {
+            "id": "omw-en-07750586-n",
+            "ili": "i77782",
+            "pos": "n",
+            "lemmas": [
+              "almond"
+            ],
+            "definition": "oval-shaped edible seed of the almond tree"
+          }
+        },
+        {
+          "id": "unimet-mkd-бадем-n12645174",
+          "lemma": "бадем",
+          "word_id": "unimet-mkd-бадем",
+          "synset": {
+            "id": "omw-en-12645174-n",
+            "ili": "i103327",
+            "pos": "n",
+            "lemmas": [
+              "amygdalus communis"
+            ],
+            "definition": "small bushy deciduous tree native to Asia and North Africa having pretty pink blossoms and highly prized edible nuts enclosed in a hard green hull; cultivated in southern Australia and California"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-бадем-n07750586",
+          "lemma": "бадем",
+          "word_id": "unimet-mkd-бадем",
+          "synset": {
+            "id": "omw-en-07750586-n",
+            "ili": "i77782",
+            "pos": "n",
+            "lemmas": [
+              "almond"
+            ],
+            "definition": "oval-shaped edible seed of the almond tree"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-бадем-n12645174",
+          "lemma": "бадем",
+          "word_id": "unimet-mkd-бадем",
+          "synset": {
+            "id": "omw-en-12645174-n",
+            "ili": "i103327",
+            "pos": "n",
+            "lemmas": [
+              "amygdalus communis"
+            ],
+            "definition": "small bushy deciduous tree native to Asia and North Africa having pretty pink blossoms and highly prized edible nuts enclosed in a hard green hull; cultivated in southern Australia and California"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-бадем-n07750586::unimet-mkd-бадем-n12645174": {
+          "source": "unimet-mkd-бадем-n07750586",
+          "target": "unimet-mkd-бадем-n12645174",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "банана",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-банана-n07753592",
+          "lemma": "банана",
+          "word_id": "unimet-mkd-банана",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        },
+        {
+          "id": "unimet-mkd-банана-n12352287",
+          "lemma": "банана",
+          "word_id": "unimet-mkd-банана",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-банана-n07753592",
+          "lemma": "банана",
+          "word_id": "unimet-mkd-банана",
+          "synset": {
+            "id": "omw-en-07753592-n",
+            "ili": "i77804",
+            "pos": "n",
+            "lemmas": [
+              "banana"
+            ],
+            "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-банана-n12352287",
+          "lemma": "банана",
+          "word_id": "unimet-mkd-банана",
+          "synset": {
+            "id": "omw-en-12352287-n",
+            "ili": "i101947",
+            "pos": "n",
+            "lemmas": [
+              "banana tree"
+            ],
+            "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-банана-n07753592::unimet-mkd-банана-n12352287": {
+          "source": "unimet-mkd-банана-n07753592",
+          "target": "unimet-mkd-банана-n12352287",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "бостан",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-бостан-n07756951",
+          "lemma": "бостан",
+          "word_id": "unimet-mkd-бостан",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-mkd-бостан-n12164065",
+          "lemma": "бостан",
+          "word_id": "unimet-mkd-бостан",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-бостан-n07756951",
+          "lemma": "бостан",
+          "word_id": "unimet-mkd-бостан",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-бостан-n12164065",
+          "lemma": "бостан",
+          "word_id": "unimet-mkd-бостан",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-бостан-n07756951::unimet-mkd-бостан-n12164065": {
+          "source": "unimet-mkd-бостан-n07756951",
+          "target": "unimet-mkd-бостан-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "вишна",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-вишна-n07757132",
+          "lemma": "вишна",
+          "word_id": "unimet-mkd-вишна",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-mkd-вишна-n12641413",
+          "lemma": "вишна",
+          "word_id": "unimet-mkd-вишна",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-вишна-n07757132",
+          "lemma": "вишна",
+          "word_id": "unimet-mkd-вишна",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-вишна-n12641413",
+          "lemma": "вишна",
+          "word_id": "unimet-mkd-вишна",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-вишна-n07757132::unimet-mkd-вишна-n12641413": {
+          "source": "unimet-mkd-вишна-n07757132",
+          "target": "unimet-mkd-вишна-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "датула",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-датула-n07765073",
+          "lemma": "датула",
+          "word_id": "unimet-mkd-датула",
+          "synset": {
+            "id": "omw-en-07765073-n",
+            "ili": "i77874",
+            "pos": "n",
+            "lemmas": [
+              "date"
+            ],
+            "definition": "sweet edible fruit of the date palm with a single long woody seed"
+          }
+        },
+        {
+          "id": "unimet-mkd-датула-n12593994",
+          "lemma": "датула",
+          "word_id": "unimet-mkd-датула",
+          "synset": {
+            "id": "omw-en-12593994-n",
+            "ili": "i103073",
+            "pos": "n",
+            "lemmas": [
+              "phoenix dactylifera"
+            ],
+            "definition": "tall tropical feather palm tree native to Syria bearing sweet edible fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-датула-n07765073",
+          "lemma": "датула",
+          "word_id": "unimet-mkd-датула",
+          "synset": {
+            "id": "omw-en-07765073-n",
+            "ili": "i77874",
+            "pos": "n",
+            "lemmas": [
+              "date"
+            ],
+            "definition": "sweet edible fruit of the date palm with a single long woody seed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-датула-n12593994",
+          "lemma": "датула",
+          "word_id": "unimet-mkd-датула",
+          "synset": {
+            "id": "omw-en-12593994-n",
+            "ili": "i103073",
+            "pos": "n",
+            "lemmas": [
+              "phoenix dactylifera"
+            ],
+            "definition": "tall tropical feather palm tree native to Syria bearing sweet edible fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-датула-n07765073::unimet-mkd-датула-n12593994": {
+          "source": "unimet-mkd-датула-n07765073",
+          "target": "unimet-mkd-датула-n12593994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "дудинка",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-дудинка-n07767171",
+          "lemma": "дудинка",
+          "word_id": "unimet-mkd-дудинка",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-mkd-дудинка-n12399132",
+          "lemma": "дудинка",
+          "word_id": "unimet-mkd-дудинка",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-дудинка-n07767171",
+          "lemma": "дудинка",
+          "word_id": "unimet-mkd-дудинка",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-дудинка-n12399132",
+          "lemma": "дудинка",
+          "word_id": "unimet-mkd-дудинка",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-дудинка-n07767171::unimet-mkd-дудинка-n12399132": {
+          "source": "unimet-mkd-дудинка-n07767171",
+          "target": "unimet-mkd-дудинка-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "дуња",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-дуња-n07769584",
+          "lemma": "дуња",
+          "word_id": "unimet-mkd-дуња",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-mkd-дуња-n12628986",
+          "lemma": "дуња",
+          "word_id": "unimet-mkd-дуња",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-дуња-n07769584",
+          "lemma": "дуња",
+          "word_id": "unimet-mkd-дуња",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-дуња-n12628986",
+          "lemma": "дуња",
+          "word_id": "unimet-mkd-дуња",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-дуња-n07769584::unimet-mkd-дуња-n12628986": {
+          "source": "unimet-mkd-дуња-n07769584",
+          "target": "unimet-mkd-дуња-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "зелка",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-зелка-n07713895",
+          "lemma": "зелка",
+          "word_id": "unimet-mkd-зелка",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        },
+        {
+          "id": "unimet-mkd-зелка-n11875691",
+          "lemma": "зелка",
+          "word_id": "unimet-mkd-зелка",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-зелка-n11875691",
+          "lemma": "зелка",
+          "word_id": "unimet-mkd-зелка",
+          "synset": {
+            "id": "omw-en-11875691-n",
+            "ili": "i99662",
+            "pos": "n",
+            "lemmas": [
+              "cabbage"
+            ],
+            "definition": "any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-зелка-n07713895",
+          "lemma": "зелка",
+          "word_id": "unimet-mkd-зелка",
+          "synset": {
+            "id": "omw-en-07713895-n",
+            "ili": "i77536",
+            "pos": "n",
+            "lemmas": [
+              "chou"
+            ],
+            "definition": "any of various types of cabbage"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-зелка-n11875691::unimet-mkd-зелка-n07713895": {
+          "source": "unimet-mkd-зелка-n11875691",
+          "target": "unimet-mkd-зелка-n07713895",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "земја",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-земја-n08168978",
+          "lemma": "земја",
+          "word_id": "unimet-mkd-земја",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-mkd-земја-n08544813",
+          "lemma": "земја",
+          "word_id": "unimet-mkd-земја",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-земја-n08168978",
+          "lemma": "земја",
+          "word_id": "unimet-mkd-земја",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-земја-n08544813",
+          "lemma": "земја",
+          "word_id": "unimet-mkd-земја",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-земја-n08168978::unimet-mkd-земја-n08544813": {
+          "source": "unimet-mkd-земја-n08168978",
+          "target": "unimet-mkd-земја-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "калинка",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-калинка-n07768694",
+          "lemma": "калинка",
+          "word_id": "unimet-mkd-калинка",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        },
+        {
+          "id": "unimet-mkd-калинка-n12345280",
+          "lemma": "калинка",
+          "word_id": "unimet-mkd-калинка",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-калинка-n07768694",
+          "lemma": "калинка",
+          "word_id": "unimet-mkd-калинка",
+          "synset": {
+            "id": "omw-en-07768694-n",
+            "ili": "i77899",
+            "pos": "n",
+            "lemmas": [
+              "pomegranate"
+            ],
+            "definition": "large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-калинка-n12345280",
+          "lemma": "калинка",
+          "word_id": "unimet-mkd-калинка",
+          "synset": {
+            "id": "omw-en-12345280-n",
+            "ili": "i101910",
+            "pos": "n",
+            "lemmas": [
+              "punica granatum"
+            ],
+            "definition": "shrub or small tree native to southwestern Asia having large red many-seeded fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-калинка-n07768694::unimet-mkd-калинка-n12345280": {
+          "source": "unimet-mkd-калинка-n07768694",
+          "target": "unimet-mkd-калинка-n12345280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "капина",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-капина-n07744811",
+          "lemma": "капина",
+          "word_id": "unimet-mkd-капина",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-mkd-капина-n12653762",
+          "lemma": "капина",
+          "word_id": "unimet-mkd-капина",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-капина-n07744811",
+          "lemma": "капина",
+          "word_id": "unimet-mkd-капина",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-капина-n12653762",
+          "lemma": "капина",
+          "word_id": "unimet-mkd-капина",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-капина-n07744811::unimet-mkd-капина-n12653762": {
+          "source": "unimet-mkd-капина-n07744811",
+          "target": "unimet-mkd-капина-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кајсија",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-кајсија-n07750872",
+          "lemma": "кајсија",
+          "word_id": "unimet-mkd-кајсија",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-mkd-кајсија-n12640607",
+          "lemma": "кајсија",
+          "word_id": "unimet-mkd-кајсија",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-кајсија-n07750872",
+          "lemma": "кајсија",
+          "word_id": "unimet-mkd-кајсија",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-кајсија-n12640607",
+          "lemma": "кајсија",
+          "word_id": "unimet-mkd-кајсија",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-кајсија-n07750872::unimet-mkd-кајсија-n12640607": {
+          "source": "unimet-mkd-кајсија-n07750872",
+          "target": "unimet-mkd-кајсија-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кокос",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-кокос-n07772935",
+          "lemma": "кокос",
+          "word_id": "unimet-mkd-кокос",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-mkd-кокос-n07773238",
+          "lemma": "кокос",
+          "word_id": "unimet-mkd-кокос",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        },
+        {
+          "id": "unimet-mkd-кокос-n12587803",
+          "lemma": "кокос",
+          "word_id": "unimet-mkd-кокос",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-кокос-n07772935",
+          "lemma": "кокос",
+          "word_id": "unimet-mkd-кокос",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-кокос-n12587803",
+          "lemma": "кокос",
+          "word_id": "unimet-mkd-кокос",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        },
+        {
+          "id": "unimet-mkd-кокос-n07773238",
+          "lemma": "кокос",
+          "word_id": "unimet-mkd-кокос",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-кокос-n07772935::unimet-mkd-кокос-n12587803": {
+          "source": "unimet-mkd-кокос-n07772935",
+          "target": "unimet-mkd-кокос-n12587803",
+          "type": "metonymy"
+        },
+        "unimet-mkd-кокос-n12587803::unimet-mkd-кокос-n07773238": {
+          "source": "unimet-mkd-кокос-n12587803",
+          "target": "unimet-mkd-кокос-n07773238",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кокосов орев",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-кокосов орев-n07772935",
+          "lemma": "кокосов орев",
+          "word_id": "unimet-mkd-кокосов орев",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-mkd-кокосов орев-n12587803",
+          "lemma": "кокосов орев",
+          "word_id": "unimet-mkd-кокосов орев",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-кокосов орев-n07772935",
+          "lemma": "кокосов орев",
+          "word_id": "unimet-mkd-кокосов орев",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-кокосов орев-n12587803",
+          "lemma": "кокосов орев",
+          "word_id": "unimet-mkd-кокосов орев",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-кокосов орев-n07772935::unimet-mkd-кокосов орев-n12587803": {
+          "source": "unimet-mkd-кокосов орев-n07772935",
+          "target": "unimet-mkd-кокосов орев-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кокошка",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-кокошка-n01792640",
+          "lemma": "кокошка",
+          "word_id": "unimet-mkd-кокошка",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-mkd-кокошка-n07644967",
+          "lemma": "кокошка",
+          "word_id": "unimet-mkd-кокошка",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-кокошка-n01792640",
+          "lemma": "кокошка",
+          "word_id": "unimet-mkd-кокошка",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-кокошка-n07644967",
+          "lemma": "кокошка",
+          "word_id": "unimet-mkd-кокошка",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-кокошка-n01792640::unimet-mkd-кокошка-n07644967": {
+          "source": "unimet-mkd-кокошка-n01792640",
+          "target": "unimet-mkd-кокошка-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кралство",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-кралство-n08405603",
+          "lemma": "кралство",
+          "word_id": "unimet-mkd-кралство",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-mkd-кралство-n08558155",
+          "lemma": "кралство",
+          "word_id": "unimet-mkd-кралство",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-кралство-n08405603",
+          "lemma": "кралство",
+          "word_id": "unimet-mkd-кралство",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-кралство-n08558155",
+          "lemma": "кралство",
+          "word_id": "unimet-mkd-кралство",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-кралство-n08405603::unimet-mkd-кралство-n08558155": {
+          "source": "unimet-mkd-кралство-n08405603",
+          "target": "unimet-mkd-кралство-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "кристал",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-кристал-n03142834",
+          "lemma": "кристал",
+          "word_id": "unimet-mkd-кристал",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-mkd-кристал-n14883206",
+          "lemma": "кристал",
+          "word_id": "unimet-mkd-кристал",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-кристал-n14883206",
+          "lemma": "кристал",
+          "word_id": "unimet-mkd-кристал",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-кристал-n03142834",
+          "lemma": "кристал",
+          "word_id": "unimet-mkd-кристал",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-кристал-n14883206::unimet-mkd-кристал-n03142834": {
+          "source": "unimet-mkd-кристал-n14883206",
+          "target": "unimet-mkd-кристал-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "круша",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-круша-n07767847",
+          "lemma": "круша",
+          "word_id": "unimet-mkd-круша",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-mkd-круша-n12651611",
+          "lemma": "круша",
+          "word_id": "unimet-mkd-круша",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-круша-n07767847",
+          "lemma": "круша",
+          "word_id": "unimet-mkd-круша",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-круша-n12651611",
+          "lemma": "круша",
+          "word_id": "unimet-mkd-круша",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-круша-n07767847::unimet-mkd-круша-n12651611": {
+          "source": "unimet-mkd-круша-n07767847",
+          "target": "unimet-mkd-круша-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "лимета",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-лимета-n07749731",
+          "lemma": "лимета",
+          "word_id": "unimet-mkd-лимета",
+          "synset": {
+            "id": "omw-en-07749731-n",
+            "ili": "i77776",
+            "pos": "n",
+            "lemmas": [
+              "lime"
+            ],
+            "definition": "the green acidic fruit of any of various lime trees"
+          }
+        },
+        {
+          "id": "unimet-mkd-лимета-n12711984",
+          "lemma": "лимета",
+          "word_id": "unimet-mkd-лимета",
+          "synset": {
+            "id": "omw-en-12711984-n",
+            "ili": "i103654",
+            "pos": "n",
+            "lemmas": [
+              "lime tree"
+            ],
+            "definition": "any of various related trees bearing limes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-лимета-n07749731",
+          "lemma": "лимета",
+          "word_id": "unimet-mkd-лимета",
+          "synset": {
+            "id": "omw-en-07749731-n",
+            "ili": "i77776",
+            "pos": "n",
+            "lemmas": [
+              "lime"
+            ],
+            "definition": "the green acidic fruit of any of various lime trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-лимета-n12711984",
+          "lemma": "лимета",
+          "word_id": "unimet-mkd-лимета",
+          "synset": {
+            "id": "omw-en-12711984-n",
+            "ili": "i103654",
+            "pos": "n",
+            "lemmas": [
+              "lime tree"
+            ],
+            "definition": "any of various related trees bearing limes"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-лимета-n07749731::unimet-mkd-лимета-n12711984": {
+          "source": "unimet-mkd-лимета-n07749731",
+          "target": "unimet-mkd-лимета-n12711984",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "лимон",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-лимон-n07749582",
+          "lemma": "лимон",
+          "word_id": "unimet-mkd-лимон",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-mkd-лимон-n12711596",
+          "lemma": "лимон",
+          "word_id": "unimet-mkd-лимон",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-лимон-n07749582",
+          "lemma": "лимон",
+          "word_id": "unimet-mkd-лимон",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-лимон-n12711596",
+          "lemma": "лимон",
+          "word_id": "unimet-mkd-лимон",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-лимон-n07749582::unimet-mkd-лимон-n12711596": {
+          "source": "unimet-mkd-лимон-n07749582",
+          "target": "unimet-mkd-лимон-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "лубеница",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-лубеница-n07756951",
+          "lemma": "лубеница",
+          "word_id": "unimet-mkd-лубеница",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-mkd-лубеница-n12164065",
+          "lemma": "лубеница",
+          "word_id": "unimet-mkd-лубеница",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-лубеница-n07756951",
+          "lemma": "лубеница",
+          "word_id": "unimet-mkd-лубеница",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-лубеница-n12164065",
+          "lemma": "лубеница",
+          "word_id": "unimet-mkd-лубеница",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-лубеница-n07756951::unimet-mkd-лубеница-n12164065": {
+          "source": "unimet-mkd-лубеница-n07756951",
+          "target": "unimet-mkd-лубеница-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "мочка",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-мочка-n14855724",
+          "lemma": "мочка",
+          "word_id": "unimet-mkd-мочка",
+          "synset": {
+            "id": "omw-en-14855724-n",
+            "ili": "i115125",
+            "pos": "n",
+            "lemmas": [
+              "piddle"
+            ],
+            "definition": "liquid excretory product"
+          }
+        },
+        {
+          "id": "unimet-mkd-мочка-v00072012",
+          "lemma": "мочка",
+          "word_id": "unimet-mkd-мочка",
+          "synset": {
+            "id": "omw-en-00072012-v",
+            "ili": "i22135",
+            "pos": "v",
+            "lemmas": [
+              "urinate"
+            ],
+            "definition": "eliminate urine"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-мочка-n14855724",
+          "lemma": "мочка",
+          "word_id": "unimet-mkd-мочка",
+          "synset": {
+            "id": "omw-en-14855724-n",
+            "ili": "i115125",
+            "pos": "n",
+            "lemmas": [
+              "piddle"
+            ],
+            "definition": "liquid excretory product"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-мочка-v00072012",
+          "lemma": "мочка",
+          "word_id": "unimet-mkd-мочка",
+          "synset": {
+            "id": "omw-en-00072012-v",
+            "ili": "i22135",
+            "pos": "v",
+            "lemmas": [
+              "urinate"
+            ],
+            "definition": "eliminate urine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-мочка-n14855724::unimet-mkd-мочка-v00072012": {
+          "source": "unimet-mkd-мочка-n14855724",
+          "target": "unimet-mkd-мочка-v00072012",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "орев",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-орев-n12318378",
+          "lemma": "орев",
+          "word_id": "unimet-mkd-орев",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        },
+        {
+          "id": "unimet-mkd-орев-n13136556",
+          "lemma": "орев",
+          "word_id": "unimet-mkd-орев",
+          "synset": {
+            "id": "omw-en-13136556-n",
+            "ili": "i105680",
+            "pos": "n",
+            "lemmas": [
+              "nut"
+            ],
+            "definition": "usually large hard-shelled seed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-орев-n12318378",
+          "lemma": "орев",
+          "word_id": "unimet-mkd-орев",
+          "synset": {
+            "id": "omw-en-12318378-n",
+            "ili": "i101771",
+            "pos": "n",
+            "lemmas": [
+              "walnut tree"
+            ],
+            "definition": "any of various trees of the genus Juglans"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-орев-n13136556",
+          "lemma": "орев",
+          "word_id": "unimet-mkd-орев",
+          "synset": {
+            "id": "omw-en-13136556-n",
+            "ili": "i105680",
+            "pos": "n",
+            "lemmas": [
+              "nut"
+            ],
+            "definition": "usually large hard-shelled seed"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-орев-n12318378::unimet-mkd-орев-n13136556": {
+          "source": "unimet-mkd-орев-n12318378",
+          "target": "unimet-mkd-орев-n13136556",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "папаја",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-папаја-n07762244",
+          "lemma": "папаја",
+          "word_id": "unimet-mkd-папаја",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        },
+        {
+          "id": "unimet-mkd-папаја-n11695599",
+          "lemma": "папаја",
+          "word_id": "unimet-mkd-папаја",
+          "synset": {
+            "id": "omw-en-11695599-n",
+            "ili": "i98807",
+            "pos": "n",
+            "lemmas": [
+              "papaw tree"
+            ],
+            "definition": "small tree native to the eastern United States having oblong leaves and fleshy fruit"
+          }
+        },
+        {
+          "id": "unimet-mkd-папаја-n12373100",
+          "lemma": "папаја",
+          "word_id": "unimet-mkd-папаја",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-папаја-n07762244",
+          "lemma": "папаја",
+          "word_id": "unimet-mkd-папаја",
+          "synset": {
+            "id": "omw-en-07762244-n",
+            "ili": "i77858",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "large oval melon-like tropical fruit with yellowish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-папаја-n11695599",
+          "lemma": "папаја",
+          "word_id": "unimet-mkd-папаја",
+          "synset": {
+            "id": "omw-en-11695599-n",
+            "ili": "i98807",
+            "pos": "n",
+            "lemmas": [
+              "papaw tree"
+            ],
+            "definition": "small tree native to the eastern United States having oblong leaves and fleshy fruit"
+          }
+        },
+        {
+          "id": "unimet-mkd-папаја-n12373100",
+          "lemma": "папаја",
+          "word_id": "unimet-mkd-папаја",
+          "synset": {
+            "id": "omw-en-12373100-n",
+            "ili": "i102042",
+            "pos": "n",
+            "lemmas": [
+              "papaya"
+            ],
+            "definition": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-папаја-n07762244::unimet-mkd-папаја-n11695599": {
+          "source": "unimet-mkd-папаја-n07762244",
+          "target": "unimet-mkd-папаја-n11695599",
+          "type": "metonymy"
+        },
+        "unimet-mkd-папаја-n07762244::unimet-mkd-папаја-n12373100": {
+          "source": "unimet-mkd-папаја-n07762244",
+          "target": "unimet-mkd-папаја-n12373100",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "пегла",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-пегла-n03584829",
+          "lemma": "пегла",
+          "word_id": "unimet-mkd-пегла",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        },
+        {
+          "id": "unimet-mkd-пегла-v01390833",
+          "lemma": "пегла",
+          "word_id": "unimet-mkd-пегла",
+          "synset": {
+            "id": "omw-en-01390833-v",
+            "ili": "i28670",
+            "pos": "v",
+            "lemmas": [
+              "press"
+            ],
+            "definition": "press and smooth with a heated iron"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-пегла-n03584829",
+          "lemma": "пегла",
+          "word_id": "unimet-mkd-пегла",
+          "synset": {
+            "id": "omw-en-03584829-n",
+            "ili": "i55181",
+            "pos": "n",
+            "lemmas": [
+              "calender"
+            ],
+            "definition": "home appliance consisting of a flat metal base that is heated and used to smooth cloth"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-пегла-v01390833",
+          "lemma": "пегла",
+          "word_id": "unimet-mkd-пегла",
+          "synset": {
+            "id": "omw-en-01390833-v",
+            "ili": "i28670",
+            "pos": "v",
+            "lemmas": [
+              "press"
+            ],
+            "definition": "press and smooth with a heated iron"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-пегла-n03584829::unimet-mkd-пегла-v01390833": {
+          "source": "unimet-mkd-пегла-n03584829",
+          "target": "unimet-mkd-пегла-v01390833",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "портокал",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-портокал-n07747607",
+          "lemma": "портокал",
+          "word_id": "unimet-mkd-портокал",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-mkd-портокал-n12708293",
+          "lemma": "портокал",
+          "word_id": "unimet-mkd-портокал",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-портокал-n07747607",
+          "lemma": "портокал",
+          "word_id": "unimet-mkd-портокал",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-портокал-n12708293",
+          "lemma": "портокал",
+          "word_id": "unimet-mkd-портокал",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-портокал-n07747607::unimet-mkd-портокал-n12708293": {
+          "source": "unimet-mkd-портокал-n07747607",
+          "target": "unimet-mkd-портокал-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "праска",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-праска-n07751004",
+          "lemma": "праска",
+          "word_id": "unimet-mkd-праска",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-mkd-праска-n12648045",
+          "lemma": "праска",
+          "word_id": "unimet-mkd-праска",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-праска-n07751004",
+          "lemma": "праска",
+          "word_id": "unimet-mkd-праска",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-праска-n12648045",
+          "lemma": "праска",
+          "word_id": "unimet-mkd-праска",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-праска-n07751004::unimet-mkd-праска-n12648045": {
+          "source": "unimet-mkd-праска-n07751004",
+          "target": "unimet-mkd-праска-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "рибизла",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-рибизла-n07744246",
+          "lemma": "рибизла",
+          "word_id": "unimet-mkd-рибизла",
+          "synset": {
+            "id": "omw-en-07744246-n",
+            "ili": "i77742",
+            "pos": "n",
+            "lemmas": [
+              "currant"
+            ],
+            "definition": "any of several tart red or black berries used primarily for jellies and jams"
+          }
+        },
+        {
+          "id": "unimet-mkd-рибизла-n12805146",
+          "lemma": "рибизла",
+          "word_id": "unimet-mkd-рибизла",
+          "synset": {
+            "id": "omw-en-12805146-n",
+            "ili": "i104100",
+            "pos": "n",
+            "lemmas": [
+              "currant"
+            ],
+            "definition": "any of various deciduous shrubs of the genus Ribes bearing currants"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-рибизла-n07744246",
+          "lemma": "рибизла",
+          "word_id": "unimet-mkd-рибизла",
+          "synset": {
+            "id": "omw-en-07744246-n",
+            "ili": "i77742",
+            "pos": "n",
+            "lemmas": [
+              "currant"
+            ],
+            "definition": "any of several tart red or black berries used primarily for jellies and jams"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-рибизла-n12805146",
+          "lemma": "рибизла",
+          "word_id": "unimet-mkd-рибизла",
+          "synset": {
+            "id": "omw-en-12805146-n",
+            "ili": "i104100",
+            "pos": "n",
+            "lemmas": [
+              "currant"
+            ],
+            "definition": "any of various deciduous shrubs of the genus Ribes bearing currants"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-рибизла-n07744246::unimet-mkd-рибизла-n12805146": {
+          "source": "unimet-mkd-рибизла-n07744246",
+          "target": "unimet-mkd-рибизла-n12805146",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "село",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-село-n08226699",
+          "lemma": "село",
+          "word_id": "unimet-mkd-село",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-mkd-село-n08644722",
+          "lemma": "село",
+          "word_id": "unimet-mkd-село",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-село-n08226699",
+          "lemma": "село",
+          "word_id": "unimet-mkd-село",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-село-n08644722",
+          "lemma": "село",
+          "word_id": "unimet-mkd-село",
+          "synset": {
+            "id": "omw-en-08644722-n",
+            "ili": "i82391",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "an area outside of cities and towns"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-село-n08226699::unimet-mkd-село-n08644722": {
+          "source": "unimet-mkd-село-n08226699",
+          "target": "unimet-mkd-село-n08644722",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "слива",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-слива-n07751451",
+          "lemma": "слива",
+          "word_id": "unimet-mkd-слива",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-mkd-слива-n12638218",
+          "lemma": "слива",
+          "word_id": "unimet-mkd-слива",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-слива-n07751451",
+          "lemma": "слива",
+          "word_id": "unimet-mkd-слива",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-слива-n12638218",
+          "lemma": "слива",
+          "word_id": "unimet-mkd-слива",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-слива-n07751451::unimet-mkd-слива-n12638218": {
+          "source": "unimet-mkd-слива-n07751451",
+          "target": "unimet-mkd-слива-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "цреша",
+      "all_senses": [
+        {
+          "id": "unimet-mkd-цреша-n07757132",
+          "lemma": "цреша",
+          "word_id": "unimet-mkd-цреша",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        },
+        {
+          "id": "unimet-mkd-цреша-n12641413",
+          "lemma": "цреша",
+          "word_id": "unimet-mkd-цреша",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mkd-цреша-n07757132",
+          "lemma": "цреша",
+          "word_id": "unimet-mkd-цреша",
+          "synset": {
+            "id": "omw-en-07757132-n",
+            "ili": "i77824",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "a red fruit with a single hard stone"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mkd-цреша-n12641413",
+          "lemma": "цреша",
+          "word_id": "unimet-mkd-цреша",
+          "synset": {
+            "id": "omw-en-12641413-n",
+            "ili": "i103308",
+            "pos": "n",
+            "lemmas": [
+              "cherry"
+            ],
+            "definition": "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mkd-цреша-n07757132::unimet-mkd-цреша-n12641413": {
+          "source": "unimet-mkd-цреша-n07757132",
+          "target": "unimet-mkd-цреша-n12641413",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

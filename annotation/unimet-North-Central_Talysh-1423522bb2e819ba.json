@@ -1,0 +1,92 @@
+{
+  "id": "1423522bb2e819ba",
+  "name": "unimet-North-Central Talysh",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "tly",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ди",
+      "all_senses": [
+        {
+          "id": "unimet-tly-ди-n08226699",
+          "lemma": "ди",
+          "word_id": "unimet-tly-ди",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-tly-ди-n08645033",
+          "lemma": "ди",
+          "word_id": "unimet-tly-ди",
+          "synset": {
+            "id": "omw-en-08645033-n",
+            "ili": "i82392",
+            "pos": "n",
+            "lemmas": [
+              "rural area"
+            ],
+            "definition": "rural regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-tly-ди-n08226699",
+          "lemma": "ди",
+          "word_id": "unimet-tly-ди",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-tly-ди-n08645033",
+          "lemma": "ди",
+          "word_id": "unimet-tly-ди",
+          "synset": {
+            "id": "omw-en-08645033-n",
+            "ili": "i82392",
+            "pos": "n",
+            "lemmas": [
+              "rural area"
+            ],
+            "definition": "rural regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-tly-ди-n08226699::unimet-tly-ди-n08645033": {
+          "source": "unimet-tly-ди-n08226699",
+          "target": "unimet-tly-ди-n08645033",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

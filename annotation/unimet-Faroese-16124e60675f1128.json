@@ -1,0 +1,396 @@
+{
+  "id": "16124e60675f1128",
+  "name": "unimet-Faroese",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "fao",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "akurhøna",
+      "all_senses": [
+        {
+          "id": "unimet-fao-akurhøna-n01807828",
+          "lemma": "akurhøna",
+          "word_id": "unimet-fao-akurhøna",
+          "synset": {
+            "id": "omw-en-01807828-n",
+            "ili": "i44813",
+            "pos": "n",
+            "lemmas": [
+              "perdix perdix"
+            ],
+            "definition": "common European partridge"
+          }
+        },
+        {
+          "id": "unimet-fao-akurhøna-n07647496",
+          "lemma": "akurhøna",
+          "word_id": "unimet-fao-akurhøna",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fao-akurhøna-n01807828",
+          "lemma": "akurhøna",
+          "word_id": "unimet-fao-akurhøna",
+          "synset": {
+            "id": "omw-en-01807828-n",
+            "ili": "i44813",
+            "pos": "n",
+            "lemmas": [
+              "perdix perdix"
+            ],
+            "definition": "common European partridge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fao-akurhøna-n07647496",
+          "lemma": "akurhøna",
+          "word_id": "unimet-fao-akurhøna",
+          "synset": {
+            "id": "omw-en-07647496-n",
+            "ili": "i77082",
+            "pos": "n",
+            "lemmas": [
+              "partridge"
+            ],
+            "definition": "flesh of either quail or grouse"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fao-akurhøna-n01807828::unimet-fao-akurhøna-n07647496": {
+          "source": "unimet-fao-akurhøna-n01807828",
+          "target": "unimet-fao-akurhøna-n07647496",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ananas",
+      "all_senses": [
+        {
+          "id": "unimet-fao-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-fao-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-fao-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-fao-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fao-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-fao-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fao-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-fao-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fao-ananas-n07753275::unimet-fao-ananas-n12607456": {
+          "source": "unimet-fao-ananas-n07753275",
+          "target": "unimet-fao-ananas-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-fao-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-fao-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-fao-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-fao-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fao-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-fao-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fao-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-fao-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fao-glas-n14881303::unimet-fao-glas-n03438257": {
+          "source": "unimet-fao-glas-n14881303",
+          "target": "unimet-fao-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jarðber",
+      "all_senses": [
+        {
+          "id": "unimet-fao-jarðber-n07745940",
+          "lemma": "jarðber",
+          "word_id": "unimet-fao-jarðber",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-fao-jarðber-n12630144",
+          "lemma": "jarðber",
+          "word_id": "unimet-fao-jarðber",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fao-jarðber-n07745940",
+          "lemma": "jarðber",
+          "word_id": "unimet-fao-jarðber",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fao-jarðber-n12630144",
+          "lemma": "jarðber",
+          "word_id": "unimet-fao-jarðber",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fao-jarðber-n07745940::unimet-fao-jarðber-n12630144": {
+          "source": "unimet-fao-jarðber-n07745940",
+          "target": "unimet-fao-jarðber-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-fao-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-fao-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-fao-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-fao-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-fao-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-fao-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-fao-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-fao-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-fao-land-n08168978::unimet-fao-land-n08544813": {
+          "source": "unimet-fao-land-n08168978",
+          "target": "unimet-fao-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

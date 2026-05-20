@@ -1,0 +1,2134 @@
+{
+  "id": "d1aeef06608f5e5a",
+  "name": "unimet-Norwegian Bokmål",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nob",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ananas",
+      "all_senses": [
+        {
+          "id": "unimet-nob-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-nob-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        },
+        {
+          "id": "unimet-nob-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-nob-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-ananas-n07753275",
+          "lemma": "ananas",
+          "word_id": "unimet-nob-ananas",
+          "synset": {
+            "id": "omw-en-07753275-n",
+            "ili": "i77802",
+            "pos": "n",
+            "lemmas": [
+              "ananas"
+            ],
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-ananas-n12607456",
+          "lemma": "ananas",
+          "word_id": "unimet-nob-ananas",
+          "synset": {
+            "id": "omw-en-12607456-n",
+            "ili": "i103141",
+            "pos": "n",
+            "lemmas": [
+              "pineapple plant"
+            ],
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-ananas-n07753275::unimet-nob-ananas-n12607456": {
+          "source": "unimet-nob-ananas-n07753275",
+          "target": "unimet-nob-ananas-n12607456",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bjørnebær",
+      "all_senses": [
+        {
+          "id": "unimet-nob-bjørnebær-n07744811",
+          "lemma": "bjørnebær",
+          "word_id": "unimet-nob-bjørnebær",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-nob-bjørnebær-n12653762",
+          "lemma": "bjørnebær",
+          "word_id": "unimet-nob-bjørnebær",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-bjørnebær-n07744811",
+          "lemma": "bjørnebær",
+          "word_id": "unimet-nob-bjørnebær",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-bjørnebær-n12653762",
+          "lemma": "bjørnebær",
+          "word_id": "unimet-nob-bjørnebær",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-bjørnebær-n07744811::unimet-nob-bjørnebær-n12653762": {
+          "source": "unimet-nob-bjørnebær-n07744811",
+          "target": "unimet-nob-bjørnebær-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bombe",
+      "all_senses": [
+        {
+          "id": "unimet-nob-bombe-n02866578",
+          "lemma": "bombe",
+          "word_id": "unimet-nob-bombe",
+          "synset": {
+            "id": "omw-en-02866578-n",
+            "ili": "i50934",
+            "pos": "n",
+            "lemmas": [
+              "bomb"
+            ],
+            "definition": "an explosive device fused to explode under specific conditions"
+          }
+        },
+        {
+          "id": "unimet-nob-bombe-v01131902",
+          "lemma": "bombe",
+          "word_id": "unimet-nob-bombe",
+          "synset": {
+            "id": "omw-en-01131902-v",
+            "ili": "i27260",
+            "pos": "v",
+            "lemmas": [
+              "bombard"
+            ],
+            "definition": "throw bombs at or attack with bombs"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-bombe-n02866578",
+          "lemma": "bombe",
+          "word_id": "unimet-nob-bombe",
+          "synset": {
+            "id": "omw-en-02866578-n",
+            "ili": "i50934",
+            "pos": "n",
+            "lemmas": [
+              "bomb"
+            ],
+            "definition": "an explosive device fused to explode under specific conditions"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-bombe-v01131902",
+          "lemma": "bombe",
+          "word_id": "unimet-nob-bombe",
+          "synset": {
+            "id": "omw-en-01131902-v",
+            "ili": "i27260",
+            "pos": "v",
+            "lemmas": [
+              "bombard"
+            ],
+            "definition": "throw bombs at or attack with bombs"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-bombe-n02866578::unimet-nob-bombe-v01131902": {
+          "source": "unimet-nob-bombe-n02866578",
+          "target": "unimet-nob-bombe-v01131902",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bomull",
+      "all_senses": [
+        {
+          "id": "unimet-nob-bomull-n03115180",
+          "lemma": "bomull",
+          "word_id": "unimet-nob-bomull",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        },
+        {
+          "id": "unimet-nob-bomull-n14870078",
+          "lemma": "bomull",
+          "word_id": "unimet-nob-bomull",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-bomull-n14870078",
+          "lemma": "bomull",
+          "word_id": "unimet-nob-bomull",
+          "synset": {
+            "id": "omw-en-14870078-n",
+            "ili": "i115209",
+            "pos": "n",
+            "lemmas": [
+              "cotton wool"
+            ],
+            "definition": "soft silky fibers from cotton plants in their raw state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-bomull-n03115180",
+          "lemma": "bomull",
+          "word_id": "unimet-nob-bomull",
+          "synset": {
+            "id": "omw-en-03115180-n",
+            "ili": "i52406",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "fabric woven from cotton fibers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-bomull-n14870078::unimet-nob-bomull-n03115180": {
+          "source": "unimet-nob-bomull-n14870078",
+          "target": "unimet-nob-bomull-n03115180",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bor",
+      "all_senses": [
+        {
+          "id": "unimet-nob-bor-n03239726",
+          "lemma": "bor",
+          "word_id": "unimet-nob-bor",
+          "synset": {
+            "id": "omw-en-03239726-n",
+            "ili": "i53159",
+            "pos": "n",
+            "lemmas": [
+              "drill"
+            ],
+            "definition": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)"
+          }
+        },
+        {
+          "id": "unimet-nob-bor-n14631871",
+          "lemma": "bor",
+          "word_id": "unimet-nob-bor",
+          "synset": {
+            "id": "omw-en-14631871-n",
+            "ili": "i113908",
+            "pos": "n",
+            "lemmas": [
+              "boron"
+            ],
+            "definition": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-bor-n14631871",
+          "lemma": "bor",
+          "word_id": "unimet-nob-bor",
+          "synset": {
+            "id": "omw-en-14631871-n",
+            "ili": "i113908",
+            "pos": "n",
+            "lemmas": [
+              "boron"
+            ],
+            "definition": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-bor-n03239726",
+          "lemma": "bor",
+          "word_id": "unimet-nob-bor",
+          "synset": {
+            "id": "omw-en-03239726-n",
+            "ili": "i53159",
+            "pos": "n",
+            "lemmas": [
+              "drill"
+            ],
+            "definition": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-bor-n14631871::unimet-nob-bor-n03239726": {
+          "source": "unimet-nob-bor-n14631871",
+          "target": "unimet-nob-bor-n03239726",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "bronse",
+      "all_senses": [
+        {
+          "id": "unimet-nob-bronse-n02906175",
+          "lemma": "bronse",
+          "word_id": "unimet-nob-bronse",
+          "synset": {
+            "id": "omw-en-02906175-n",
+            "ili": "i51178",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "a sculpture made of bronze"
+          }
+        },
+        {
+          "id": "unimet-nob-bronse-n14717275",
+          "lemma": "bronse",
+          "word_id": "unimet-nob-bronse",
+          "synset": {
+            "id": "omw-en-14717275-n",
+            "ili": "i114335",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "an alloy of copper and tin and sometimes other elements; also any copper-base alloy containing other elements in place of tin"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-bronse-n14717275",
+          "lemma": "bronse",
+          "word_id": "unimet-nob-bronse",
+          "synset": {
+            "id": "omw-en-14717275-n",
+            "ili": "i114335",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "an alloy of copper and tin and sometimes other elements; also any copper-base alloy containing other elements in place of tin"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-bronse-n02906175",
+          "lemma": "bronse",
+          "word_id": "unimet-nob-bronse",
+          "synset": {
+            "id": "omw-en-02906175-n",
+            "ili": "i51178",
+            "pos": "n",
+            "lemmas": [
+              "bronze"
+            ],
+            "definition": "a sculpture made of bronze"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-bronse-n14717275::unimet-nob-bronse-n02906175": {
+          "source": "unimet-nob-bronse-n14717275",
+          "target": "unimet-nob-bronse-n02906175",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "fly",
+      "all_senses": [
+        {
+          "id": "unimet-nob-fly-n02691156",
+          "lemma": "fly",
+          "word_id": "unimet-nob-fly",
+          "synset": {
+            "id": "omw-en-02691156-n",
+            "ili": "i49901",
+            "pos": "n",
+            "lemmas": [
+              "aircraft"
+            ],
+            "definition": "an aircraft that has a fixed wing and is powered by propellers or jets"
+          }
+        },
+        {
+          "id": "unimet-nob-fly-v01940403",
+          "lemma": "fly",
+          "word_id": "unimet-nob-fly",
+          "synset": {
+            "id": "omw-en-01940403-v",
+            "ili": "i31423",
+            "pos": "v",
+            "lemmas": [
+              "fly"
+            ],
+            "definition": "travel through the air; be airborne"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-fly-v01940403",
+          "lemma": "fly",
+          "word_id": "unimet-nob-fly",
+          "synset": {
+            "id": "omw-en-01940403-v",
+            "ili": "i31423",
+            "pos": "v",
+            "lemmas": [
+              "fly"
+            ],
+            "definition": "travel through the air; be airborne"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-fly-n02691156",
+          "lemma": "fly",
+          "word_id": "unimet-nob-fly",
+          "synset": {
+            "id": "omw-en-02691156-n",
+            "ili": "i49901",
+            "pos": "n",
+            "lemmas": [
+              "aircraft"
+            ],
+            "definition": "an aircraft that has a fixed wing and is powered by propellers or jets"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-fly-v01940403::unimet-nob-fly-n02691156": {
+          "source": "unimet-nob-fly-v01940403",
+          "target": "unimet-nob-fly-n02691156",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gips",
+      "all_senses": [
+        {
+          "id": "unimet-nob-gips-n02979836",
+          "lemma": "gips",
+          "word_id": "unimet-nob-gips",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        },
+        {
+          "id": "unimet-nob-gips-n14677778",
+          "lemma": "gips",
+          "word_id": "unimet-nob-gips",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-gips-n14677778",
+          "lemma": "gips",
+          "word_id": "unimet-nob-gips",
+          "synset": {
+            "id": "omw-en-14677778-n",
+            "ili": "i114109",
+            "pos": "n",
+            "lemmas": [
+              "gypsum"
+            ],
+            "definition": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-gips-n02979836",
+          "lemma": "gips",
+          "word_id": "unimet-nob-gips",
+          "synset": {
+            "id": "omw-en-02979836-n",
+            "ili": "i51621",
+            "pos": "n",
+            "lemmas": [
+              "cast"
+            ],
+            "definition": "bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-gips-n14677778::unimet-nob-gips-n02979836": {
+          "source": "unimet-nob-gips-n14677778",
+          "target": "unimet-nob-gips-n02979836",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "glass",
+      "all_senses": [
+        {
+          "id": "unimet-nob-glass-n03438257",
+          "lemma": "glass",
+          "word_id": "unimet-nob-glass",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-nob-glass-n14881303",
+          "lemma": "glass",
+          "word_id": "unimet-nob-glass",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-glass-n14881303",
+          "lemma": "glass",
+          "word_id": "unimet-nob-glass",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-glass-n03438257",
+          "lemma": "glass",
+          "word_id": "unimet-nob-glass",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-glass-n14881303::unimet-nob-glass-n03438257": {
+          "source": "unimet-nob-glass-n14881303",
+          "target": "unimet-nob-glass-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gummi",
+      "all_senses": [
+        {
+          "id": "unimet-nob-gummi-n03088164",
+          "lemma": "gummi",
+          "word_id": "unimet-nob-gummi",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        },
+        {
+          "id": "unimet-nob-gummi-n15006258",
+          "lemma": "gummi",
+          "word_id": "unimet-nob-gummi",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-gummi-n15006258",
+          "lemma": "gummi",
+          "word_id": "unimet-nob-gummi",
+          "synset": {
+            "id": "omw-en-15006258-n",
+            "ili": "i116012",
+            "pos": "n",
+            "lemmas": [
+              "caoutchouc"
+            ],
+            "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-gummi-n03088164",
+          "lemma": "gummi",
+          "word_id": "unimet-nob-gummi",
+          "synset": {
+            "id": "omw-en-03088164-n",
+            "ili": "i52261",
+            "pos": "n",
+            "lemmas": [
+              "prophylactic"
+            ],
+            "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-gummi-n15006258::unimet-nob-gummi-n03088164": {
+          "source": "unimet-nob-gummi-n15006258",
+          "target": "unimet-nob-gummi-n03088164",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "høne",
+      "all_senses": [
+        {
+          "id": "unimet-nob-høne-n01791625",
+          "lemma": "høne",
+          "word_id": "unimet-nob-høne",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-nob-høne-n01792640",
+          "lemma": "høne",
+          "word_id": "unimet-nob-høne",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-nob-høne-n07644967",
+          "lemma": "høne",
+          "word_id": "unimet-nob-høne",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-høne-n01791625",
+          "lemma": "høne",
+          "word_id": "unimet-nob-høne",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-nob-høne-n01792640",
+          "lemma": "høne",
+          "word_id": "unimet-nob-høne",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-høne-n07644967",
+          "lemma": "høne",
+          "word_id": "unimet-nob-høne",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-høne-n01791625::unimet-nob-høne-n07644967": {
+          "source": "unimet-nob-høne-n01791625",
+          "target": "unimet-nob-høne-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-nob-høne-n01792640::unimet-nob-høne-n07644967": {
+          "source": "unimet-nob-høne-n01792640",
+          "target": "unimet-nob-høne-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kastanje",
+      "all_senses": [
+        {
+          "id": "unimet-nob-kastanje-n07772274",
+          "lemma": "kastanje",
+          "word_id": "unimet-nob-kastanje",
+          "synset": {
+            "id": "omw-en-07772274-n",
+            "ili": "i77923",
+            "pos": "n",
+            "lemmas": [
+              "chestnut"
+            ],
+            "definition": "edible nut of any of various chestnut trees of the genus Castanea"
+          }
+        },
+        {
+          "id": "unimet-nob-kastanje-n12262553",
+          "lemma": "kastanje",
+          "word_id": "unimet-nob-kastanje",
+          "synset": {
+            "id": "omw-en-12262553-n",
+            "ili": "i101502",
+            "pos": "n",
+            "lemmas": [
+              "chestnut tree"
+            ],
+            "definition": "any of several attractive deciduous trees yellow-brown in autumn; yield a hard wood and edible nuts in a prickly bur"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-kastanje-n07772274",
+          "lemma": "kastanje",
+          "word_id": "unimet-nob-kastanje",
+          "synset": {
+            "id": "omw-en-07772274-n",
+            "ili": "i77923",
+            "pos": "n",
+            "lemmas": [
+              "chestnut"
+            ],
+            "definition": "edible nut of any of various chestnut trees of the genus Castanea"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-kastanje-n12262553",
+          "lemma": "kastanje",
+          "word_id": "unimet-nob-kastanje",
+          "synset": {
+            "id": "omw-en-12262553-n",
+            "ili": "i101502",
+            "pos": "n",
+            "lemmas": [
+              "chestnut tree"
+            ],
+            "definition": "any of several attractive deciduous trees yellow-brown in autumn; yield a hard wood and edible nuts in a prickly bur"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-kastanje-n07772274::unimet-nob-kastanje-n12262553": {
+          "source": "unimet-nob-kastanje-n07772274",
+          "target": "unimet-nob-kastanje-n12262553",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kylling",
+      "all_senses": [
+        {
+          "id": "unimet-nob-kylling-n01792042",
+          "lemma": "kylling",
+          "word_id": "unimet-nob-kylling",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-nob-kylling-n07644967",
+          "lemma": "kylling",
+          "word_id": "unimet-nob-kylling",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-kylling-n01792042",
+          "lemma": "kylling",
+          "word_id": "unimet-nob-kylling",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-kylling-n07644967",
+          "lemma": "kylling",
+          "word_id": "unimet-nob-kylling",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-kylling-n01792042::unimet-nob-kylling-n07644967": {
+          "source": "unimet-nob-kylling-n01792042",
+          "target": "unimet-nob-kylling-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "land",
+      "all_senses": [
+        {
+          "id": "unimet-nob-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-nob-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-nob-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-nob-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-land-n08168978",
+          "lemma": "land",
+          "word_id": "unimet-nob-land",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-land-n08544813",
+          "lemma": "land",
+          "word_id": "unimet-nob-land",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-land-n08168978::unimet-nob-land-n08544813": {
+          "source": "unimet-nob-land-n08168978",
+          "target": "unimet-nob-land-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "landsby",
+      "all_senses": [
+        {
+          "id": "unimet-nob-landsby-n08226699",
+          "lemma": "landsby",
+          "word_id": "unimet-nob-landsby",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-nob-landsby-n08672738",
+          "lemma": "landsby",
+          "word_id": "unimet-nob-landsby",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-landsby-n08226699",
+          "lemma": "landsby",
+          "word_id": "unimet-nob-landsby",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-landsby-n08672738",
+          "lemma": "landsby",
+          "word_id": "unimet-nob-landsby",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-landsby-n08226699::unimet-nob-landsby-n08672738": {
+          "source": "unimet-nob-landsby-n08226699",
+          "target": "unimet-nob-landsby-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "lin",
+      "all_senses": [
+        {
+          "id": "unimet-nob-lin-n03672521",
+          "lemma": "lin",
+          "word_id": "unimet-nob-lin",
+          "synset": {
+            "id": "omw-en-03672521-n",
+            "ili": "i55716",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "a fabric woven with fibers from the flax plant"
+          }
+        },
+        {
+          "id": "unimet-nob-lin-n14869829",
+          "lemma": "lin",
+          "word_id": "unimet-nob-lin",
+          "synset": {
+            "id": "omw-en-14869829-n",
+            "ili": "i115207",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "fiber of the flax plant that is made into thread and woven into linen fabric"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-lin-n14869829",
+          "lemma": "lin",
+          "word_id": "unimet-nob-lin",
+          "synset": {
+            "id": "omw-en-14869829-n",
+            "ili": "i115207",
+            "pos": "n",
+            "lemmas": [
+              "flax"
+            ],
+            "definition": "fiber of the flax plant that is made into thread and woven into linen fabric"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-lin-n03672521",
+          "lemma": "lin",
+          "word_id": "unimet-nob-lin",
+          "synset": {
+            "id": "omw-en-03672521-n",
+            "ili": "i55716",
+            "pos": "n",
+            "lemmas": [
+              "linen"
+            ],
+            "definition": "a fabric woven with fibers from the flax plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-lin-n14869829::unimet-nob-lin-n03672521": {
+          "source": "unimet-nob-lin-n14869829",
+          "target": "unimet-nob-lin-n03672521",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "linse",
+      "all_senses": [
+        {
+          "id": "unimet-nob-linse-n07725255",
+          "lemma": "linse",
+          "word_id": "unimet-nob-linse",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        },
+        {
+          "id": "unimet-nob-linse-n12544240",
+          "lemma": "linse",
+          "word_id": "unimet-nob-linse",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-linse-n12544240",
+          "lemma": "linse",
+          "word_id": "unimet-nob-linse",
+          "synset": {
+            "id": "omw-en-12544240-n",
+            "ili": "i102832",
+            "pos": "n",
+            "lemmas": [
+              "lentil plant"
+            ],
+            "definition": "widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-linse-n07725255",
+          "lemma": "linse",
+          "word_id": "unimet-nob-linse",
+          "synset": {
+            "id": "omw-en-07725255-n",
+            "ili": "i77612",
+            "pos": "n",
+            "lemmas": [
+              "lentil"
+            ],
+            "definition": "round flat seed of the lentil plant used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-linse-n12544240::unimet-nob-linse-n07725255": {
+          "source": "unimet-nob-linse-n12544240",
+          "target": "unimet-nob-linse-n07725255",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "messing",
+      "all_senses": [
+        {
+          "id": "unimet-nob-messing-n02892304",
+          "lemma": "messing",
+          "word_id": "unimet-nob-messing",
+          "synset": {
+            "id": "omw-en-02892304-n",
+            "ili": "i51086",
+            "pos": "n",
+            "lemmas": [
+              "brass"
+            ],
+            "definition": "an ornament or utensil made of brass"
+          }
+        },
+        {
+          "id": "unimet-nob-messing-n14716997",
+          "lemma": "messing",
+          "word_id": "unimet-nob-messing",
+          "synset": {
+            "id": "omw-en-14716997-n",
+            "ili": "i114334",
+            "pos": "n",
+            "lemmas": [
+              "brass"
+            ],
+            "definition": "an alloy of copper and zinc"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-messing-n14716997",
+          "lemma": "messing",
+          "word_id": "unimet-nob-messing",
+          "synset": {
+            "id": "omw-en-14716997-n",
+            "ili": "i114334",
+            "pos": "n",
+            "lemmas": [
+              "brass"
+            ],
+            "definition": "an alloy of copper and zinc"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-messing-n02892304",
+          "lemma": "messing",
+          "word_id": "unimet-nob-messing",
+          "synset": {
+            "id": "omw-en-02892304-n",
+            "ili": "i51086",
+            "pos": "n",
+            "lemmas": [
+              "brass"
+            ],
+            "definition": "an ornament or utensil made of brass"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-messing-n14716997::unimet-nob-messing-n02892304": {
+          "source": "unimet-nob-messing-n14716997",
+          "target": "unimet-nob-messing-n02892304",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skade",
+      "all_senses": [
+        {
+          "id": "unimet-nob-skade-n14285662",
+          "lemma": "skade",
+          "word_id": "unimet-nob-skade",
+          "synset": {
+            "id": "omw-en-14285662-n",
+            "ili": "i112025",
+            "pos": "n",
+            "lemmas": [
+              "injury"
+            ],
+            "definition": "any physical damage to the body caused by violence or accident or fracture etc."
+          }
+        },
+        {
+          "id": "unimet-nob-skade-v00069879",
+          "lemma": "skade",
+          "word_id": "unimet-nob-skade",
+          "synset": {
+            "id": "omw-en-00069879-v",
+            "ili": "i22125",
+            "pos": "v",
+            "lemmas": [
+              "injure"
+            ],
+            "definition": "cause injuries or bodily harm to"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-skade-v00069879",
+          "lemma": "skade",
+          "word_id": "unimet-nob-skade",
+          "synset": {
+            "id": "omw-en-00069879-v",
+            "ili": "i22125",
+            "pos": "v",
+            "lemmas": [
+              "injure"
+            ],
+            "definition": "cause injuries or bodily harm to"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-skade-n14285662",
+          "lemma": "skade",
+          "word_id": "unimet-nob-skade",
+          "synset": {
+            "id": "omw-en-14285662-n",
+            "ili": "i112025",
+            "pos": "n",
+            "lemmas": [
+              "injury"
+            ],
+            "definition": "any physical damage to the body caused by violence or accident or fracture etc."
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-skade-v00069879::unimet-nob-skade-n14285662": {
+          "source": "unimet-nob-skade-v00069879",
+          "target": "unimet-nob-skade-n14285662",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skole",
+      "all_senses": [
+        {
+          "id": "unimet-nob-skole-n04146050",
+          "lemma": "skole",
+          "word_id": "unimet-nob-skole",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        },
+        {
+          "id": "unimet-nob-skole-n08276720",
+          "lemma": "skole",
+          "word_id": "unimet-nob-skole",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-skole-n04146050",
+          "lemma": "skole",
+          "word_id": "unimet-nob-skole",
+          "synset": {
+            "id": "omw-en-04146050-n",
+            "ili": "i58518",
+            "pos": "n",
+            "lemmas": [
+              "structure"
+            ],
+            "definition": "a building where young people receive education"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-skole-n08276720",
+          "lemma": "skole",
+          "word_id": "unimet-nob-skole",
+          "synset": {
+            "id": "omw-en-08276720-n",
+            "ili": "i80636",
+            "pos": "n",
+            "lemmas": [
+              "school"
+            ],
+            "definition": "an educational institution designed for the teaching of students under the direction of teachers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-skole-n04146050::unimet-nob-skole-n08276720": {
+          "source": "unimet-nob-skole-n04146050",
+          "target": "unimet-nob-skole-n08276720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "skuffe",
+      "all_senses": [
+        {
+          "id": "unimet-nob-skuffe-n04208210",
+          "lemma": "skuffe",
+          "word_id": "unimet-nob-skuffe",
+          "synset": {
+            "id": "omw-en-04208210-n",
+            "ili": "i58868",
+            "pos": "n",
+            "lemmas": [
+              "shovel"
+            ],
+            "definition": "a hand tool for lifting loose material; consists of a curved container or scoop and a handle"
+          }
+        },
+        {
+          "id": "unimet-nob-skuffe-v01312810",
+          "lemma": "skuffe",
+          "word_id": "unimet-nob-skuffe",
+          "synset": {
+            "id": "omw-en-01312810-v",
+            "ili": "i28248",
+            "pos": "v",
+            "lemmas": [
+              "shovel"
+            ],
+            "definition": "dig with or as if with a shovel"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-skuffe-n04208210",
+          "lemma": "skuffe",
+          "word_id": "unimet-nob-skuffe",
+          "synset": {
+            "id": "omw-en-04208210-n",
+            "ili": "i58868",
+            "pos": "n",
+            "lemmas": [
+              "shovel"
+            ],
+            "definition": "a hand tool for lifting loose material; consists of a curved container or scoop and a handle"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-skuffe-v01312810",
+          "lemma": "skuffe",
+          "word_id": "unimet-nob-skuffe",
+          "synset": {
+            "id": "omw-en-01312810-v",
+            "ili": "i28248",
+            "pos": "v",
+            "lemmas": [
+              "shovel"
+            ],
+            "definition": "dig with or as if with a shovel"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-skuffe-n04208210::unimet-nob-skuffe-v01312810": {
+          "source": "unimet-nob-skuffe-n04208210",
+          "target": "unimet-nob-skuffe-v01312810",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sopp",
+      "all_senses": [
+        {
+          "id": "unimet-nob-sopp-n07734744",
+          "lemma": "sopp",
+          "word_id": "unimet-nob-sopp",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-nob-sopp-n12992868",
+          "lemma": "sopp",
+          "word_id": "unimet-nob-sopp",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-sopp-n12992868",
+          "lemma": "sopp",
+          "word_id": "unimet-nob-sopp",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-sopp-n07734744",
+          "lemma": "sopp",
+          "word_id": "unimet-nob-sopp",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-sopp-n12992868::unimet-nob-sopp-n07734744": {
+          "source": "unimet-nob-sopp-n12992868",
+          "target": "unimet-nob-sopp-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "sorg",
+      "all_senses": [
+        {
+          "id": "unimet-nob-sorg-n05833683",
+          "lemma": "sorg",
+          "word_id": "unimet-nob-sorg",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-nob-sorg-n07532440",
+          "lemma": "sorg",
+          "word_id": "unimet-nob-sorg",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-nob-sorg-n07533877",
+          "lemma": "sorg",
+          "word_id": "unimet-nob-sorg",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-sorg-n07532440",
+          "lemma": "sorg",
+          "word_id": "unimet-nob-sorg",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-nob-sorg-n07533877",
+          "lemma": "sorg",
+          "word_id": "unimet-nob-sorg",
+          "synset": {
+            "id": "omw-en-07533877-n",
+            "ili": "i76345",
+            "pos": "n",
+            "lemmas": [
+              "mournfulness"
+            ],
+            "definition": "intense mournfulness"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-sorg-n05833683",
+          "lemma": "sorg",
+          "word_id": "unimet-nob-sorg",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-sorg-n07532440::unimet-nob-sorg-n05833683": {
+          "source": "unimet-nob-sorg-n07532440",
+          "target": "unimet-nob-sorg-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-nob-sorg-n07533877::unimet-nob-sorg-n05833683": {
+          "source": "unimet-nob-sorg-n07533877",
+          "target": "unimet-nob-sorg-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "stat",
+      "all_senses": [
+        {
+          "id": "unimet-nob-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-nob-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-nob-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-nob-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-stat-n08178547",
+          "lemma": "stat",
+          "word_id": "unimet-nob-stat",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-stat-n08654360",
+          "lemma": "stat",
+          "word_id": "unimet-nob-stat",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-stat-n08178547::unimet-nob-stat-n08654360": {
+          "source": "unimet-nob-stat-n08178547",
+          "target": "unimet-nob-stat-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "svette",
+      "all_senses": [
+        {
+          "id": "unimet-nob-svette-n05405751",
+          "lemma": "svette",
+          "word_id": "unimet-nob-svette",
+          "synset": {
+            "id": "omw-en-05405751-n",
+            "ili": "i65378",
+            "pos": "n",
+            "lemmas": [
+              "b.o."
+            ],
+            "definition": "salty fluid secreted by sweat glands"
+          }
+        },
+        {
+          "id": "unimet-nob-svette-v00067545",
+          "lemma": "svette",
+          "word_id": "unimet-nob-svette",
+          "synset": {
+            "id": "omw-en-00067545-v",
+            "ili": "i22113",
+            "pos": "v",
+            "lemmas": [
+              "perspire"
+            ],
+            "definition": "excrete perspiration through the pores in the skin"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-svette-v00067545",
+          "lemma": "svette",
+          "word_id": "unimet-nob-svette",
+          "synset": {
+            "id": "omw-en-00067545-v",
+            "ili": "i22113",
+            "pos": "v",
+            "lemmas": [
+              "perspire"
+            ],
+            "definition": "excrete perspiration through the pores in the skin"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-svette-n05405751",
+          "lemma": "svette",
+          "word_id": "unimet-nob-svette",
+          "synset": {
+            "id": "omw-en-05405751-n",
+            "ili": "i65378",
+            "pos": "n",
+            "lemmas": [
+              "b.o."
+            ],
+            "definition": "salty fluid secreted by sweat glands"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-svette-v00067545::unimet-nob-svette-n05405751": {
+          "source": "unimet-nob-svette-v00067545",
+          "target": "unimet-nob-svette-n05405751",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "tv",
+      "all_senses": [
+        {
+          "id": "unimet-nob-tv-n04405907",
+          "lemma": "tv",
+          "word_id": "unimet-nob-tv",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        },
+        {
+          "id": "unimet-nob-tv-n06277280",
+          "lemma": "tv",
+          "word_id": "unimet-nob-tv",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-tv-n04405907",
+          "lemma": "tv",
+          "word_id": "unimet-nob-tv",
+          "synset": {
+            "id": "omw-en-04405907-n",
+            "ili": "i60090",
+            "pos": "n",
+            "lemmas": [
+              "video"
+            ],
+            "definition": "an electronic device that receives television signals and displays them on a screen"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-tv-n06277280",
+          "lemma": "tv",
+          "word_id": "unimet-nob-tv",
+          "synset": {
+            "id": "omw-en-06277280-n",
+            "ili": "i69499",
+            "pos": "n",
+            "lemmas": [
+              "telecasting"
+            ],
+            "definition": "broadcasting visual images of stationary or moving objects"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-tv-n04405907::unimet-nob-tv-n06277280": {
+          "source": "unimet-nob-tv-n04405907",
+          "target": "unimet-nob-tv-n06277280",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ull",
+      "all_senses": [
+        {
+          "id": "unimet-nob-ull-n04599235",
+          "lemma": "ull",
+          "word_id": "unimet-nob-ull",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-nob-ull-n15104217",
+          "lemma": "ull",
+          "word_id": "unimet-nob-ull",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nob-ull-n15104217",
+          "lemma": "ull",
+          "word_id": "unimet-nob-ull",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nob-ull-n04599235",
+          "lemma": "ull",
+          "word_id": "unimet-nob-ull",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nob-ull-n15104217::unimet-nob-ull-n04599235": {
+          "source": "unimet-nob-ull-n15104217",
+          "target": "unimet-nob-ull-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

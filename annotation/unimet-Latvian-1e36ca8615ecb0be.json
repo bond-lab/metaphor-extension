@@ -1,0 +1,1516 @@
+{
+  "id": "1e36ca8615ecb0be",
+  "name": "unimet-Latvian",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "lav",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "aprikoze",
+      "all_senses": [
+        {
+          "id": "unimet-lav-aprikoze-n07750872",
+          "lemma": "aprikoze",
+          "word_id": "unimet-lav-aprikoze",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        },
+        {
+          "id": "unimet-lav-aprikoze-n12640607",
+          "lemma": "aprikoze",
+          "word_id": "unimet-lav-aprikoze",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-aprikoze-n07750872",
+          "lemma": "aprikoze",
+          "word_id": "unimet-lav-aprikoze",
+          "synset": {
+            "id": "omw-en-07750872-n",
+            "ili": "i77784",
+            "pos": "n",
+            "lemmas": [
+              "apricot"
+            ],
+            "definition": "downy yellow to rosy-colored fruit resembling a small peach"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-aprikoze-n12640607",
+          "lemma": "aprikoze",
+          "word_id": "unimet-lav-aprikoze",
+          "synset": {
+            "id": "omw-en-12640607-n",
+            "ili": "i103304",
+            "pos": "n",
+            "lemmas": [
+              "apricot tree"
+            ],
+            "definition": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-aprikoze-n07750872::unimet-lav-aprikoze-n12640607": {
+          "source": "unimet-lav-aprikoze-n07750872",
+          "target": "unimet-lav-aprikoze-n12640607",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "avokado",
+      "all_senses": [
+        {
+          "id": "unimet-lav-avokado-n07764847",
+          "lemma": "avokado",
+          "word_id": "unimet-lav-avokado",
+          "synset": {
+            "id": "omw-en-07764847-n",
+            "ili": "i77873",
+            "pos": "n",
+            "lemmas": [
+              "alligator pear"
+            ],
+            "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+          }
+        },
+        {
+          "id": "unimet-lav-avokado-n11706761",
+          "lemma": "avokado",
+          "word_id": "unimet-lav-avokado",
+          "synset": {
+            "id": "omw-en-11706761-n",
+            "ili": "i98863",
+            "pos": "n",
+            "lemmas": [
+              "avocado tree"
+            ],
+            "definition": "tropical American tree bearing large pulpy green fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-avokado-n07764847",
+          "lemma": "avokado",
+          "word_id": "unimet-lav-avokado",
+          "synset": {
+            "id": "omw-en-07764847-n",
+            "ili": "i77873",
+            "pos": "n",
+            "lemmas": [
+              "alligator pear"
+            ],
+            "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-avokado-n11706761",
+          "lemma": "avokado",
+          "word_id": "unimet-lav-avokado",
+          "synset": {
+            "id": "omw-en-11706761-n",
+            "ili": "i98863",
+            "pos": "n",
+            "lemmas": [
+              "avocado tree"
+            ],
+            "definition": "tropical American tree bearing large pulpy green fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-avokado-n07764847::unimet-lav-avokado-n11706761": {
+          "source": "unimet-lav-avokado-n07764847",
+          "target": "unimet-lav-avokado-n11706761",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ciems",
+      "all_senses": [
+        {
+          "id": "unimet-lav-ciems-n08226699",
+          "lemma": "ciems",
+          "word_id": "unimet-lav-ciems",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        },
+        {
+          "id": "unimet-lav-ciems-n08672738",
+          "lemma": "ciems",
+          "word_id": "unimet-lav-ciems",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-ciems-n08226699",
+          "lemma": "ciems",
+          "word_id": "unimet-lav-ciems",
+          "synset": {
+            "id": "omw-en-08226699-n",
+            "ili": "i80343",
+            "pos": "n",
+            "lemmas": [
+              "township"
+            ],
+            "definition": "a community of people smaller than a town"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-ciems-n08672738",
+          "lemma": "ciems",
+          "word_id": "unimet-lav-ciems",
+          "synset": {
+            "id": "omw-en-08672738-n",
+            "ili": "i82515",
+            "pos": "n",
+            "lemmas": [
+              "hamlet"
+            ],
+            "definition": "a settlement smaller than a town"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-ciems-n08226699::unimet-lav-ciems-n08672738": {
+          "source": "unimet-lav-ciems-n08226699",
+          "target": "unimet-lav-ciems-n08672738",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "cālis",
+      "all_senses": [
+        {
+          "id": "unimet-lav-cālis-n01792042",
+          "lemma": "cālis",
+          "word_id": "unimet-lav-cālis",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        },
+        {
+          "id": "unimet-lav-cālis-n07644967",
+          "lemma": "cālis",
+          "word_id": "unimet-lav-cālis",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-cālis-n01792042",
+          "lemma": "cālis",
+          "word_id": "unimet-lav-cālis",
+          "synset": {
+            "id": "omw-en-01792042-n",
+            "ili": "i44709",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "young bird especially of domestic fowl"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-cālis-n07644967",
+          "lemma": "cālis",
+          "word_id": "unimet-lav-cālis",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-cālis-n01792042::unimet-lav-cālis-n07644967": {
+          "source": "unimet-lav-cālis-n01792042",
+          "target": "unimet-lav-cālis-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "dārgakmens",
+      "all_senses": [
+        {
+          "id": "unimet-lav-dārgakmens-n03596787",
+          "lemma": "dārgakmens",
+          "word_id": "unimet-lav-dārgakmens",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        },
+        {
+          "id": "unimet-lav-dārgakmens-n14699752",
+          "lemma": "dārgakmens",
+          "word_id": "unimet-lav-dārgakmens",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-dārgakmens-n14699752",
+          "lemma": "dārgakmens",
+          "word_id": "unimet-lav-dārgakmens",
+          "synset": {
+            "id": "omw-en-14699752-n",
+            "ili": "i114240",
+            "pos": "n",
+            "lemmas": [
+              "stone"
+            ],
+            "definition": "a crystalline rock that can be cut and polished for jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-dārgakmens-n03596787",
+          "lemma": "dārgakmens",
+          "word_id": "unimet-lav-dārgakmens",
+          "synset": {
+            "id": "omw-en-03596787-n",
+            "ili": "i55256",
+            "pos": "n",
+            "lemmas": [
+              "jewel"
+            ],
+            "definition": "a precious or semiprecious stone incorporated into a piece of jewelry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-dārgakmens-n14699752::unimet-lav-dārgakmens-n03596787": {
+          "source": "unimet-lav-dārgakmens-n14699752",
+          "target": "unimet-lav-dārgakmens-n03596787",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kazene",
+      "all_senses": [
+        {
+          "id": "unimet-lav-kazene-n07744811",
+          "lemma": "kazene",
+          "word_id": "unimet-lav-kazene",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        },
+        {
+          "id": "unimet-lav-kazene-n12653762",
+          "lemma": "kazene",
+          "word_id": "unimet-lav-kazene",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-kazene-n07744811",
+          "lemma": "kazene",
+          "word_id": "unimet-lav-kazene",
+          "synset": {
+            "id": "omw-en-07744811-n",
+            "ili": "i77746",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-kazene-n12653762",
+          "lemma": "kazene",
+          "word_id": "unimet-lav-kazene",
+          "synset": {
+            "id": "omw-en-12653762-n",
+            "ili": "i103368",
+            "pos": "n",
+            "lemmas": [
+              "blackberry"
+            ],
+            "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-kazene-n07744811::unimet-lav-kazene-n12653762": {
+          "source": "unimet-lav-kazene-n07744811",
+          "target": "unimet-lav-kazene-n12653762",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "kristāls",
+      "all_senses": [
+        {
+          "id": "unimet-lav-kristāls-n03142834",
+          "lemma": "kristāls",
+          "word_id": "unimet-lav-kristāls",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        },
+        {
+          "id": "unimet-lav-kristāls-n14883206",
+          "lemma": "kristāls",
+          "word_id": "unimet-lav-kristāls",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-kristāls-n14883206",
+          "lemma": "kristāls",
+          "word_id": "unimet-lav-kristāls",
+          "synset": {
+            "id": "omw-en-14883206-n",
+            "ili": "i115285",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "a solid formed by the solidification of a chemical and having a highly regular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-kristāls-n03142834",
+          "lemma": "kristāls",
+          "word_id": "unimet-lav-kristāls",
+          "synset": {
+            "id": "omw-en-03142834-n",
+            "ili": "i52579",
+            "pos": "n",
+            "lemmas": [
+              "crystal"
+            ],
+            "definition": "glassware made of quartz"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-kristāls-n14883206::unimet-lav-kristāls-n03142834": {
+          "source": "unimet-lav-kristāls-n14883206",
+          "target": "unimet-lav-kristāls-n03142834",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "maiss",
+      "all_senses": [
+        {
+          "id": "unimet-lav-maiss-n04122825",
+          "lemma": "maiss",
+          "word_id": "unimet-lav-maiss",
+          "synset": {
+            "id": "omw-en-04122825-n",
+            "ili": "i58368",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a bag made of paper or plastic for holding customer's purchases"
+          }
+        },
+        {
+          "id": "unimet-lav-maiss-n13769206",
+          "lemma": "maiss",
+          "word_id": "unimet-lav-maiss",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-maiss-n04122825",
+          "lemma": "maiss",
+          "word_id": "unimet-lav-maiss",
+          "synset": {
+            "id": "omw-en-04122825-n",
+            "ili": "i58368",
+            "pos": "n",
+            "lemmas": [
+              "bag"
+            ],
+            "definition": "a bag made of paper or plastic for holding customer's purchases"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-maiss-n13769206",
+          "lemma": "maiss",
+          "word_id": "unimet-lav-maiss",
+          "synset": {
+            "id": "omw-en-13769206-n",
+            "ili": "i109256",
+            "pos": "n",
+            "lemmas": [
+              "sack"
+            ],
+            "definition": "the quantity contained in a sack"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-maiss-n04122825::unimet-lav-maiss-n13769206": {
+          "source": "unimet-lav-maiss-n04122825",
+          "target": "unimet-lav-maiss-n13769206",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mandarīns",
+      "all_senses": [
+        {
+          "id": "unimet-lav-mandarīns-n07747951",
+          "lemma": "mandarīns",
+          "word_id": "unimet-lav-mandarīns",
+          "synset": {
+            "id": "omw-en-07747951-n",
+            "ili": "i77764",
+            "pos": "n",
+            "lemmas": [
+              "mandarin"
+            ],
+            "definition": "a somewhat flat reddish-orange loose skinned citrus of China"
+          }
+        },
+        {
+          "id": "unimet-lav-mandarīns-n12710295",
+          "lemma": "mandarīns",
+          "word_id": "unimet-lav-mandarīns",
+          "synset": {
+            "id": "omw-en-12710295-n",
+            "ili": "i103645",
+            "pos": "n",
+            "lemmas": [
+              "tangerine"
+            ],
+            "definition": "a variety of mandarin orange"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-mandarīns-n07747951",
+          "lemma": "mandarīns",
+          "word_id": "unimet-lav-mandarīns",
+          "synset": {
+            "id": "omw-en-07747951-n",
+            "ili": "i77764",
+            "pos": "n",
+            "lemmas": [
+              "mandarin"
+            ],
+            "definition": "a somewhat flat reddish-orange loose skinned citrus of China"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-mandarīns-n12710295",
+          "lemma": "mandarīns",
+          "word_id": "unimet-lav-mandarīns",
+          "synset": {
+            "id": "omw-en-12710295-n",
+            "ili": "i103645",
+            "pos": "n",
+            "lemmas": [
+              "tangerine"
+            ],
+            "definition": "a variety of mandarin orange"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-mandarīns-n07747951::unimet-lav-mandarīns-n12710295": {
+          "source": "unimet-lav-mandarīns-n07747951",
+          "target": "unimet-lav-mandarīns-n12710295",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "mīla",
+      "all_senses": [
+        {
+          "id": "unimet-lav-mīla-n07543288",
+          "lemma": "mīla",
+          "word_id": "unimet-lav-mīla",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        },
+        {
+          "id": "unimet-lav-mīla-n09849598",
+          "lemma": "mīla",
+          "word_id": "unimet-lav-mīla",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-mīla-n07543288",
+          "lemma": "mīla",
+          "word_id": "unimet-lav-mīla",
+          "synset": {
+            "id": "omw-en-07543288-n",
+            "ili": "i76395",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a strong positive emotion of regard and affection"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-mīla-n09849598",
+          "lemma": "mīla",
+          "word_id": "unimet-lav-mīla",
+          "synset": {
+            "id": "omw-en-09849598-n",
+            "ili": "i88532",
+            "pos": "n",
+            "lemmas": [
+              "love"
+            ],
+            "definition": "a beloved person; used as terms of endearment"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-mīla-n07543288::unimet-lav-mīla-n09849598": {
+          "source": "unimet-lav-mīla-n07543288",
+          "target": "unimet-lav-mīla-n09849598",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ogle",
+      "all_senses": [
+        {
+          "id": "unimet-lav-ogle-n03007824",
+          "lemma": "ogle",
+          "word_id": "unimet-lav-ogle",
+          "synset": {
+            "id": "omw-en-03007824-n",
+            "ili": "i51783",
+            "pos": "n",
+            "lemmas": [
+              "charcoal"
+            ],
+            "definition": "a stick of black carbon material used for drawing"
+          }
+        },
+        {
+          "id": "unimet-lav-ogle-n14685296",
+          "lemma": "ogle",
+          "word_id": "unimet-lav-ogle",
+          "synset": {
+            "id": "omw-en-14685296-n",
+            "ili": "i114153",
+            "pos": "n",
+            "lemmas": [
+              "charcoal"
+            ],
+            "definition": "a carbonaceous material obtained by heating wood or other organic matter in the absence of air"
+          }
+        },
+        {
+          "id": "unimet-lav-ogle-n14814616",
+          "lemma": "ogle",
+          "word_id": "unimet-lav-ogle",
+          "synset": {
+            "id": "omw-en-14814616-n",
+            "ili": "i114899",
+            "pos": "n",
+            "lemmas": [
+              "coal"
+            ],
+            "definition": "fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-ogle-n14685296",
+          "lemma": "ogle",
+          "word_id": "unimet-lav-ogle",
+          "synset": {
+            "id": "omw-en-14685296-n",
+            "ili": "i114153",
+            "pos": "n",
+            "lemmas": [
+              "charcoal"
+            ],
+            "definition": "a carbonaceous material obtained by heating wood or other organic matter in the absence of air"
+          }
+        },
+        {
+          "id": "unimet-lav-ogle-n14814616",
+          "lemma": "ogle",
+          "word_id": "unimet-lav-ogle",
+          "synset": {
+            "id": "omw-en-14814616-n",
+            "ili": "i114899",
+            "pos": "n",
+            "lemmas": [
+              "coal"
+            ],
+            "definition": "fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-ogle-n03007824",
+          "lemma": "ogle",
+          "word_id": "unimet-lav-ogle",
+          "synset": {
+            "id": "omw-en-03007824-n",
+            "ili": "i51783",
+            "pos": "n",
+            "lemmas": [
+              "charcoal"
+            ],
+            "definition": "a stick of black carbon material used for drawing"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-ogle-n14685296::unimet-lav-ogle-n03007824": {
+          "source": "unimet-lav-ogle-n14685296",
+          "target": "unimet-lav-ogle-n03007824",
+          "type": "metonymy"
+        },
+        "unimet-lav-ogle-n14814616::unimet-lav-ogle-n03007824": {
+          "source": "unimet-lav-ogle-n14814616",
+          "target": "unimet-lav-ogle-n03007824",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "plūme",
+      "all_senses": [
+        {
+          "id": "unimet-lav-plūme-n07751451",
+          "lemma": "plūme",
+          "word_id": "unimet-lav-plūme",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-lav-plūme-n12638218",
+          "lemma": "plūme",
+          "word_id": "unimet-lav-plūme",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-plūme-n07751451",
+          "lemma": "plūme",
+          "word_id": "unimet-lav-plūme",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-plūme-n12638218",
+          "lemma": "plūme",
+          "word_id": "unimet-lav-plūme",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-plūme-n07751451::unimet-lav-plūme-n12638218": {
+          "source": "unimet-lav-plūme-n07751451",
+          "target": "unimet-lav-plūme-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pupa",
+      "all_senses": [
+        {
+          "id": "unimet-lav-pupa-n07724943",
+          "lemma": "pupa",
+          "word_id": "unimet-lav-pupa",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        },
+        {
+          "id": "unimet-lav-pupa-n12556307",
+          "lemma": "pupa",
+          "word_id": "unimet-lav-pupa",
+          "synset": {
+            "id": "omw-en-12556307-n",
+            "ili": "i102888",
+            "pos": "n",
+            "lemmas": [
+              "bean plant"
+            ],
+            "definition": "any of various leguminous plants grown for their edible seeds and pods"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-pupa-n12556307",
+          "lemma": "pupa",
+          "word_id": "unimet-lav-pupa",
+          "synset": {
+            "id": "omw-en-12556307-n",
+            "ili": "i102888",
+            "pos": "n",
+            "lemmas": [
+              "bean plant"
+            ],
+            "definition": "any of various leguminous plants grown for their edible seeds and pods"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-pupa-n07724943",
+          "lemma": "pupa",
+          "word_id": "unimet-lav-pupa",
+          "synset": {
+            "id": "omw-en-07724943-n",
+            "ili": "i77610",
+            "pos": "n",
+            "lemmas": [
+              "bean"
+            ],
+            "definition": "any of various edible seeds of plants of the family Leguminosae used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-pupa-n12556307::unimet-lav-pupa-n07724943": {
+          "source": "unimet-lav-pupa-n12556307",
+          "target": "unimet-lav-pupa-n07724943",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "valsts",
+      "all_senses": [
+        {
+          "id": "unimet-lav-valsts-n08168978",
+          "lemma": "valsts",
+          "word_id": "unimet-lav-valsts",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lav-valsts-n08178547",
+          "lemma": "valsts",
+          "word_id": "unimet-lav-valsts",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        },
+        {
+          "id": "unimet-lav-valsts-n08654360",
+          "lemma": "valsts",
+          "word_id": "unimet-lav-valsts",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-valsts-n08168978",
+          "lemma": "valsts",
+          "word_id": "unimet-lav-valsts",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lav-valsts-n08178547",
+          "lemma": "valsts",
+          "word_id": "unimet-lav-valsts",
+          "synset": {
+            "id": "omw-en-08178547-n",
+            "ili": "i80119",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the group of people comprising the government of a sovereign state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-valsts-n08654360",
+          "lemma": "valsts",
+          "word_id": "unimet-lav-valsts",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-valsts-n08168978::unimet-lav-valsts-n08654360": {
+          "source": "unimet-lav-valsts-n08168978",
+          "target": "unimet-lav-valsts-n08654360",
+          "type": "metonymy"
+        },
+        "unimet-lav-valsts-n08178547::unimet-lav-valsts-n08654360": {
+          "source": "unimet-lav-valsts-n08178547",
+          "target": "unimet-lav-valsts-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vilna",
+      "all_senses": [
+        {
+          "id": "unimet-lav-vilna-n04599235",
+          "lemma": "vilna",
+          "word_id": "unimet-lav-vilna",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        },
+        {
+          "id": "unimet-lav-vilna-n15104217",
+          "lemma": "vilna",
+          "word_id": "unimet-lav-vilna",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        },
+        {
+          "id": "unimet-lav-vilna-n15104752",
+          "lemma": "vilna",
+          "word_id": "unimet-lav-vilna",
+          "synset": {
+            "id": "omw-en-15104752-n",
+            "ili": "i116583",
+            "pos": "n",
+            "lemmas": [
+              "fleece"
+            ],
+            "definition": "the wool of a sheep or similar animal"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-vilna-n15104217",
+          "lemma": "vilna",
+          "word_id": "unimet-lav-vilna",
+          "synset": {
+            "id": "omw-en-15104217-n",
+            "ili": "i116579",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "fiber sheared from animals (such as sheep) and twisted into yarn for weaving"
+          }
+        },
+        {
+          "id": "unimet-lav-vilna-n15104752",
+          "lemma": "vilna",
+          "word_id": "unimet-lav-vilna",
+          "synset": {
+            "id": "omw-en-15104752-n",
+            "ili": "i116583",
+            "pos": "n",
+            "lemmas": [
+              "fleece"
+            ],
+            "definition": "the wool of a sheep or similar animal"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-vilna-n04599235",
+          "lemma": "vilna",
+          "word_id": "unimet-lav-vilna",
+          "synset": {
+            "id": "omw-en-04599235-n",
+            "ili": "i61244",
+            "pos": "n",
+            "lemmas": [
+              "wool"
+            ],
+            "definition": "a fabric made from the hair of sheep"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-vilna-n15104217::unimet-lav-vilna-n04599235": {
+          "source": "unimet-lav-vilna-n15104217",
+          "target": "unimet-lav-vilna-n04599235",
+          "type": "metonymy"
+        },
+        "unimet-lav-vilna-n15104752::unimet-lav-vilna-n04599235": {
+          "source": "unimet-lav-vilna-n15104752",
+          "target": "unimet-lav-vilna-n04599235",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "vista",
+      "all_senses": [
+        {
+          "id": "unimet-lav-vista-n01791625",
+          "lemma": "vista",
+          "word_id": "unimet-lav-vista",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-lav-vista-n01792640",
+          "lemma": "vista",
+          "word_id": "unimet-lav-vista",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-lav-vista-n07644967",
+          "lemma": "vista",
+          "word_id": "unimet-lav-vista",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-vista-n01791625",
+          "lemma": "vista",
+          "word_id": "unimet-lav-vista",
+          "synset": {
+            "id": "omw-en-01791625-n",
+            "ili": "i44707",
+            "pos": "n",
+            "lemmas": [
+              "chicken"
+            ],
+            "definition": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+          }
+        },
+        {
+          "id": "unimet-lav-vista-n01792640",
+          "lemma": "vista",
+          "word_id": "unimet-lav-vista",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-vista-n07644967",
+          "lemma": "vista",
+          "word_id": "unimet-lav-vista",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-vista-n01791625::unimet-lav-vista-n07644967": {
+          "source": "unimet-lav-vista-n01791625",
+          "target": "unimet-lav-vista-n07644967",
+          "type": "metonymy"
+        },
+        "unimet-lav-vista-n01792640::unimet-lav-vista-n07644967": {
+          "source": "unimet-lav-vista-n01792640",
+          "target": "unimet-lav-vista-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zeme",
+      "all_senses": [
+        {
+          "id": "unimet-lav-zeme-n08168978",
+          "lemma": "zeme",
+          "word_id": "unimet-lav-zeme",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-lav-zeme-n08544813",
+          "lemma": "zeme",
+          "word_id": "unimet-lav-zeme",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-zeme-n08168978",
+          "lemma": "zeme",
+          "word_id": "unimet-lav-zeme",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-zeme-n08544813",
+          "lemma": "zeme",
+          "word_id": "unimet-lav-zeme",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-zeme-n08168978::unimet-lav-zeme-n08544813": {
+          "source": "unimet-lav-zeme-n08168978",
+          "target": "unimet-lav-zeme-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zemene",
+      "all_senses": [
+        {
+          "id": "unimet-lav-zemene-n07745940",
+          "lemma": "zemene",
+          "word_id": "unimet-lav-zemene",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-lav-zemene-n12630144",
+          "lemma": "zemene",
+          "word_id": "unimet-lav-zemene",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-lav-zemene-n07745940",
+          "lemma": "zemene",
+          "word_id": "unimet-lav-zemene",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-lav-zemene-n12630144",
+          "lemma": "zemene",
+          "word_id": "unimet-lav-zemene",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-lav-zemene-n07745940::unimet-lav-zemene-n12630144": {
+          "source": "unimet-lav-zemene-n07745940",
+          "target": "unimet-lav-zemene-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

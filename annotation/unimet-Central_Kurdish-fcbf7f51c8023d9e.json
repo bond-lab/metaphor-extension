@@ -1,0 +1,852 @@
+{
+  "id": "fcbf7f51c8023d9e",
+  "name": "unimet-Central Kurdish",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kur",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "glas",
+      "all_senses": [
+        {
+          "id": "unimet-kur-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-kur-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-kur-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-kur-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-glas-n14881303",
+          "lemma": "glas",
+          "word_id": "unimet-kur-glas",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-glas-n03438257",
+          "lemma": "glas",
+          "word_id": "unimet-kur-glas",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-glas-n14881303::unimet-kur-glas-n03438257": {
+          "source": "unimet-kur-glas-n14881303",
+          "target": "unimet-kur-glas-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "jiyan",
+      "all_senses": [
+        {
+          "id": "unimet-kur-jiyan-n13963192",
+          "lemma": "jiyan",
+          "word_id": "unimet-kur-jiyan",
+          "synset": {
+            "id": "omw-en-13963192-n",
+            "ili": "i110312",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a characteristic state or mode of living"
+          }
+        },
+        {
+          "id": "unimet-kur-jiyan-v02618149",
+          "lemma": "jiyan",
+          "word_id": "unimet-kur-jiyan",
+          "synset": {
+            "id": "omw-en-02618149-v",
+            "ili": "i34765",
+            "pos": "v",
+            "lemmas": [
+              "endure"
+            ],
+            "definition": "continue to live; endure or last"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-jiyan-v02618149",
+          "lemma": "jiyan",
+          "word_id": "unimet-kur-jiyan",
+          "synset": {
+            "id": "omw-en-02618149-v",
+            "ili": "i34765",
+            "pos": "v",
+            "lemmas": [
+              "endure"
+            ],
+            "definition": "continue to live; endure or last"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-jiyan-n13963192",
+          "lemma": "jiyan",
+          "word_id": "unimet-kur-jiyan",
+          "synset": {
+            "id": "omw-en-13963192-n",
+            "ili": "i110312",
+            "pos": "n",
+            "lemmas": [
+              "life"
+            ],
+            "definition": "a characteristic state or mode of living"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-jiyan-v02618149::unimet-kur-jiyan-n13963192": {
+          "source": "unimet-kur-jiyan-v02618149",
+          "target": "unimet-kur-jiyan-n13963192",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pirteqal",
+      "all_senses": [
+        {
+          "id": "unimet-kur-pirteqal-n07747607",
+          "lemma": "pirteqal",
+          "word_id": "unimet-kur-pirteqal",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-kur-pirteqal-n12708293",
+          "lemma": "pirteqal",
+          "word_id": "unimet-kur-pirteqal",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-pirteqal-n07747607",
+          "lemma": "pirteqal",
+          "word_id": "unimet-kur-pirteqal",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-pirteqal-n12708293",
+          "lemma": "pirteqal",
+          "word_id": "unimet-kur-pirteqal",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-pirteqal-n07747607::unimet-kur-pirteqal-n12708293": {
+          "source": "unimet-kur-pirteqal-n07747607",
+          "target": "unimet-kur-pirteqal-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "xox",
+      "all_senses": [
+        {
+          "id": "unimet-kur-xox-n07751004",
+          "lemma": "xox",
+          "word_id": "unimet-kur-xox",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-kur-xox-n12648045",
+          "lemma": "xox",
+          "word_id": "unimet-kur-xox",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-xox-n07751004",
+          "lemma": "xox",
+          "word_id": "unimet-kur-xox",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-xox-n12648045",
+          "lemma": "xox",
+          "word_id": "unimet-kur-xox",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-xox-n07751004::unimet-kur-xox-n12648045": {
+          "source": "unimet-kur-xox-n07751004",
+          "target": "unimet-kur-xox-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "zebeş",
+      "all_senses": [
+        {
+          "id": "unimet-kur-zebeş-n07756951",
+          "lemma": "zebeş",
+          "word_id": "unimet-kur-zebeş",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-kur-zebeş-n12164065",
+          "lemma": "zebeş",
+          "word_id": "unimet-kur-zebeş",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-zebeş-n07756951",
+          "lemma": "zebeş",
+          "word_id": "unimet-kur-zebeş",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-zebeş-n12164065",
+          "lemma": "zebeş",
+          "word_id": "unimet-kur-zebeş",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-zebeş-n07756951::unimet-kur-zebeş-n12164065": {
+          "source": "unimet-kur-zebeş-n07756951",
+          "target": "unimet-kur-zebeş-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "şeftalî",
+      "all_senses": [
+        {
+          "id": "unimet-kur-şeftalî-n07751004",
+          "lemma": "şeftalî",
+          "word_id": "unimet-kur-şeftalî",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-kur-şeftalî-n12648045",
+          "lemma": "şeftalî",
+          "word_id": "unimet-kur-şeftalî",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-şeftalî-n07751004",
+          "lemma": "şeftalî",
+          "word_id": "unimet-kur-şeftalî",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-şeftalî-n12648045",
+          "lemma": "şeftalî",
+          "word_id": "unimet-kur-şeftalî",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-şeftalî-n07751004::unimet-kur-şeftalî-n12648045": {
+          "source": "unimet-kur-şeftalî-n07751004",
+          "target": "unimet-kur-şeftalî-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "şûtî",
+      "all_senses": [
+        {
+          "id": "unimet-kur-şûtî-n07756951",
+          "lemma": "şûtî",
+          "word_id": "unimet-kur-şûtî",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-kur-şûtî-n12164065",
+          "lemma": "şûtî",
+          "word_id": "unimet-kur-şûtî",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-şûtî-n07756951",
+          "lemma": "şûtî",
+          "word_id": "unimet-kur-şûtî",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-şûtî-n12164065",
+          "lemma": "şûtî",
+          "word_id": "unimet-kur-şûtî",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-şûtî-n07756951::unimet-kur-şûtî-n12164065": {
+          "source": "unimet-kur-şûtî-n07756951",
+          "target": "unimet-kur-şûtî-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "şûşe",
+      "all_senses": [
+        {
+          "id": "unimet-kur-şûşe-n03438257",
+          "lemma": "şûşe",
+          "word_id": "unimet-kur-şûşe",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        },
+        {
+          "id": "unimet-kur-şûşe-n14881303",
+          "lemma": "şûşe",
+          "word_id": "unimet-kur-şûşe",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-şûşe-n14881303",
+          "lemma": "şûşe",
+          "word_id": "unimet-kur-şûşe",
+          "synset": {
+            "id": "omw-en-14881303-n",
+            "ili": "i115274",
+            "pos": "n",
+            "lemmas": [
+              "glass"
+            ],
+            "definition": "a brittle transparent solid with irregular atomic structure"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-şûşe-n03438257",
+          "lemma": "şûşe",
+          "word_id": "unimet-kur-şûşe",
+          "synset": {
+            "id": "omw-en-03438257-n",
+            "ili": "i54302",
+            "pos": "n",
+            "lemmas": [
+              "tumbler"
+            ],
+            "definition": "a container for holding liquids while drinking"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-şûşe-n14881303::unimet-kur-şûşe-n03438257": {
+          "source": "unimet-kur-şûşe-n14881303",
+          "target": "unimet-kur-şûşe-n03438257",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "خه‌فه‌ت",
+      "all_senses": [
+        {
+          "id": "unimet-kur-خه‌فه‌ت-n05833683",
+          "lemma": "خه‌فه‌ت",
+          "word_id": "unimet-kur-خه‌فه‌ت",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-kur-خه‌فه‌ت-n07532440",
+          "lemma": "خه‌فه‌ت",
+          "word_id": "unimet-kur-خه‌فه‌ت",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-خه‌فه‌ت-n07532440",
+          "lemma": "خه‌فه‌ت",
+          "word_id": "unimet-kur-خه‌فه‌ت",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-خه‌فه‌ت-n05833683",
+          "lemma": "خه‌فه‌ت",
+          "word_id": "unimet-kur-خه‌فه‌ت",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-خه‌فه‌ت-n07532440::unimet-kur-خه‌فه‌ت-n05833683": {
+          "source": "unimet-kur-خه‌فه‌ت-n07532440",
+          "target": "unimet-kur-خه‌فه‌ت-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "دار",
+      "all_senses": [
+        {
+          "id": "unimet-kur-دار-n04317420",
+          "lemma": "دار",
+          "word_id": "unimet-kur-دار",
+          "synset": {
+            "id": "omw-en-04317420-n",
+            "ili": "i59571",
+            "pos": "n",
+            "lemmas": [
+              "stick"
+            ],
+            "definition": "an implement consisting of a length of wood"
+          }
+        },
+        {
+          "id": "unimet-kur-دار-n15098161",
+          "lemma": "دار",
+          "word_id": "unimet-kur-دار",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-دار-n15098161",
+          "lemma": "دار",
+          "word_id": "unimet-kur-دار",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-دار-n04317420",
+          "lemma": "دار",
+          "word_id": "unimet-kur-دار",
+          "synset": {
+            "id": "omw-en-04317420-n",
+            "ili": "i59571",
+            "pos": "n",
+            "lemmas": [
+              "stick"
+            ],
+            "definition": "an implement consisting of a length of wood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-دار-n15098161::unimet-kur-دار-n04317420": {
+          "source": "unimet-kur-دار-n15098161",
+          "target": "unimet-kur-دار-n04317420",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "شووتی",
+      "all_senses": [
+        {
+          "id": "unimet-kur-شووتی-n07756951",
+          "lemma": "شووتی",
+          "word_id": "unimet-kur-شووتی",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        },
+        {
+          "id": "unimet-kur-شووتی-n12164065",
+          "lemma": "شووتی",
+          "word_id": "unimet-kur-شووتی",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kur-شووتی-n07756951",
+          "lemma": "شووتی",
+          "word_id": "unimet-kur-شووتی",
+          "synset": {
+            "id": "omw-en-07756951-n",
+            "ili": "i77823",
+            "pos": "n",
+            "lemmas": [
+              "watermelon"
+            ],
+            "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kur-شووتی-n12164065",
+          "lemma": "شووتی",
+          "word_id": "unimet-kur-شووتی",
+          "synset": {
+            "id": "omw-en-12164065-n",
+            "ili": "i101068",
+            "pos": "n",
+            "lemmas": [
+              "watermelon vine"
+            ],
+            "definition": "an African melon"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kur-شووتی-n07756951::unimet-kur-شووتی-n12164065": {
+          "source": "unimet-kur-شووتی-n07756951",
+          "target": "unimet-kur-شووتی-n12164065",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

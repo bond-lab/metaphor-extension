@@ -1,0 +1,277 @@
+{
+  "id": "fa7462398aa0f57d",
+  "name": "unimet-Manchu",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "mnc",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "dobtoloobi",
+      "all_senses": [
+        {
+          "id": "unimet-mnc-dobtoloobi-n03661340",
+          "lemma": "dobtoloobi",
+          "word_id": "unimet-mnc-dobtoloobi",
+          "synset": {
+            "id": "omw-en-03661340-n",
+            "ili": "i55654",
+            "pos": "n",
+            "lemmas": [
+              "lid"
+            ],
+            "definition": "a movable top or cover (hinged or separate) for closing the opening of a container"
+          }
+        },
+        {
+          "id": "unimet-mnc-dobtoloobi-v01332730",
+          "lemma": "dobtoloobi",
+          "word_id": "unimet-mnc-dobtoloobi",
+          "synset": {
+            "id": "omw-en-01332730-v",
+            "ili": "i28352",
+            "pos": "v",
+            "lemmas": [
+              "cover"
+            ],
+            "definition": "provide with a covering or cause to be covered"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mnc-dobtoloobi-v01332730",
+          "lemma": "dobtoloobi",
+          "word_id": "unimet-mnc-dobtoloobi",
+          "synset": {
+            "id": "omw-en-01332730-v",
+            "ili": "i28352",
+            "pos": "v",
+            "lemmas": [
+              "cover"
+            ],
+            "definition": "provide with a covering or cause to be covered"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mnc-dobtoloobi-n03661340",
+          "lemma": "dobtoloobi",
+          "word_id": "unimet-mnc-dobtoloobi",
+          "synset": {
+            "id": "omw-en-03661340-n",
+            "ili": "i55654",
+            "pos": "n",
+            "lemmas": [
+              "lid"
+            ],
+            "definition": "a movable top or cover (hinged or separate) for closing the opening of a container"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mnc-dobtoloobi-v01332730::unimet-mnc-dobtoloobi-n03661340": {
+          "source": "unimet-mnc-dobtoloobi-v01332730",
+          "target": "unimet-mnc-dobtoloobi-n03661340",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "gurun",
+      "all_senses": [
+        {
+          "id": "unimet-mnc-gurun-n08168978",
+          "lemma": "gurun",
+          "word_id": "unimet-mnc-gurun",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-mnc-gurun-n08544813",
+          "lemma": "gurun",
+          "word_id": "unimet-mnc-gurun",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-mnc-gurun-n08654360",
+          "lemma": "gurun",
+          "word_id": "unimet-mnc-gurun",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mnc-gurun-n08168978",
+          "lemma": "gurun",
+          "word_id": "unimet-mnc-gurun",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mnc-gurun-n08544813",
+          "lemma": "gurun",
+          "word_id": "unimet-mnc-gurun",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        },
+        {
+          "id": "unimet-mnc-gurun-n08654360",
+          "lemma": "gurun",
+          "word_id": "unimet-mnc-gurun",
+          "synset": {
+            "id": "omw-en-08654360-n",
+            "ili": "i82454",
+            "pos": "n",
+            "lemmas": [
+              "state"
+            ],
+            "definition": "the territory occupied by one of the constituent administrative districts of a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mnc-gurun-n08168978::unimet-mnc-gurun-n08544813": {
+          "source": "unimet-mnc-gurun-n08168978",
+          "target": "unimet-mnc-gurun-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-mnc-gurun-n08168978::unimet-mnc-gurun-n08654360": {
+          "source": "unimet-mnc-gurun-n08168978",
+          "target": "unimet-mnc-gurun-n08654360",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "moo",
+      "all_senses": [
+        {
+          "id": "unimet-mnc-moo-n03976657",
+          "lemma": "moo",
+          "word_id": "unimet-mnc-moo",
+          "synset": {
+            "id": "omw-en-03976657-n",
+            "ili": "i57505",
+            "pos": "n",
+            "lemmas": [
+              "pole"
+            ],
+            "definition": "a long (usually round) rod of wood or metal or plastic"
+          }
+        },
+        {
+          "id": "unimet-mnc-moo-n15098161",
+          "lemma": "moo",
+          "word_id": "unimet-mnc-moo",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-mnc-moo-n15098161",
+          "lemma": "moo",
+          "word_id": "unimet-mnc-moo",
+          "synset": {
+            "id": "omw-en-15098161-n",
+            "ili": "i116549",
+            "pos": "n",
+            "lemmas": [
+              "wood"
+            ],
+            "definition": "the hard fibrous lignified substance under the bark of trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-mnc-moo-n03976657",
+          "lemma": "moo",
+          "word_id": "unimet-mnc-moo",
+          "synset": {
+            "id": "omw-en-03976657-n",
+            "ili": "i57505",
+            "pos": "n",
+            "lemmas": [
+              "pole"
+            ],
+            "definition": "a long (usually round) rod of wood or metal or plastic"
+          }
+        }
+      ],
+      "links": {
+        "unimet-mnc-moo-n15098161::unimet-mnc-moo-n03976657": {
+          "source": "unimet-mnc-moo-n15098161",
+          "target": "unimet-mnc-moo-n03976657",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

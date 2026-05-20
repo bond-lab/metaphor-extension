@@ -1,0 +1,168 @@
+{
+  "id": "9e165a76db860c73",
+  "name": "unimet-Low German",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "nds",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "hohn",
+      "all_senses": [
+        {
+          "id": "unimet-nds-hohn-n01792640",
+          "lemma": "hohn",
+          "word_id": "unimet-nds-hohn",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-nds-hohn-n07644967",
+          "lemma": "hohn",
+          "word_id": "unimet-nds-hohn",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nds-hohn-n01792640",
+          "lemma": "hohn",
+          "word_id": "unimet-nds-hohn",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nds-hohn-n07644967",
+          "lemma": "hohn",
+          "word_id": "unimet-nds-hohn",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nds-hohn-n01792640::unimet-nds-hohn-n07644967": {
+          "source": "unimet-nds-hohn-n01792640",
+          "target": "unimet-nds-hohn-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "orange",
+      "all_senses": [
+        {
+          "id": "unimet-nds-orange-n07747607",
+          "lemma": "orange",
+          "word_id": "unimet-nds-orange",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-nds-orange-n12708293",
+          "lemma": "orange",
+          "word_id": "unimet-nds-orange",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-nds-orange-n07747607",
+          "lemma": "orange",
+          "word_id": "unimet-nds-orange",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-nds-orange-n12708293",
+          "lemma": "orange",
+          "word_id": "unimet-nds-orange",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-nds-orange-n07747607::unimet-nds-orange-n12708293": {
+          "source": "unimet-nds-orange-n07747607",
+          "target": "unimet-nds-orange-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

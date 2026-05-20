@@ -1,0 +1,244 @@
+{
+  "id": "12f3edf49cfac941",
+  "name": "unimet-Romansh",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "roh",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "giaglina",
+      "all_senses": [
+        {
+          "id": "unimet-roh-giaglina-n01792640",
+          "lemma": "giaglina",
+          "word_id": "unimet-roh-giaglina",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        },
+        {
+          "id": "unimet-roh-giaglina-n07644967",
+          "lemma": "giaglina",
+          "word_id": "unimet-roh-giaglina",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-roh-giaglina-n01792640",
+          "lemma": "giaglina",
+          "word_id": "unimet-roh-giaglina",
+          "synset": {
+            "id": "omw-en-01792640-n",
+            "ili": "i44714",
+            "pos": "n",
+            "lemmas": [
+              "biddy"
+            ],
+            "definition": "adult female chicken"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-roh-giaglina-n07644967",
+          "lemma": "giaglina",
+          "word_id": "unimet-roh-giaglina",
+          "synset": {
+            "id": "omw-en-07644967-n",
+            "ili": "i77065",
+            "pos": "n",
+            "lemmas": [
+              "poulet"
+            ],
+            "definition": "the flesh of a chicken used for food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-roh-giaglina-n01792640::unimet-roh-giaglina-n07644967": {
+          "source": "unimet-roh-giaglina-n01792640",
+          "target": "unimet-roh-giaglina-n07644967",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "pajais",
+      "all_senses": [
+        {
+          "id": "unimet-roh-pajais-n08168978",
+          "lemma": "pajais",
+          "word_id": "unimet-roh-pajais",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-roh-pajais-n08544813",
+          "lemma": "pajais",
+          "word_id": "unimet-roh-pajais",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-roh-pajais-n08168978",
+          "lemma": "pajais",
+          "word_id": "unimet-roh-pajais",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-roh-pajais-n08544813",
+          "lemma": "pajais",
+          "word_id": "unimet-roh-pajais",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-roh-pajais-n08168978::unimet-roh-pajais-n08544813": {
+          "source": "unimet-roh-pajais-n08168978",
+          "target": "unimet-roh-pajais-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "persic",
+      "all_senses": [
+        {
+          "id": "unimet-roh-persic-n07751004",
+          "lemma": "persic",
+          "word_id": "unimet-roh-persic",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-roh-persic-n12648045",
+          "lemma": "persic",
+          "word_id": "unimet-roh-persic",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-roh-persic-n07751004",
+          "lemma": "persic",
+          "word_id": "unimet-roh-persic",
+          "synset": {
+            "id": "omw-en-07751004-n",
+            "ili": "i77785",
+            "pos": "n",
+            "lemmas": [
+              "peach"
+            ],
+            "definition": "downy juicy fruit with sweet yellowish or whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-roh-persic-n12648045",
+          "lemma": "persic",
+          "word_id": "unimet-roh-persic",
+          "synset": {
+            "id": "omw-en-12648045-n",
+            "ili": "i103342",
+            "pos": "n",
+            "lemmas": [
+              "peach tree"
+            ],
+            "definition": "cultivated in temperate regions"
+          }
+        }
+      ],
+      "links": {
+        "unimet-roh-persic-n07751004::unimet-roh-persic-n12648045": {
+          "source": "unimet-roh-persic-n07751004",
+          "target": "unimet-roh-persic-n12648045",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

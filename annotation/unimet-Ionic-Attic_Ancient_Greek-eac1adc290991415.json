@@ -1,0 +1,92 @@
+{
+  "id": "eac1adc290991415",
+  "name": "unimet-Ionic-Attic Ancient Greek",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "grc",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ἐλαία",
+      "all_senses": [
+        {
+          "id": "unimet-grc-ἐλαία-n07767344",
+          "lemma": "ἐλαία",
+          "word_id": "unimet-grc-ἐλαία",
+          "synset": {
+            "id": "omw-en-07767344-n",
+            "ili": "i77889",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "one-seeded fruit of the European olive tree usually pickled and used as a relish"
+          }
+        },
+        {
+          "id": "unimet-grc-ἐλαία-n12300840",
+          "lemma": "ἐλαία",
+          "word_id": "unimet-grc-ἐλαία",
+          "synset": {
+            "id": "omw-en-12300840-n",
+            "ili": "i101680",
+            "pos": "n",
+            "lemmas": [
+              "olive tree"
+            ],
+            "definition": "a tree of the genus Olea cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-grc-ἐλαία-n07767344",
+          "lemma": "ἐλαία",
+          "word_id": "unimet-grc-ἐλαία",
+          "synset": {
+            "id": "omw-en-07767344-n",
+            "ili": "i77889",
+            "pos": "n",
+            "lemmas": [
+              "olive"
+            ],
+            "definition": "one-seeded fruit of the European olive tree usually pickled and used as a relish"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-grc-ἐλαία-n12300840",
+          "lemma": "ἐλαία",
+          "word_id": "unimet-grc-ἐλαία",
+          "synset": {
+            "id": "omw-en-12300840-n",
+            "ili": "i101680",
+            "pos": "n",
+            "lemmas": [
+              "olive tree"
+            ],
+            "definition": "a tree of the genus Olea cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-grc-ἐλαία-n07767344::unimet-grc-ἐλαία-n12300840": {
+          "source": "unimet-grc-ἐλαία-n07767344",
+          "target": "unimet-grc-ἐλαία-n12300840",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

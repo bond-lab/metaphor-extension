@@ -1,0 +1,92 @@
+{
+  "id": "672271ccfdcbc10a",
+  "name": "unimet-American Sign Language",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "ase",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+      "all_senses": [
+        {
+          "id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-n14985383",
+          "lemma": "9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "word_id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "synset": {
+            "id": "omw-en-14985383-n",
+            "ili": "i115895",
+            "pos": "n",
+            "lemmas": [
+              "dye"
+            ],
+            "definition": "a usually soluble substance for staining or coloring e.g. fabrics or hair"
+          }
+        },
+        {
+          "id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-v00283090",
+          "lemma": "9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "word_id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "synset": {
+            "id": "omw-en-00283090-v",
+            "ili": "i23133",
+            "pos": "v",
+            "lemmas": [
+              "dye"
+            ],
+            "definition": "color with dye"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-n14985383",
+          "lemma": "9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "word_id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "synset": {
+            "id": "omw-en-14985383-n",
+            "ili": "i115895",
+            "pos": "n",
+            "lemmas": [
+              "dye"
+            ],
+            "definition": "a usually soluble substance for staining or coloring e.g. fabrics or hair"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-v00283090",
+          "lemma": "9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "word_id": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec",
+          "synset": {
+            "id": "omw-en-00283090-v",
+            "ili": "i23133",
+            "pos": "v",
+            "lemmas": [
+              "dye"
+            ],
+            "definition": "color with dye"
+          }
+        }
+      ],
+      "links": {
+        "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-n14985383::unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-v00283090": {
+          "source": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-n14985383",
+          "target": "unimet-ase-9@sideneckhigh-palmdown-9@sideneckhigh-palmdown upanddown-upanddown 9@sidechesthigh-palmdown-9@sidec-v00283090",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

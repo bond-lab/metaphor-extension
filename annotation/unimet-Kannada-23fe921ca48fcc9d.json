@@ -1,0 +1,6180 @@
+{
+  "id": "23fe921ca48fcc9d",
+  "name": "unimet-Kannada",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "kan",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "ಅಡಕೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಅಡಕೆ-n07770869",
+          "lemma": "ಅಡಕೆ",
+          "word_id": "unimet-kan-ಅಡಕೆ",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-kan-ಅಡಕೆ-n12584365",
+          "lemma": "ಅಡಕೆ",
+          "word_id": "unimet-kan-ಅಡಕೆ",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಅಡಕೆ-n07770869",
+          "lemma": "ಅಡಕೆ",
+          "word_id": "unimet-kan-ಅಡಕೆ",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಅಡಕೆ-n12584365",
+          "lemma": "ಅಡಕೆ",
+          "word_id": "unimet-kan-ಅಡಕೆ",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಅಡಕೆ-n07770869::unimet-kan-ಅಡಕೆ-n12584365": {
+          "source": "unimet-kan-ಅಡಕೆ-n07770869",
+          "target": "unimet-kan-ಅಡಕೆ-n12584365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಅಡಿಕೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಅಡಿಕೆ-n07770869",
+          "lemma": "ಅಡಿಕೆ",
+          "word_id": "unimet-kan-ಅಡಿಕೆ",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-kan-ಅಡಿಕೆ-n12584365",
+          "lemma": "ಅಡಿಕೆ",
+          "word_id": "unimet-kan-ಅಡಿಕೆ",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಅಡಿಕೆ-n07770869",
+          "lemma": "ಅಡಿಕೆ",
+          "word_id": "unimet-kan-ಅಡಿಕೆ",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಅಡಿಕೆ-n12584365",
+          "lemma": "ಅಡಿಕೆ",
+          "word_id": "unimet-kan-ಅಡಿಕೆ",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಅಡಿಕೆ-n07770869::unimet-kan-ಅಡಿಕೆ-n12584365": {
+          "source": "unimet-kan-ಅಡಿಕೆ-n07770869",
+          "target": "unimet-kan-ಅಡಿಕೆ-n12584365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಅಶಕ್ತ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಅಶಕ್ತ-n10771636",
+          "lemma": "ಅಶಕ್ತ",
+          "word_id": "unimet-kan-ಅಶಕ್ತ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        },
+        {
+          "id": "unimet-kan-ಅಶಕ್ತ-n14547643",
+          "lemma": "ಅಶಕ್ತ",
+          "word_id": "unimet-kan-ಅಶಕ್ತ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಅಶಕ್ತ-n14547643",
+          "lemma": "ಅಶಕ್ತ",
+          "word_id": "unimet-kan-ಅಶಕ್ತ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಅಶಕ್ತ-n10771636",
+          "lemma": "ಅಶಕ್ತ",
+          "word_id": "unimet-kan-ಅಶಕ್ತ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಅಶಕ್ತ-n14547643::unimet-kan-ಅಶಕ್ತ-n10771636": {
+          "source": "unimet-kan-ಅಶಕ್ತ-n14547643",
+          "target": "unimet-kan-ಅಶಕ್ತ-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಆಪಲ್ಲು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಆಪಲ್ಲು-n07739125",
+          "lemma": "ಆಪಲ್ಲು",
+          "word_id": "unimet-kan-ಆಪಲ್ಲು",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        },
+        {
+          "id": "unimet-kan-ಆಪಲ್ಲು-n12633994",
+          "lemma": "ಆಪಲ್ಲು",
+          "word_id": "unimet-kan-ಆಪಲ್ಲು",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಆಪಲ್ಲು-n07739125",
+          "lemma": "ಆಪಲ್ಲು",
+          "word_id": "unimet-kan-ಆಪಲ್ಲು",
+          "synset": {
+            "id": "omw-en-07739125-n",
+            "ili": "i77708",
+            "pos": "n",
+            "lemmas": [
+              "apple"
+            ],
+            "definition": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಆಪಲ್ಲು-n12633994",
+          "lemma": "ಆಪಲ್ಲು",
+          "word_id": "unimet-kan-ಆಪಲ್ಲು",
+          "synset": {
+            "id": "omw-en-12633994-n",
+            "ili": "i103273",
+            "pos": "n",
+            "lemmas": [
+              "orchard apple tree"
+            ],
+            "definition": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಆಪಲ್ಲು-n07739125::unimet-kan-ಆಪಲ್ಲು-n12633994": {
+          "source": "unimet-kan-ಆಪಲ್ಲು-n07739125",
+          "target": "unimet-kan-ಆಪಲ್ಲು-n12633994",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n07766173",
+          "lemma": "ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        },
+        {
+          "id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n12744387",
+          "lemma": "ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n07766173",
+          "lemma": "ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07766173-n",
+            "ili": "i77882",
+            "pos": "n",
+            "lemmas": [
+              "litchi"
+            ],
+            "definition": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n12744387",
+          "lemma": "ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12744387-n",
+            "ili": "i103808",
+            "pos": "n",
+            "lemmas": [
+              "litchi chinensis"
+            ],
+            "definition": "Chinese tree cultivated especially in Philippines and India for its edible fruit; sometimes placed in genus Nephelium"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n07766173::unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n12744387": {
+          "source": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n07766173",
+          "target": "unimet-kan-ಒಂದು ಬಗೆಯ ಹಣ್ಣು-n12744387",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n07744430",
+          "lemma": "ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        },
+        {
+          "id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n12911079",
+          "lemma": "ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n07744430",
+          "lemma": "ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07744430-n",
+            "ili": "i77743",
+            "pos": "n",
+            "lemmas": [
+              "gooseberry"
+            ],
+            "definition": "currant-like berry used primarily in jams and jellies"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n12911079",
+          "lemma": "ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12911079-n",
+            "ili": "i104615",
+            "pos": "n",
+            "lemmas": [
+              "cape gooseberry"
+            ],
+            "definition": "annual of tropical South America having edible purple fruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n07744430::unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n12911079": {
+          "source": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n07744430",
+          "target": "unimet-kan-ಒಂದು ಸಿಹಿಯಾದ ಹಣ್ಣು-n12911079",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಂಗು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಂಗು-n07770869",
+          "lemma": "ಕಂಗು",
+          "word_id": "unimet-kan-ಕಂಗು",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಂಗು-n12584365",
+          "lemma": "ಕಂಗು",
+          "word_id": "unimet-kan-ಕಂಗು",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಂಗು-n07770869",
+          "lemma": "ಕಂಗು",
+          "word_id": "unimet-kan-ಕಂಗು",
+          "synset": {
+            "id": "omw-en-07770869-n",
+            "ili": "i77914",
+            "pos": "n",
+            "lemmas": [
+              "betel nut"
+            ],
+            "definition": "seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಂಗು-n12584365",
+          "lemma": "ಕಂಗು",
+          "word_id": "unimet-kan-ಕಂಗು",
+          "synset": {
+            "id": "omw-en-12584365-n",
+            "ili": "i103020",
+            "pos": "n",
+            "lemmas": [
+              "betel palm"
+            ],
+            "definition": "southeastern Asian palm bearing betel nuts (scarlet or orange single-seeded fruit with a fibrous husk)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಂಗು-n07770869::unimet-kan-ಕಂಗು-n12584365": {
+          "source": "unimet-kan-ಕಂಗು-n07770869",
+          "target": "unimet-kan-ಕಂಗು-n12584365",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಮರಾಕ್ಷಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಮರಾಕ್ಷಿ-n07746551",
+          "lemma": "ಕಮರಾಕ್ಷಿ",
+          "word_id": "unimet-kan-ಕಮರಾಕ್ಷಿ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಮರಾಕ್ಷಿ-n12704343",
+          "lemma": "ಕಮರಾಕ್ಷಿ",
+          "word_id": "unimet-kan-ಕಮರಾಕ್ಷಿ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಮರಾಕ್ಷಿ-n07746551",
+          "lemma": "ಕಮರಾಕ್ಷಿ",
+          "word_id": "unimet-kan-ಕಮರಾಕ್ಷಿ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಮರಾಕ್ಷಿ-n12704343",
+          "lemma": "ಕಮರಾಕ್ಷಿ",
+          "word_id": "unimet-kan-ಕಮರಾಕ್ಷಿ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಮರಾಕ್ಷಿ-n07746551::unimet-kan-ಕಮರಾಕ್ಷಿ-n12704343": {
+          "source": "unimet-kan-ಕಮರಾಕ್ಷಿ-n07746551",
+          "target": "unimet-kan-ಕಮರಾಕ್ಷಿ-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಮರಿಕೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಮರಿಕೆ-n07746551",
+          "lemma": "ಕಮರಿಕೆ",
+          "word_id": "unimet-kan-ಕಮರಿಕೆ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಮರಿಕೆ-n12704343",
+          "lemma": "ಕಮರಿಕೆ",
+          "word_id": "unimet-kan-ಕಮರಿಕೆ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಮರಿಕೆ-n07746551",
+          "lemma": "ಕಮರಿಕೆ",
+          "word_id": "unimet-kan-ಕಮರಿಕೆ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಮರಿಕೆ-n12704343",
+          "lemma": "ಕಮರಿಕೆ",
+          "word_id": "unimet-kan-ಕಮರಿಕೆ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಮರಿಕೆ-n07746551::unimet-kan-ಕಮರಿಕೆ-n12704343": {
+          "source": "unimet-kan-ಕಮರಿಕೆ-n07746551",
+          "target": "unimet-kan-ಕಮರಿಕೆ-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಾಫಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಾಫಿ-n07929351",
+          "lemma": "ಕಾಫಿ",
+          "word_id": "unimet-kan-ಕಾಫಿ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಾಫಿ-n12662772",
+          "lemma": "ಕಾಫಿ",
+          "word_id": "unimet-kan-ಕಾಫಿ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಾಫಿ-n07929351",
+          "lemma": "ಕಾಫಿ",
+          "word_id": "unimet-kan-ಕಾಫಿ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಾಫಿ-n12662772",
+          "lemma": "ಕಾಫಿ",
+          "word_id": "unimet-kan-ಕಾಫಿ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಾಫಿ-n07929351::unimet-kan-ಕಾಫಿ-n12662772": {
+          "source": "unimet-kan-ಕಾಫಿ-n07929351",
+          "target": "unimet-kan-ಕಾಫಿ-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಾಫೀ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಾಫೀ-n07929351",
+          "lemma": "ಕಾಫೀ",
+          "word_id": "unimet-kan-ಕಾಫೀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಾಫೀ-n12662772",
+          "lemma": "ಕಾಫೀ",
+          "word_id": "unimet-kan-ಕಾಫೀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಾಫೀ-n07929351",
+          "lemma": "ಕಾಫೀ",
+          "word_id": "unimet-kan-ಕಾಫೀ",
+          "synset": {
+            "id": "omw-en-07929351-n",
+            "ili": "i78980",
+            "pos": "n",
+            "lemmas": [
+              "coffee"
+            ],
+            "definition": "a seed of the coffee tree; ground to make coffee"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಾಫೀ-n12662772",
+          "lemma": "ಕಾಫೀ",
+          "word_id": "unimet-kan-ಕಾಫೀ",
+          "synset": {
+            "id": "omw-en-12662772-n",
+            "ili": "i103415",
+            "pos": "n",
+            "lemmas": [
+              "coffee tree"
+            ],
+            "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಾಫೀ-n07929351::unimet-kan-ಕಾಫೀ-n12662772": {
+          "source": "unimet-kan-ಕಾಫೀ-n07929351",
+          "target": "unimet-kan-ಕಾಫೀ-n12662772",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಾಲಿಫ್ಲವರು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಾಲಿಫ್ಲವರು-n07715103",
+          "lemma": "ಕಾಲಿಫ್ಲವರು",
+          "word_id": "unimet-kan-ಕಾಲಿಫ್ಲವರು",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಾಲಿಫ್ಲವರು-n11876634",
+          "lemma": "ಕಾಲಿಫ್ಲವರು",
+          "word_id": "unimet-kan-ಕಾಲಿಫ್ಲವರು",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಾಲಿಫ್ಲವರು-n11876634",
+          "lemma": "ಕಾಲಿಫ್ಲವರು",
+          "word_id": "unimet-kan-ಕಾಲಿಫ್ಲವರು",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಾಲಿಫ್ಲವರು-n07715103",
+          "lemma": "ಕಾಲಿಫ್ಲವರು",
+          "word_id": "unimet-kan-ಕಾಲಿಫ್ಲವರು",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಾಲಿಫ್ಲವರು-n11876634::unimet-kan-ಕಾಲಿಫ್ಲವರು-n07715103": {
+          "source": "unimet-kan-ಕಾಲಿಫ್ಲವರು-n11876634",
+          "target": "unimet-kan-ಕಾಲಿಫ್ಲವರು-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಿತ್ತಲೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಿತ್ತಲೆ-n07747607",
+          "lemma": "ಕಿತ್ತಲೆ",
+          "word_id": "unimet-kan-ಕಿತ್ತಲೆ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಿತ್ತಲೆ-n12708293",
+          "lemma": "ಕಿತ್ತಲೆ",
+          "word_id": "unimet-kan-ಕಿತ್ತಲೆ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಿತ್ತಲೆ-n07747607",
+          "lemma": "ಕಿತ್ತಲೆ",
+          "word_id": "unimet-kan-ಕಿತ್ತಲೆ",
+          "synset": {
+            "id": "omw-en-07747607-n",
+            "ili": "i77762",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "round yellow to orange fruit of any of several citrus trees"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಿತ್ತಲೆ-n12708293",
+          "lemma": "ಕಿತ್ತಲೆ",
+          "word_id": "unimet-kan-ಕಿತ್ತಲೆ",
+          "synset": {
+            "id": "omw-en-12708293-n",
+            "ili": "i103636",
+            "pos": "n",
+            "lemmas": [
+              "orange"
+            ],
+            "definition": "any citrus tree bearing oranges"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಿತ್ತಲೆ-n07747607::unimet-kan-ಕಿತ್ತಲೆ-n12708293": {
+          "source": "unimet-kan-ಕಿತ್ತಲೆ-n07747607",
+          "target": "unimet-kan-ಕಿತ್ತಲೆ-n12708293",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕಿವಿ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n07763629",
+          "lemma": "ಕಿವಿ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n12371439",
+          "lemma": "ಕಿವಿ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n07763629",
+          "lemma": "ಕಿವಿ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07763629-n",
+            "ili": "i77866",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "fuzzy brown egg-shaped fruit with slightly tart green flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n12371439",
+          "lemma": "ಕಿವಿ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಕಿವಿ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12371439-n",
+            "ili": "i102034",
+            "pos": "n",
+            "lemmas": [
+              "kiwi"
+            ],
+            "definition": "climbing vine native to China; cultivated in New Zealand for its fuzzy edible fruit with green meat"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n07763629::unimet-kan-ಕಿವಿ ಹಣ್ಣು-n12371439": {
+          "source": "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n07763629",
+          "target": "unimet-kan-ಕಿವಿ ಹಣ್ಣು-n12371439",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕೀರ್ತಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕೀರ್ತಿ-n10344443",
+          "lemma": "ಕೀರ್ತಿ",
+          "word_id": "unimet-kan-ಕೀರ್ತಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕೀರ್ತಿ-n14437386",
+          "lemma": "ಕೀರ್ತಿ",
+          "word_id": "unimet-kan-ಕೀರ್ತಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕೀರ್ತಿ-n14437386",
+          "lemma": "ಕೀರ್ತಿ",
+          "word_id": "unimet-kan-ಕೀರ್ತಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕೀರ್ತಿ-n10344443",
+          "lemma": "ಕೀರ್ತಿ",
+          "word_id": "unimet-kan-ಕೀರ್ತಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕೀರ್ತಿ-n14437386::unimet-kan-ಕೀರ್ತಿ-n10344443": {
+          "source": "unimet-kan-ಕೀರ್ತಿ-n14437386",
+          "target": "unimet-kan-ಕೀರ್ತಿ-n10344443",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಕೋಸು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಕೋಸು-n07715103",
+          "lemma": "ಕೋಸು",
+          "word_id": "unimet-kan-ಕೋಸು",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-kan-ಕೋಸು-n11876634",
+          "lemma": "ಕೋಸು",
+          "word_id": "unimet-kan-ಕೋಸು",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಕೋಸು-n11876634",
+          "lemma": "ಕೋಸು",
+          "word_id": "unimet-kan-ಕೋಸು",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಕೋಸು-n07715103",
+          "lemma": "ಕೋಸು",
+          "word_id": "unimet-kan-ಕೋಸು",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಕೋಸು-n11876634::unimet-kan-ಕೋಸು-n07715103": {
+          "source": "unimet-kan-ಕೋಸು-n11876634",
+          "target": "unimet-kan-ಕೋಸು-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಖ್ಯಾತಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಖ್ಯಾತಿ-n10344443",
+          "lemma": "ಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        },
+        {
+          "id": "unimet-kan-ಖ್ಯಾತಿ-n14437386",
+          "lemma": "ಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಖ್ಯಾತಿ-n14437386",
+          "lemma": "ಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಖ್ಯಾತಿ-n10344443",
+          "lemma": "ಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಖ್ಯಾತಿ-n14437386::unimet-kan-ಖ್ಯಾತಿ-n10344443": {
+          "source": "unimet-kan-ಖ್ಯಾತಿ-n14437386",
+          "target": "unimet-kan-ಖ್ಯಾತಿ-n10344443",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n11689197",
+          "lemma": "ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "word_id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        },
+        {
+          "id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n12488454",
+          "lemma": "ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "word_id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n11689197",
+          "lemma": "ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "word_id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "synset": {
+            "id": "omw-en-11689197-n",
+            "ili": "i98774",
+            "pos": "n",
+            "lemmas": [
+              "nicker nut"
+            ],
+            "definition": "hard shiny grey seed of a bonduc tree; used for making e.g. jewelry"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n12488454",
+          "lemma": "ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "word_id": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ",
+          "synset": {
+            "id": "omw-en-12488454-n",
+            "ili": "i102583",
+            "pos": "n",
+            "lemmas": [
+              "caesalpinia bonducella"
+            ],
+            "definition": "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n11689197::unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n12488454": {
+          "source": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n11689197",
+          "target": "unimet-kan-ಗಜ್ಜುಗದ ಬಳಗದ ಗಿಡ-n12488454",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಗುಳ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಗುಳ-n07713074",
+          "lemma": "ಗುಳ",
+          "word_id": "unimet-kan-ಗುಳ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಗುಳ-n12896000",
+          "lemma": "ಗುಳ",
+          "word_id": "unimet-kan-ಗುಳ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಗುಳ-n12896000",
+          "lemma": "ಗುಳ",
+          "word_id": "unimet-kan-ಗುಳ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಗುಳ-n07713074",
+          "lemma": "ಗುಳ",
+          "word_id": "unimet-kan-ಗುಳ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಗುಳ-n12896000::unimet-kan-ಗುಳ-n07713074": {
+          "source": "unimet-kan-ಗುಳ-n12896000",
+          "target": "unimet-kan-ಗುಳ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಗುಳ್ಳಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಗುಳ್ಳಿ-n07713074",
+          "lemma": "ಗುಳ್ಳಿ",
+          "word_id": "unimet-kan-ಗುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಗುಳ್ಳಿ-n12896000",
+          "lemma": "ಗುಳ್ಳಿ",
+          "word_id": "unimet-kan-ಗುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಗುಳ್ಳಿ-n12896000",
+          "lemma": "ಗುಳ್ಳಿ",
+          "word_id": "unimet-kan-ಗುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಗುಳ್ಳಿ-n07713074",
+          "lemma": "ಗುಳ್ಳಿ",
+          "word_id": "unimet-kan-ಗುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಗುಳ್ಳಿ-n12896000::unimet-kan-ಗುಳ್ಳಿ-n07713074": {
+          "source": "unimet-kan-ಗುಳ್ಳಿ-n12896000",
+          "target": "unimet-kan-ಗುಳ್ಳಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಗೂನ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಗೂನ-n10192412",
+          "lemma": "ಗೂನ",
+          "word_id": "unimet-kan-ಗೂನ",
+          "synset": {
+            "id": "omw-en-10192412-n",
+            "ili": "i90615",
+            "pos": "n",
+            "lemmas": [
+              "humpback"
+            ],
+            "definition": "a person whose back is hunched because of abnormal curvature of the upper spine"
+          }
+        },
+        {
+          "id": "unimet-kan-ಗೂನ-n14505069",
+          "lemma": "ಗೂನ",
+          "word_id": "unimet-kan-ಗೂನ",
+          "synset": {
+            "id": "omw-en-14505069-n",
+            "ili": "i113226",
+            "pos": "n",
+            "lemmas": [
+              "humpback"
+            ],
+            "definition": "an abnormal backward curve to the vertebral column"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಗೂನ-n14505069",
+          "lemma": "ಗೂನ",
+          "word_id": "unimet-kan-ಗೂನ",
+          "synset": {
+            "id": "omw-en-14505069-n",
+            "ili": "i113226",
+            "pos": "n",
+            "lemmas": [
+              "humpback"
+            ],
+            "definition": "an abnormal backward curve to the vertebral column"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಗೂನ-n10192412",
+          "lemma": "ಗೂನ",
+          "word_id": "unimet-kan-ಗೂನ",
+          "synset": {
+            "id": "omw-en-10192412-n",
+            "ili": "i90615",
+            "pos": "n",
+            "lemmas": [
+              "humpback"
+            ],
+            "definition": "a person whose back is hunched because of abnormal curvature of the upper spine"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಗೂನ-n14505069::unimet-kan-ಗೂನ-n10192412": {
+          "source": "unimet-kan-ಗೂನ-n14505069",
+          "target": "unimet-kan-ಗೂನ-n10192412",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಚಕ್ಕೋತ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n07750146",
+          "lemma": "ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07750146-n",
+            "ili": "i77779",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "large pear-shaped fruit similar to grapefruit but with coarse dry pulp"
+          }
+        },
+        {
+          "id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n12709103",
+          "lemma": "ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12709103-n",
+            "ili": "i103640",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "southeastern Asian tree producing large fruits resembling grapefruits"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n07750146",
+          "lemma": "ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07750146-n",
+            "ili": "i77779",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "large pear-shaped fruit similar to grapefruit but with coarse dry pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n12709103",
+          "lemma": "ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12709103-n",
+            "ili": "i103640",
+            "pos": "n",
+            "lemmas": [
+              "pomelo"
+            ],
+            "definition": "southeastern Asian tree producing large fruits resembling grapefruits"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n07750146::unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n12709103": {
+          "source": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n07750146",
+          "target": "unimet-kan-ಚಕ್ಕೋತ ಹಣ್ಣು-n12709103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ತೆಂಗಿನಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n07773238",
+          "lemma": "ತೆಂಗಿನಕಾಯಿ",
+          "word_id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        },
+        {
+          "id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n12587803",
+          "lemma": "ತೆಂಗಿನಕಾಯಿ",
+          "word_id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n12587803",
+          "lemma": "ತೆಂಗಿನಕಾಯಿ",
+          "word_id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n07773238",
+          "lemma": "ತೆಂಗಿನಕಾಯಿ",
+          "word_id": "unimet-kan-ತೆಂಗಿನಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07773238-n",
+            "ili": "i77928",
+            "pos": "n",
+            "lemmas": [
+              "coconut"
+            ],
+            "definition": "the edible white meat a coconut; often shredded for use in e.g. cakes and curries"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n12587803::unimet-kan-ತೆಂಗಿನಕಾಯಿ-n07773238": {
+          "source": "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n12587803",
+          "target": "unimet-kan-ತೆಂಗಿನಕಾಯಿ-n07773238",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ತೆಂಗು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ತೆಂಗು-n07772935",
+          "lemma": "ತೆಂಗು",
+          "word_id": "unimet-kan-ತೆಂಗು",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        },
+        {
+          "id": "unimet-kan-ತೆಂಗು-n12587803",
+          "lemma": "ತೆಂಗು",
+          "word_id": "unimet-kan-ತೆಂಗು",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ತೆಂಗು-n07772935",
+          "lemma": "ತೆಂಗು",
+          "word_id": "unimet-kan-ತೆಂಗು",
+          "synset": {
+            "id": "omw-en-07772935-n",
+            "ili": "i77927",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ತೆಂಗು-n12587803",
+          "lemma": "ತೆಂಗು",
+          "word_id": "unimet-kan-ತೆಂಗು",
+          "synset": {
+            "id": "omw-en-12587803-n",
+            "ili": "i103039",
+            "pos": "n",
+            "lemmas": [
+              "coco"
+            ],
+            "definition": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ತೆಂಗು-n07772935::unimet-kan-ತೆಂಗು-n12587803": {
+          "source": "unimet-kan-ತೆಂಗು-n07772935",
+          "target": "unimet-kan-ತೆಂಗು-n12587803",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದಾರ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದಾರ-n04426788",
+          "lemma": "ದಾರ",
+          "word_id": "unimet-kan-ದಾರ",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-kan-ದಾರ-n14866889",
+          "lemma": "ದಾರ",
+          "word_id": "unimet-kan-ದಾರ",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದಾರ-n14866889",
+          "lemma": "ದಾರ",
+          "word_id": "unimet-kan-ದಾರ",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದಾರ-n04426788",
+          "lemma": "ದಾರ",
+          "word_id": "unimet-kan-ದಾರ",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದಾರ-n14866889::unimet-kan-ದಾರ-n04426788": {
+          "source": "unimet-kan-ದಾರ-n14866889",
+          "target": "unimet-kan-ದಾರ-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದಾರೆ ಹುಳಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದಾರೆ ಹುಳಿ-n07746551",
+          "lemma": "ದಾರೆ ಹುಳಿ",
+          "word_id": "unimet-kan-ದಾರೆ ಹುಳಿ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-kan-ದಾರೆ ಹುಳಿ-n12704343",
+          "lemma": "ದಾರೆ ಹುಳಿ",
+          "word_id": "unimet-kan-ದಾರೆ ಹುಳಿ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದಾರೆ ಹುಳಿ-n07746551",
+          "lemma": "ದಾರೆ ಹುಳಿ",
+          "word_id": "unimet-kan-ದಾರೆ ಹುಳಿ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದಾರೆ ಹುಳಿ-n12704343",
+          "lemma": "ದಾರೆ ಹುಳಿ",
+          "word_id": "unimet-kan-ದಾರೆ ಹುಳಿ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದಾರೆ ಹುಳಿ-n07746551::unimet-kan-ದಾರೆ ಹುಳಿ-n12704343": {
+          "source": "unimet-kan-ದಾರೆ ಹುಳಿ-n07746551",
+          "target": "unimet-kan-ದಾರೆ ಹುಳಿ-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದುಃಖ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದುಃಖ-n05833683",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        },
+        {
+          "id": "unimet-kan-ದುಃಖ-n07532440",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-kan-ದುಃಖ-n07534430",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-kan-ದುಃಖ-n07535010",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದುಃಖ-n07532440",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-07532440-n",
+            "ili": "i76337",
+            "pos": "n",
+            "lemmas": [
+              "sadness"
+            ],
+            "definition": "emotions experienced when not in a state of well-being"
+          }
+        },
+        {
+          "id": "unimet-kan-ದುಃಖ-n07534430",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-07534430-n",
+            "ili": "i76349",
+            "pos": "n",
+            "lemmas": [
+              "sorrow"
+            ],
+            "definition": "an emotion of great sadness associated with loss or bereavement"
+          }
+        },
+        {
+          "id": "unimet-kan-ದುಃಖ-n07535010",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-07535010-n",
+            "ili": "i76352",
+            "pos": "n",
+            "lemmas": [
+              "dolor"
+            ],
+            "definition": "intense sorrow caused by loss of a loved one (especially by death)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದುಃಖ-n05833683",
+          "lemma": "ದುಃಖ",
+          "word_id": "unimet-kan-ದುಃಖ",
+          "synset": {
+            "id": "omw-en-05833683-n",
+            "ili": "i67534",
+            "pos": "n",
+            "lemmas": [
+              "grief"
+            ],
+            "definition": "something that causes great unhappiness"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದುಃಖ-n07532440::unimet-kan-ದುಃಖ-n05833683": {
+          "source": "unimet-kan-ದುಃಖ-n07532440",
+          "target": "unimet-kan-ದುಃಖ-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-kan-ದುಃಖ-n07534430::unimet-kan-ದುಃಖ-n05833683": {
+          "source": "unimet-kan-ದುಃಖ-n07534430",
+          "target": "unimet-kan-ದುಃಖ-n05833683",
+          "type": "metonymy"
+        },
+        "unimet-kan-ದುಃಖ-n07535010::unimet-kan-ದುಃಖ-n05833683": {
+          "source": "unimet-kan-ದುಃಖ-n07535010",
+          "target": "unimet-kan-ದುಃಖ-n05833683",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದುರ್ಬಲ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದುರ್ಬಲ-n10771636",
+          "lemma": "ದುರ್ಬಲ",
+          "word_id": "unimet-kan-ದುರ್ಬಲ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        },
+        {
+          "id": "unimet-kan-ದುರ್ಬಲ-n14547643",
+          "lemma": "ದುರ್ಬಲ",
+          "word_id": "unimet-kan-ದುರ್ಬಲ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದುರ್ಬಲ-n14547643",
+          "lemma": "ದುರ್ಬಲ",
+          "word_id": "unimet-kan-ದುರ್ಬಲ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದುರ್ಬಲ-n10771636",
+          "lemma": "ದುರ್ಬಲ",
+          "word_id": "unimet-kan-ದುರ್ಬಲ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದುರ್ಬಲ-n14547643::unimet-kan-ದುರ್ಬಲ-n10771636": {
+          "source": "unimet-kan-ದುರ್ಬಲ-n14547643",
+          "target": "unimet-kan-ದುರ್ಬಲ-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದೂರವಾಣಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದೂರವಾಣಿ-n04401088",
+          "lemma": "ದೂರವಾಣಿ",
+          "word_id": "unimet-kan-ದೂರವಾಣಿ",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        },
+        {
+          "id": "unimet-kan-ದೂರವಾಣಿ-n06272290",
+          "lemma": "ದೂರವಾಣಿ",
+          "word_id": "unimet-kan-ದೂರವಾಣಿ",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದೂರವಾಣಿ-n04401088",
+          "lemma": "ದೂರವಾಣಿ",
+          "word_id": "unimet-kan-ದೂರವಾಣಿ",
+          "synset": {
+            "id": "omw-en-04401088-n",
+            "ili": "i60065",
+            "pos": "n",
+            "lemmas": [
+              "telephone"
+            ],
+            "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದೂರವಾಣಿ-n06272290",
+          "lemma": "ದೂರವಾಣಿ",
+          "word_id": "unimet-kan-ದೂರವಾಣಿ",
+          "synset": {
+            "id": "omw-en-06272290-n",
+            "ili": "i69469",
+            "pos": "n",
+            "lemmas": [
+              "telecommunication"
+            ],
+            "definition": "transmitting speech at a distance"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದೂರವಾಣಿ-n04401088::unimet-kan-ದೂರವಾಣಿ-n06272290": {
+          "source": "unimet-kan-ದೂರವಾಣಿ-n04401088",
+          "target": "unimet-kan-ದೂರವಾಣಿ-n06272290",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದೇಶ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದೇಶ-n08166552",
+          "lemma": "ದೇಶ",
+          "word_id": "unimet-kan-ದೇಶ",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-kan-ದೇಶ-n08168978",
+          "lemma": "ದೇಶ",
+          "word_id": "unimet-kan-ದೇಶ",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        },
+        {
+          "id": "unimet-kan-ದೇಶ-n08544813",
+          "lemma": "ದೇಶ",
+          "word_id": "unimet-kan-ದೇಶ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದೇಶ-n08166552",
+          "lemma": "ದೇಶ",
+          "word_id": "unimet-kan-ದೇಶ",
+          "synset": {
+            "id": "omw-en-08166552-n",
+            "ili": "i80066",
+            "pos": "n",
+            "lemmas": [
+              "land"
+            ],
+            "definition": "the people who live in a nation or country"
+          }
+        },
+        {
+          "id": "unimet-kan-ದೇಶ-n08168978",
+          "lemma": "ದೇಶ",
+          "word_id": "unimet-kan-ದೇಶ",
+          "synset": {
+            "id": "omw-en-08168978-n",
+            "ili": "i80079",
+            "pos": "n",
+            "lemmas": [
+              "statecraft"
+            ],
+            "definition": "a politically organized body of people under a single government"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದೇಶ-n08544813",
+          "lemma": "ದೇಶ",
+          "word_id": "unimet-kan-ದೇಶ",
+          "synset": {
+            "id": "omw-en-08544813-n",
+            "ili": "i81888",
+            "pos": "n",
+            "lemmas": [
+              "country"
+            ],
+            "definition": "the territory occupied by a nation"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದೇಶ-n08166552::unimet-kan-ದೇಶ-n08544813": {
+          "source": "unimet-kan-ದೇಶ-n08166552",
+          "target": "unimet-kan-ದೇಶ-n08544813",
+          "type": "metonymy"
+        },
+        "unimet-kan-ದೇಶ-n08168978::unimet-kan-ದೇಶ-n08544813": {
+          "source": "unimet-kan-ದೇಶ-n08168978",
+          "target": "unimet-kan-ದೇಶ-n08544813",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ದೌರ್ಬಲ್ಯ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ದೌರ್ಬಲ್ಯ-n05040275",
+          "lemma": "ದೌರ್ಬಲ್ಯ",
+          "word_id": "unimet-kan-ದೌರ್ಬಲ್ಯ",
+          "synset": {
+            "id": "omw-en-05040275-n",
+            "ili": "i63487",
+            "pos": "n",
+            "lemmas": [
+              "weakness"
+            ],
+            "definition": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+          }
+        },
+        {
+          "id": "unimet-kan-ದೌರ್ಬಲ್ಯ-n10771636",
+          "lemma": "ದೌರ್ಬಲ್ಯ",
+          "word_id": "unimet-kan-ದೌರ್ಬಲ್ಯ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ದೌರ್ಬಲ್ಯ-n05040275",
+          "lemma": "ದೌರ್ಬಲ್ಯ",
+          "word_id": "unimet-kan-ದೌರ್ಬಲ್ಯ",
+          "synset": {
+            "id": "omw-en-05040275-n",
+            "ili": "i63487",
+            "pos": "n",
+            "lemmas": [
+              "weakness"
+            ],
+            "definition": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ದೌರ್ಬಲ್ಯ-n10771636",
+          "lemma": "ದೌರ್ಬಲ್ಯ",
+          "word_id": "unimet-kan-ದೌರ್ಬಲ್ಯ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ದೌರ್ಬಲ್ಯ-n05040275::unimet-kan-ದೌರ್ಬಲ್ಯ-n10771636": {
+          "source": "unimet-kan-ದೌರ್ಬಲ್ಯ-n05040275",
+          "target": "unimet-kan-ದೌರ್ಬಲ್ಯ-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನಾಯಿಕೊಡೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನಾಯಿಕೊಡೆ-n07734744",
+          "lemma": "ನಾಯಿಕೊಡೆ",
+          "word_id": "unimet-kan-ನಾಯಿಕೊಡೆ",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        },
+        {
+          "id": "unimet-kan-ನಾಯಿಕೊಡೆ-n12992868",
+          "lemma": "ನಾಯಿಕೊಡೆ",
+          "word_id": "unimet-kan-ನಾಯಿಕೊಡೆ",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನಾಯಿಕೊಡೆ-n12992868",
+          "lemma": "ನಾಯಿಕೊಡೆ",
+          "word_id": "unimet-kan-ನಾಯಿಕೊಡೆ",
+          "synset": {
+            "id": "omw-en-12992868-n",
+            "ili": "i105042",
+            "pos": "n",
+            "lemmas": [
+              "fungus"
+            ],
+            "definition": "a parasitic plant lacking chlorophyll and leaves and true stems and roots and reproducing by spores"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನಾಯಿಕೊಡೆ-n07734744",
+          "lemma": "ನಾಯಿಕೊಡೆ",
+          "word_id": "unimet-kan-ನಾಯಿಕೊಡೆ",
+          "synset": {
+            "id": "omw-en-07734744-n",
+            "ili": "i77680",
+            "pos": "n",
+            "lemmas": [
+              "mushroom"
+            ],
+            "definition": "fleshy body of any of numerous edible fungi"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನಾಯಿಕೊಡೆ-n12992868::unimet-kan-ನಾಯಿಕೊಡೆ-n07734744": {
+          "source": "unimet-kan-ನಾಯಿಕೊಡೆ-n12992868",
+          "target": "unimet-kan-ನಾಯಿಕೊಡೆ-n07734744",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನಿಂಬೆ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n07749582",
+          "lemma": "ನಿಂಬೆ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n12711596",
+          "lemma": "ನಿಂಬೆ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n07749582",
+          "lemma": "ನಿಂಬೆ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n12711596",
+          "lemma": "ನಿಂಬೆ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n07749582::unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n12711596": {
+          "source": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n07749582",
+          "target": "unimet-kan-ನಿಂಬೆ ಹಣ್ಣು-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನಿಂಬೆಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n07749582",
+          "lemma": "ನಿಂಬೆಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        },
+        {
+          "id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n12711596",
+          "lemma": "ನಿಂಬೆಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n07749582",
+          "lemma": "ನಿಂಬೆಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07749582-n",
+            "ili": "i77775",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "yellow oval fruit with juicy acidic flesh"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n12711596",
+          "lemma": "ನಿಂಬೆಹಣ್ಣು",
+          "word_id": "unimet-kan-ನಿಂಬೆಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12711596-n",
+            "ili": "i103652",
+            "pos": "n",
+            "lemmas": [
+              "lemon"
+            ],
+            "definition": "a small evergreen tree that originated in Asia but is widely cultivated for its fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n07749582::unimet-kan-ನಿಂಬೆಹಣ್ಣು-n12711596": {
+          "source": "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n07749582",
+          "target": "unimet-kan-ನಿಂಬೆಹಣ್ಣು-n12711596",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನೀರುಳ್ಳಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನೀರುಳ್ಳಿ-n07722217",
+          "lemma": "ನೀರುಳ್ಳಿ",
+          "word_id": "unimet-kan-ನೀರುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        },
+        {
+          "id": "unimet-kan-ನೀರುಳ್ಳಿ-n12432808",
+          "lemma": "ನೀರುಳ್ಳಿ",
+          "word_id": "unimet-kan-ನೀರುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನೀರುಳ್ಳಿ-n12432808",
+          "lemma": "ನೀರುಳ್ಳಿ",
+          "word_id": "unimet-kan-ನೀರುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-12432808-n",
+            "ili": "i102320",
+            "pos": "n",
+            "lemmas": [
+              "allium cepa"
+            ],
+            "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನೀರುಳ್ಳಿ-n07722217",
+          "lemma": "ನೀರುಳ್ಳಿ",
+          "word_id": "unimet-kan-ನೀರುಳ್ಳಿ",
+          "synset": {
+            "id": "omw-en-07722217-n",
+            "ili": "i77592",
+            "pos": "n",
+            "lemmas": [
+              "onion"
+            ],
+            "definition": "an aromatic flavorful bulb"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನೀರುಳ್ಳಿ-n12432808::unimet-kan-ನೀರುಳ್ಳಿ-n07722217": {
+          "source": "unimet-kan-ನೀರುಳ್ಳಿ-n12432808",
+          "target": "unimet-kan-ನೀರುಳ್ಳಿ-n07722217",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನೂಲು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನೂಲು-n04426788",
+          "lemma": "ನೂಲು",
+          "word_id": "unimet-kan-ನೂಲು",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        },
+        {
+          "id": "unimet-kan-ನೂಲು-n14866889",
+          "lemma": "ನೂಲು",
+          "word_id": "unimet-kan-ನೂಲು",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನೂಲು-n14866889",
+          "lemma": "ನೂಲು",
+          "word_id": "unimet-kan-ನೂಲು",
+          "synset": {
+            "id": "omw-en-14866889-n",
+            "ili": "i115191",
+            "pos": "n",
+            "lemmas": [
+              "fiber"
+            ],
+            "definition": "a slender and greatly elongated solid substance"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನೂಲು-n04426788",
+          "lemma": "ನೂಲು",
+          "word_id": "unimet-kan-ನೂಲು",
+          "synset": {
+            "id": "omw-en-04426788-n",
+            "ili": "i60206",
+            "pos": "n",
+            "lemmas": [
+              "thread"
+            ],
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನೂಲು-n14866889::unimet-kan-ನೂಲು-n04426788": {
+          "source": "unimet-kan-ನೂಲು-n14866889",
+          "target": "unimet-kan-ನೂಲು-n04426788",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನೇರಳೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನೇರಳೆ-n07767171",
+          "lemma": "ನೇರಳೆ",
+          "word_id": "unimet-kan-ನೇರಳೆ",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-kan-ನೇರಳೆ-n12399132",
+          "lemma": "ನೇರಳೆ",
+          "word_id": "unimet-kan-ನೇರಳೆ",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನೇರಳೆ-n07767171",
+          "lemma": "ನೇರಳೆ",
+          "word_id": "unimet-kan-ನೇರಳೆ",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನೇರಳೆ-n12399132",
+          "lemma": "ನೇರಳೆ",
+          "word_id": "unimet-kan-ನೇರಳೆ",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನೇರಳೆ-n07767171::unimet-kan-ನೇರಳೆ-n12399132": {
+          "source": "unimet-kan-ನೇರಳೆ-n07767171",
+          "target": "unimet-kan-ನೇರಳೆ-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ನೇರಿಳೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ನೇರಿಳೆ-n07767171",
+          "lemma": "ನೇರಿಳೆ",
+          "word_id": "unimet-kan-ನೇರಿಳೆ",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        },
+        {
+          "id": "unimet-kan-ನೇರಿಳೆ-n12399132",
+          "lemma": "ನೇರಿಳೆ",
+          "word_id": "unimet-kan-ನೇರಿಳೆ",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ನೇರಿಳೆ-n07767171",
+          "lemma": "ನೇರಿಳೆ",
+          "word_id": "unimet-kan-ನೇರಿಳೆ",
+          "synset": {
+            "id": "omw-en-07767171-n",
+            "ili": "i77888",
+            "pos": "n",
+            "lemmas": [
+              "mulberry"
+            ],
+            "definition": "sweet usually dark purple blackberry-like fruit of any of several mulberry trees of the genus Morus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ನೇರಿಳೆ-n12399132",
+          "lemma": "ನೇರಿಳೆ",
+          "word_id": "unimet-kan-ನೇರಿಳೆ",
+          "synset": {
+            "id": "omw-en-12399132-n",
+            "ili": "i102168",
+            "pos": "n",
+            "lemmas": [
+              "mulberry tree"
+            ],
+            "definition": "any of several trees of the genus Morus having edible fruit that resembles the blackberry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ನೇರಿಳೆ-n07767171::unimet-kan-ನೇರಿಳೆ-n12399132": {
+          "source": "unimet-kan-ನೇರಿಳೆ-n07767171",
+          "target": "unimet-kan-ನೇರಿಳೆ-n12399132",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಪರಾಜಿತ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಪರಾಜಿತ-n07475364",
+          "lemma": "ಪರಾಜಿತ",
+          "word_id": "unimet-kan-ಪರಾಜಿತ",
+          "synset": {
+            "id": "omw-en-07475364-n",
+            "ili": "i76016",
+            "pos": "n",
+            "lemmas": [
+              "licking"
+            ],
+            "definition": "an unsuccessful ending to a struggle or contest"
+          }
+        },
+        {
+          "id": "unimet-kan-ಪರಾಜಿತ-n07946135",
+          "lemma": "ಪರಾಜಿತ",
+          "word_id": "unimet-kan-ಪರಾಜಿತ",
+          "synset": {
+            "id": "omw-en-07946135-n",
+            "ili": "i79077",
+            "pos": "n",
+            "lemmas": [
+              "discomfited"
+            ],
+            "definition": "people who are defeated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಪರಾಜಿತ-n07475364",
+          "lemma": "ಪರಾಜಿತ",
+          "word_id": "unimet-kan-ಪರಾಜಿತ",
+          "synset": {
+            "id": "omw-en-07475364-n",
+            "ili": "i76016",
+            "pos": "n",
+            "lemmas": [
+              "licking"
+            ],
+            "definition": "an unsuccessful ending to a struggle or contest"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಪರಾಜಿತ-n07946135",
+          "lemma": "ಪರಾಜಿತ",
+          "word_id": "unimet-kan-ಪರಾಜಿತ",
+          "synset": {
+            "id": "omw-en-07946135-n",
+            "ili": "i79077",
+            "pos": "n",
+            "lemmas": [
+              "discomfited"
+            ],
+            "definition": "people who are defeated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಪರಾಜಿತ-n07475364::unimet-kan-ಪರಾಜಿತ-n07946135": {
+          "source": "unimet-kan-ಪರಾಜಿತ-n07475364",
+          "target": "unimet-kan-ಪರಾಜಿತ-n07946135",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಪೇರಲ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n07769584",
+          "lemma": "ಪೇರಲ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n12628986",
+          "lemma": "ಪೇರಲ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n07769584",
+          "lemma": "ಪೇರಲ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n12628986",
+          "lemma": "ಪೇರಲ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n07769584::unimet-kan-ಪೇರಲ ಹಣ್ಣು-n12628986": {
+          "source": "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n07769584",
+          "target": "unimet-kan-ಪೇರಲ ಹಣ್ಣು-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಪೇರಲ-ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n07769584",
+          "lemma": "ಪೇರಲ-ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        },
+        {
+          "id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n12628986",
+          "lemma": "ಪೇರಲ-ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n07769584",
+          "lemma": "ಪೇರಲ-ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07769584-n",
+            "ili": "i77905",
+            "pos": "n",
+            "lemmas": [
+              "quince"
+            ],
+            "definition": "aromatic acid-tasting pear-shaped fruit used in preserves"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n12628986",
+          "lemma": "ಪೇರಲ-ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12628986-n",
+            "ili": "i103248",
+            "pos": "n",
+            "lemmas": [
+              "cydonia oblonga"
+            ],
+            "definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n07769584::unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n12628986": {
+          "source": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n07769584",
+          "target": "unimet-kan-ಪೇರಲ-ಹಣ್ಣು-n12628986",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಪ್ರಖ್ಯಾತಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n10344443",
+          "lemma": "ಪ್ರಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        },
+        {
+          "id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n14437386",
+          "lemma": "ಪ್ರಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n14437386",
+          "lemma": "ಪ್ರಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n10344443",
+          "lemma": "ಪ್ರಖ್ಯಾತಿ",
+          "word_id": "unimet-kan-ಪ್ರಖ್ಯಾತಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n14437386::unimet-kan-ಪ್ರಖ್ಯಾತಿ-n10344443": {
+          "source": "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n14437386",
+          "target": "unimet-kan-ಪ್ರಖ್ಯಾತಿ-n10344443",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಪ್ರಸಿದ್ಧಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n10344443",
+          "lemma": "ಪ್ರಸಿದ್ಧಿ",
+          "word_id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        },
+        {
+          "id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n14437386",
+          "lemma": "ಪ್ರಸಿದ್ಧಿ",
+          "word_id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n14437386",
+          "lemma": "ಪ್ರಸಿದ್ಧಿ",
+          "word_id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n10344443",
+          "lemma": "ಪ್ರಸಿದ್ಧಿ",
+          "word_id": "unimet-kan-ಪ್ರಸಿದ್ಧಿ",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n14437386::unimet-kan-ಪ್ರಸಿದ್ಧಿ-n10344443": {
+          "source": "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n14437386",
+          "target": "unimet-kan-ಪ್ರಸಿದ್ಧಿ-n10344443",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಪ್ಲಮ್ ಹಣ್ಣು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n07751451",
+          "lemma": "ಪ್ಲಮ್ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        },
+        {
+          "id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n12638218",
+          "lemma": "ಪ್ಲಮ್ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n07751451",
+          "lemma": "ಪ್ಲಮ್ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-07751451-n",
+            "ili": "i77788",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n12638218",
+          "lemma": "ಪ್ಲಮ್ ಹಣ್ಣು",
+          "word_id": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು",
+          "synset": {
+            "id": "omw-en-12638218-n",
+            "ili": "i103292",
+            "pos": "n",
+            "lemmas": [
+              "plum"
+            ],
+            "definition": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n07751451::unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n12638218": {
+          "source": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n07751451",
+          "target": "unimet-kan-ಪ್ಲಮ್ ಹಣ್ಣು-n12638218",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬದನಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬದನಿ-n07713074",
+          "lemma": "ಬದನಿ",
+          "word_id": "unimet-kan-ಬದನಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬದನಿ-n12896000",
+          "lemma": "ಬದನಿ",
+          "word_id": "unimet-kan-ಬದನಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬದನಿ-n12896000",
+          "lemma": "ಬದನಿ",
+          "word_id": "unimet-kan-ಬದನಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬದನಿ-n07713074",
+          "lemma": "ಬದನಿ",
+          "word_id": "unimet-kan-ಬದನಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬದನಿ-n12896000::unimet-kan-ಬದನಿ-n07713074": {
+          "source": "unimet-kan-ಬದನಿ-n12896000",
+          "target": "unimet-kan-ಬದನಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬದನಿಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬದನಿಕಾಯಿ-n07713074",
+          "lemma": "ಬದನಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬದನಿಕಾಯಿ-n12896000",
+          "lemma": "ಬದನಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬದನಿಕಾಯಿ-n12896000",
+          "lemma": "ಬದನಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬದನಿಕಾಯಿ-n07713074",
+          "lemma": "ಬದನಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬದನಿಕಾಯಿ-n12896000::unimet-kan-ಬದನಿಕಾಯಿ-n07713074": {
+          "source": "unimet-kan-ಬದನಿಕಾಯಿ-n12896000",
+          "target": "unimet-kan-ಬದನಿಕಾಯಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬದನೀ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬದನೀ-n07713074",
+          "lemma": "ಬದನೀ",
+          "word_id": "unimet-kan-ಬದನೀ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬದನೀ-n12896000",
+          "lemma": "ಬದನೀ",
+          "word_id": "unimet-kan-ಬದನೀ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬದನೀ-n12896000",
+          "lemma": "ಬದನೀ",
+          "word_id": "unimet-kan-ಬದನೀ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬದನೀ-n07713074",
+          "lemma": "ಬದನೀ",
+          "word_id": "unimet-kan-ಬದನೀ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬದನೀ-n12896000::unimet-kan-ಬದನೀ-n07713074": {
+          "source": "unimet-kan-ಬದನೀ-n12896000",
+          "target": "unimet-kan-ಬದನೀ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬದನೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬದನೆ-n07713074",
+          "lemma": "ಬದನೆ",
+          "word_id": "unimet-kan-ಬದನೆ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬದನೆ-n12896000",
+          "lemma": "ಬದನೆ",
+          "word_id": "unimet-kan-ಬದನೆ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬದನೆ-n12896000",
+          "lemma": "ಬದನೆ",
+          "word_id": "unimet-kan-ಬದನೆ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬದನೆ-n07713074",
+          "lemma": "ಬದನೆ",
+          "word_id": "unimet-kan-ಬದನೆ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬದನೆ-n12896000::unimet-kan-ಬದನೆ-n07713074": {
+          "source": "unimet-kan-ಬದನೆ-n12896000",
+          "target": "unimet-kan-ಬದನೆ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬದನೆಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬದನೆಕಾಯಿ-n07713074",
+          "lemma": "ಬದನೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬದನೆಕಾಯಿ-n12896000",
+          "lemma": "ಬದನೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬದನೆಕಾಯಿ-n12896000",
+          "lemma": "ಬದನೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬದನೆಕಾಯಿ-n07713074",
+          "lemma": "ಬದನೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬದನೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬದನೆಕಾಯಿ-n12896000::unimet-kan-ಬದನೆಕಾಯಿ-n07713074": {
+          "source": "unimet-kan-ಬದನೆಕಾಯಿ-n12896000",
+          "target": "unimet-kan-ಬದನೆಕಾಯಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬದ್ನೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬದ್ನೆ-n07713074",
+          "lemma": "ಬದ್ನೆ",
+          "word_id": "unimet-kan-ಬದ್ನೆ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬದ್ನೆ-n12896000",
+          "lemma": "ಬದ್ನೆ",
+          "word_id": "unimet-kan-ಬದ್ನೆ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬದ್ನೆ-n12896000",
+          "lemma": "ಬದ್ನೆ",
+          "word_id": "unimet-kan-ಬದ್ನೆ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬದ್ನೆ-n07713074",
+          "lemma": "ಬದ್ನೆ",
+          "word_id": "unimet-kan-ಬದ್ನೆ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬದ್ನೆ-n12896000::unimet-kan-ಬದ್ನೆ-n07713074": {
+          "source": "unimet-kan-ಬದ್ನೆ-n12896000",
+          "target": "unimet-kan-ಬದ್ನೆ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬಲಹೀನ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬಲಹೀನ-n10771636",
+          "lemma": "ಬಲಹೀನ",
+          "word_id": "unimet-kan-ಬಲಹೀನ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬಲಹೀನ-n14547643",
+          "lemma": "ಬಲಹೀನ",
+          "word_id": "unimet-kan-ಬಲಹೀನ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬಲಹೀನ-n14547643",
+          "lemma": "ಬಲಹೀನ",
+          "word_id": "unimet-kan-ಬಲಹೀನ",
+          "synset": {
+            "id": "omw-en-14547643-n",
+            "ili": "i113452",
+            "pos": "n",
+            "lemmas": [
+              "infirmity"
+            ],
+            "definition": "the state of being weak in health or body (especially from old age)"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬಲಹೀನ-n10771636",
+          "lemma": "ಬಲಹೀನ",
+          "word_id": "unimet-kan-ಬಲಹೀನ",
+          "synset": {
+            "id": "omw-en-10771636-n",
+            "ili": "i94060",
+            "pos": "n",
+            "lemmas": [
+              "doormat"
+            ],
+            "definition": "a person who is physically weak and ineffectual"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬಲಹೀನ-n14547643::unimet-kan-ಬಲಹೀನ-n10771636": {
+          "source": "unimet-kan-ಬಲಹೀನ-n14547643",
+          "target": "unimet-kan-ಬಲಹೀನ-n10771636",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬಾಯಿ-n05302499",
+          "lemma": "ಬಾಯಿ",
+          "word_id": "unimet-kan-ಬಾಯಿ",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬಾಯಿ-n10335679",
+          "lemma": "ಬಾಯಿ",
+          "word_id": "unimet-kan-ಬಾಯಿ",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬಾಯಿ-n05302499",
+          "lemma": "ಬಾಯಿ",
+          "word_id": "unimet-kan-ಬಾಯಿ",
+          "synset": {
+            "id": "omw-en-05302499-n",
+            "ili": "i64824",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "the opening through which food is taken in and vocalizations emerge"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬಾಯಿ-n10335679",
+          "lemma": "ಬಾಯಿ",
+          "word_id": "unimet-kan-ಬಾಯಿ",
+          "synset": {
+            "id": "omw-en-10335679-n",
+            "ili": "i91483",
+            "pos": "n",
+            "lemmas": [
+              "mouth"
+            ],
+            "definition": "a person conceived as a consumer of food"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬಾಯಿ-n05302499::unimet-kan-ಬಾಯಿ-n10335679": {
+          "source": "unimet-kan-ಬಾಯಿ-n05302499",
+          "target": "unimet-kan-ಬಾಯಿ-n10335679",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬಿಂಬಳಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬಿಂಬಳಿ-n07746551",
+          "lemma": "ಬಿಂಬಳಿ",
+          "word_id": "unimet-kan-ಬಿಂಬಳಿ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬಿಂಬಳಿ-n12704343",
+          "lemma": "ಬಿಂಬಳಿ",
+          "word_id": "unimet-kan-ಬಿಂಬಳಿ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬಿಂಬಳಿ-n07746551",
+          "lemma": "ಬಿಂಬಳಿ",
+          "word_id": "unimet-kan-ಬಿಂಬಳಿ",
+          "synset": {
+            "id": "omw-en-07746551-n",
+            "ili": "i77757",
+            "pos": "n",
+            "lemmas": [
+              "star fruit"
+            ],
+            "definition": "deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬಿಂಬಳಿ-n12704343",
+          "lemma": "ಬಿಂಬಳಿ",
+          "word_id": "unimet-kan-ಬಿಂಬಳಿ",
+          "synset": {
+            "id": "omw-en-12704343-n",
+            "ili": "i103620",
+            "pos": "n",
+            "lemmas": [
+              "averrhoa carambola"
+            ],
+            "definition": "East Indian tree bearing deeply ridged yellow-brown fruit"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬಿಂಬಳಿ-n07746551::unimet-kan-ಬಿಂಬಳಿ-n12704343": {
+          "source": "unimet-kan-ಬಿಂಬಳಿ-n07746551",
+          "target": "unimet-kan-ಬಿಂಬಳಿ-n12704343",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬೆಂಡೀಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12171966",
+          "lemma": "ಬೆಂಡೀಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12172364",
+          "lemma": "ಬೆಂಡೀಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12171966",
+          "lemma": "ಬೆಂಡೀಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12172364",
+          "lemma": "ಬೆಂಡೀಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೀಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12171966::unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12172364": {
+          "source": "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12171966",
+          "target": "unimet-kan-ಬೆಂಡೀಕಾಯಿ-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬೆಂಡೇಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12171966",
+          "lemma": "ಬೆಂಡೇಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12172364",
+          "lemma": "ಬೆಂಡೇಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12171966",
+          "lemma": "ಬೆಂಡೇಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12171966-n",
+            "ili": "i101104",
+            "pos": "n",
+            "lemmas": [
+              "hibiscus esculentus"
+            ],
+            "definition": "tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12172364",
+          "lemma": "ಬೆಂಡೇಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಂಡೇಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12172364-n",
+            "ili": "i101105",
+            "pos": "n",
+            "lemmas": [
+              "okra"
+            ],
+            "definition": "long green edible beaked pods of the okra plant"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12171966::unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12172364": {
+          "source": "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12171966",
+          "target": "unimet-kan-ಬೆಂಡೇಕಾಯಿ-n12172364",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬೆಣ್ಣೆಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n07713074",
+          "lemma": "ಬೆಣ್ಣೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n12896000",
+          "lemma": "ಬೆಣ್ಣೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n12896000",
+          "lemma": "ಬೆಣ್ಣೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n07713074",
+          "lemma": "ಬೆಣ್ಣೆಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n12896000::unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n07713074": {
+          "source": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n12896000",
+          "target": "unimet-kan-ಬೆಣ್ಣೆಕಾಯಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬೇರಿ ಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿ ಕಾಯಿ-n07767847",
+          "lemma": "ಬೇರಿ ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬೇರಿ ಕಾಯಿ-n12651611",
+          "lemma": "ಬೇರಿ ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿ ಕಾಯಿ-n07767847",
+          "lemma": "ಬೇರಿ ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿ ಕಾಯಿ-n12651611",
+          "lemma": "ಬೇರಿ ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬೇರಿ ಕಾಯಿ-n07767847::unimet-kan-ಬೇರಿ ಕಾಯಿ-n12651611": {
+          "source": "unimet-kan-ಬೇರಿ ಕಾಯಿ-n07767847",
+          "target": "unimet-kan-ಬೇರಿ ಕಾಯಿ-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬೇರಿ-ಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n07767847",
+          "lemma": "ಬೇರಿ-ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n12651611",
+          "lemma": "ಬೇರಿ-ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n07767847",
+          "lemma": "ಬೇರಿ-ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n12651611",
+          "lemma": "ಬೇರಿ-ಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿ-ಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n07767847::unimet-kan-ಬೇರಿ-ಕಾಯಿ-n12651611": {
+          "source": "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n07767847",
+          "target": "unimet-kan-ಬೇರಿ-ಕಾಯಿ-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಬೇರಿಕಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿಕಾಯಿ-n07767847",
+          "lemma": "ಬೇರಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-kan-ಬೇರಿಕಾಯಿ-n12651611",
+          "lemma": "ಬೇರಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿಕಾಯಿ-n07767847",
+          "lemma": "ಬೇರಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಬೇರಿಕಾಯಿ-n12651611",
+          "lemma": "ಬೇರಿಕಾಯಿ",
+          "word_id": "unimet-kan-ಬೇರಿಕಾಯಿ",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಬೇರಿಕಾಯಿ-n07767847::unimet-kan-ಬೇರಿಕಾಯಿ-n12651611": {
+          "source": "unimet-kan-ಬೇರಿಕಾಯಿ-n07767847",
+          "target": "unimet-kan-ಬೇರಿಕಾಯಿ-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮರ ಸೇಬು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮರ ಸೇಬು-n07767847",
+          "lemma": "ಮರ ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ ಸೇಬು",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮರ ಸೇಬು-n12651611",
+          "lemma": "ಮರ ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ ಸೇಬು",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮರ ಸೇಬು-n07767847",
+          "lemma": "ಮರ ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ ಸೇಬು",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮರ ಸೇಬು-n12651611",
+          "lemma": "ಮರ ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ ಸೇಬು",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮರ ಸೇಬು-n07767847::unimet-kan-ಮರ ಸೇಬು-n12651611": {
+          "source": "unimet-kan-ಮರ ಸೇಬು-n07767847",
+          "target": "unimet-kan-ಮರ ಸೇಬು-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮರ-ಸೇಬು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮರ-ಸೇಬು-n07767847",
+          "lemma": "ಮರ-ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ-ಸೇಬು",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮರ-ಸೇಬು-n12651611",
+          "lemma": "ಮರ-ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ-ಸೇಬು",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮರ-ಸೇಬು-n07767847",
+          "lemma": "ಮರ-ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ-ಸೇಬು",
+          "synset": {
+            "id": "omw-en-07767847-n",
+            "ili": "i77892",
+            "pos": "n",
+            "lemmas": [
+              "pear"
+            ],
+            "definition": "sweet juicy gritty-textured fruit available in many varieties"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮರ-ಸೇಬು-n12651611",
+          "lemma": "ಮರ-ಸೇಬು",
+          "word_id": "unimet-kan-ಮರ-ಸೇಬು",
+          "synset": {
+            "id": "omw-en-12651611-n",
+            "ili": "i103361",
+            "pos": "n",
+            "lemmas": [
+              "pear tree"
+            ],
+            "definition": "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮರ-ಸೇಬು-n07767847::unimet-kan-ಮರ-ಸೇಬು-n12651611": {
+          "source": "unimet-kan-ಮರ-ಸೇಬು-n07767847",
+          "target": "unimet-kan-ಮರ-ಸೇಬು-n12651611",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮಾಣಿಕ್ಯ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮಾಣಿಕ್ಯ-n13372262",
+          "lemma": "ಮಾಣಿಕ್ಯ",
+          "word_id": "unimet-kan-ಮಾಣಿಕ್ಯ",
+          "synset": {
+            "id": "omw-en-13372262-n",
+            "ili": "i106986",
+            "pos": "n",
+            "lemmas": [
+              "ruby"
+            ],
+            "definition": "a transparent piece of ruby that has been cut and polished and is valued as a precious gem"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮಾಣಿಕ್ಯ-n15008142",
+          "lemma": "ಮಾಣಿಕ್ಯ",
+          "word_id": "unimet-kan-ಮಾಣಿಕ್ಯ",
+          "synset": {
+            "id": "omw-en-15008142-n",
+            "ili": "i116023",
+            "pos": "n",
+            "lemmas": [
+              "ruby"
+            ],
+            "definition": "a transparent deep red variety of corundum; used as a gemstone and in lasers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮಾಣಿಕ್ಯ-n15008142",
+          "lemma": "ಮಾಣಿಕ್ಯ",
+          "word_id": "unimet-kan-ಮಾಣಿಕ್ಯ",
+          "synset": {
+            "id": "omw-en-15008142-n",
+            "ili": "i116023",
+            "pos": "n",
+            "lemmas": [
+              "ruby"
+            ],
+            "definition": "a transparent deep red variety of corundum; used as a gemstone and in lasers"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮಾಣಿಕ್ಯ-n13372262",
+          "lemma": "ಮಾಣಿಕ್ಯ",
+          "word_id": "unimet-kan-ಮಾಣಿಕ್ಯ",
+          "synset": {
+            "id": "omw-en-13372262-n",
+            "ili": "i106986",
+            "pos": "n",
+            "lemmas": [
+              "ruby"
+            ],
+            "definition": "a transparent piece of ruby that has been cut and polished and is valued as a precious gem"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮಾಣಿಕ್ಯ-n15008142::unimet-kan-ಮಾಣಿಕ್ಯ-n13372262": {
+          "source": "unimet-kan-ಮಾಣಿಕ್ಯ-n15008142",
+          "target": "unimet-kan-ಮಾಣಿಕ್ಯ-n13372262",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮುಳಗಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮುಳಗಾಯಿ-n07713074",
+          "lemma": "ಮುಳಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮುಳಗಾಯಿ-n12896000",
+          "lemma": "ಮುಳಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮುಳಗಾಯಿ-n12896000",
+          "lemma": "ಮುಳಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮುಳಗಾಯಿ-n07713074",
+          "lemma": "ಮುಳಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮುಳಗಾಯಿ-n12896000::unimet-kan-ಮುಳಗಾಯಿ-n07713074": {
+          "source": "unimet-kan-ಮುಳಗಾಯಿ-n12896000",
+          "target": "unimet-kan-ಮುಳಗಾಯಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮುಳ್ಗಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮುಳ್ಗಾಯಿ-n07713074",
+          "lemma": "ಮುಳ್ಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮುಳ್ಗಾಯಿ-n12896000",
+          "lemma": "ಮುಳ್ಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮುಳ್ಗಾಯಿ-n12896000",
+          "lemma": "ಮುಳ್ಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮುಳ್ಗಾಯಿ-n07713074",
+          "lemma": "ಮುಳ್ಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮುಳ್ಗಾಯಿ-n12896000::unimet-kan-ಮುಳ್ಗಾಯಿ-n07713074": {
+          "source": "unimet-kan-ಮುಳ್ಗಾಯಿ-n12896000",
+          "target": "unimet-kan-ಮುಳ್ಗಾಯಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮುಳ್ಳುಗಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n07713074",
+          "lemma": "ಮುಳ್ಳುಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n12896000",
+          "lemma": "ಮುಳ್ಳುಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n12896000",
+          "lemma": "ಮುಳ್ಳುಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-12896000-n",
+            "ili": "i104543",
+            "pos": "n",
+            "lemmas": [
+              "solanum melongena"
+            ],
+            "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n07713074",
+          "lemma": "ಮುಳ್ಳುಗಾಯಿ",
+          "word_id": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ",
+          "synset": {
+            "id": "omw-en-07713074-n",
+            "ili": "i77532",
+            "pos": "n",
+            "lemmas": [
+              "eggplant"
+            ],
+            "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n12896000::unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n07713074": {
+          "source": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n12896000",
+          "target": "unimet-kan-ಮುಳ್ಳುಗಾಯಿ-n07713074",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮೂಲಂಗಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮೂಲಂಗಿ-n07735687",
+          "lemma": "ಮೂಲಂಗಿ",
+          "word_id": "unimet-kan-ಮೂಲಂಗಿ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮೂಲಂಗಿ-n11894327",
+          "lemma": "ಮೂಲಂಗಿ",
+          "word_id": "unimet-kan-ಮೂಲಂಗಿ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮೂಲಂಗಿ-n11894327",
+          "lemma": "ಮೂಲಂಗಿ",
+          "word_id": "unimet-kan-ಮೂಲಂಗಿ",
+          "synset": {
+            "id": "omw-en-11894327-n",
+            "ili": "i99756",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "a cruciferous plant of the genus Raphanus having a pungent edible root"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮೂಲಂಗಿ-n07735687",
+          "lemma": "ಮೂಲಂಗಿ",
+          "word_id": "unimet-kan-ಮೂಲಂಗಿ",
+          "synset": {
+            "id": "omw-en-07735687-n",
+            "ili": "i77687",
+            "pos": "n",
+            "lemmas": [
+              "radish"
+            ],
+            "definition": "pungent fleshy edible root"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮೂಲಂಗಿ-n11894327::unimet-kan-ಮೂಲಂಗಿ-n07735687": {
+          "source": "unimet-kan-ಮೂಲಂಗಿ-n11894327",
+          "target": "unimet-kan-ಮೂಲಂಗಿ-n07735687",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಮೊಳಕೆ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಮೊಳಕೆ-n07719437",
+          "lemma": "ಮೊಳಕೆ",
+          "word_id": "unimet-kan-ಮೊಳಕೆ",
+          "synset": {
+            "id": "omw-en-07719437-n",
+            "ili": "i77572",
+            "pos": "n",
+            "lemmas": [
+              "sprout"
+            ],
+            "definition": "a newly grown bud (especially from a germinating seed)"
+          }
+        },
+        {
+          "id": "unimet-kan-ಮೊಳಕೆ-n11552594",
+          "lemma": "ಮೊಳಕೆ",
+          "word_id": "unimet-kan-ಮೊಳಕೆ",
+          "synset": {
+            "id": "omw-en-11552594-n",
+            "ili": "i98299",
+            "pos": "n",
+            "lemmas": [
+              "seedling"
+            ],
+            "definition": "young plant or tree grown from a seed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಮೊಳಕೆ-n11552594",
+          "lemma": "ಮೊಳಕೆ",
+          "word_id": "unimet-kan-ಮೊಳಕೆ",
+          "synset": {
+            "id": "omw-en-11552594-n",
+            "ili": "i98299",
+            "pos": "n",
+            "lemmas": [
+              "seedling"
+            ],
+            "definition": "young plant or tree grown from a seed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಮೊಳಕೆ-n07719437",
+          "lemma": "ಮೊಳಕೆ",
+          "word_id": "unimet-kan-ಮೊಳಕೆ",
+          "synset": {
+            "id": "omw-en-07719437-n",
+            "ili": "i77572",
+            "pos": "n",
+            "lemmas": [
+              "sprout"
+            ],
+            "definition": "a newly grown bud (especially from a germinating seed)"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಮೊಳಕೆ-n11552594::unimet-kan-ಮೊಳಕೆ-n07719437": {
+          "source": "unimet-kan-ಮೊಳಕೆ-n11552594",
+          "target": "unimet-kan-ಮೊಳಕೆ-n07719437",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಯಶಸ್ಸು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಯಶಸ್ಸು-n10344443",
+          "lemma": "ಯಶಸ್ಸು",
+          "word_id": "unimet-kan-ಯಶಸ್ಸು",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        },
+        {
+          "id": "unimet-kan-ಯಶಸ್ಸು-n14437386",
+          "lemma": "ಯಶಸ್ಸು",
+          "word_id": "unimet-kan-ಯಶಸ್ಸು",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಯಶಸ್ಸು-n14437386",
+          "lemma": "ಯಶಸ್ಸು",
+          "word_id": "unimet-kan-ಯಶಸ್ಸು",
+          "synset": {
+            "id": "omw-en-14437386-n",
+            "ili": "i112877",
+            "pos": "n",
+            "lemmas": [
+              "fame"
+            ],
+            "definition": "the state or quality of being widely honored and acclaimed"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಯಶಸ್ಸು-n10344443",
+          "lemma": "ಯಶಸ್ಸು",
+          "word_id": "unimet-kan-ಯಶಸ್ಸು",
+          "synset": {
+            "id": "omw-en-10344443-n",
+            "ili": "i91534",
+            "pos": "n",
+            "lemmas": [
+              "name"
+            ],
+            "definition": "a well-known or notable person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಯಶಸ್ಸು-n14437386::unimet-kan-ಯಶಸ್ಸು-n10344443": {
+          "source": "unimet-kan-ಯಶಸ್ಸು-n14437386",
+          "target": "unimet-kan-ಯಶಸ್ಸು-n10344443",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ರಾಜ್ಯ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ರಾಜ್ಯ-n08405603",
+          "lemma": "ರಾಜ್ಯ",
+          "word_id": "unimet-kan-ರಾಜ್ಯ",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        },
+        {
+          "id": "unimet-kan-ರಾಜ್ಯ-n08558155",
+          "lemma": "ರಾಜ್ಯ",
+          "word_id": "unimet-kan-ರಾಜ್ಯ",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ರಾಜ್ಯ-n08405603",
+          "lemma": "ರಾಜ್ಯ",
+          "word_id": "unimet-kan-ರಾಜ್ಯ",
+          "synset": {
+            "id": "omw-en-08405603-n",
+            "ili": "i81273",
+            "pos": "n",
+            "lemmas": [
+              "kingdom"
+            ],
+            "definition": "a monarchy with a king or queen as head of state"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ರಾಜ್ಯ-n08558155",
+          "lemma": "ರಾಜ್ಯ",
+          "word_id": "unimet-kan-ರಾಜ್ಯ",
+          "synset": {
+            "id": "omw-en-08558155-n",
+            "ili": "i81956",
+            "pos": "n",
+            "lemmas": [
+              "realm"
+            ],
+            "definition": "the domain ruled by a king or queen"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ರಾಜ್ಯ-n08405603::unimet-kan-ರಾಜ್ಯ-n08558155": {
+          "source": "unimet-kan-ರಾಜ್ಯ-n08405603",
+          "target": "unimet-kan-ರಾಜ್ಯ-n08558155",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಶತ್ರು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಶತ್ರು-n07547805",
+          "lemma": "ಶತ್ರು",
+          "word_id": "unimet-kan-ಶತ್ರು",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        },
+        {
+          "id": "unimet-kan-ಶತ್ರು-n10098710",
+          "lemma": "ಶತ್ರು",
+          "word_id": "unimet-kan-ಶತ್ರು",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಶತ್ರು-n07547805",
+          "lemma": "ಶತ್ರು",
+          "word_id": "unimet-kan-ಶತ್ರು",
+          "synset": {
+            "id": "omw-en-07547805-n",
+            "ili": "i76424",
+            "pos": "n",
+            "lemmas": [
+              "enmity"
+            ],
+            "definition": "the feeling of a hostile person"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಶತ್ರು-n10098710",
+          "lemma": "ಶತ್ರು",
+          "word_id": "unimet-kan-ಶತ್ರು",
+          "synset": {
+            "id": "omw-en-10098710-n",
+            "ili": "i90012",
+            "pos": "n",
+            "lemmas": [
+              "foe"
+            ],
+            "definition": "a personal enemy"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಶತ್ರು-n07547805::unimet-kan-ಶತ್ರು-n10098710": {
+          "source": "unimet-kan-ಶತ್ರು-n07547805",
+          "target": "unimet-kan-ಶತ್ರು-n10098710",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಶಾಯಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಶಾಯಿ-n03571625",
+          "lemma": "ಶಾಯಿ",
+          "word_id": "unimet-kan-ಶಾಯಿ",
+          "synset": {
+            "id": "omw-en-03571625-n",
+            "ili": "i55108",
+            "pos": "n",
+            "lemmas": [
+              "inkstand"
+            ],
+            "definition": "a bottle of ink"
+          }
+        },
+        {
+          "id": "unimet-kan-ಶಾಯಿ-n14917635",
+          "lemma": "ಶಾಯಿ",
+          "word_id": "unimet-kan-ಶಾಯಿ",
+          "synset": {
+            "id": "omw-en-14917635-n",
+            "ili": "i115490",
+            "pos": "n",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "a liquid used for printing or writing or drawing"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಶಾಯಿ-n14917635",
+          "lemma": "ಶಾಯಿ",
+          "word_id": "unimet-kan-ಶಾಯಿ",
+          "synset": {
+            "id": "omw-en-14917635-n",
+            "ili": "i115490",
+            "pos": "n",
+            "lemmas": [
+              "ink"
+            ],
+            "definition": "a liquid used for printing or writing or drawing"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಶಾಯಿ-n03571625",
+          "lemma": "ಶಾಯಿ",
+          "word_id": "unimet-kan-ಶಾಯಿ",
+          "synset": {
+            "id": "omw-en-03571625-n",
+            "ili": "i55108",
+            "pos": "n",
+            "lemmas": [
+              "inkstand"
+            ],
+            "definition": "a bottle of ink"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಶಾಯಿ-n14917635::unimet-kan-ಶಾಯಿ-n03571625": {
+          "source": "unimet-kan-ಶಾಯಿ-n14917635",
+          "target": "unimet-kan-ಶಾಯಿ-n03571625",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಸೀತಾಫಲ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n07735510",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n07760859",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-07760859-n",
+            "ili": "i77850",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "the fruit of any of several tropical American trees of the genus Annona having soft edible pulp"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n11693981",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-11693981-n",
+            "ili": "i98799",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "any of several tropical American trees bearing fruit with soft edible pulp"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n12158443",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n12158443",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-12158443-n",
+            "ili": "i101043",
+            "pos": "n",
+            "lemmas": [
+              "cucurbita pepo"
+            ],
+            "definition": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n07760859",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-07760859-n",
+            "ili": "i77850",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "the fruit of any of several tropical American trees of the genus Annona having soft edible pulp"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n07735510",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-07735510-n",
+            "ili": "i77686",
+            "pos": "n",
+            "lemmas": [
+              "pumpkin"
+            ],
+            "definition": "usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀತಾಫಲ-n11693981",
+          "lemma": "ಸೀತಾಫಲ",
+          "word_id": "unimet-kan-ಸೀತಾಫಲ",
+          "synset": {
+            "id": "omw-en-11693981-n",
+            "ili": "i98799",
+            "pos": "n",
+            "lemmas": [
+              "custard apple"
+            ],
+            "definition": "any of several tropical American trees bearing fruit with soft edible pulp"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಸೀತಾಫಲ-n12158443::unimet-kan-ಸೀತಾಫಲ-n07735510": {
+          "source": "unimet-kan-ಸೀತಾಫಲ-n12158443",
+          "target": "unimet-kan-ಸೀತಾಫಲ-n07735510",
+          "type": "metonymy"
+        },
+        "unimet-kan-ಸೀತಾಫಲ-n07760859::unimet-kan-ಸೀತಾಫಲ-n11693981": {
+          "source": "unimet-kan-ಸೀತಾಫಲ-n07760859",
+          "target": "unimet-kan-ಸೀತಾಫಲ-n11693981",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಸೀನು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಸೀನು-n14314850",
+          "lemma": "ಸೀನು",
+          "word_id": "unimet-kan-ಸೀನು",
+          "synset": {
+            "id": "omw-en-14314850-n",
+            "ili": "i112172",
+            "pos": "n",
+            "lemmas": [
+              "sternutation"
+            ],
+            "definition": "a symptom consisting of the involuntary expulsion of air from the nose"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀನು-v00004819",
+          "lemma": "ಸೀನು",
+          "word_id": "unimet-kan-ಸೀನು",
+          "synset": {
+            "id": "omw-en-00004819-v",
+            "ili": "i21792",
+            "pos": "v",
+            "lemmas": [
+              "sneeze"
+            ],
+            "definition": "exhale spasmodically, as when an irritant entered one's nose"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಸೀನು-v00004819",
+          "lemma": "ಸೀನು",
+          "word_id": "unimet-kan-ಸೀನು",
+          "synset": {
+            "id": "omw-en-00004819-v",
+            "ili": "i21792",
+            "pos": "v",
+            "lemmas": [
+              "sneeze"
+            ],
+            "definition": "exhale spasmodically, as when an irritant entered one's nose"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಸೀನು-n14314850",
+          "lemma": "ಸೀನು",
+          "word_id": "unimet-kan-ಸೀನು",
+          "synset": {
+            "id": "omw-en-14314850-n",
+            "ili": "i112172",
+            "pos": "n",
+            "lemmas": [
+              "sternutation"
+            ],
+            "definition": "a symptom consisting of the involuntary expulsion of air from the nose"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಸೀನು-v00004819::unimet-kan-ಸೀನು-n14314850": {
+          "source": "unimet-kan-ಸೀನು-v00004819",
+          "target": "unimet-kan-ಸೀನು-n14314850",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಸೀಸದ ಕಡ್ಡಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03651084",
+          "lemma": "ಸೀಸದ ಕಡ್ಡಿ",
+          "word_id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ",
+          "synset": {
+            "id": "omw-en-03651084-n",
+            "ili": "i55592",
+            "pos": "n",
+            "lemmas": [
+              "lead"
+            ],
+            "definition": "mixture of graphite with clay in different degrees of hardness; the marking substance in a pencil"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03908204",
+          "lemma": "ಸೀಸದ ಕಡ್ಡಿ",
+          "word_id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ",
+          "synset": {
+            "id": "omw-en-03908204-n",
+            "ili": "i57109",
+            "pos": "n",
+            "lemmas": [
+              "pencil"
+            ],
+            "definition": "a thin cylindrical pointed writing implement; a rod of marking substance encased in wood"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03651084",
+          "lemma": "ಸೀಸದ ಕಡ್ಡಿ",
+          "word_id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ",
+          "synset": {
+            "id": "omw-en-03651084-n",
+            "ili": "i55592",
+            "pos": "n",
+            "lemmas": [
+              "lead"
+            ],
+            "definition": "mixture of graphite with clay in different degrees of hardness; the marking substance in a pencil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03908204",
+          "lemma": "ಸೀಸದ ಕಡ್ಡಿ",
+          "word_id": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ",
+          "synset": {
+            "id": "omw-en-03908204-n",
+            "ili": "i57109",
+            "pos": "n",
+            "lemmas": [
+              "pencil"
+            ],
+            "definition": "a thin cylindrical pointed writing implement; a rod of marking substance encased in wood"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03651084::unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03908204": {
+          "source": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03651084",
+          "target": "unimet-kan-ಸೀಸದ ಕಡ್ಡಿ-n03908204",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಸ್ಟ್ರಾಬೆರಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n07745940",
+          "lemma": "ಸ್ಟ್ರಾಬೆರಿ",
+          "word_id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n12630144",
+          "lemma": "ಸ್ಟ್ರಾಬೆರಿ",
+          "word_id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n07745940",
+          "lemma": "ಸ್ಟ್ರಾಬೆರಿ",
+          "word_id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ",
+          "synset": {
+            "id": "omw-en-07745940-n",
+            "ili": "i77753",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "sweet fleshy red fruit"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n12630144",
+          "lemma": "ಸ್ಟ್ರಾಬೆರಿ",
+          "word_id": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ",
+          "synset": {
+            "id": "omw-en-12630144-n",
+            "ili": "i103254",
+            "pos": "n",
+            "lemmas": [
+              "strawberry"
+            ],
+            "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n07745940::unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n12630144": {
+          "source": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n07745940",
+          "target": "unimet-kan-ಸ್ಟ್ರಾಬೆರಿ-n12630144",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಸ್ವಾರ್ಥಿ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಸ್ವಾರ್ಥಿ-n04835028",
+          "lemma": "ಸ್ವಾರ್ಥಿ",
+          "word_id": "unimet-kan-ಸ್ವಾರ್ಥಿ",
+          "synset": {
+            "id": "omw-en-04835028-n",
+            "ili": "i62400",
+            "pos": "n",
+            "lemmas": [
+              "self-interest"
+            ],
+            "definition": "concern for your own interests and welfare"
+          }
+        },
+        {
+          "id": "unimet-kan-ಸ್ವಾರ್ಥಿ-n10047459",
+          "lemma": "ಸ್ವಾರ್ಥಿ",
+          "word_id": "unimet-kan-ಸ್ವಾರ್ಥಿ",
+          "synset": {
+            "id": "omw-en-10047459-n",
+            "ili": "i89700",
+            "pos": "n",
+            "lemmas": [
+              "egoist"
+            ],
+            "definition": "a conceited and self-centered person"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಸ್ವಾರ್ಥಿ-n04835028",
+          "lemma": "ಸ್ವಾರ್ಥಿ",
+          "word_id": "unimet-kan-ಸ್ವಾರ್ಥಿ",
+          "synset": {
+            "id": "omw-en-04835028-n",
+            "ili": "i62400",
+            "pos": "n",
+            "lemmas": [
+              "self-interest"
+            ],
+            "definition": "concern for your own interests and welfare"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಸ್ವಾರ್ಥಿ-n10047459",
+          "lemma": "ಸ್ವಾರ್ಥಿ",
+          "word_id": "unimet-kan-ಸ್ವಾರ್ಥಿ",
+          "synset": {
+            "id": "omw-en-10047459-n",
+            "ili": "i89700",
+            "pos": "n",
+            "lemmas": [
+              "egoist"
+            ],
+            "definition": "a conceited and self-centered person"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಸ್ವಾರ್ಥಿ-n04835028::unimet-kan-ಸ್ವಾರ್ಥಿ-n10047459": {
+          "source": "unimet-kan-ಸ್ವಾರ್ಥಿ-n04835028",
+          "target": "unimet-kan-ಸ್ವಾರ್ಥಿ-n10047459",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಹಲಸು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಹಲಸು-n07754684",
+          "lemma": "ಹಲಸು",
+          "word_id": "unimet-kan-ಹಲಸು",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        },
+        {
+          "id": "unimet-kan-ಹಲಸು-n12400720",
+          "lemma": "ಹಲಸು",
+          "word_id": "unimet-kan-ಹಲಸು",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಹಲಸು-n07754684",
+          "lemma": "ಹಲಸು",
+          "word_id": "unimet-kan-ಹಲಸು",
+          "synset": {
+            "id": "omw-en-07754684-n",
+            "ili": "i77810",
+            "pos": "n",
+            "lemmas": [
+              "jak"
+            ],
+            "definition": "immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಹಲಸು-n12400720",
+          "lemma": "ಹಲಸು",
+          "word_id": "unimet-kan-ಹಲಸು",
+          "synset": {
+            "id": "omw-en-12400720-n",
+            "ili": "i102176",
+            "pos": "n",
+            "lemmas": [
+              "jackfruit tree"
+            ],
+            "definition": "East Indian tree cultivated for its immense edible fruit and seeds"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಹಲಸು-n07754684::unimet-kan-ಹಲಸು-n12400720": {
+          "source": "unimet-kan-ಹಲಸು-n07754684",
+          "target": "unimet-kan-ಹಲಸು-n12400720",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಹುರಳುಗಿಡ",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಹುರಳುಗಿಡ-n11689678",
+          "lemma": "ಹುರಳುಗಿಡ",
+          "word_id": "unimet-kan-ಹುರಳುಗಿಡ",
+          "synset": {
+            "id": "omw-en-11689678-n",
+            "ili": "i98777",
+            "pos": "n",
+            "lemmas": [
+              "castor bean"
+            ],
+            "definition": "the toxic seed of the castor-oil plant; source of castor oil"
+          }
+        },
+        {
+          "id": "unimet-kan-ಹುರಳುಗಿಡ-n12924623",
+          "lemma": "ಹುರಳುಗಿಡ",
+          "word_id": "unimet-kan-ಹುರಳುಗಿಡ",
+          "synset": {
+            "id": "omw-en-12924623-n",
+            "ili": "i104681",
+            "pos": "n",
+            "lemmas": [
+              "castor bean plant"
+            ],
+            "definition": "large shrub of tropical Africa and Asia having large palmate leaves and spiny capsules containing seeds that are the source of castor oil and ricin; widely naturalized throughout the tropics"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಹುರಳುಗಿಡ-n11689678",
+          "lemma": "ಹುರಳುಗಿಡ",
+          "word_id": "unimet-kan-ಹುರಳುಗಿಡ",
+          "synset": {
+            "id": "omw-en-11689678-n",
+            "ili": "i98777",
+            "pos": "n",
+            "lemmas": [
+              "castor bean"
+            ],
+            "definition": "the toxic seed of the castor-oil plant; source of castor oil"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಹುರಳುಗಿಡ-n12924623",
+          "lemma": "ಹುರಳುಗಿಡ",
+          "word_id": "unimet-kan-ಹುರಳುಗಿಡ",
+          "synset": {
+            "id": "omw-en-12924623-n",
+            "ili": "i104681",
+            "pos": "n",
+            "lemmas": [
+              "castor bean plant"
+            ],
+            "definition": "large shrub of tropical Africa and Asia having large palmate leaves and spiny capsules containing seeds that are the source of castor oil and ricin; widely naturalized throughout the tropics"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಹುರಳುಗಿಡ-n11689678::unimet-kan-ಹುರಳುಗಿಡ-n12924623": {
+          "source": "unimet-kan-ಹುರಳುಗಿಡ-n11689678",
+          "target": "unimet-kan-ಹುರಳುಗಿಡ-n12924623",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    },
+    {
+      "lemma": "ಹೂಕೋಸು",
+      "all_senses": [
+        {
+          "id": "unimet-kan-ಹೂಕೋಸು-n07715103",
+          "lemma": "ಹೂಕೋಸು",
+          "word_id": "unimet-kan-ಹೂಕೋಸು",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        },
+        {
+          "id": "unimet-kan-ಹೂಕೋಸು-n11876634",
+          "lemma": "ಹೂಕೋಸು",
+          "word_id": "unimet-kan-ಹೂಕೋಸು",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-kan-ಹೂಕೋಸು-n11876634",
+          "lemma": "ಹೂಕೋಸು",
+          "word_id": "unimet-kan-ಹೂಕೋಸು",
+          "synset": {
+            "id": "omw-en-11876634-n",
+            "ili": "i99667",
+            "pos": "n",
+            "lemmas": [
+              "brassica oleracea botrytis"
+            ],
+            "definition": "a plant having a large edible head of crowded white flower buds"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-kan-ಹೂಕೋಸು-n07715103",
+          "lemma": "ಹೂಕೋಸು",
+          "word_id": "unimet-kan-ಹೂಕೋಸು",
+          "synset": {
+            "id": "omw-en-07715103-n",
+            "ili": "i77545",
+            "pos": "n",
+            "lemmas": [
+              "cauliflower"
+            ],
+            "definition": "compact head of white undeveloped flowers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-kan-ಹೂಕೋಸು-n11876634::unimet-kan-ಹೂಕೋಸು-n07715103": {
+          "source": "unimet-kan-ಹೂಕೋಸು-n11876634",
+          "target": "unimet-kan-ಹೂಕೋಸು-n07715103",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}

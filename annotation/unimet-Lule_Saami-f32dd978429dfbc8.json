@@ -1,0 +1,92 @@
+{
+  "id": "f32dd978429dfbc8",
+  "name": "unimet-Lule Saami",
+  "wordnet": "/home/bond/git/UniMet/UniMet.v1.tsv",
+  "lexicon": null,
+  "display_wordnet": null,
+  "display_lexicon": null,
+  "unimet_version": "v1",
+  "unimet_iso": "smj",
+  "source_ili": null,
+  "target_ili": null,
+  "source_roots": [],
+  "target_roots": [],
+  "items": [
+    {
+      "lemma": "oajvve",
+      "all_senses": [
+        {
+          "id": "unimet-smj-oajvve-n05538625",
+          "lemma": "oajvve",
+          "word_id": "unimet-smj-oajvve",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        },
+        {
+          "id": "unimet-smj-oajvve-n10104209",
+          "lemma": "oajvve",
+          "word_id": "unimet-smj-oajvve",
+          "synset": {
+            "id": "omw-en-10104209-n",
+            "ili": "i90042",
+            "pos": "n",
+            "lemmas": [
+              "chief"
+            ],
+            "definition": "a person who exercises control over workers"
+          }
+        }
+      ],
+      "source_senses": [
+        {
+          "id": "unimet-smj-oajvve-n05538625",
+          "lemma": "oajvve",
+          "word_id": "unimet-smj-oajvve",
+          "synset": {
+            "id": "omw-en-05538625-n",
+            "ili": "i66025",
+            "pos": "n",
+            "lemmas": [
+              "head"
+            ],
+            "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains"
+          }
+        }
+      ],
+      "target_senses": [
+        {
+          "id": "unimet-smj-oajvve-n10104209",
+          "lemma": "oajvve",
+          "word_id": "unimet-smj-oajvve",
+          "synset": {
+            "id": "omw-en-10104209-n",
+            "ili": "i90042",
+            "pos": "n",
+            "lemmas": [
+              "chief"
+            ],
+            "definition": "a person who exercises control over workers"
+          }
+        }
+      ],
+      "links": {
+        "unimet-smj-oajvve-n05538625::unimet-smj-oajvve-n10104209": {
+          "source": "unimet-smj-oajvve-n05538625",
+          "target": "unimet-smj-oajvve-n10104209",
+          "type": "metonymy"
+        }
+      },
+      "existing_relations": [],
+      "comment": "",
+      "sense_annotations": {},
+      "status": "open"
+    }
+  ]
+}
