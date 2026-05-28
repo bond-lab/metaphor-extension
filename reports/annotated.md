@@ -1,0 +1,476 @@
+# Annotation Report: annotated
+
+## Summary
+
+| File | Items | Senses | Pairs | Ann | Done | Part | Ign | Open | BadS | Cmts | metaphor | metonymy | hypernym | other |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| a-h yapılmış | 38 | 110 | 44 | 35 | 35 | 1 | 2 | 0 | 2 | 6 | 48 | 3 | 4 | 2 |
+| a-k yapılmış | 11 | 41 | 31 | 11 | 11 | 0 | 0 | 0 | 2 | 0 | 25 | 2 | 0 | 0 |
+| colors yapılmış | 45 | 153 | 117 | 40 | 42 | 1 | 1 | 1 | 5 | 3 | 58 | 2 | 2 | 6 |
+| en a-k yapılmış | 21 | 100 | 79 | 21 | 21 | 0 | 0 | 0 | 0 | 0 | 53 | 14 | 10 | 0 |
+| en renk yapılmış | 118 | 392 | 280 | 115 | 113 | 0 | 5 | 0 | 0 | 4 | 158 | 84 | 12 | 2 |
+| unimet tr yapılmış | 41 | 89 | 50 | 40 | 38 | 0 | 3 | 0 | 4 | 2 | 0 | 43 | 2 | 0 |
+
+## Comparison with ChainNet and Metaphor Thesaurus
+
+ILI-based matching: same unordered synset pair = match, regardless of direction.
+
+- **CN=** agree with ChainNet  **CN≠** disagree  **CN?** not in ChainNet
+- **TH=** pair found in Metaphor Thesaurus (all thesaurus entries are metaphor)  **TH≠** found but type differs
+
+| File | Links | CN= | CN≠ | CN? | TH= | TH≠ |
+| --- | --- | --- | --- | --- | --- | --- |
+| a-h yapılmış | 57 | 1 | 0 | 11 | 1 | 1 |
+| a-k yapılmış | 27 | 0 | 0 | 7 | 0 | 0 |
+| colors yapılmış | 68 | 0 | 0 | 6 | 0 | 0 |
+| en a-k yapılmış | 77 | 24 | 14 | 39 | 4 | 1 |
+| en renk yapılmış | 256 | 106 | 47 | 103 | 29 | 3 |
+| unimet tr yapılmış | 45 | 21 | 1 | 23 | 0 | 1 |
+
+## Confusion Matrix: Annotation vs ChainNet
+
+Rows = our annotation, Columns = ChainNet label.
+Only links where ChainNet has an opinion are included.
+
+| Our \ ChainNet | metaphor | metonymy | **Row total** |
+| --- | --- | --- | --- |
+| **metaphor** | 83 | 37 | **120** |
+| **metonymy** | 8 | 69 | **77** |
+| **hypernym** | 3 | 14 | **17** |
+| **Col total** | **94** | **120** | **214** |
+
+## Disagreements with ChainNet / Thesaurus
+
+### a-h yapılmış (kenet-animal-human)
+
+- **kobay**: annotated `hypernym` but thesaurus says `metaphor`
+  - kobay — Kobaygillerden, bilimsel araştırmalarda kullanılan bir deney hayvanı
+  - → kobay — Deney konusu
+
+### en a-k yapılmış (light-dark-en)
+
+- **black**: annotated `metaphor` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → black — black clothing (worn as a sign of mourning)
+- **black**: annotated `hypernym` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → total darkness — total absence of light
+- **black**: annotated `metaphor` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → black — (board games) the darker pieces
+- **blackness**: annotated `hypernym` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → total darkness — total absence of light
+- **blackout**: annotated `metonymy` but ChainNet has `metaphor`
+  - blackout — darkness resulting from the extinction of lights (as in a city invisib…
+  - → blackout — the failure of electric power for a general region
+- **cloudiness**: annotated `metaphor` but ChainNet has `metonymy`
+  - cloudiness — the state of the sky when it is covered by clouds
+  - → cloudiness — gloomy semidarkness caused by cloud cover
+- **dark**: annotated `hypernym` but ChainNet has `metonymy`
+  - dark — absence of light or illumination
+  - → darkness — an unilluminated area
+- **darkness**: annotated `hypernym` but ChainNet has `metonymy`
+  - dark — absence of light or illumination
+  - → darkness — an unilluminated area
+- **lighting**: annotated `metaphor` but ChainNet has `metonymy`
+  - light — having abundant light or illumination
+  - → ignition — the act of setting something on fire
+- **night**: annotated `hypernym` but ChainNet has `metonymy`
+  - night — the time after sunset and before sunrise while it is dark outside
+  - → night — the dark part of the diurnal cycle considered a time unit
+- **night**: annotated `hypernym` but ChainNet has `metonymy`
+  - night — the time after sunset and before sunrise while it is dark outside
+  - → night — the time between sunset and midnight
+- **night**: annotated `metaphor` but ChainNet has `metonymy`
+  - night — the time after sunset and before sunrise while it is dark outside
+  - → night — the period spent sleeping
+- **night**: annotated `hypernym` but ChainNet has `metonymy`
+  - night — the time after sunset and before sunrise while it is dark outside
+  - → night — a shortening of nightfall
+- **shadow**: annotated `hypernym` but ChainNet has `metaphor` *(also in thesaurus as metaphor)*
+  - shadow — shade within clear boundaries
+  - → darkness — an unilluminated area
+
+### en renk yapılmış (color-en)
+
+- **amber**: annotated `metonymy` but ChainNet has `metaphor` *(also in thesaurus as metaphor)*
+  - amber — a deep yellow color
+  - → amber — a hard yellowish to brownish translucent fossil resin; used for jewelr…
+- **black**: annotated `metaphor` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → black — black clothing (worn as a sign of mourning)
+- **black**: annotated `metaphor` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → black — (board games) the darker pieces
+- **black**: annotated `hypernym` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → total darkness — total absence of light
+- **blackness**: annotated `hypernym` but ChainNet has `metonymy`
+  - black — the quality or state of the achromatic color of least lightness (beari…
+  - → total darkness — total absence of light
+- **blue**: annotated `metaphor` but ChainNet has `metonymy`
+  - blue — blue color or pigment; resembling the color of the clear sky in the da…
+  - → blue — blue clothing
+- **blue**: annotated `metaphor` but ChainNet has `metonymy`
+  - blue — blue color or pigment; resembling the color of the clear sky in the da…
+  - → amobarbital sodium — the sodium salt of amobarbital that is used as a barbiturate; used as …
+- **blue**: annotated `metaphor` but ChainNet has `metonymy`
+  - blue — blue color or pigment; resembling the color of the clear sky in the da…
+  - → blue — any organization or party whose uniforms or badges are blue
+- **blue**: annotated `metaphor` but ChainNet has `metonymy`
+  - blue — blue color or pigment; resembling the color of the clear sky in the da…
+  - → blue — any of numerous small butterflies of the family Lycaenidae
+- **blue**: annotated `metaphor` but ChainNet has `metonymy`
+  - blue — blue color or pigment; resembling the color of the clear sky in the da…
+  - → bluing — used to whiten laundry or hair or give it a bluish tinge
+- **bone**: annotated `metaphor` but ChainNet has `metonymy`
+  - bone — rigid connective tissue that makes up the skeleton of vertebrates
+  - → bone — the porous calcified substance from which bones are made
+- **buff**: annotated `metaphor` but ChainNet has `metonymy`
+  - buff — a soft thick undyed leather from the skins of e.g. buffalo or oxen
+  - → fan — an ardent follower and admirer
+- **canary**: annotated `metonymy` but ChainNet has `metaphor`
+  - canary — any of several small Old World finches
+  - → canary yellow — a moderate yellow with a greenish tinge
+- **caramel**: annotated `hypernym` but ChainNet has `metaphor`
+  - caramel — burnt sugar; used to color and flavor food
+  - → caramel — firm chewy candy made from caramelized sugar and butter and milk
+- **chalk**: annotated `metonymy` but ChainNet has `metaphor`
+  - chalk — a soft whitish calcite
+  - → chalk — a pure flat white with little reflectance
+- **chestnut**: annotated `metaphor` but ChainNet has `metonymy`
+  - chestnut — edible nut of any of various chestnut trees of the genus Castanea
+  - → chestnut — the brown color of chestnuts
+- **chestnut**: annotated `metaphor` but ChainNet has `metonymy`
+  - chestnut — edible nut of any of various chestnut trees of the genus Castanea
+  - → chestnut — any of several attractive deciduous trees yellow-brown in autumn; yiel…
+- **chocolate**: annotated `metonymy` but ChainNet has `metaphor`
+  - chocolate — a food made from roasted ground cacao beans
+  - → cocoa — a beverage made from cocoa powder and milk and sugar; usually drunk ho…
+- **complexion**: annotated `hypernym` but ChainNet has `metonymy`
+  - complexion — (obsolete) a combination of elements (of dryness and warmth or of the …
+  - → complexion — a combination that results from coupling or interlinking
+- **copper**: annotated `metonymy` but ChainNet has `metaphor`
+  - copper — a ductile malleable reddish-brown corrosion-resistant diamagnetic meta…
+  - → copper — any of various small butterflies of the family Lycaenidae having coppe…
+- **coral**: annotated `metaphor` but ChainNet has `metonymy`
+  - coral — unfertilized lobster roe; reddens in cooking; used as garnish or to co…
+  - → coral — a variable color averaging a deep pink
+- **darkness**: annotated `metaphor` but ChainNet has `metonymy`
+  - dark — absence of light or illumination
+  - → darkness — having a dark or somber color
+- **darkness**: annotated `hypernym` but ChainNet has `metonymy`
+  - dark — absence of light or illumination
+  - → darkness — an unilluminated area
+- **dun**: annotated `metonymy` but ChainNet has `metaphor`
+  - dun — a color or pigment varying around a light grey-brown color
+  - → dun — horse of a dull brownish grey color
+- **fairness**: annotated `hypernym` but ChainNet has `metonymy`
+  - fairness — conformity with rules or standards
+  - → fairness — ability to make judgments free from discrimination or dishonesty
+- **fairness**: annotated `metaphor` but ChainNet has `metonymy`
+  - paleness — the property of having a naturally light complexion
+  - → comeliness — the quality of being good looking and attractive
+- **gray**: annotated `metaphor` but ChainNet has `metonymy`
+  - gray — a neutral achromatic color midway between white and black
+  - → grey — any organization or party whose uniforms or badges are grey
+- **green**: annotated `metaphor` but ChainNet has `metonymy`
+  - green — green color or pigment; resembling the color of growing grass
+  - → Green — an environmentalist who belongs to the Green Party
+- **green**: annotated `metaphor` but ChainNet has `metonymy`
+  - green — green color or pigment; resembling the color of growing grass
+  - → greens — any of various leafy plants or their leaves and stems eaten as vegetab…
+- **green**: annotated `metaphor` but ChainNet has `metonymy`
+  - green — green color or pigment; resembling the color of growing grass
+  - → park — a piece of open land for recreational use in an urban area
+- **grey**: annotated `metaphor` but ChainNet has `metonymy`
+  - gray — a neutral achromatic color midway between white and black
+  - → grey — any organization or party whose uniforms or badges are grey
+- **grey**: annotated `metaphor` but ChainNet has `metonymy`
+  - gray — a neutral achromatic color midway between white and black
+  - → grey — clothing that is a grey color
+- **grey**: annotated `metaphor` but ChainNet has `metonymy`
+  - gray — a neutral achromatic color midway between white and black
+  - → grey — horse of a light gray or whitish color
+- **mellowness**: annotated `metaphor` but ChainNet has `metonymy`
+  - mellowness — a taste (especially of fruit) that is ripe and of full flavor
+  - → fullness — the property of a sensation that is rich and pleasing
+- **navy**: annotated `metaphor` but ChainNet has `metonymy`
+  - navy — an organization of military vessels belonging to a country and availab…
+  - → dark blue — a dark shade of blue
+- **navy**: annotated `hypernym` but ChainNet has `metonymy`
+  - navy — an organization of military vessels belonging to a country and availab…
+  - → United States Navy — the navy of the United States of America; the agency that maintains an…
+- **olive**: annotated `metonymy` but thesaurus says `metaphor`
+  - olive — small ovoid fruit of the European olive tree; important food and sourc…
+  - → olive — one-seeded fruit of the European olive tree usually pickled and used a…
+- **olive**: annotated `metaphor` but ChainNet has `metonymy` *(also in thesaurus as metaphor)*
+  - olive — small ovoid fruit of the European olive tree; important food and sourc…
+  - → olive — a yellow-green color of low brightness and saturation
+- **pink**: annotated `metaphor` but ChainNet has `metonymy`
+  - pink — a light shade of red
+  - → pinko — a person with mildly leftist political views
+- **red**: annotated `metaphor` but ChainNet has `metonymy`
+  - red — red color or pigment; the chromatic color resembling the hue of blood
+  - → Bolshevik — emotionally charged terms used to refer to extreme radicals or revolut…
+- **red**: annotated `metaphor` but ChainNet has `metonymy`
+  - red — red color or pigment; the chromatic color resembling the hue of blood
+  - → loss — the amount by which the cost of a business exceeds its revenue
+- **rose**: annotated `metaphor` but ChainNet has `metonymy` *(also in thesaurus as metaphor)*
+  - rose — any of many shrubs of the genus Rosa that bear roses
+  - → rose — a dusty pink color
+- **rose**: annotated `metaphor` but ChainNet has `metonymy`
+  - rose — a dusty pink color
+  - → blush wine — pinkish table wine from red grapes whose skins were removed after ferm…
+- **silver**: annotated `metaphor` but ChainNet has `metonymy` *(also in thesaurus as metaphor)*
+  - silver — a soft white precious univalent metallic element having the highest el…
+  - → ash grey — a light shade of grey
+- **straw**: annotated `metonymy` but ChainNet has `metaphor`
+  - chaff — material consisting of seed coverings and small pieces of stem or leav…
+  - → straw — plant fiber used e.g. for making baskets and hats or as fodder
+- **tan**: annotated `metaphor` but ChainNet has `metonymy`
+  - tan — a light brown the color of topaz
+  - → tan — a browning of the skin resulting from exposure to the rays of the sun
+- **tangerine**: annotated `hypernym` but ChainNet has `metonymy`
+  - tangerine — any of various deep orange mandarins grown in the United States and so…
+  - → tangerine — a variety of mandarin orange
+- **violet**: annotated `metaphor` but ChainNet has `metonymy` *(also in thesaurus as metaphor)*
+  - violet — any of numerous low-growing violas with small flowers
+  - → violet — a variable color that lies beyond blue in the spectrum
+
+### unimet tr yapılmış (unimet-Turkish)
+
+- **kereviz**: annotated `hypernym` but ChainNet has `metaphor`
+  - cultivated celery — widely cultivated herb with aromatic leaf stalks that are eaten raw or…
+  - → celery — stalks eaten raw or cooked or used as seasoning
+
+
+## Problematic Items
+
+### a-h yapılmış (kenet-animal-human)
+
+**av** — status: `done`
+
+> not sure whether it should be metaphore
+
+- Links annotated:
+  - `metonymy` av — Bir hayvanın bir başka hayvanı yemek için yakalaması → av — Bu yollarla yakalanan hayvan
+  - `metaphor` av — Bu yollarla yakalanan hayvan → av — Tuzağa düşürülen, kendisinden yararlanılan kimse
+  - `hypernym` av — Bir hayvanın bir başka hayvanı yemek için yakalaması → av — Karada, denizde, gölde veya akarsularda evcil olmayan hayvanları vurma…
+
+**aygır** — status: `ignore`
+
+
+**dost** — status: `done`
+
+- Sense comment on dost — Bir şeye düşkün olan, aşırı ilgi duyan kimse: koruyan anlamı da eklenebilir
+- Links annotated:
+  - `metaphor` dost — Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen kimse → dost — Sahibine sevgi gösteren hayvan
+  - `metaphor` dost — Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen kimse → metres — Evli olunduğu halde evlilik dışı ilişki kurulan, genellikle kadın, kim…
+  - `metaphor` dost — Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen kimse → dost — Bir şeye düşkün olan, aşırı ilgi duyan kimse
+
+**ekti** — status: `done`
+
+> ekti also has meanings like stingy, unashamed and a person who craves everything
+
+- Links annotated:
+  - `metaphor` ekti — Anası ölüp başka bir koyuna alıştırılan veya elle beslenen kuzu → ekti — Anası ve babası olmayan veya atılmış, bırakılmış çocuk
+
+**erkek at** — status: `ignore`
+
+
+**eşek** — status: `done`
+
+> ilk ikisi aynı sözcük olabilir
+
+- Links annotated:
+  - `metaphor` eşek — Atgillerden, uzun kulaklı binek ve hizmet hayvanı → eşek — Kaba, yeteneksiz, inatçı kimse
+  - `metonymy` eşek — Atgillerden, uzun kulaklı binek ve hizmet hayvanı → eşek — Duvar örme, sıva yapma vb. işlerde kullanılan dört ayaklı sehpa
+  - `metaphor` eşek — Atgillerden, uzun kulaklı binek ve hizmet hayvanı → eşek — Odun kesmek için kullanılan üç veya dört ayaklı sehpa
+
+**goril** — status: `done`
+
+> goril o
+
+- Links annotated:
+  - `metaphor` goril — Afrika'nın Ekvator bölgesinde ormanlarda yaşayan, iri ve en güçlü bir … → goril — Koruyucu
+
+**kobay** — status: `incomplete`
+
+- Links annotated:
+  - `hypernym` kobay — Kobaygillerden, bilimsel araştırmalarda kullanılan bir deney hayvanı → kobay — Deney konusu
+
+**kurt** — status: `done`
+
+- Bad sense: Kürt — Ön Asya'da yaşayan bir topluluk ve bu topluluktan olan kimse
+- Links annotated:
+  - `metaphor` kurt — Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sa… → kurt — Bir yeri, bir şeyi iyi bilen
+
+**tüy sıklet** — status: `done`
+
+> ayrıca zayıf, çelimsiz kimse anlamı da barındırıyor.
+
+- Links annotated:
+  - `metaphor` tüy sıklet — En az kilo ile yarışa sokulan at → tüy sıklet — 57 kiloda dövüşen boksör
+
+**yeğen** — status: `done`
+
+> yeğen kelimesi aynı zamanda yaşlı kimselerin küçükler için kullandığı seslenme sözü ve büyüklere göre tanıdık genç anlamlarını da taşır (TDK)
+
+- Bad sense: yeğen — Tüylü dişi deve ile tek hörgüçlü erkek devenin geriye melezlenmesiyle …
+  - ↳ böyle bir anlam TDK sözlüğünde bulunmuyor
+
+### a-k yapılmış (light-dark-tr)
+
+**gece** — status: `done`
+
+- Bad sense: yaka — Bir şeyin, bir yerin bitiş kısmı veya yakını, uç, taraf
+  - ↳ geçe ve gece farklı kavramlar
+- Links annotated:
+  - `metaphor` gece — Güneş battıktan gün ağarıncaya kadar geçen süre → gece — Bu süre içindeki karanlık
+  - `metonymy` gece — Güneş battıktan gün ağarıncaya kadar geçen süre → gece — Eğlence, anma vb. amaçlarla geceleri düzenlenen toplantı
+
+**karartı** — status: `done`
+
+- Sense comment on karartı — Karaltı: tanım yetersiz , eklenebilecek tanım; Uzaklık ve karanlık sebebiyle kim veya ne olduğu seçilemeyen, belli belirsiz, koyu renkli biçim; karaltı (TDK)
+- Links annotated:
+  - `metaphor` siyahlık — Karanlık veya koyuluk → karartı — Karaltı
+
+**peçe** — status: `done`
+
+- Bad sense: peçe — Yıldız resimlerinin alındığı planların yüzeyinde görülen hafif karartı
+  - ↳ sözlükte böyle bir tanım yok
+- Links annotated:
+  - `metaphor` peçe — Maske; sır; giz → peçe — Kadınların sokakta yüzlerine örttükleri ince genellikle siyah renkteki…
+  - `metaphor` peçe — Maske; sır; giz → peçe — Bir şeyi gizlemek için üzerine çekilen örtü
+
+### colors yapılmış (color-tr)
+
+**ak** — status: `done`
+
+> suçsuz olmak, temiz olmak tanımı eklenebilir
+
+- Bad sense: ak — Bazı şeylerde beyaz bölüm
+  - ↳ sözlükte böyle bir tanım yok
+- Links annotated:
+  - `metaphor` beyaz — Kar, süt ve benzerinin rengi → ak — Beyaz leke
+  - `metaphor` beyaz — Kar, süt ve benzerinin rengi → ak — Bazı şeylerde beyaz bölüm
+
+**al** — status: `done`
+
+- Bad sense: hıyanet — Güveni kötüye kullanma, vefasızlık
+  - ↳ günlük kullanımda aldatma anlamı yok, TDK sözlüğünde de yok
+- Links annotated:
+  - `metaphor` al — Kanın rengi, kızıl → allık — Kadınların süs için yanaklarına sürdükleri al boya
+  - `metaphor` al — Kanın rengi, kızıl → al — Dorunun açığı, kızıla çalan at donu
+
+**alaca** — status: `incomplete`
+
+- Bad sense: alaca — Kötü huy
+  - ↳ sözlükte böyle bir kullanım yok
+- Links annotated:
+  - `metonymy` alaca — Birkaç rengin karışımından oluşan renk, ala → alaca — Birkaç renkli iplikten yapılmış dokuma
+  - `metaphor` alaca — Birkaç renkli iplikten yapılmış dokuma → alaca — Keklik, bıldırcın vb. kuşları avlamak için kullanılan iki renkli bez
+
+**açıklık** — status: `open`
+
+- Bad sense: açıklık — Gerçeği olduğu gibi yansıtma durumu
+  - ↳ bu tanım zaten yazıyo 2. kez yazılmış
+- Links annotated:
+  - `metaphor` açıklık — Boş ve geniş yer → açıklık — Dürbün, fotoğraf makinesi vb. optik araçlarda ağız çapı, ışığın girebi…
+
+**bej** — status: `ignore`
+
+> iki tanım da aynı şey
+
+
+**don** — status: `done`
+
+- Bad sense: kıyafet — Kuşanılacak, giyilecek şey
+  - ↳ buradaki anlam külot anlamıyla eşdeğer
+
+**sekil** — status: `done`
+
+> şekil ve sekil farklı kavramlar, aynı başlıkta mı ele almalıyım?
+
+
+### en renk yapılmış (color-en)
+
+**colour** — status: `ignore`
+
+> this entry has already been made. The only difference is British/American English
+
+
+**colouration** — status: `ignore`
+
+> this entry has already been made. The only difference is British/American English
+
+
+**colouring** — status: `ignore`
+
+> this entry has already been made. The only difference is British/American English
+
+
+**richness** — status: `ignore`
+
+- Links annotated:
+  - `metaphor` affluence — abundant wealth → richness — a strong deep vividness of hue
+  - `metaphor` affluence — abundant wealth → richness — the quality of having high intrinsic value
+  - `metaphor` impressiveness — splendid or imposing in size or appearance → richness — a strong deep vividness of hue
+  - `metaphor` richness — the property of producing abundantly and sustaining vigorous and luxur… → profusion — the property of being extremely abundant
+  - `metaphor` affluence — abundant wealth → fullness — the property of a sensation that is rich and pleasing
+
+**tone** — status: `ignore`
+
+> I am definitely not sure about this entry
+
+- Links annotated:
+  - `metonymy` note — a notation representing the pitch and duration of a musical sound → tone — a musical interval of two semitones
+  - `metonymy` note — a notation representing the pitch and duration of a musical sound → tone — the quality of a person's voice
+  - `metonymy` note — a notation representing the pitch and duration of a musical sound → tone — a steady sound without overtones
+  - `metonymy` note — a notation representing the pitch and duration of a musical sound → timbre — (music) the distinctive property of a complex sound (a voice or noise …
+  - `metaphor` note — a notation representing the pitch and duration of a musical sound → spirit — the general atmosphere of a place or situation and the effect that it …
+
+### unimet tr yapılmış (unimet-Turkish)
+
+**ceviz** — status: `done`
+
+- Bad sense: nut — usually large hard-shelled seed
+  - ↳ türkçede ceviz için kullanılan tek bir kelime var, bu kelimenin bu entryde olması doğru değil
+- Links annotated:
+  - `metonymy` walnut — nut of any of various walnut trees having a wrinkled two-lobed seed wi… → walnut tree — any of various trees of the genus Juglans
+
+**dert** — status: `ignore`
+
+> cygnet linklerinde de bu tanımların türkçe karşılığında dert kelimesi yok
+
+
+**karpuz** — status: `ignore`
+
+> türkçede watermelon vine karşılığı yok?
+
+- Links annotated:
+  - `metonymy` watermelon — large oblong or roundish melon with a hard green rind and sweet watery… → watermelon vine — an African melon
+
+**keder** — status: `ignore`
+
+- Links annotated:
+  - `metonymy` mournfulness — intense mournfulness → grief — something that causes great unhappiness
+
+**sefarethane** — status: `done`
+
+- Bad sense: diplomatic corps — a mission serving diplomatic ends
+  - ↳ türkçede böyle bir kullanım yok
+- Links annotated:
+  - `metonymy` embassy — a diplomatic building where ambassadors live or work → diplomatic corps — a mission serving diplomatic ends
+
+**timsah** — status: `done`
+
+- Bad sense: crocodile — large voracious aquatic reptile having a long snout with massive jaws …
+  - ↳ ili linki yanlış
+- Bad sense: alligator — leather made from alligator's hide
+  - ↳ crdocodile ile aynı olması gerekirdi
+- Links annotated:
+  - `metonymy` crocodile — large voracious aquatic reptile having a long snout with massive jaws … → alligator — leather made from alligator's hide
+
