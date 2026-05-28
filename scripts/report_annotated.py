@@ -4,8 +4,10 @@ Outputs a Markdown report containing:
   1. Summary table (one row per file).
   2. Comparison table against ChainNet and the Metaphor Thesaurus (ILI-based).
   3. Overall confusion matrix: annotated type vs ChainNet type.
-  4. Per-file disagreement sections.
-  5. Per-file problematic items (ignored, incomplete, comments, bad senses).
+  4. Per-file disagreement sections (type and direction).
+  5. Per-file differences from UniMet baseline (where we changed UniMet's suggestions).
+  6. Per-file problematic items (ignored, incomplete, comments, bad senses).
+  7. Per-file agreement sections.
 
 Usage:
     uv run python scripts/report_annotated.py [DIR] [--out DIR] [--no-compare]
@@ -28,6 +30,7 @@ PROBLEM_STATUSES = {"incomplete", "ignore"}
 
 CHAINNET_DIR = Path("/home/bond/git/ChainNet/data/chainnet_simple")
 THESAURUS_WN = Path("/home/bond/git/metaphor-thesaurus/build/thesaurus_wn.json")
+BASELINE_DIR = Path("annotation")
 
 
 # ---------------------------------------------------------------------------
@@ -39,10 +42,17 @@ def _sk_to_wn(sk: str) -> str:
     return "oewn-" + sk.replace("::", "..").replace(":", ".").replace("%", "__")
 
 
-def build_chainnet_index() -> dict[frozenset, str]:
-    """Return {frozenset({ili1, ili2}): link_type} from ChainNet simple files."""
+def build_chainnet_index() -> tuple[dict[frozenset, str], dict[tuple[str, str], str]]:
+    """Return (undirected, directed) ChainNet indices.
+
+    undirected: {frozenset({ili1, ili2}): link_type}
+    directed: {(from_ili, to_ili): link_type}
+
+    Returns:
+        Tuple of (undirected_index, directed_index).
+    """
     if not CHAINNET_DIR.exists():
-        return {}
+        return {}, {}
     oewn = wn.Wordnet(lexicon="oewn:2024")
     ili_cache: dict[str, str | None] = {}
 
@@ -54,7 +64,8 @@ def build_chainnet_index() -> dict[frozenset, str]:
                 ili_cache[sk] = None
         return ili_cache[sk]
 
-    index: dict[frozenset, str] = {}
+    undirected: dict[frozenset, str] = {}
+    directed: dict[tuple[str, str], str] = {}
     for fname, link_type in [
         ("chainnet_metaphor.json", "metaphor"),
         ("chainnet_metonymy.json", "metonymy"),
@@ -66,8 +77,10 @@ def build_chainnet_index() -> dict[frozenset, str]:
             src_ili = _sk_ili(entry["from_sense"])
             tgt_ili = _sk_ili(entry["to_sense"])
             if src_ili and tgt_ili and src_ili != tgt_ili:
-                index[frozenset({src_ili, tgt_ili})] = link_type
-    return index
+                key = frozenset({src_ili, tgt_ili})
+                undirected[key] = link_type
+                directed[(src_ili, tgt_ili)] = link_type
+    return undirected, directed
 
 
 # ---------------------------------------------------------------------------
@@ -106,6 +119,94 @@ def build_thesaurus_index() -> set[frozenset]:
 
 
 # ---------------------------------------------------------------------------
+# UniMet baseline comparison
+# ---------------------------------------------------------------------------
+
+def load_unimet_baselines(sessions: list[dict]) -> dict[str, dict]:
+    """Find original UniMet session files matching sessions with unimet_version set.
+
+    Searches BASELINE_DIR for JSON files whose 'id' matches the session id.
+
+    Args:
+        sessions: List of annotated sessions to match against.
+
+    Returns:
+        Mapping from session id to original session dict.
+    """
+    if not BASELINE_DIR.is_dir():
+        return {}
+    baseline_by_id: dict[str, dict] = {}
+    for f in BASELINE_DIR.glob("*.json"):
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+            if sid := data.get("id"):
+                baseline_by_id[sid] = data
+        except (json.JSONDecodeError, KeyError):
+            continue
+    return {
+        session["id"]: baseline_by_id[session["id"]]
+        for session in sessions
+        if session.get("unimet_version") and session.get("id") in baseline_by_id
+    }
+
+
+def compare_with_baseline(session: dict, baseline: dict) -> list[dict]:
+    """Return list of differences between annotated session and UniMet baseline.
+
+    Each difference dict has keys: lemma, kind, our_type, baseline_type, src_id, tgt_id.
+    kind is one of: 'type_changed', 'removed', 'added'.
+
+    Args:
+        session: Annotated session dict.
+        baseline: Original UniMet session dict.
+
+    Returns:
+        List of difference dicts, one per changed link.
+    """
+    baseline_items = {item["lemma"]: item for item in baseline.get("items", [])}
+    diffs: list[dict] = []
+
+    for item in session.get("items", []):
+        lemma = item.get("lemma", "?")
+        our_links = item.get("links", {})
+        baseline_links = (baseline_items.get(lemma) or {}).get("links", {})
+
+        for key in set(our_links) | set(baseline_links):
+            our_lnk = our_links.get(key)
+            base_lnk = baseline_links.get(key)
+
+            if our_lnk and base_lnk:
+                if our_lnk["type"] != base_lnk["type"]:
+                    diffs.append({
+                        "lemma": lemma,
+                        "kind": "type_changed",
+                        "our_type": our_lnk["type"],
+                        "baseline_type": base_lnk["type"],
+                        "src_id": our_lnk["source"],
+                        "tgt_id": our_lnk["target"],
+                    })
+            elif our_lnk:
+                diffs.append({
+                    "lemma": lemma,
+                    "kind": "added",
+                    "our_type": our_lnk["type"],
+                    "baseline_type": None,
+                    "src_id": our_lnk["source"],
+                    "tgt_id": our_lnk["target"],
+                })
+            else:
+                diffs.append({
+                    "lemma": lemma,
+                    "kind": "removed",
+                    "our_type": None,
+                    "baseline_type": base_lnk["type"],
+                    "src_id": base_lnk["source"],
+                    "tgt_id": base_lnk["target"],
+                })
+    return diffs
+
+
+# ---------------------------------------------------------------------------
 # Session analysis
 # ---------------------------------------------------------------------------
 
@@ -126,9 +227,20 @@ def _build_ili_map(session: dict) -> dict[str, str | None]:
 def analyse_session(
     session: dict,
     chainnet: dict[frozenset, str],
+    directed_chainnet: dict[tuple[str, str], str],
     thesaurus: set[frozenset],
 ) -> dict:
-    """Return analysis dict for one session."""
+    """Return analysis dict for one session.
+
+    Args:
+        session: Session dict with items and links.
+        chainnet: Undirected ILI pair → ChainNet link type.
+        directed_chainnet: Directed (from_ili, to_ili) → ChainNet link type.
+        thesaurus: Set of frozenset ILI pairs in the Metaphor Thesaurus.
+
+    Returns:
+        Analysis dict with counts, problems, disagreements, and agreements.
+    """
     items = session.get("items", [])
     n_senses = sum(len(i.get("all_senses", [])) for i in items)
     n_pairs = sum(_potential_pairs(i) for i in items)
@@ -140,10 +252,11 @@ def analyse_session(
     n_comments = 0
     problems = []
 
-    cn_agree = cn_disagree = cn_missing = 0
+    cn_agree = cn_dir_disagree = cn_type_disagree = cn_missing = 0
     th_agree = th_disagree = 0
-    confusion: Counter = Counter()   # (our_type, cn_type) for links found in ChainNet
-    disagreements = []
+    confusion: Counter = Counter()
+    disagreements: list[dict] = []
+    agreements: list[dict] = []
 
     ili_map = _build_ili_map(session)
 
@@ -163,30 +276,72 @@ def analyse_session(
                 key = frozenset({src_ili, tgt_ili})
                 cn_type = chainnet.get(key)
                 in_thesaurus = key in thesaurus
+                same_dir = (src_ili, tgt_ili) in directed_chainnet
 
                 if cn_type:
                     confusion[(link_type, cn_type)] += 1
                     if cn_type == link_type:
-                        cn_agree += 1
+                        if same_dir:
+                            cn_agree += 1
+                            agreements.append({
+                                "lemma": item.get("lemma", "?"),
+                                "our_type": link_type,
+                                "cn_type": cn_type,
+                                "in_thesaurus": in_thesaurus,
+                                "src_id": lnk["source"],
+                                "tgt_id": lnk["target"],
+                                "source": "chainnet",
+                            })
+                        else:
+                            cn_dir_disagree += 1
+                            disagreements.append({
+                                "lemma": item.get("lemma", "?"),
+                                "our_type": link_type,
+                                "cn_type": cn_type,
+                                "in_thesaurus": in_thesaurus,
+                                "src_id": lnk["source"],
+                                "tgt_id": lnk["target"],
+                                "kind": "direction",
+                            })
                     else:
-                        cn_disagree += 1
-                        disagreements.append((
-                            item.get("lemma", "?"), link_type, cn_type,
-                            in_thesaurus, lnk["source"], lnk["target"],
-                        ))
+                        cn_type_disagree += 1
+                        disagreements.append({
+                            "lemma": item.get("lemma", "?"),
+                            "our_type": link_type,
+                            "cn_type": cn_type,
+                            "in_thesaurus": in_thesaurus,
+                            "src_id": lnk["source"],
+                            "tgt_id": lnk["target"],
+                            "kind": "type",
+                        })
                 else:
                     cn_missing += 1
 
                 if in_thesaurus:
                     if link_type == "metaphor":
                         th_agree += 1
+                        if not cn_type:
+                            agreements.append({
+                                "lemma": item.get("lemma", "?"),
+                                "our_type": link_type,
+                                "cn_type": None,
+                                "in_thesaurus": True,
+                                "src_id": lnk["source"],
+                                "tgt_id": lnk["target"],
+                                "source": "thesaurus",
+                            })
                     else:
                         th_disagree += 1
                         if not cn_type:
-                            disagreements.append((
-                                item.get("lemma", "?"), link_type, None,
-                                True, lnk["source"], lnk["target"],
-                            ))
+                            disagreements.append({
+                                "lemma": item.get("lemma", "?"),
+                                "our_type": link_type,
+                                "cn_type": None,
+                                "in_thesaurus": True,
+                                "src_id": lnk["source"],
+                                "tgt_id": lnk["target"],
+                                "kind": "thesaurus",
+                            })
 
         if links:
             n_annotated += 1
@@ -223,12 +378,14 @@ def analyse_session(
         "n_comments": n_comments,
         "problems": problems,
         "cn_agree": cn_agree,
-        "cn_disagree": cn_disagree,
+        "cn_dir_disagree": cn_dir_disagree,
+        "cn_type_disagree": cn_type_disagree,
         "cn_missing": cn_missing,
         "th_agree": th_agree,
         "th_disagree": th_disagree,
         "confusion": confusion,
         "disagreements": disagreements,
+        "agreements": agreements,
     }
 
 
@@ -237,10 +394,12 @@ def analyse_session(
 # ---------------------------------------------------------------------------
 
 def _md_cell(s: str) -> str:
+    """Escape pipe characters for Markdown tables."""
     return str(s).replace("|", "\\|")
 
 
 def _md_table(headers: list[str], rows: list[list]) -> list[str]:
+    """Render a Markdown table from headers and rows."""
     lines = ["| " + " | ".join(_md_cell(h) for h in headers) + " |"]
     lines.append("| " + " | ".join("---" for _ in headers) + " |")
     for row in rows:
@@ -249,6 +408,7 @@ def _md_table(headers: list[str], rows: list[list]) -> list[str]:
 
 
 def _sense_label(sense_id: str, session: dict) -> str:
+    """Build a human-readable label for a sense ID."""
     for item in session.get("items", []):
         for s in item.get("all_senses", []):
             if s["id"] == sense_id:
@@ -257,7 +417,7 @@ def _sense_label(sense_id: str, session: dict) -> str:
                 defn = syn.get("definition", "")
                 label = lemmas[0] if lemmas else sense_id
                 if defn:
-                    label += f" — {defn[:70]}{'…' if len(defn) > 70 else ''}"
+                    label += f" — {defn}"
                 return label
     return sense_id
 
@@ -267,6 +427,7 @@ def _sense_label(sense_id: str, session: dict) -> str:
 # ---------------------------------------------------------------------------
 
 def print_summary_table(rows: list[dict], files: list[Path], out=sys.stdout) -> None:
+    """Print the summary table section."""
     print("## Summary\n", file=out)
     headers = [
         "File", "Items", "Senses", "Pairs", "Ann",
@@ -290,16 +451,20 @@ def print_summary_table(rows: list[dict], files: list[Path], out=sys.stdout) -> 
 
 
 def print_comparison_table(rows: list[dict], files: list[Path], out=sys.stdout) -> None:
+    """Print the ChainNet / Metaphor Thesaurus comparison table."""
     print("\n## Comparison with ChainNet and Metaphor Thesaurus\n", file=out)
     print("ILI-based matching: same unordered synset pair = match, regardless of direction.\n", file=out)
-    print("- **CN=** agree with ChainNet  **CN≠** disagree  **CN?** not in ChainNet", file=out)
-    print("- **TH=** pair found in Metaphor Thesaurus (all thesaurus entries are metaphor)  **TH≠** found but type differs\n", file=out)
-    headers = ["File", "Links", "CN=", "CN≠", "CN?", "TH=", "TH≠"]
+    print("- **CN=** agree with ChainNet (same type, same direction)", file=out)
+    print("- **CN↔** same type but opposite direction", file=out)
+    print("- **CN≠** type disagrees  **CN?** not in ChainNet", file=out)
+    print("- **TH=** pair in Metaphor Thesaurus (all thesaurus entries are metaphor)"
+          "  **TH≠** found but type differs\n", file=out)
+    headers = ["File", "Links", "CN=", "CN↔", "CN≠", "CN?", "TH=", "TH≠"]
     table_rows = [
         [
             fname.stem,
             sum(r["link_counts"].values()),
-            r["cn_agree"], r["cn_disagree"], r["cn_missing"],
+            r["cn_agree"], r["cn_dir_disagree"], r["cn_type_disagree"], r["cn_missing"],
             r["th_agree"], r["th_disagree"],
         ]
         for fname, r in zip(files, rows)
@@ -309,7 +474,7 @@ def print_comparison_table(rows: list[dict], files: list[Path], out=sys.stdout) 
 
 
 def print_confusion_matrix(rows: list[dict], out=sys.stdout) -> None:
-    """Print an overall confusion matrix: annotated type (rows) vs ChainNet type (cols)."""
+    """Print overall confusion matrix: annotated type (rows) vs ChainNet type (cols)."""
     print("\n## Confusion Matrix: Annotation vs ChainNet\n", file=out)
     print("Rows = our annotation, Columns = ChainNet label.", file=out)
     print("Only links where ChainNet has an opinion are included.\n", file=out)
@@ -318,20 +483,21 @@ def print_confusion_matrix(rows: list[dict], out=sys.stdout) -> None:
     for r in rows:
         combined.update(r["confusion"])
 
-    # Row totals per our annotation type
-    our_types = LINK_TYPES
-    headers = ["Our \\ ChainNet"] + CN_TYPES + ["**Row total**"]
+    headers = ["Our \\ ChainNet"] + CN_TYPES + ["Row total"]
     table_rows = []
-    for our in our_types:
+    for our in LINK_TYPES:
         row_total = sum(combined[(our, cn)] for cn in CN_TYPES)
         if row_total == 0:
             continue
-        table_rows.append(
-            [f"**{our}**"] + [combined[(our, cn)] for cn in CN_TYPES] + [f"**{row_total}**"]
-        )
-    col_totals = [sum(combined[(our, cn)] for our in our_types) for cn in CN_TYPES]
+        cells = [
+            f"**{combined[(our, cn)]}**" if our == cn else str(combined[(our, cn)])
+            for cn in CN_TYPES
+        ]
+        table_rows.append([our] + cells + [str(row_total)])
+
+    col_totals = [sum(combined[(our, cn)] for our in LINK_TYPES) for cn in CN_TYPES]
     grand = sum(col_totals)
-    table_rows.append(["**Col total**"] + [f"**{t}**" for t in col_totals] + [f"**{grand}**"])
+    table_rows.append(["Col total"] + [str(t) for t in col_totals] + [str(grand)])
 
     for line in _md_table(headers, table_rows):
         print(line, file=out)
@@ -340,22 +506,82 @@ def print_confusion_matrix(rows: list[dict], out=sys.stdout) -> None:
 def print_disagreement_sections(
     rows: list[dict], files: list[Path], sessions: list[dict], out=sys.stdout
 ) -> None:
-    any_disagreements = any(r["disagreements"] for r in rows)
-    if not any_disagreements:
+    """Print per-file disagreement sections (type and direction)."""
+    if not any(r["disagreements"] for r in rows):
         return
     print("\n## Disagreements with ChainNet / Thesaurus\n", file=out)
     for fname, r, session in zip(files, rows, sessions):
         if not r["disagreements"]:
             continue
         print(f"### {fname.stem} ({r['name']})\n", file=out)
-        for lemma, our_type, cn_type, in_thesaurus, src_id, tgt_id in r["disagreements"]:
-            src_lbl = _sense_label(src_id, session)
-            tgt_lbl = _sense_label(tgt_id, session)
-            th_note = " *(also in thesaurus as metaphor)*" if in_thesaurus else ""
-            if cn_type:
+        for d in r["disagreements"]:
+            src_lbl = _sense_label(d["src_id"], session)
+            tgt_lbl = _sense_label(d["tgt_id"], session)
+            th_note = " *(also in thesaurus as metaphor)*" if d["in_thesaurus"] else ""
+            lemma, our_type, cn_type = d["lemma"], d["our_type"], d["cn_type"]
+
+            if d["kind"] == "type":
                 print(f"- **{lemma}**: annotated `{our_type}` but ChainNet has `{cn_type}`{th_note}", file=out)
-            else:
+            elif d["kind"] == "direction":
+                print(
+                    f"- **{lemma}**: annotated `{our_type}` (A→B) but ChainNet has"
+                    f" `{cn_type}` in opposite direction (B→A){th_note}",
+                    file=out,
+                )
+            else:  # thesaurus
                 print(f"- **{lemma}**: annotated `{our_type}` but thesaurus says `metaphor`", file=out)
+            print(f"  - {src_lbl}", file=out)
+            print(f"  - → {tgt_lbl}", file=out)
+        print(file=out)
+
+
+def print_unimet_diff_sections(
+    rows: list[dict], files: list[Path], sessions: list[dict],
+    baselines: dict[str, dict], out=sys.stdout,
+) -> None:
+    """Print sections comparing annotated UniMet sessions against their original baseline."""
+    relevant = [
+        (fname, r, session)
+        for fname, r, session in zip(files, rows, sessions)
+        if session.get("unimet_version") and session.get("id") in baselines
+    ]
+    if not relevant:
+        return
+    print("\n## Differences from UniMet Baseline\n", file=out)
+    print(
+        "Compares our annotations against UniMet's pre-populated metonymy links.\n"
+        "- **type_changed**: we chose a different link type\n"
+        "- **removed**: UniMet had a link; we removed it\n"
+        "- **added**: we created a link not in UniMet\n",
+        file=out,
+    )
+    for fname, r, session in relevant:
+        baseline = baselines[session["id"]]
+        diffs = compare_with_baseline(session, baseline)
+        print(f"### {fname.stem} ({r['name']})\n", file=out)
+        if not diffs:
+            print("No differences from UniMet baseline.\n", file=out)
+            continue
+        for d in diffs:
+            src_lbl = _sense_label(d["src_id"], session)
+            tgt_lbl = _sense_label(d["tgt_id"], session)
+            lemma, kind = d["lemma"], d["kind"]
+
+            if kind == "type_changed":
+                print(
+                    f"- **{lemma}**: UniMet `{d['baseline_type']}` → we annotated `{d['our_type']}`",
+                    file=out,
+                )
+            elif kind == "removed":
+                print(
+                    f"- **{lemma}**: UniMet had `{d['baseline_type']}` — we removed this link",
+                    file=out,
+                )
+            else:
+                print(
+                    f"- **{lemma}**: we added `{d['our_type']}` (not in UniMet baseline)",
+                    file=out,
+                )
             print(f"  - {src_lbl}", file=out)
             print(f"  - → {tgt_lbl}", file=out)
         print(file=out)
@@ -364,9 +590,9 @@ def print_disagreement_sections(
 def print_problem_sections(
     rows: list[dict], files: list[Path], sessions: list[dict], out=sys.stdout
 ) -> None:
+    """Print per-file problematic items sections."""
     print("\n## Problematic Items\n", file=out)
-    any_problems = any(r["problems"] for r in rows)
-    if not any_problems:
+    if not any(r["problems"] for r in rows):
         print("No problematic items.", file=out)
         return
     for fname, r, session in zip(files, rows, sessions):
@@ -394,11 +620,39 @@ def print_problem_sections(
             print(file=out)
 
 
+def print_agreement_sections(
+    rows: list[dict], files: list[Path], sessions: list[dict], out=sys.stdout
+) -> None:
+    """Print per-file agreement sections."""
+    print("\n## Agreements with ChainNet / Thesaurus\n", file=out)
+    if not any(r["agreements"] for r in rows):
+        print("No agreements found.", file=out)
+        return
+    for fname, r, session in zip(files, rows, sessions):
+        if not r["agreements"]:
+            continue
+        print(f"### {fname.stem} ({r['name']})\n", file=out)
+        for agr in r["agreements"]:
+            src_lbl = _sense_label(agr["src_id"], session)
+            tgt_lbl = _sense_label(agr["tgt_id"], session)
+            lemma, our_type = agr["lemma"], agr["our_type"]
+            th_note = " *(also in thesaurus)*" if agr["in_thesaurus"] and agr["source"] == "chainnet" else ""
+
+            if agr["source"] == "chainnet":
+                print(f"- **{lemma}**: `{our_type}` agrees with ChainNet{th_note}", file=out)
+            else:
+                print(f"- **{lemma}**: `{our_type}` agrees with Thesaurus", file=out)
+            print(f"  - {src_lbl}", file=out)
+            print(f"  - → {tgt_lbl}", file=out)
+        print(file=out)
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 def main() -> None:
+    """Entry point."""
     parser = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
@@ -422,18 +676,23 @@ def main() -> None:
 
     sessions = [json.loads(f.read_text(encoding="utf-8")) for f in files]
 
+    print("Loading UniMet baselines …", file=sys.stderr)
+    baselines = load_unimet_baselines(sessions)
+    print(f"  {len(baselines)} baseline(s) matched", file=sys.stderr)
+
     if args.no_compare:
         chainnet: dict[frozenset, str] = {}
+        directed_chainnet: dict[tuple[str, str], str] = {}
         thesaurus: set[frozenset] = set()
     else:
         print("Loading ChainNet index …", file=sys.stderr)
-        chainnet = build_chainnet_index()
+        chainnet, directed_chainnet = build_chainnet_index()
         print(f"  {len(chainnet)} ILI pairs indexed", file=sys.stderr)
         print("Loading Metaphor Thesaurus index …", file=sys.stderr)
         thesaurus = build_thesaurus_index()
         print(f"  {len(thesaurus)} ILI pairs indexed", file=sys.stderr)
 
-    rows = [analyse_session(s, chainnet, thesaurus) for s in sessions]
+    rows = [analyse_session(s, chainnet, directed_chainnet, thesaurus) for s in sessions]
 
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -446,7 +705,10 @@ def main() -> None:
             print_comparison_table(rows, files, out=fh)
             print_confusion_matrix(rows, out=fh)
             print_disagreement_sections(rows, files, sessions, out=fh)
+        print_unimet_diff_sections(rows, files, sessions, baselines, out=fh)
         print_problem_sections(rows, files, sessions, out=fh)
+        if not args.no_compare:
+            print_agreement_sections(rows, files, sessions, out=fh)
 
     with report_path.open("w", encoding="utf-8") as fh:
         _write(fh)
