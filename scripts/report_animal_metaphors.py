@@ -45,6 +45,7 @@ class Row:
     animal_def: str
     animal_sense: str
     person_sense: str
+    frequency: str = ""
 
     @property
     def key(self) -> tuple[str, ...]:
@@ -168,6 +169,7 @@ def read_rows(path: Path) -> list[Row]:
                 animal_def=cell(line, "Animal Definition"),
                 animal_sense=cell(line, "Animal sense"),
                 person_sense=cell(line, "Person Sense"),
+                frequency=cell(line, "Frequency"),
             )
         )
     return rows
@@ -464,6 +466,9 @@ def main(argv: list[str] | None = None) -> int:
     tabs: list[Tab] = []
     for year_dir in sorted(p for p in args.data.iterdir() if p.is_dir()):
         master, year_tabs = load_year(year_dir)
+        if not any(t.judged for t in year_tabs):
+            print(f"{year_dir.name}: no judgements yet, skipped")
+            continue
         masters[year_dir.name] = master
         tabs += year_tabs
 
