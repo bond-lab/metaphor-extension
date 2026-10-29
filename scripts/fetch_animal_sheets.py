@@ -22,6 +22,7 @@ from pathlib import Path
 SHEETS = {
     "2024": "1-DzF1WtoDigSmRFe1PbrM7r-4x5ivolPr5TyXanePqw",
     "2025": "1K9_pb-uuqVQTmALSTz4AGy5ZaTYHqd3TlG2ADk-f890",
+    "2026": "1nryUBRDj84XkCMOYNQ2ZDdshj1giNAdfGhRKux6CRKg",
 }
 OUT_ROOT = Path("data/animal-metaphors")
 TAB_RE = re.compile(r'items\.push\(\{name: "([^"]+)", pageUrl: "[^"]*?gid=(\d+)')
