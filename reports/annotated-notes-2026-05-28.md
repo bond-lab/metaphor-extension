@@ -7,11 +7,13 @@ en a-k yapılmış                     21     100      79     21     21      0 
 en renk yapılmış                   118     392     280    115    113      0      5      0     0     4        158         84         12          2
 unimet tr yapılmış                  41      89      50     40     38      0      3      0     4     2          0         43          2          0
 
+Unimet, how did you change?
+
+
 ──────────────────────────────────────────────────────────────────────
   Comparison with ChainNet and Metaphor Thesaurus (ILI-based)
 ──────────────────────────────────────────────────────────────────────
 File                              Links    CN=    CN≠    CN?    TH=    TH≠
-  CN= agree  CN≠ disagree  CN? not found  TH= thesaurus agree  TH≠ thesaurus disagree
 --------------------------------------------------------------------------
 a-h yapılmış                        57      1      0     11      1      1
 a-k yapılmış                        27      0      0      7      0      0
@@ -19,6 +21,8 @@ colors yapılmış                     68      0      0      6      0      0
 en a-k yapılmış                     77     24     14     39      4      1
 en renk yapılmış                   256    106     47    103     29      3
 unimet tr yapılmış                  45     21      1     23      0      1
+
+  CN= agree  CN≠ disagree  CN? not found  TH= thesaurus agree  TH≠ thesaurus disagree
 
 ======================================================================
   Disagreements: a-h yapılmış.json  (kenet-animal-human)
@@ -31,6 +35,9 @@ unimet tr yapılmış                  45     21      1     23      0      1
 ======================================================================
   Disagreements: en a-k yapılmış.json  (light-dark-en)
 ======================================================================
+
+We need to, once and for all, decide whether color attribute is metonymy or metaphor. (Casson, 1994) argues it is metonynmy, Kovecses would seem to agree.  Update guidelines?  FCB: talk with Rowan  
+
 
   black: annotated [metaphor] but ChainNet has [metonymy]
     black — the quality or state of the achromatic color of least lightn…
@@ -60,13 +67,20 @@ unimet tr yapılmış                  45     21      1     23      0      1
     dark — absence of light or illumination
     → darkness — an unilluminated area
 
+FIXME: metonymy
+
   darkness: annotated [hypernym] but ChainNet has [metonymy]
     dark — absence of light or illumination
     → darkness — an unilluminated area
 
+FIXME: metonymy
+FCB: fix tool to suggest?
+
   lighting: annotated [metaphor] but ChainNet has [metonymy]
     light — having abundant light or illumination
     → ignition — the act of setting something on fire
+
+FIXME: not directly related, go through verb
 
   night: annotated [hypernym] but ChainNet has [metonymy]
     night — the time after sunset and before sunrise while it is dark ou…
@@ -83,6 +97,8 @@ unimet tr yapılmış                  45     21      1     23      0      1
   night: annotated [hypernym] but ChainNet has [metonymy]
     night — the time after sunset and before sunrise while it is dark ou…
     → night — a shortening of nightfall
+
+FIXME -> metaphor
 
   shadow: annotated [hypernym] but ChainNet has [metaphor]  [in thesaurus as metaphor]
     shadow — shade within clear boundaries
@@ -172,9 +188,13 @@ unimet tr yapılmış                  45     21      1     23      0      1
     copper — a ductile malleable reddish-brown corrosion-resistant diamag…
     → copper — any of various small butterflies of the family Lycaenidae ha…
 
+FIXME -> come from color
+
   coral: annotated [metaphor] but ChainNet has [metonymy]
     coral — unfertilized lobster roe; reddens in cooking; used as garnis…
     → coral — a variable color averaging a deep pink
+
+FIXME -> come from color
 
   darkness: annotated [metaphor] but ChainNet has [metonymy]
     dark — absence of light or illumination
@@ -280,6 +300,8 @@ unimet tr yapılmış                  45     21      1     23      0      1
     tangerine — any of various deep orange mandarins grown in the United Sta…
     → tangerine — a variety of mandarin orange
 
+NOTE: chainnet good, tree definition should be fixed
+
   violet: annotated [metaphor] but ChainNet has [metonymy]  [in thesaurus as metaphor]
     violet — any of numerous low-growing violas with small flowers
     → violet — a variable color that lies beyond blue in the spectrum
@@ -291,6 +313,8 @@ unimet tr yapılmış                  45     21      1     23      0      1
   kereviz: annotated [hypernym] but ChainNet has [metaphor]
     cultivated celery — widely cultivated herb with aromatic leaf stalks that are ea…
     → celery — stalks eaten raw or cooked or used as seasoning
+
+FIXME -> metonymy
 
 ──────────────────────────────────────────────────────────────────────
   Problematic items
@@ -307,6 +331,9 @@ unimet tr yapılmış                  45     21      1     23      0      1
       [metaphor]  av — Bu yollarla yakalanan hayvan  →  av — Tuzağa düşürülen, kendisinden yararlanılan kimse
       [hypernym]  av — Bir hayvanın bir başka hayvanı yemek için yakalaması  →  av — Karada, denizde, gölde veya akarsularda evcil olmayan hayvan…
 
+GENERAL: if there are two senses, one for animal, one for human, but otherwise very similar (we see also for body parts), should the human be hyponym of animal or should animal be metaphor?  Arguments for hyponym are that humans are animals, so truth conditionally, if a human does it, an animal does it.  Arguments for metaphor are that the human sense is probably more central?  e.g. for leg we know about human legs first?  These are often sisters in wordnet.
+
+
   Lemma: aygır   status=ignore
 
   Lemma: dost   status=done
@@ -315,6 +342,9 @@ unimet tr yapılmış                  45     21      1     23      0      1
       [metaphor]  dost — Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen k…  →  dost — Sahibine sevgi gösteren hayvan
       [metaphor]  dost — Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen k…  →  metres — Evli olunduğu halde evlilik dışı ilişki kurulan, genellikle …
       [metaphor]  dost — Sevilen, güvenilen, yakın arkadaş, gönüldaş, iyi görüşülen k…  →  dost — Bir şeye düşkün olan, aşırı ilgi duyan kimse
+
+
+
 
   Lemma: ekti   status=done
     Comment: ekti also has meanings like stingy, unashamed and a person who craves everything
@@ -339,10 +369,14 @@ unimet tr yapılmış                  45     21      1     23      0      1
     Links annotated:
       [hypernym]  kobay — Kobaygillerden, bilimsel araştırmalarda kullanılan bir deney…  →  kobay — Deney konusu
 
+FIXME: metaphor
+
   Lemma: kurt   status=done
     Bad sense: Kürt — Ön Asya'da yaşayan bir topluluk ve bu topluluktan olan kimse
     Links annotated:
       [metaphor]  kurt — Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, po…  →  kurt — Bir yeri, bir şeyi iyi bilen
+
+FIXME: not bad sense, I linked incorrectly
 
   Lemma: tüy sıklet   status=done
     Comment: ayrıca zayıf, çelimsiz kimse anlamı da barındırıyor.
@@ -419,6 +453,8 @@ unimet tr yapılmış                  45     21      1     23      0      1
   Lemma: sekil   status=done
     Comment: şekil ve sekil farklı kavramlar, aynı başlıkta mı ele almalıyım?
 
+FIXME: don't normalize accents
+
 ======================================================================
   en renk yapılmış.json  (color-en)
 ======================================================================
@@ -448,6 +484,10 @@ unimet tr yapılmış                  45     21      1     23      0      1
       [metonymy]  note — a notation representing the pitch and duration of a musical …  →  tone — a steady sound without overtones
       [metonymy]  note — a notation representing the pitch and duration of a musical …  →  timbre — (music) the distinctive property of a complex sound (a voice…
       [metaphor]  note — a notation representing the pitch and duration of a musical …  →  spirit — the general atmosphere of a place or situation and the effec…
+
+FIXME: prototype should be timbre — (music) the distinctive property of a complex sound (a voice…
+FIXME: CHAINET also wrong (FCB)
+
 
 ======================================================================
   unimet tr yapılmış.json  (unimet-Turkish)
